@@ -1,0 +1,164 @@
+jooble:
+  enabled: true
+  api_key: "d3c40725-8cf4-433c-b993-3aa5995a7285"
+  carreras:
+    Administración de Empresas:
+      - Administración de Empresas
+    Agroindustria:
+      - Agroindustria
+    Ciencia de Datos:
+      - Ciencia de Datos
+    Inteligencia Artificial:
+      - Inteligencia Artificial
+    Computación:
+      - Computacion
+    Economía:
+      - Economia
+    Electricidad:
+      - Electricidad
+    Electrónica y Automatización:
+      - Electronica y Automatizacion
+    Física:
+      - Fisica
+    Geología:
+      - Geologia
+    Ingeniería Ambiental:
+      - Ingenieria Ambiental
+    Ingeniería Civil:
+      - Ingenieria Civil
+    Ingeniería de la Producción:
+      - Ingenieria de la Produccion
+    Ingeniería Química:
+      - Ingenieria Quimica
+    Matemática:
+      - Matematica
+    Matemática Aplicada:
+      - Matematica Aplicada
+    Materiales:
+      - Materiales
+    Mecánica:
+      - Mecanica
+    Mecatrónica:
+      - Mecatronica
+    Petróleos:
+      - Petroleos
+    Sistemas de Información:
+      - Sistemas de Informacion
+    Software:
+      - Software
+    Tecnologías de la Información:
+      - Tecnologias de la Informacion
+    Telecomunicaciones:
+      - Telecomunicaciones
+rapidapi:
+  enabled: true
+  #api_key: "3fc36a3191msh878cd6993d56135p1978a2jsn5c4ecfd0d088"
+  api_key: "412298965fmsh3b6e92e951dc623p12e07bjsn9f945a31146b"
+  locations:
+    - Ecuador
+    - Colombia
+    - Perú
+    - Argentina
+    - México
+  carreras:
+    Administración de Empresas:
+      - Administración de Empresas
+    Agroindustria:
+      - Agroindustria
+    Ciencia de Datos:
+      - Ciencia de Datos
+    Inteligencia Artificial:
+      - Inteligencia Artificial
+    Computación:
+      - Computacion
+    Economía:
+      - Economia
+    Electricidad:
+      - Electricidad
+    Electrónica y Automatización:
+      - Electronica y Automatizacion
+    Física:
+      - Fisica
+    Geología:
+      - Geologia
+    Ingeniería Ambiental:
+      - Ingenieria Ambiental
+    Ingeniería Civil:
+      - Ingenieria Civil
+    Ingeniería de la Producción:
+      - Ingenieria de la Produccion
+    Ingeniería Química:
+      - Ingenieria Quimica
+    Matemática:
+      - Matematica
+    Matemática Aplicada:
+      - Matematica Aplicada
+    Materiales:
+      - Materiales
+    Mecánica:
+      - Mecanica
+    Mecatrónica:
+      - Mecatronica
+    Petróleos:
+      - Petroleos
+    Sistemas de Información:
+      - Sistemas de Informacion
+    Software:
+      - Software
+    Tecnologías de la Información:
+      - Tecnologias de la Informacion
+    Telecomunicaciones:
+      - Telecomunicaciones
+
+indeed:
+  enabled: true
+  carreras:
+    Administración de Empresas:
+      - Administración de Empresas
+    Agroindustria:
+      - Agroindustria
+    Ciencia de Datos:
+      - Ciencia de Datos
+    Inteligencia Artificial:
+      - Inteligencia Artificial
+    Computación:
+      - Computacion
+    Economía:
+      - Economia
+    Electricidad:
+      - Electricidad
+    Electrónica y Automatización:
+      - Electronica y Automatizacion
+    Física:
+      - Fisica
+    Geología:
+      - Geologia
+    Ingeniería Ambiental:
+      - Ingenieria Ambiental
+    Ingeniería Civil:
+      - Ingenieria Civil
+    Ingeniería de la Producción:
+      - Ingenieria de la Produccion
+    Ingeniería Química:
+      - Ingenieria Quimica
+    Matemática:
+      - Matematica
+    Matemática Aplicada:
+      - Matematica Aplicada
+    Materiales:
+      - Materiales
+    Mecánica:
+      - Mecanica
+    Mecatrónica:
+      - Mecatronica
+    Petróleos:
+      - Petroleos
+    Sistemas de Información:
+      - Sistemas de Informacion
+    Software:
+      - Software
+    Tecnologías de la Información:
+      - Tecnologias de la Informacion
+    Telecomunicaciones:
+      - Telecomunicaciones
+

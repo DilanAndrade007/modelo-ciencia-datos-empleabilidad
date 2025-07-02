@@ -1,0 +1,112 @@
+{
+  "Administración de Empresas": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1096,
+    "last_page_extracted": 39
+  },
+  "Agroindustria": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 2,
+    "last_page_extracted": 1
+  },
+  "Ciencia de Datos": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1087,
+    "last_page_extracted": 38
+  },
+  "Inteligencia Artificial": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1062,
+    "last_page_extracted": 37
+  },
+  "Computación": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 29,
+    "last_page_extracted": 1
+  },
+  "Economía": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 31,
+    "last_page_extracted": 2
+  },
+  "Electricidad": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 75,
+    "last_page_extracted": 3
+  },
+  "Electrónica y Automatización": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1163,
+    "last_page_extracted": 40
+  },
+  "Física": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 358,
+    "last_page_extracted": 12
+  },
+  "Ingeniería Ambiental": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1027,
+    "last_page_extracted": 35
+  },
+  "Ingeniería Civil": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1168,
+    "last_page_extracted": 39
+  },
+  "Ingeniería de la Producción": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1094,
+    "last_page_extracted": 37
+  },
+  "Ingeniería Química": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 233,
+    "last_page_extracted": 8
+  },
+  "Matemática": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 151,
+    "last_page_extracted": 6
+  },
+  "Matemática Aplicada": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 162,
+    "last_page_extracted": 6
+  },
+  "Materiales": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 417,
+    "last_page_extracted": 15
+  },
+  "Mecánica": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 133,
+    "last_page_extracted": 5
+  },
+  "Mecatrónica": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 2,
+    "last_page_extracted": 1
+  },
+  "Sistemas de Información": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1061,
+    "last_page_extracted": 37
+  },
+  "Software": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1119,
+    "last_page_extracted": 38
+  },
+  "Tecnologías de la Información": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 1099,
+    "last_page_extracted": 38
+  },
+  "Telecomunicaciones": {
+    "last_extraction_date": "2025-06-11",
+    "total_offers_extracted": 37,
+    "last_page_extracted": 2
+  }
+}
