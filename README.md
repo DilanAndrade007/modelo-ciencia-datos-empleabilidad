@@ -49,7 +49,7 @@ soft_skills_scraper/
 │
 └── README.md
 ```
-  pip install selenium beautifulsoup4 pandas
+  pip install selenium beautifulsoup4 pandas 
 
 ---
 
@@ -156,4 +156,9 @@ data/outputs/jooble/<Carrera>/corpus_unido/corpus__<Carrera>__acumulado.csv
 
 Este archivo se actualiza en cada ejecución y elimina duplicados por `job_id`.
 
+---
+
+### Cambios
+
+Se busca integrear coresignal como api para poder extraer datos desde linkedin
 ---
