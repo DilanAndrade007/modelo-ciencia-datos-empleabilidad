@@ -4,6 +4,8 @@ from datetime import datetime
 from extractors.indeed_api import extraer_desde_indeed
 from extractors.jooble_api import extraer_desde_jooble
 from extractors.rapidapi_api import extraer_desde_rapidapi
+from extractors.coresignal_api import extraer_desde_coresignal
+from extractors.careerjet_api import extraer_desde_careerjet
 from utils.file_manager import (
     cargar_log_existente,
     unir_corpus_por_carrera,
@@ -22,7 +24,7 @@ with open("config/platforms.yml", "r", encoding="utf-8") as f:
 plataformas_disponibles = [k for k, v in config.items() if v.get("enabled")]
 print("Plataformas habilitadas:", ", ".join(plataformas_disponibles))
 
-seleccion = input(" Escribe la(s) plataforma(s) a ejecutar (ej: jooble,rapidapi), 'todas' o 'ninguna': ").strip().lower()
+seleccion = input(" Escribe la(s) plataforma(s) a ejecutar (ej: jooble,rapidapi,coresignal), 'todas' o 'ninguna': ").strip().lower()
 
 if seleccion == "ninguna":
     print(" No se ejecutará ninguna plataforma.")
@@ -89,33 +91,61 @@ def ejecutar_rapidapi():
         copiar_corpus_diario_a_global("rapidapi", carrera, fecha_hoy)
         unir_corpus_acumulado_por_carrera("rapidapi", carrera)
 
-#  def ejecutar_indeed():
-#     carreras = config["indeed"]["carreras"]
-#     log_indeed = cargar_log_existente("indeed")
+# === Función para ejecutar CORESIGNAL
+def ejecutar_coresignal():
+    api_key = config["coresignal"]["api_key"]
+    carreras = config["coresignal"]["carreras"]
+    log_core = cargar_log_existente("coresignal")
 
+    scraping_ya_hecho = any(
+        termino in log_core and log_core[termino].get("last_extraction_date") == fecha_hoy
+        for terminos in carreras.values()
+        for termino in terminos
+    )
+
+    if scraping_ya_hecho:
+        respuesta = input(f"Ya se realizó scraping en Coresignal hoy ({fecha_hoy}). ¿Deseas repetir todas las búsquedas? (y/n): ")
+        if respuesta.strip().lower() != "y":
+            print(" Saltando Coresignal.")
+            return
+
+    for carrera, terminos in carreras.items():
+        print(f"\n Carrera: {carrera} (Coresignal)")
+        for termino in terminos:
+            extraer_desde_coresignal(termino, api_key, carrera)
+        unir_corpus_por_carrera("coresignal", carrera, fecha_hoy)
+        copiar_corpus_diario_a_global("coresignal", carrera, fecha_hoy)
+        unir_corpus_acumulado_por_carrera("coresignal", carrera)
+
+# # === Función para ejecutar CAREERJET
+# def ejecutar_careerjet():
+#     carreras = config["careerjet"]["carreras"]
+#     country_code = config["careerjet"].get("country_code", "ec")
+#     log_cj = cargar_log_existente("careerjet")
 #     scraping_ya_hecho = any(
-#         termino in log_indeed and log_indeed[termino].get("last_extraction_date") == fecha_hoy
+#         termino in log_cj and log_cj[termino].get("last_extraction_date") == fecha_hoy
 #         for terminos in carreras.values()
 #         for termino in terminos
 #     )
-
 #     if scraping_ya_hecho:
-#         respuesta = input(f"Ya se realizó scraping en Indeed hoy ({fecha_hoy}). ¿Deseas repetir todas las búsquedas? (y/n): ")
+#         respuesta = input(f"Ya se realizó scraping en Careerjet hoy ({fecha_hoy}). ¿Deseas repetir todas las búsquedas? (y/n): ")
 #         if respuesta.strip().lower() != "y":
-#             print("Saltando Indeed.")
+#             print(" Saltando Careerjet.")
 #             return
-
 #     for carrera, terminos in carreras.items():
-#         print(f"\n Carrera: {carrera} (Indeed)")
+#         print(f"\n Carrera: {carrera} (Careerjet)")
 #         for termino in terminos:
-#             extraer_desde_indeed(termino, carrera)
-#         unir_corpus_por_carrera("indeed", carrera)
-#         copiar_corpus_diario_a_global("indeed", carrera)
-#         unir_corpus_acumulado_por_carrera("indeed", carrera)
+#             extraer_desde_careerjet(termino, carrera, country_code)
+#         unir_corpus_por_carrera("careerjet", carrera, fecha_hoy)
+#         copiar_corpus_diario_a_global("careerjet", carrera, fecha_hoy)
+#         unir_corpus_acumulado_por_carrera("careerjet", carrera)
+
+# if "careerjet" in plataformas_seleccionadas:
+#     ejecutar_careerjet()
 
 
-# if "indeed" in plataformas_seleccionadas:
-#     ejecutar_indeed()
+if "coresignal" in plataformas_seleccionadas:
+    ejecutar_coresignal()
 
 if "jooble" in plataformas_seleccionadas:
     ejecutar_jooble()

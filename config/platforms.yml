@@ -50,6 +50,7 @@ jooble:
       - Tecnologias de la Informacion
     Telecomunicaciones:
       - Telecomunicaciones
+
 rapidapi:
   enabled: true
   #api_key: "3fc36a3191msh878cd6993d56135p1978a2jsn5c4ecfd0d088"
@@ -110,8 +111,9 @@ rapidapi:
     Telecomunicaciones:
       - Telecomunicaciones
 
-indeed:
+coresignal:
   enabled: true
+  api_key: "cRreeqnOAOmLIp14RV9zNM7uV9bbfKpz"
   carreras:
     Administración de Empresas:
       - Administración de Empresas
@@ -162,3 +164,55 @@ indeed:
     Telecomunicaciones:
       - Telecomunicaciones
 
+careerjet:
+  enabled: true
+  country_code: "ec"
+  carreras:
+    Administración de Empresas:
+      - Administración de Empresas
+    Agroindustria:
+      - Agroindustria
+    Ciencia de Datos:
+      - Ciencia de Datos
+    Inteligencia Artificial:
+      - Inteligencia Artificial
+    Computación:
+      - Computacion
+    Economía:
+      - Economia
+    Electricidad:
+      - Electricidad
+    Electrónica y Automatización:
+      - Electronica y Automatizacion
+    Física:
+      - Fisica
+    Geología:
+      - Geologia
+    Ingeniería Ambiental:
+      - Ingenieria Ambiental
+    Ingeniería Civil:
+      - Ingenieria Civil
+    Ingeniería de la Producción:
+      - Ingenieria de la Produccion
+    Ingeniería Química:
+      - Ingenieria Quimica
+    Matemática:
+      - Matematica
+    Matemática Aplicada:
+      - Matematica Aplicada
+    Materiales:
+      - Materiales
+    Mecánica:
+      - Mecanica
+    Mecatrónica:
+      - Mecatronica
+    Petróleos:
+      - Petroleos
+    Sistemas de Información:
+      - Sistemas de Informacion
+    Software:
+      - Software
+    Tecnologías de la Información:
+      - Tecnologias de la Informacion
+    Telecomunicaciones:
+      - Telecomunicaciones
