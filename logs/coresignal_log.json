@@ -18,5 +18,30 @@
     "last_extraction_date": "2025-07-03",
     "total_offers_extracted": 34,
     "last_page_extracted": 0
+  },
+  "Computacion": {
+    "last_extraction_date": "2025-07-08",
+    "total_offers_extracted": 50,
+    "last_page_extracted": 0
+  },
+  "Economia": {
+    "last_extraction_date": "2025-07-08",
+    "total_offers_extracted": 50,
+    "last_page_extracted": 0
+  },
+  "Electricidad": {
+    "last_extraction_date": "2025-07-08",
+    "total_offers_extracted": 50,
+    "last_page_extracted": 0
+  },
+  "Electronica y Automatizacion": {
+    "last_extraction_date": "2025-07-08",
+    "total_offers_extracted": 10,
+    "last_page_extracted": 0
+  },
+  "Fisica": {
+    "last_extraction_date": "2025-07-08",
+    "total_offers_extracted": 40,
+    "last_page_extracted": 0
   }
 }

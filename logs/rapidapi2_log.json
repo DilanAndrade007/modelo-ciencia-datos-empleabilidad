@@ -1,0 +1,57 @@
+{
+  "administracion de empresas": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 3,
+    "last_page_extracted": 1
+  },
+  "administrador": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 400,
+    "last_page_extracted": 4
+  },
+  "gerente administrativo": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 49,
+    "last_page_extracted": 1
+  },
+  "asistente administrativo": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 118,
+    "last_page_extracted": 2
+  },
+  "coordinador de oficina": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 1,
+    "last_page_extracted": 1
+  },
+  "analista de gestion": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 2,
+    "last_page_extracted": 1
+  },
+  "agroindustria": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 2,
+    "last_page_extracted": 1
+  },
+  "ciencia de datos": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 7,
+    "last_page_extracted": 1
+  },
+  "cientifico de datos": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 4,
+    "last_page_extracted": 1
+  },
+  "analista de datos": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 105,
+    "last_page_extracted": 2
+  },
+  "machine learning": {
+    "last_extraction_date": "2025-07-09",
+    "total_offers_extracted": 537,
+    "last_page_extracted": 6
+  }
+}

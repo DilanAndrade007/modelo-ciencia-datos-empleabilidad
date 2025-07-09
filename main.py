@@ -3,7 +3,8 @@ import os
 from datetime import datetime
 from extractors.indeed_api import extraer_desde_indeed
 from extractors.jooble_api import extraer_desde_jooble
-from extractors.rapidapi_api import extraer_desde_rapidapi
+from extractors.rapidapi_api_1 import extraer_desde_rapidapi_1
+from extractors.rapidapi_api_2 import extraer_desde_rapidapi_2
 from extractors.coresignal_api import extraer_desde_coresignal
 from extractors.careerjet_api import extraer_desde_careerjet
 from utils.file_manager import (
@@ -65,11 +66,11 @@ def ejecutar_jooble():
         unir_corpus_acumulado_por_carrera("jooble", carrera)
 
 # === Función para ejecutar RAPIDAPI
-def ejecutar_rapidapi():
-    api_key = config["rapidapi"]["api_key"]
-    locations = config["rapidapi"].get("locations", ["Ecuador"])
-    carreras = config["rapidapi"]["carreras"]
-    log_rapid = cargar_log_existente("rapidapi")
+def ejecutar_rapidapi_1():
+    api_key = config["rapidapi1"]["api_key"]
+    locations = config["rapidapi1"].get("locations", ["Ecuador"])
+    carreras = config["rapidapi1"]["carreras"]
+    log_rapid = cargar_log_existente("rapidapi1")
 
     scraping_ya_hecho = any(
         termino in log_rapid and log_rapid[termino].get("last_extraction_date") == fecha_hoy
@@ -86,10 +87,10 @@ def ejecutar_rapidapi():
     for carrera, terminos in carreras.items():
         print(f"\n Carrera: {carrera} (RapidAPI)")
         for termino in terminos:
-            extraer_desde_rapidapi(termino, api_key, carrera, locations)
-        unir_corpus_por_carrera("rapidapi", carrera, fecha_hoy)
-        copiar_corpus_diario_a_global("rapidapi", carrera, fecha_hoy)
-        unir_corpus_acumulado_por_carrera("rapidapi", carrera)
+            extraer_desde_rapidapi_1(termino, api_key, carrera, locations)
+        unir_corpus_por_carrera("rapidapi1", carrera, fecha_hoy)
+        copiar_corpus_diario_a_global("rapidapi1", carrera, fecha_hoy)
+        unir_corpus_acumulado_por_carrera("rapidapi1", carrera)
 
 # === Función para ejecutar CORESIGNAL
 def ejecutar_coresignal():
@@ -116,6 +117,34 @@ def ejecutar_coresignal():
         unir_corpus_por_carrera("coresignal", carrera, fecha_hoy)
         copiar_corpus_diario_a_global("coresignal", carrera, fecha_hoy)
         unir_corpus_acumulado_por_carrera("coresignal", carrera)
+
+# === Función para ejecutar LINKEDIN RAPIDAPI
+def ejecutar_rapidapi_2():
+    api_key = config["rapidapi2"]["api_key"]
+    locations = config["rapidapi2"].get("locations", ["Ecuador"])
+    carreras = config["rapidapi2"]["carreras"]
+    log_linkedin = cargar_log_existente("rapidapi2")
+
+    scraping_ya_hecho = any(
+        termino in log_linkedin and log_linkedin[termino].get("last_extraction_date") == fecha_hoy
+        for terminos in carreras.values()
+        for termino in terminos
+    )
+
+    if scraping_ya_hecho:
+        respuesta = input(f"Ya se realizó scraping en LinkedIn RapidAPI hoy ({fecha_hoy}). ¿Deseas repetir todas las búsquedas? (y/n): ")
+        if respuesta.strip().lower() != "y":
+            print(" Saltando LinkedIn RapidAPI.")
+            return
+
+    for carrera, terminos in carreras.items():
+        print(f"\n Carrera: {carrera} (LinkedIn RapidAPI)")
+        for termino in terminos:
+            extraer_desde_rapidapi_2(termino, api_key, carrera, include_ai=True)
+        unir_corpus_por_carrera("rapidapi2", carrera, fecha_hoy)
+        copiar_corpus_diario_a_global("rapidapi2", carrera, fecha_hoy)
+        unir_corpus_acumulado_por_carrera("rapidapi2", carrera)
+
 
 # # === Función para ejecutar CAREERJET
 # def ejecutar_careerjet():
@@ -150,7 +179,10 @@ if "coresignal" in plataformas_seleccionadas:
 if "jooble" in plataformas_seleccionadas:
     ejecutar_jooble()
 
-if "rapidapi" in plataformas_seleccionadas:
-    ejecutar_rapidapi()
+if "rapidapi1" in plataformas_seleccionadas:
+    ejecutar_rapidapi_1()
+
+if "rapidapi2" in plataformas_seleccionadas:
+    ejecutar_rapidapi_2()
 
 print("\n Proceso finalizado.")

@@ -51,7 +51,7 @@ jooble:
     Telecomunicaciones:
       - Telecomunicaciones
 
-rapidapi:
+rapidapi1:
   enabled: true
   #api_key: "3fc36a3191msh878cd6993d56135p1978a2jsn5c4ecfd0d088"
   api_key: "412298965fmsh3b6e92e951dc623p12e07bjsn9f945a31146b"
@@ -110,29 +110,186 @@ rapidapi:
       - Tecnologias de la Informacion
     Telecomunicaciones:
       - Telecomunicaciones
+    
+rapidapi2:
+  enabled: true
+#  api_key: "412298965fmsh3b6e92e951dc623p12e07bjsn9f945a31146b"
+#  api_key: "fa37656ae6msh26f97d061f21cf4p146e91jsn6d425f570cf6"
+#  api_key: "3fc36a3191msh878cd6993d56135p1978a2jsn5c4ecfd0d088"
+#  api_key: "54fea3dcedmsh1fbe237001f696ep16a995jsn4279d6c78b8a"
+  api_key: "f332a187bemsh94c62470aa8c5a0p11712ajsn59975acc6819"
+  carreras:
+    Administración de Empresas:
+      - administracion de empresas
+      - gerente administrativo
+      - asistente administrativo
+      - coordinador de oficina
+      - analista de gestion
+
+    Agroindustria:
+      - agroindustria
+      - ingeniero agroindustrial
+      - produccion agricola
+      - procesamiento de alimentos
+      - control de calidad alimentos
+
+    Ciencia de Datos:
+      - ciencia de datos
+      - cientifico de datos
+      - analista de datos
+      - machine learning
+
+    Inteligencia Artificial:
+      - inteligencia artificial
+      - ia
+      - deep learning
+      - aprendizaje automatico
+      - ingeniero de ia
+
+    Computación:
+      - computacion
+      - tecnologias de la computacion
+      - informatica
+      - tecnico en computacion
+      - ingeniero en computacion
+
+    Economía:
+      - economia
+      - economista
+      - analisis economico
+      - estudios de mercado
+      - consultor economico
+
+    Electricidad:
+      - electricidad
+      - electricista
+      - instalaciones electricas
+      - mantenimiento electrico
+      - tecnico electrico
+
+    Electrónica y Automatización:
+      - electronica y automatizacion
+      - electronica industrial
+      - control automatico
+      - ingeniero electronico
+      - tecnico en automatizacion
+
+    Física:
+      - fisica
+      - fisica aplicada
+      - modelado fisico
+      - fisica computacional
+      - laboratorio de fisica
+
+    Geología:
+      - geologia
+      - geologo
+      - exploracion geologica
+      - ciencias de la tierra
+      - geociencias
+
+    Ingeniería Ambiental:
+      - ingenieria ambiental
+      - medio ambiente
+      - gestion ambiental
+      - auditoria ambiental
+      - ingeniero ambiental
+
+    Ingeniería Civil:
+      - ingenieria civil
+      - ingeniero civil
+      - obras civiles
+      - construccion
+      - proyectos de infraestructura
+
+    Ingeniería de la Producción:
+      - ingenieria de la produccion
+      - produccion industrial
+      - gestion de produccion
+      - ingeniero de planta
+      - procesos industriales
+
+    Ingeniería Química:
+      - ingenieria quimica
+      - ingeniero quimico
+      - procesos quimicos
+      - produccion quimica
+      - plantas industriales
+
+    Matemática:
+      - matematica
+      - matematico
+      - calculo
+      - estadistica
+      - modelado matematico
+
+    Matemática Aplicada:
+      - matematica aplicada
+      - modelado numerico
+      - optimizacion
+      - estadistica aplicada
+      - investigacion operativa
+
+    Materiales:
+      - materiales
+      - ciencia de materiales
+      - ensayo de materiales
+      - ingenieria de materiales
+      - caracterizacion de materiales
+
+    Mecánica:
+      - mecanica
+      - ingeniero mecanico
+      - diseno mecanico
+      - mantenimiento industrial
+      - termodinamica
+
+    Mecatrónica:
+      - mecatronica
+      - automatizacion
+      - control electronico
+      - robotica
+      - ingeniero mecatronico
+
+    Petróleos:
+      - petroleos
+      - ingenieria petrolera
+      - petroleo y gas
+      - exploracion petrolera
+      - industria petrolera
+
+    Sistemas de Información:
+      - sistemas de informacion
+      - erp
+      - gestion de datos
+      - consultor de sistemas
+      - analisis de sistemas
+
+    Software:
+      - software
+      - desarrollo de software
+      - programador
+      - ingeniero de software
+      - arquitectura de software
+
+    Tecnologías de la Información:
+      - tecnologias de la informacion
+      - ti
+      - soporte tecnico
+      - infraestructura ti
+      - tecnologias empresariales
+
+    Telecomunicaciones:
+      - telecomunicaciones
+      - redes
+      - comunicaciones digitales
+      - ingenieria de telecomunicaciones
+      - proyectos de red
 
 coresignal:
   enabled: true
   api_key: "cRreeqnOAOmLIp14RV9zNM7uV9bbfKpz"
   carreras:
-    Administración de Empresas:
-      - Administración de Empresas
-    Agroindustria:
-      - Agroindustria
-    Ciencia de Datos:
-      - Ciencia de Datos
-    Inteligencia Artificial:
-      - Inteligencia Artificial
-    Computación:
-      - Computacion
-    Economía:
-      - Economia
-    Electricidad:
-      - Electricidad
-    Electrónica y Automatización:
-      - Electronica y Automatizacion
-    Física:
-      - Fisica
     Geología:
       - Geologia
     Ingeniería Ambiental:
