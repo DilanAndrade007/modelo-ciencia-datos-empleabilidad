@@ -25,7 +25,7 @@ with open("config/platforms.yml", "r", encoding="utf-8") as f:
 plataformas_disponibles = [k for k, v in config.items() if v.get("enabled")]
 print("Plataformas habilitadas:", ", ".join(plataformas_disponibles))
 
-seleccion = input(" Escribe la(s) plataforma(s) a ejecutar (ej: jooble,rapidapi,coresignal), 'todas' o 'ninguna': ").strip().lower()
+seleccion = input(" Escribe las plataformas a ejecutar (jooble,rapidapi1, rapidapi2 ,coresignal), todas o ninguna: ").strip().lower()
 
 if seleccion == "ninguna":
     print(" No se ejecutará ninguna plataforma.")
