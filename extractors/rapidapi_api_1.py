@@ -9,6 +9,9 @@ from utils.file_manager import (
     guardar_log,
     cargar_log_existente,
 )
+def generar_job_id(titulo, empresa, ubicacion, fecha):
+    cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
+    return hashlib.md5(cadena.encode('utf-8')).hexdigest()
 
 def buscar_en_rapidapi(query, api_key, locations):
     resultados = []
@@ -52,7 +55,12 @@ def buscar_en_rapidapi(query, api_key, locations):
     return resultados, ubicaciones_finales
 
 def normalizar_oferta(job, fuente, fecha):
-    uid = f"{job.get('job_title')}_{job.get('employer_name')}_{job.get('job_city')}_{job.get('job_posted_at_datetime_utc')}"
+    uid = generar_job_id(
+    job.get('job_title', ''),
+    job.get('employer_name', ''),
+    job.get('job_city', ''),
+    job.get('job_posted_at_datetime_utc', '')
+    )
     return {
         "job_id": hashlib.md5(uid.encode()).hexdigest(),
         "source": fuente,

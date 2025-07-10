@@ -5,6 +5,10 @@ import pandas as pd
 from datetime import datetime
 from utils.file_manager import guardar_log, crear_directorios, cargar_log_existente
 
+def generar_job_id(titulo, empresa, ubicacion, fecha):
+    cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
+    return hashlib.md5(cadena.encode('utf-8')).hexdigest()
+
 def buscar_linkedin_rapidapi(query, api_key, limit=100, offset=0, include_ai=False):
     url = "https://linkedin-job-search-api.p.rapidapi.com/active-jb-7d"
 
@@ -42,7 +46,12 @@ def buscar_linkedin_rapidapi(query, api_key, limit=100, offset=0, include_ai=Fal
 
 def normalizar(oferta, fuente, fecha, carrera_tag):
     uid = f"{oferta.get('title')}_{oferta.get('organization')}_{oferta.get('date_posted')}_{oferta.get('url')}"
-
+    uid = generar_job_id(
+    oferta.get('title', ''),
+    oferta.get('organization', ''),
+    oferta.get('date_posted', ''),
+    oferta.get('url', '')
+    )
     # Arreglado aquí:
     locations_raw = oferta.get("locations_derived") or []
     locations = []

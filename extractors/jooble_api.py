@@ -6,6 +6,10 @@ import pandas as pd
 from datetime import datetime
 from utils.file_manager import guardar_log, crear_directorios, cargar_log_existente
 
+def generar_job_id(titulo, empresa, ubicacion, fecha):
+    cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
+    return hashlib.md5(cadena.encode('utf-8')).hexdigest()
+
 def buscar_jooble(query, api_key, start_page=1, delay=1.0):
     url = f"https://jooble.org/api/{api_key}"
     resultados = []
@@ -30,7 +34,12 @@ def buscar_jooble(query, api_key, start_page=1, delay=1.0):
     return resultados, pagina - 1
 
 def normalizar(oferta, fuente, fecha):
-    uid = f"{oferta.get('title')}_{oferta.get('company')}_{oferta.get('location')}_{oferta.get('updated')}"
+    uid = generar_job_id(
+    oferta.get('title', ''),
+    oferta.get('company', ''),
+    oferta.get('location', ''),
+    oferta.get('updated', '')
+    )
     return {
         "job_id": hashlib.md5(uid.encode()).hexdigest(),
         "source": fuente,

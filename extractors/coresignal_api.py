@@ -8,7 +8,6 @@ from datetime import datetime
 from utils.file_manager import crear_directorios, guardar_log, cargar_log_existente
 
 def generar_job_id(titulo, empresa, ubicacion, fecha):
-    """Genera un hash único para el trabajo."""
     cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
     return hashlib.md5(cadena.encode('utf-8')).hexdigest()
 
