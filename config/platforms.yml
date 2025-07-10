@@ -117,7 +117,9 @@ rapidapi2:
 #  api_key: "fa37656ae6msh26f97d061f21cf4p146e91jsn6d425f570cf6"
 #  api_key: "3fc36a3191msh878cd6993d56135p1978a2jsn5c4ecfd0d088"
 #  api_key: "54fea3dcedmsh1fbe237001f696ep16a995jsn4279d6c78b8a"
-  api_key: "f332a187bemsh94c62470aa8c5a0p11712ajsn59975acc6819"
+#  api_key: "f332a187bemsh94c62470aa8c5a0p11712ajsn59975acc6819"
+  api_key: "4cb8f44d15msh3f72312d88fd412p124d5cjsnc9f0e085bdcc"
+  
   carreras:
     Administración de Empresas:
       - administracion de empresas
@@ -139,19 +141,19 @@ rapidapi2:
       - analista de datos
       - machine learning
 
-    Inteligencia Artificial:
-      - inteligencia artificial
-      - ia
-      - deep learning
-      - aprendizaje automatico
-      - ingeniero de ia
-
     Computación:
       - computacion
       - tecnologias de la computacion
       - informatica
       - tecnico en computacion
       - ingeniero en computacion
+    
+    Inteligencia Artificial:
+      - inteligencia artificial
+      - ia
+      - deep learning
+      - aprendizaje automatico
+      - ingeniero de ia
 
     Economía:
       - economia

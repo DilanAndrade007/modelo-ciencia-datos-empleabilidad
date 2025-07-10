@@ -53,5 +53,20 @@
     "last_extraction_date": "2025-07-09",
     "total_offers_extracted": 537,
     "last_page_extracted": 6
+  },
+  "computacion": {
+    "last_extraction_date": "2025-07-10",
+    "total_offers_extracted": 1,
+    "last_page_extracted": 1
+  },
+  "informatica": {
+    "last_extraction_date": "2025-07-10",
+    "total_offers_extracted": 231,
+    "last_page_extracted": 3
+  },
+  "inteligencia artificial": {
+    "last_extraction_date": "2025-07-10",
+    "total_offers_extracted": 61,
+    "last_page_extracted": 1
   }
 }

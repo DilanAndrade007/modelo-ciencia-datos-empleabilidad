@@ -11,7 +11,8 @@ def buscar_linkedin_rapidapi(query, api_key, limit=100, offset=0, include_ai=Fal
     querystring = {
         "limit": str(limit),
         "offset": str(offset),
-        "title_filter": f"\"{query}\""
+        "title_filter": f"\"{query}\"",
+        "description_type": "text" 
     }
 
     if include_ai:
@@ -36,6 +37,7 @@ def buscar_linkedin_rapidapi(query, api_key, limit=100, offset=0, include_ai=Fal
 
     print(f"  Recuperados {len(jobs)} empleos (offset={offset})")
     return jobs
+
 
 
 def normalizar(oferta, fuente, fecha, carrera_tag):
