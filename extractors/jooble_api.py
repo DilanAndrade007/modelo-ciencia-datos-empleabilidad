@@ -33,7 +33,7 @@ def buscar_jooble(query, api_key, start_page=1, delay=1.0):
             break
     return resultados, pagina - 1
 
-def normalizar(oferta, fuente, fecha):
+def normalizar(oferta, fuente, carrera, fecha):
     uid = generar_job_id(
     oferta.get('title', ''),
     oferta.get('company', ''),
@@ -48,7 +48,7 @@ def normalizar(oferta, fuente, fecha):
         "location": oferta.get("location", ""),
         "description": oferta.get("snippet", ""),
         "skills": [],
-        "careers_required": [],
+        "careers_required": carrera,
         "date_posted": oferta.get("updated", ""),
         "url": oferta.get("link", ""),
         "career_tag": "",

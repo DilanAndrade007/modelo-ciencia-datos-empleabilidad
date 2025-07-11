@@ -118,38 +118,39 @@ rapidapi2:
 #  api_key: "3fc36a3191msh878cd6993d56135p1978a2jsn5c4ecfd0d088"
 #  api_key: "54fea3dcedmsh1fbe237001f696ep16a995jsn4279d6c78b8a"
 #  api_key: "f332a187bemsh94c62470aa8c5a0p11712ajsn59975acc6819"
-  api_key: "4cb8f44d15msh3f72312d88fd412p124d5cjsnc9f0e085bdcc"
-  
+#  api_key: "4cb8f44d15msh3f72312d88fd412p124d5cjsnc9f0e085bdcc"
+  api_key: "a6b7032fb3msh7f1050003156278p1e5b5cjsna59e0b99444e"
+
   carreras:
-    Administración de Empresas:
-      - administracion de empresas
-      - gerente administrativo
-      - asistente administrativo
-      - coordinador de oficina
-      - analista de gestion
+    # Administración de Empresas:
+    #   - administracion de empresas
+    #   - gerente administrativo
+    #   - asistente administrativo
+    #   - coordinador de oficina
+    #   - analista de gestion
 
-    Agroindustria:
-      - agroindustria
-      - ingeniero agroindustrial
-      - produccion agricola
-      - procesamiento de alimentos
-      - control de calidad alimentos
+    # Agroindustria:
+    #   - agroindustria
+    #   - ingeniero agroindustrial
+    #   - produccion agricola
+    #   - procesamiento de alimentos
+    #   - control de calidad alimentos
 
-    Ciencia de Datos:
-      - ciencia de datos
-      - cientifico de datos
-      - analista de datos
-      - machine learning
+    # Ciencia de Datos:
+    #   - ciencia de datos
+    #   - cientifico de datos
+    #   - analista de datos
+    #   - machine learning
 
-    Computación:
-      - computacion
-      - tecnologias de la computacion
-      - informatica
-      - tecnico en computacion
-      - ingeniero en computacion
+    # Computación:
+    #   - computacion
+    #   - tecnologias de la computacion
+    #   - informatica
+    #   - tecnico en computacion
+    #   - ingeniero en computacion
     
     Inteligencia Artificial:
-      - inteligencia artificial
+      # - inteligencia artificial
       - ia
       - deep learning
       - aprendizaje automatico

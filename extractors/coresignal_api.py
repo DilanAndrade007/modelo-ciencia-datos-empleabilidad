@@ -11,7 +11,7 @@ def generar_job_id(titulo, empresa, ubicacion, fecha):
     cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
     return hashlib.md5(cadena.encode('utf-8')).hexdigest()
 
-def normalizar(trabajo_raw, fuente, fecha):
+def normalizar(trabajo_raw, fuente, carrera, fecha):
     """Mapea datos raw al esquema estándar."""
     titulo = trabajo_raw.get('title', '')
     empresa = trabajo_raw.get('company_name', '')
@@ -32,7 +32,7 @@ def normalizar(trabajo_raw, fuente, fecha):
         'location': ubicacion,
         'description': descripcion,
         'skills': skills,
-        'careers_required': [],
+        'careers_required': carrera,
         'date_posted': fecha_creacion,
         'url': trabajo_raw.get('url', ''),
         'career_tag': '',
@@ -85,7 +85,7 @@ def extraer_desde_coresignal(query, api_key, carrera):
         if resp.status_code != 200:
             continue
         trabajo_raw = resp.json()
-        trabajo = normalizar(trabajo_raw, fuente, HOY)
+        trabajo = normalizar(trabajo_raw, fuente, carrera, HOY)
         trabajos_mapeados.append(trabajo)
         time.sleep(0.1)
 

@@ -68,5 +68,10 @@
     "last_extraction_date": "2025-07-10",
     "total_offers_extracted": 61,
     "last_page_extracted": 1
+  },
+  "ia": {
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 300,
+    "last_page_extracted": 3
   }
 }

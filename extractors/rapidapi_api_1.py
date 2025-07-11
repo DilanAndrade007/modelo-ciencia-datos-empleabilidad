@@ -54,7 +54,7 @@ def buscar_en_rapidapi(query, api_key, locations):
         }
     return resultados, ubicaciones_finales
 
-def normalizar_oferta(job, fuente, fecha):
+def normalizar_oferta(job, fuente, carrera, fecha):
     uid = generar_job_id(
     job.get('job_title', ''),
     job.get('employer_name', ''),
@@ -70,7 +70,7 @@ def normalizar_oferta(job, fuente, fecha):
         "description": job.get("job_description", ""),
         "skills": job.get("job_highlights", {}).get("Qualifications", []) +
                   job.get("job_highlights", {}).get("Responsibilities", []),
-        "careers_required": [],
+        "careers_required": carrera,
         "date_posted": job.get("job_posted_at_datetime_utc", ""),
         "url": job.get("job_apply_link", ""),
         "career_tag": "",
@@ -93,7 +93,7 @@ def extraer_desde_rapidapi_1(query, api_key, carrera, locations):
         print(" No se extrajeron resultados.")
         return
 
-    corpus = [normalizar_oferta(job, fuente, HOY) for job in ofertas_raw]
+    corpus = [normalizar_oferta(job, fuente, carrera, HOY) for job in ofertas_raw]
     df = pd.DataFrame(corpus)
 
     # === Guardado ===

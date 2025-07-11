@@ -81,10 +81,10 @@ def normalizar(oferta, fuente, fecha, carrera_tag):
         "location": location_str,
         "description": oferta.get("description_text", ""),
         "skills": oferta.get("ai_key_skills", []) if "ai_key_skills" in oferta else [],
-        "careers_required": [],
+        "careers_required": carrera_tag,
         "date_posted": oferta.get("date_posted", ""),
         "url": oferta.get("url", ""),
-        "career_tag": carrera_tag,
+        "career_tag": "",
         "soft_skills_detected": [],
         "extraction_date": fecha
     }
