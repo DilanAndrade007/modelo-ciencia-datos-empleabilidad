@@ -1,18 +1,18 @@
 {
   "Administración de Empresas": {
-    "last_extraction_date": "2025-06-11",
-    "total_offers_extracted": 14,
-    "last_page_extracted": 0
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 19,
+    "last_page_extracted": 2
   },
   "Ciencia de Datos": {
-    "last_extraction_date": "2025-06-11",
-    "total_offers_extracted": 75,
-    "last_page_extracted": 0
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 3,
+    "last_page_extracted": 1
   },
   "Inteligencia Artificial": {
-    "last_extraction_date": "2025-06-11",
-    "total_offers_extracted": 33,
-    "last_page_extracted": 0
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 20,
+    "last_page_extracted": 2
   },
   "Computación": {
     "last_extraction_date": "2025-06-11",
@@ -98,5 +98,10 @@
     "last_extraction_date": "2025-06-11",
     "total_offers_extracted": 459,
     "last_page_extracted": 0
+  },
+  "Computacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 29,
+    "last_page_extracted": 3
   }
 }

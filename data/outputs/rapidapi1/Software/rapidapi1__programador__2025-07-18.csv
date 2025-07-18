@@ -1,0 +1,855 @@
+job_id,source,job_title,company,location,description,skills,careers_required,date_posted,url,career_tag,soft_skills_detected,extraction_date
+e9eb0a949526d98c8765e8d971e8aa51,rapidapi1,Analista Programador .net,Grupo EULEN,"Washington, US","Eulen Seleccion busca un/a ANALISTA PROGRAMADOR EN .NET con formacion de Grado Ingenieria Tecnica en Informatica para una contratacion laboral indefinida, para llevar los proyectos en .net (entre otros) dentro de empresa industrial en la zona Donostialdea.
+
+Cuales seran tus responsabilidades?
+En dependencia directa del responsable de informatica tu principal mision sera participar en el mantenimiento, mejoras y nuevos proyectos del departamento de informatica.
+
+Que encontraras?
+• Quieren que te quedes todo el tiempo que quieras, por eso firmaras un contrato indefinido desde el principio con la empresa.
+• Sobre la retribucion, se valorara la formacion aportada, la experiencia y las cualidades personales para definir el salario bruto anual, basandonos siempre en el convenio de (entre 37.000 y 45.700)
+• Horario de trabajo flexible y presencial en la hora de entrada, pero por lo general el dpto. arranca de lunes a viernes de 8.00 a 13.30 y 14.00 a 16.30, los viernes de 8.00-15.00, con jornada intensiva durante los meses de verano.
+• Facilitaremos la formacion necesaria para te mantengas informado sobre las nuevas tecnologias del sector, oportunidades de mejora, y seas proactivo para mejorar el servicio.
+
+Que nos aportaras?
+• Estar en posesion de titulacion superior en Grado Ingenieria Tecnica en Informatica o asimilables (minimo estudios universitarios)
+• La experiencia en manejo de bases de datos Oracle, SQL. Ademas de experiencia profesional con HTML, manejo de Bases de Datos Oracle y programacion VisualBasic.net, C Sharp, Python, WEB y ASP.
+• Capacidad para trabajar en equipo, gusto por la busqueda de soluciones e interes por aprender nuevas tecnologias es lo que define al personal que forma parte del equipo de trabajo.
+
+Te estamos esperando!",[],Software,,"https://www.ziprecruiter.com/c/Grupo-EULEN/Job/Analista-Programador-.net/-in-Washington,DC?jid=473e056810f92750&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+7afb5550e473e83cf23e0f027def3cc7,rapidapi1,Programador full stack,Amaris Consulting,"None, US","Take your career to the next level with Amaris Consulting as a Full Stack Developer (Python/React). Be part of an international team, thrive in a global group with a €800M turnover and over 1,000 clients worldwide, and an agile environment. The ideal candidate will have a proven track record in building scalable, high-quality applications and is comfortable working across the entire stack. Spanish fluency is required as part of this role.
+
+WHAT WOULD YOU NEED?
+3 to 5 years of experience as a Full Stack Developer.
+Strong proficiency with Python (strict typing) for backend development.
+Extensive experience with React and TypeScript for frontend development.
+Solid knowledge of FastAPI , AWS infrastructure (including S3, Glue, RDS, Lambda, Step Functions, ECS/ECR, CloudWatch), and version control tools such as Git.
+Proven expertise with DevOps practices , including CI/CD pipelines (Jenkins), Docker containerization, and deployment automation.
+Familiarity with data engineering tools and architectures like Snowflake, Apache Spark, and Elasticsearch/OpenSearch.
+Experience working with Tableau/Power BI APIs for data visualization embedding.
+Advanced proficiency in English (written and spoken) is mandatory; Spanish fluency is preferred.
+Strong problem-solving skills and ability to work both independently and as part of a team.
+Availability to work within EU time zones; full remote working option available.
+
+WHAT WILL YOU BE DOING?
+Lead backend development using strictly-typed Python and TypeScript .
+Design and implement service-oriented architectures using FastAPI .
+Build and maintain production-grade ETL pipelines leveraging modern data engineering practices.
+Manage AWS infrastructure with CDK (TypeScript), including services such as S3, Glue, RDS, Lambda, Step Functions, ECS/ECR, and CloudWatch.
+Develop and maintain Elasticsearch/OpenSearch implementations.
+Oversee deployment automation, CI/CD pipeline development, and release management.
+Design and implement comprehensive data migration strategies.
+Integrate and maintain Tableau/Power BI APIs for embedding and visualization purposes.
+Develop efficient, reusable front-end components with React , focusing on performance and user experience.
+Implement frontend state management using Redux/Redux-Saga and design responsive, cross-browser compatible interfaces using Material-UI and other libraries.
+Use modern testing frameworks such as Jest and React Testing Library to ensure code quality.
+Monitor production environments with alerting and monitoring tools.
+
+WHY US?
+Join our dynamic team of talented people and discover a world full of growth and opportunity. Here's what we offer:
+Rapid growth through a personalised career path and salary assessment. 70% of our senior leaders started in entry-level positions.
+Improve your skills through our Technology Academy catalogue, Udemy platform, language classes, webinars, and workshops.
+Take control of your training with a personal annual budget and company-paid certifications.
+Enjoy flexible policies, remote work options, and excellent social benefits such as transport and restaurant tickets, childcare support, and private health insurance.
+Benefit from our WeCare programme, which supports employees in critical situations.
+Unlock your full potential, both professionally and personally.
+
+Amaris Consulting prides itself on being an equal opportunity employer. We are committed to promoting diversity within the workforce and creating an inclusive work environment. To this end, we welcome applications from all qualified candidates, regardless of gender, sexual orientation, race, ethnicity, creed, age, marital status, disability, or other characteristics.","['Spanish fluency is required as part of this role', '3 to 5 years of experience as a Full Stack Developer', 'Strong proficiency with Python (strict typing) for backend development', 'Extensive experience with React and TypeScript for frontend development', 'Solid knowledge of FastAPI , AWS infrastructure (including S3, Glue, RDS, Lambda, Step Functions, ECS/ECR, CloudWatch), and version control tools such as Git', 'Proven expertise with DevOps practices , including CI/CD pipelines (Jenkins), Docker containerization, and deployment automation', 'Familiarity with data engineering tools and architectures like Snowflake, Apache Spark, and Elasticsearch/OpenSearch', 'Experience working with Tableau/Power BI APIs for data visualization embedding', 'Strong problem-solving skills and ability to work both independently and as part of a team', 'Availability to work within EU time zones; full remote working option available', 'Be part of an international team, thrive in a global group with a €800M turnover and over 1,000 clients worldwide, and an agile environment', 'The ideal candidate will have a proven track record in building scalable, high-quality applications and is comfortable working across the entire stack', 'Lead backend development using strictly-typed Python and TypeScript ', 'Design and implement service-oriented architectures using FastAPI ', 'Build and maintain production-grade ETL pipelines leveraging modern data engineering practices', 'Manage AWS infrastructure with CDK (TypeScript), including services such as S3, Glue, RDS, Lambda, Step Functions, ECS/ECR, and CloudWatch', 'Develop and maintain Elasticsearch/OpenSearch implementations', 'Oversee deployment automation, CI/CD pipeline development, and release management', 'Design and implement comprehensive data migration strategies', 'Integrate and maintain Tableau/Power BI APIs for embedding and visualization purposes', 'Develop efficient, reusable front-end components with React , focusing on performance and user experience', 'Implement frontend state management using Redux/Redux-Saga and design responsive, cross-browser compatible interfaces using Material-UI and other libraries', 'Use modern testing frameworks such as Jest and React Testing Library to ensure code quality', 'Monitor production environments with alerting and monitoring tools']",Software,2025-07-18T00:00:00.000Z,https://www.recruit.net/job/programador-full-stack-jobs/2BB7372A3F22A002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+c57cf21b2256543012afd49e5c126689,rapidapi1,Programador/a PLC Senior - Madrid,Initium HR,"None, US","Descripción del trabajo
+
+LiveTicketGroup is seeking a talented Senior Frontend Software Engineer to join their team, driving innovation in the live event industry. Dedicated to revolutionizing the way fans access unforgettable moments in sports and entertainment, LiveTicketGroup offers an exciting opportunity for those ready to propel their careers forward in a dynamic environment. If you're passionate about technology and ready to contribute to shaping the future of live events, LiveTicketGroup is the perfect place for you.
+
+WHAT IS THEIR PURPOSE?
+
+LiveTicketGroup emerges as a leading force in the European live event marketplace, fostering connections between fans and unforgettable sports experiences. Their primary aim revolves around delivering unparalleled customer satisfaction within the secondary ticket market, revolutionizing how millions engage with live football and rugby events globally.
+
+Functioning as a live entertainment platform, LiveTicketGroup simplifies the ticket purchasing process for fans, ensuring a seamless journey from selection to stadium entry. Their ethos centers on facilitating experiences where fans can fully immerse themselves in the thrill of live events, eliminating any hassle along the way.
+
+WHAT WILL BE YOUR MISSION?
+
+In response to the rapidly evolving technology landscape, LiveTicketGroup is actively seeking Software Engineers to leverage cutting-edge innovations in designing and developing next-generation technologies and complex features.
+
+As a Senior Frontend Software Engineer at LiveTicketGroup, individuals will spearhead the resolution of significant, ambitious, and non-trivial challenges. They serve as core contributors and innovators, translating creative technical solutions into reality. Demonstrating initiative and enthusiasm for problem-solving is essential for success within the company.
+
+What you’ll do:
+• Design, develop, test, deploy, and maintain impactful improvements across all LiveTicketGroup platforms and products, resulting in high-quality outcomes.
+• Collaborate with team members to ensure best practices across their code.
+• Manage individual initiative priorities, deadlines, and deliverables with your technical expertise.
+• Mentor other team members and help many increase their technical capabilities, fostering a culture of inclusion, results-oriented execution, open innovation, and limitless creativity.
+
+WHAT DO THEY NEED FROM YOU TO CONQUER THIS CHALLENGE?
+
+What will make you succeed in this position of Senior Frontend Software Engineer?
+• 5+ years of professional experience with web application development.
+• 3+ years of in-depth experience with Next.js, React.js, TypeScript, Redux, TailwindCSS and the relevant toolset/framework ecosystem.
+• Experience building complex layouts with CSS and HTML, and an understanding of core web and browser concepts.
+• An in-depth understanding of core JavaScript concepts and experience building robust SPA and/or stateful web applications.
+• Previous experience designing and developing solutions to complex problems with significant business impact; focus on large-scale consumer products is preferred.
+• A real interest and passion for software development and high-quality code.
+• Fluent English is required.
+
+They would really, really love if you can also bring:
+• Experience working closely with product teams, designers, and other engineers to create impactful and highly performant web experiences.
+• Proven ability to learn other coding languages, platforms, frameworks, and tools.
+• Basic understanding and/or experience with SEO.
+• Experience with working in an agile development team (Scrum/Kanban).
+
+HOW WILL THE SELECTION PROCESS BE?
+
+We'll get to know you in a short videocall and then you'll meet:
+• The Head of Engineering for a first talk.
+• Then you'll do a live coding session on Codesandbox (stack React + Typescript).
+• The CTO (and Head of Engineering) for the last step.
+
+WHAT AWAITS YOU AT LIVETICKET GROUP?
+
+Competitive salary.
+
+Flexible schedule with core working hours.
+
+23 days of vacation + birthday off.
+
+100% remote position in Spain.
+
+Training budget.
+
+HOW CAN YOU SHARE YOUR TALENT WITH GROWARA?
+
+At Growara, we have a genuine commitment to creating an inclusive work environment where every person feels valued and respected for their talent and skills. We firmly believe that diversity is a strength that enriches our companies and communities, and we strive to ensure that everyone has equal opportunities to grow and thrive in the workplace, regardless of their gender, origin, including racial or ethnic background, marital status, social condition, religion or beliefs, political ideas, disability, sexual orientation and identity, gender expression, sexual characteristics, or any other personal, family, or social circumstance.
+
+Our ethical social responsibility drives us to continue working towards a fairer and more inclusive society, where talent and merit are the only criteria guiding our decisions in the personnel selection process.
+
+To apply for this life-changing opportunity, all you have to do is register your candidacy for the position. Growara is a talent community of over 40,000 individuals united by a common passion: creating amazing careers. By registering, you allow us to offer you new challenges like this one.
+
+Thank you for trusting Growara with your next big career move.
+#J-18808-Ljbffr","['5+ years of professional experience with web application development', '3+ years of in-depth experience with Next.js, React.js, TypeScript, Redux, TailwindCSS and the relevant toolset/framework ecosystem', 'Experience building complex layouts with CSS and HTML, and an understanding of core web and browser concepts', 'An in-depth understanding of core JavaScript concepts and experience building robust SPA and/or stateful web applications', 'A real interest and passion for software development and high-quality code', 'Fluent English is required', 'Experience working closely with product teams, designers, and other engineers to create impactful and highly performant web experiences', 'Proven ability to learn other coding languages, platforms, frameworks, and tools', 'Basic understanding and/or experience with SEO', 'Experience with working in an agile development team (Scrum/Kanban)', 'The Head of Engineering for a first talk', ""Then you'll do a live coding session on Codesandbox (stack React + Typescript)"", 'Their primary aim revolves around delivering unparalleled customer satisfaction within the secondary ticket market, revolutionizing how millions engage with live football and rugby events globally', 'Functioning as a live entertainment platform, LiveTicketGroup simplifies the ticket purchasing process for fans, ensuring a seamless journey from selection to stadium entry', 'As a Senior Frontend Software Engineer at LiveTicketGroup, individuals will spearhead the resolution of significant, ambitious, and non-trivial challenges', 'They serve as core contributors and innovators, translating creative technical solutions into reality', 'Demonstrating initiative and enthusiasm for problem-solving is essential for success within the company', 'Design, develop, test, deploy, and maintain impactful improvements across all LiveTicketGroup platforms and products, resulting in high-quality outcomes', 'Collaborate with team members to ensure best practices across their code', 'Manage individual initiative priorities, deadlines, and deliverables with your technical expertise', 'Mentor other team members and help many increase their technical capabilities, fostering a culture of inclusion, results-oriented execution, open innovation, and limitless creativity', 'The CTO (and Head of Engineering) for the last step']",Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/programador-plc-madrid-jobs/EA0294F3E76719FD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+5d093b264ae0381a6f2d2a0bef43c654,rapidapi1,Programador/a Java,Grupo Digital,"None, US","Join to apply for the Programador/a Java role at Grupo Digital
+
+Join to apply for the Programador/a Java role at Grupo Digital
+
+Conocimientos En
+JAVA/JEE
+
+Desde Grupo Digital, buscamos un/a Programador/a Java para trabajar con uno de nuestros grandes clientes.
+Lugar de trabajo: cualquier ubicación en España.
+Modalidad de trabajo: 100 remoto. Imprescindible residir en España.
+Horario: jornada completa.
+Salario en función de experiencia (hasta 34.000 - 35.000 B/A).
+Funciones
+Desarrollo del evolutivo y funcionalidad acordada con el cliente
+Valorar y planificar sus tareas
+Tareas de programación y gestión de despliegues
+Pruebas unitarias y de integración
+Conocimientos en integraciones y servicios web SOAP / JSON / REST /Servlets
+Gestión de código con repositorio GIT
+Interlocución con equipo técnico
+Elaboración de documentación técnica
+Requisitos
+Al menos 4 años de experiencia
+Conocimientos En
+JAVA/JEE
+Conocimientos de framework Hibernate, Spring, Struts, Servlets
+HTML / JavaScript
+Webservices SOAP, WSDL, JAX-WS, JAX-RS, JSON, REST
+Eclipse IDE
+Gestión del código GIT, SonarQube
+SQL
+Herramientas de ticketing Jira / Remedy
+Conocimientos de framework Canigó
+Valorable
+Conocimientos de Maven
+Servidores de aplicación Tomcat y Web Sphere
+Experiencia en proyectos del sector público
+Nivel medio catalán
+¿Qué es lo que le ofrecemos?
+Salario competitivo en función de la experiencia
+Contrato indefinido u Opción de Contrato Mercantil
+22 días laborables de vacaciones
+Plan de retribución flexible: Seguro médico, cheques guardería, cheques transporte
+Formación en Tecnología y Soft Skills
+Programa de referidos: 500 por candidatos recomendados que se incorporen con nosotros
+Grupo Digital
+Somos un equipo de más de 100 profesionales tecnológicos, en el que encontraras proyectos estables, en los principales clientes nacionales e internacionales, desarrollando soluciones de Inteligencia Artificial, Cloud, Ciberseguridad, etc....
+Nos comprometemos estar a tu lado en todas las fases del proyecto, para asegurarnos que creces profesionalmente con nosotros, y que tu aportación cuenta.
+¿Quieres estar al día con las últimas tecnologías y buscas nuevos desafíos? ¡Envíanos tu CV y nos ponemos en contacto contigo!
+java,JEE, Hibernate, Spring
+
+Seniority level
+• Seniority level Mid-Senior level
+
+Employment type
+• Employment type Full-time
+
+Job function
+• Job function Engineering and Information Technology
+• Industries IT Services and IT Consulting
+
+Referrals increase your chances of interviewing at Grupo Digital by 2x
+
+Get notified about new Software Engineer jobs in Barcelona, Catalonia, Spain .
+Frontend software engineer (React) - Europe Remote
+
+Barcelona, Catalonia, Spain $35,000.00-$40,000.00 1 month ago
+Full Stack Django Developer (Fully Remote)
+
+We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+#J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/programador-a-java-jobs/2A3EFF203C379293?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+3ba53ad049cac9e71da4b3b3550239d0,rapidapi1,PROGRAMADOR JAVA (H/D) - Teletreball,"AXXON SELECTING ETT, S.L.","None, US","AXXON selecciona ANALISTA PROGRAMADOR SENIOR J2EE (H/D) per a consultoria tecnològica amb delegació a Girona i Barcelona.
+FUNCIONS:
+- Anàlisi de requisits i disseny de solucions web amb stack tecnològic Java J2EE, Spring i bbdd relacionals.
+- Analitzar, dissenyar i desenvolupar mòduls del sistema i noves aplicacions: preparació de mockups, esquemes, etc.
+- Contribuir a totes les fases del cicle de vida del desenvolupament, aplicant metodologia AGILE i SCRUM.
+- Assegurar l'adaptació dels canvis amb les especificacions del client.
+- Identificació d'ambigüitats i inconsistències en requisits i dissenys.
+- Preparar i produir versions de components.
+- Plans de prova i accions lligades a l'assegurament de la qualitat de la solució.
+- Presentacions i demostracions de les solucions davant del client.
+EXPERIÈNCIA:
+- Més de 3 anys en desenvolupament Java, valorable versions J2EE i Spring.
+- Més de 3 anys treballant amb BBDD relacionals (Oracle, PostgreeSQL, SQLSever, etc.).
+- Experiència en projectes d'integració contínua amb serveis i aplicacions de tercers.
+S'OFEREIX:
+- Estabilitat laboral.
+- Flexibilitat horària i teletreball 95%
+- Entorn de treball jove, dinàmic i multidisciplinari.
+- Formació i Certificacions tècniques.
+- Innovació, últimes tecnologies i versions.
+- Retribució en funció de l'experiència i skills aportades.
+Axxon is a temp and recruiting company that works to connect candidates and companies that truly fit together. Our aim is to generate connections that will end in valuable employment relationships so that both you and the company keep growing. Do you fit with the description? Do not hesitate and become part of the Axxon Jobbers community. FORMACIÓ: Enginyeria Informàtica, Cicle Formatiu o altres estudis de branca tècnica.
+HABILITATS:
+- Java J2EE
+- SPRING (Spring boot, Spring data, Hibernate, Microserveis REST, Spring batch).
+- Experiència treballant amb BBDD relacionals (Oracle, postgree, Sqlsever, etc...).
+- Experiència en projectes d'integració contínua amb serveis i aplicacions de tercers (Github, Jenkins, JIRA, Nexus).
+VALORABLE:
+- Experiència en sistemes Linux i Servidors d'Aplicacions Tomcat i Jboss.
+- Bon nivell anglès (mínim B2) (capacitat per llegir i entendre textos tècnics).
+- Persona dinàmica i amb bona capacitat de comunicació.
+#J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/programador-java-h-teletreball-jobs/27B32BAE7263C719?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+b259bcdd8699f8aeadab7dff5bae6ada,rapidapi1,"Sr. Development Manager, Software Engineering (REMOTE)",Becton Dickinson & Company,"Washington, US","Job Description Summary
+
+Job Description
+
+We are the makers of possible
+
+BD is one of the largest global medical technology companies in the world. Advancing the world of health™ is our Purpose, and it’s no small feat. It takes the imagination and passion of all of us—from design and engineering to the manufacturing and marketing of our billions of MedTech products per year—to look at the impossible and find transformative solutions that turn dreams into possibilities.
+
+We believe that the human element, across our global teams, is what allows us to continually evolve. Join us and discover an environment in which you’ll be supported to learn, grow and become your best self. Become a maker of possible with us.
+
+Come Advance the World of Health through Software Engineering
+
+Being an Associate at Becton-Dickinson (BD) means you are at the intersection of supporting products and devices used to help patients around the globe today -- while working on the future of where medical technology may go in terms of smart, connected devices, new care settings, and improving outcomes in chronic diseases.
+
+As an associate of the Software Technology Solutions (STS) group within BD you have the opportunity to develop connected enterprise software solutions, platforms and services and work across the product design process. You will gain unique experience collaborating across core teams, platforms and business units getting a holistic understanding of BD’s products and services.
+
+In STS, we offer flexibility so you can successfully balance your work and personal responsibilities. We care about our associates and ensure we have servant leaders to help you grow your career, provide feedback and recognition, and empower you to show up every day as your authentic self. We are passionate about improving patient outcomes through agile delivery and developing innovative software. Armed with a growth mindset and a desire to want to do more, learn more, impact more, you are in a great position to join STS as a software engineer to help BD advance the world of health in ways you may never have imagined in your career.
+
+About the role:
+
+The Becton Dickinson Software Technology Solutions Division (STS) seeks a hands-on Sr. Engineering Manager focused on building and maintaining a Clinical Interface Engine.
+This position requires an enthusiastic leader with a rare mix of intelligence, integrity, and technical skill that allows you to focus on building a team through mentoring, coaching, hiring, and solving challenging technical problems.
+This highly collaborative position will partner with and advise multiple teams by guiding the creation and consumption of clinical data.
+
+Responsibilities:
+• Oversee the design, development, and maintenance of a scalable, high-performance Health data interface engine.
+• Create clear and well-thought-out technical design artifacts with careful considerations of system dependencies, failure states, maintainability, testability, and ease of support.
+• Partner with the Architecture, PM, DevOps, and cross-functional stakeholders to guide the articulation and execution of the strategic roadmap of the team and its alignment with the vision of overall program.
+• Develop and implement performance metrics to monitor and improve the effectiveness and efficiency of high volume HL7 v2 interfaces.
+• Apply software engineering best practices (version control, continuous integration, etc) spanning the entire code base.
+• Work with program management to establish key delivery milestones and manage engineering risks that may adversely impact the program.
+• Facilitates decisions on the scope of work, duration of tasks, and determination of design requirements.
+• Attracts, develops, and retains BD associates.
+• Work in a collaborative environment to ensure a shared understanding of complex topics.
+• Contribute to and lead process improvement initiatives across the entire department.
+
+Experience Required
+• 10+ years of experience in working on Health Technology Environment, with a proven track record of success in developing and maintaining scalable, high-volume data interfaces with 3+ years working in a Cloud environment.
+• Minimum of 5+ years’ experience leading teams and managing direct reports.
+• Strong knowledge of industry leading HL7 interface engineers such as Iguana, Intersystem.
+• Experience with design and development experience with HL7 FHIR, HL7 CDA, and HL7 v2.
+• Hands on experience working with AWS and serverless technologies.
+• Experience leading change in modern software development practices and continuous delivery.
+• Designing system with observability to identify and respond to anomalies, failures, degradation of performance.
+• Strong understanding of cloud system’s architecture and design.
+• Excellent leadership and team management skills, with a demonstrated ability to motivate and develop high-performing teams.
+• Strong analytical and problem-solving skills, with the ability to distill complex issues into actionable plans.
+• Experience with programming languages (Golang, Python, Java)
+• Experience with Agile methodologies and implementing DevOps practices.
+• Demonstrated positive work ethic with a strong commitment to achieving project goals.
+• Excellent communication skills, both written and verbal, with the ability to present complex information clearly to both technical and non-technical audiences.
+
+At BD, we prioritize on-site collaboration because we believe it fosters creativity, innovation, and effective problem-solving, which are essential in the fast-paced healthcare industry. For most roles, we require a minimum of 4 days of in-office presence per week to maintain our culture of excellence and ensure smooth operations, while also recognizing the importance of flexibility and work-life balance. Remote or field-based positions will have different workplace arrangements which will be indicated in the job posting.
+
+For certain roles at BD, employment is contingent upon the Company’s receipt of sufficient proof that you are fully vaccinated against COVID-19. In some locations, testing for COVID-19 may be available and/or required. Consistent with BD’s Workplace Accommodations Policy, requests for accommodation will be considered pursuant to applicable law.
+
+Why Join Us?
+
+A career at BD means being part of a team that values your opinions and contributions and that encourages you to bring your authentic self to work. It’s also a place where we help each other be great, we do what’s right, we hold each other accountable, and learn and improve every day.
+
+To find purpose in the possibilities, we need people who can see the bigger picture, who understand the human story that underpins everything we do. We welcome people with the imagination and drive to help us reinvent the future of health. At BD, you’ll discover a culture in which you can learn, grow, and thrive. And find satisfaction in doing your part to make the world a better place.
+
+To learn more about BD visit https://bd.com/careers
+
+Becton, Dickinson and Company is an Equal Opportunity/Affirmative Action Employer. We do not unlawfully discriminate on the basis of race, color, religion, age, sex, creed, national origin, ancestry, citizenship status, marital or domestic or civil union status, familial status, affectional or sexual orientation, gender identity or expression, genetics, disability, military eligibility or veteran status, or any other protected status.
+
+Required Skills
+
+Optional Skills
+
+.
+Primary Work Location
+USA CA - San Diego Bldg A&B
+
+Additional Locations
+
+Work Shift
+
+At BD, we are strongly committed to investing in our associates—their well-being and development, and in providing rewards and recognition opportunities that promote a performance-based culture. We demonstrate this commitment by offering a valuable, competitive package of compensation and benefits programs which you can learn more about on our Careers Site under Our Commitment to You.
+
+Salary or hourly rate ranges have been implemented to reward associates fairly and competitively, as well as to support recognition of associates’ progress, ranging from entry level to experts in their field, and talent mobility. There are many factors, such as location, that contribute to the range displayed. The salary or hourly rate offered to a successful candidate is based on experience, education, skills, and any step rate pay system of the actual work location, as applicable to the role or position. Salary or hourly pay ranges may vary for Field-based and Remote roles.
+
+Salary Range Information
+$155,200.00 - $256,000.00 USD Annual","['10+ years of experience in working on Health Technology Environment, with a proven track record of success in developing and maintaining scalable, high-volume data interfaces with 3+ years working in a Cloud environment', 'Minimum of 5+ years’ experience leading teams and managing direct reports', 'Strong knowledge of industry leading HL7 interface engineers such as Iguana, Intersystem', 'Experience with design and development experience with HL7 FHIR, HL7 CDA, and HL7 v2', 'Hands on experience working with AWS and serverless technologies', 'Experience leading change in modern software development practices and continuous delivery', 'Designing system with observability to identify and respond to anomalies, failures, degradation of performance', 'Strong understanding of cloud system’s architecture and design', 'Excellent leadership and team management skills, with a demonstrated ability to motivate and develop high-performing teams', 'Strong analytical and problem-solving skills, with the ability to distill complex issues into actionable plans', 'Experience with programming languages (Golang, Python, Java)', 'Experience with Agile methodologies and implementing DevOps practices', 'Demonstrated positive work ethic with a strong commitment to achieving project goals', 'Excellent communication skills, both written and verbal, with the ability to present complex information clearly to both technical and non-technical audiences', 'You will gain unique experience collaborating across core teams, platforms and business units getting a holistic understanding of BD’s products and services', 'Engineering Manager focused on building and maintaining a Clinical Interface Engine', 'This position requires an enthusiastic leader with a rare mix of intelligence, integrity, and technical skill that allows you to focus on building a team through mentoring, coaching, hiring, and solving challenging technical problems', 'This highly collaborative position will partner with and advise multiple teams by guiding the creation and consumption of clinical data', 'Oversee the design, development, and maintenance of a scalable, high-performance Health data interface engine', 'Create clear and well-thought-out technical design artifacts with careful considerations of system dependencies, failure states, maintainability, testability, and ease of support', 'Partner with the Architecture, PM, DevOps, and cross-functional stakeholders to guide the articulation and execution of the strategic roadmap of the team and its alignment with the vision of overall program', 'Develop and implement performance metrics to monitor and improve the effectiveness and efficiency of high volume HL7 v2 interfaces', 'Apply software engineering best practices (version control, continuous integration, etc) spanning the entire code base', 'Work with program management to establish key delivery milestones and manage engineering risks that may adversely impact the program', 'Facilitates decisions on the scope of work, duration of tasks, and determination of design requirements', 'Attracts, develops, and retains BD associates', 'Work in a collaborative environment to ensure a shared understanding of complex topics', 'Contribute to and lead process improvement initiatives across the entire department', 'Remote or field-based positions will have different workplace arrangements which will be indicated in the job posting']",Software,,https://jobs.bd.com/en/job/san-diego/sr-development-manager-software-engineering-remote/159/76174861936?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+a4753b022e39157822490d957cfe3a7c,rapidapi1,Analista Programador Sénior,Axians Portugal,"Overland Park, US","Na Axians, valorizamos o talento, não os rótulos.
+
+Acreditamos numa cultura de inclusão, onde todas as pessoas têm lugar e todas as candidaturas serão consideradas com base no mérito, sem discriminação.
+
+Ao mesmo tempo garante a conciliação entre a sua vida profissional e familiar, com benefícios premium, estabilidade e reconhecimento pessoal.
+
+💻 O CARGO
+
+Procuramos um #TechTalent para desempenhar funções enquanto Analista Programador Senior na área financeira.
+
+O TEU DIA A DIA
+• Realizar Análise Técnica, novos desenvolvimentos ou impactos em software existente, com base em Especificações Funcionais;
+• Preparar cadernos de testes unitários e sistema. Execução de testes unitários e de sistema relativos a projetos geridos no núcleo;
+• Preparar documentação técnica e outras, de acordo com as metodologias em vigor;
+• Programação de software, de acordo com regras de programação e framework de desenvolvimento em vigor, com base em documentos de Análise Técnica previamente elaborados;
+• Análise e resolução de incidentes, incluindo diferenças contabilísticas, e correções de bugs;
+• Acompanhamento das cadeias batch, incluindo apoio ao batch noturno de produção, inserido em escala para o efeito;
+
+💡O QUE PROCURAMOS
+• Pelo menos 10 anos de experiência com Cobol, DB2, CICS e JCL;
+• Competência na área técnica e com experiência de pelo menos 10 anos em programação / Análise;
+• Conhecimentos funcionais específicos da área de Crédito - preferencialmente na área de crédito amortizável bonificado – hipotecário, Descontos (Letras), Garantias Recebidas e Recuperação de Crédito;
+• Conhecimentos de contabilidade, aplicada a aplicações de crédito;
+
+⭐O QUE PODE ESPERAR DE NÓS
+
+Oportunidade de liderar projetos importantes
+
+Liderando projetos de um cliente internacional da Axians, poderá deixar a sua marca no mundo de IT.
+
+Reconhecimento enquanto profissional e pessoa
+
+Para a Axians, os profissionais que lideram os projetos de clientes têm um nome e um rosto, e por isso são reconhecidos pela empresa.
+
+Conciliação entre ambiente profissional e familiar com benefícios premium
+
+A Axians valoriza a vida familiar dos seus colaboradores, dando mais 5 dias além dos previstos legalmente após o nascimento de filhos. Mais tarde, poderão frequentar cursos tecnológicos com recurso a bolsas.
+
+Possibilidade de ser acionista da empresa
+
+Além da progressão na carreira, pode ser acionista do Grupo VINCI Energies, que detém a Axians.
+
+Estabilidade e segurança profissional
+
+A Axians conta com 14.000 colaboradores e tem receitas na ordem dos 3,3 mil milhões de euros. Ao liderar projetos importantes, ingressará numa entidade sólida e segura.
+
+Valorização monetária justa
+
+Terá acesso a vencimento base + benefícios e poderá ainda beneficiar de prémios de performance, seguro de saúde e consultas de psicologia gratuitas.
+
+Identifica-se com esta vaga?
+
+Se pensa que esta vaga é a sua cara e tem o #TechTalent que procuramos envie-nos o seu currículo, de preferência em inglês e em formato Europass, para recrutamento.axianspt@axians.com com o subject “APS.SA.TD”.
+
+Saber mais sobre a Axians",[],Software,2025-07-11T00:00:00.000Z,https://www.linkedin.com/jobs/view/analista-programador-s%C3%A9nior-at-axians-portugal-4265508436?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+a95653a5bfb25545578eaa0604f63546,rapidapi1,Analista Programador Senior JAVA - Spring - Remoto,METRICA,"Seville, US","Desde Métrica, estamos buscando un Analista programador Senior con al menos 6 años de experiencia para un importante cliente del sector Logística.
+El candidato ideal deberá contar con los siguientes conocimientos: Conocimientos imprescindibles: Java 8 Spring MVC Spring IoC Spring Batch Maven Conocimientos deseables no imprescindibles: Hibernate JUnit EasyMock PostgreSQL Azure DevOps GitHub Inglés medio
+¿Qué ofrecemos? Contratación indefinida. Retribución flexible. Formación en áreas de interés. Modalidad 100% remoto. Horario: L-J: 9:00-18:30 V:9:00-15:00 Salario: 39.000 - 40.000 € brutos anuales ( elección 12 ó 14 pagas)
+En Métrica queremos ayudarte a conseguir el cambio que estás buscando.",[],Software,2025-07-18T00:00:00.000Z,https://www.recruit.net/job/analista-programador-java-spring-remoto-jobs/7B58FD01EE694817?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+e42936d44c0a471ec402bef4ebe2c7d2,rapidapi1,Analista Programador Cobol,AxiansPT,"Tagus, US","Na Axians, valorizamos o talento, não os rótulos.
+Acreditamos numa cultura de inclusão, onde todas as pessoas têm lugar e todas as candidaturas serão consideradas com base no mérito, sem discriminação.
+
+Esta é a tua oportunidade de integrares um grupo internacional, com um projeto que precisa de ti para responder aos desafios da transformação digital.",[],Software,,"https://www.ziprecruiter.com/c/AxiansPT/Job/Analista-Programador-Cobol/-in-Tagus,ND?jid=8c3ba81e1d422148&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+cecd24ab13e3321c80383f9f4a8bbb1f,rapidapi1,"Analista Programador / DB2, Oracle, Power Designer",METRICA,"Seville, US","Somos Métrica, una consultora de negocio, integración de sistemas, servicios y soluciones IT, comprometida con la Sociedad de la información y el desarrollo tecnológico.
+Desde Métrica, estamos buscando un/a Analista Programador con 5 años de experiencia en Bases de Datos (DB2, Oracle), conocimientos de Power Designer y experiencia en sector bancario.
+¿Qué ofrecemos? Contratación indefinida. Formación en áreas de interés. Modalidad 100% remoto. Horario: de Lunes a Jueves 9h y Viernes 7h. Salario valorable.",[],Software,2025-07-18T00:00:00.000Z,https://www.recruit.net/job/analista-programador-db-oracle-power-jobs/6AED7810E2DB873B?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+26804ef57519288c75728baa83a5252d,rapidapi1,Analista Programador Cobol,Axians Portugal,"Overland Park, US","Na Axians, valorizamos o talento, não os rótulos.
+
+Acreditamos numa cultura de inclusão, onde todas as pessoas têm lugar e todas as candidaturas serão consideradas com base no mérito, sem discriminação.
+
+Esta é a tua oportunidade de integrares um grupo internacional, com um projeto que precisa de ti para responder aos desafios da transformação digital.
+
+💻 O CARGO
+
+Procuramos um #TechTalent para desempenhar funções enquanto Analista Programador Cobol para um projeto no setor bancário.
+
+🙂 O TEU DIA A DIA
+• Trabalhar com tecnologias COBOL, CICS, DB2, JCL contacto direto com Control-M para orquestração de processos.
+• Garantir o suporte contínuo a aplicações críticas da área
+• Contribuir para o desenvolvimento e manutenção de soluções com impacto direto nos sistemas de Pagamentos SEPA, Cheques e, idealmente, reporte PAY.
+• Demonstrar iniciativa e forte sentido de responsabilidade, apropriando-se das aplicações e evoluindo continuamente o conhecimento funcional e técnico sobre as mesmas.
+
+💡 O QUE PROCURAMOS
+• Experiência técnica sólida em ambientes Mainframe, nomeadamente em COBOL, CICS, DB2, JCL e Control-M.
+• Conhecimento funcional relevante sobre Pagamentos SEPA, Cheques e, preferencialmente, reporte PAY.
+• Capacidade de trabalhar em ambientes Agile, com experiência no uso de Jira (Kanban).
+• Perfil proativo, com vontade de aprender, assumir responsabilidades e garantir o correto funcionamento das aplicações sob a sua alçada.
+
+⭐O QUE PODE ESPERAR DE NÓS
+
+Carreira profissional estável
+
+Ao trabalhar com projetos da Axians torna-se uma mais valia a quem queremos oferecer estabilidade, através de uma carreira segura.
+
+Perspetivas de progressão na carreira
+
+Poderá aceder a formações e novas certificações que elevarão ainda mais as suas competências. A avaliação 360° dos managers e peers também permitirão evoluir.
+
+Conciliação entre a área profissional e a familiar
+
+Colaborando com a Axians há abertura para conciliar as exigências laborais com os requisitos familiares, evitando negligenciar cada uma das áreas.
+
+Compensação evolutiva e atrativa
+
+Ao trabalhar com clientes da Axians, terá acesso a prémios de performance, além de um pack salarial atrativo (vencimento base + benefícios). Também tem direito a seguro de saúde e consultas de psicologia gratuitas.
+
+Identifica-se com esta vaga?
+
+Se pensa que esta vaga é a sua cara e tem o #TechTalent que procuramos envie-nos o seu currículo, de preferência em inglês, para recrutamento.axianspt@axians.com com o APC/SA/TD.
+
+Saber mais sobre a Axians",[],Software,,https://www.linkedin.com/jobs/view/analista-programador-cobol-at-axians-portugal-4238284828?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+c4728a142c583b657bf403afd0da93c7,rapidapi1,"Analista Programador / DB2, Oracle, Power Designer",METRICA,"None, US","Somos Métrica, una consultora de negocio, integración de sistemas, servicios y soluciones IT, comprometida con la Sociedad de la información y el desarrollo tecnológico.
+Desde Métrica, estamos buscando un/a Analista Programador con 5 años de experiencia en Bases de Datos (DB2, Oracle), conocimientos de Power Designer y experiencia en sector bancario.
+¿Qué ofrecemos? Contratación indefinida. Formación en áreas de interés. Modalidad 100% remoto. Horario: de Lunes a Jueves 9h y Viernes 7h. Salario valorable.",[],Software,2025-07-18T00:00:00.000Z,https://www.recruit.net/job/analista-programador-db-oracle-power-jobs/521BC46FF5201E96?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+a16dffea9d1f0800ca466af6ce757ada,rapidapi1,PROGRAMADOR (TIEMPO COMPLETO),Compass Group Careers Spanish,"Elkview, US","Cantina
+• Estamos contratando de inmediato para un puesto de PROGRAMADOR a tiempo completo.
+• Ubicación: Charleston Vending - 4998 Elk River Road - Suite 4, Elkview, WV 25071. Nota: solo se aceptan solicitudes en línea.
+• Horario: horario de tiempo completo. De lunes a viernes. Los horarios pueden variar. Más información en la entrevista.
+• Requisito: Se prefiere tener experiencia previa en programación, pero no es necesaria.
+• Tarifa de pago: 16,00$ por hora.
+• Se ofrece una bonificación por recomendación interna de empleados
+
+El programa anunciado es un asistente de contratación conversacional que lo ayuda a postularse para empleos en Compass Group. La frecuencia de los mensajes varía. Es posible que se apliquen tarifas por mensajes y datos. Envía STOP para cancelar la suscripción o HELP para solicitar ayuda. Términos y condiciones: http://olivia.paradox.ai/moSkg
+
+Acerca de Canteen:
+
+Canteen brinda tiempo de descanso a todos. Combinamos comida, servicio y experiencia respaldados por una tecnología líder en la industria para ayudar a las empresas a crear un lugar de trabajo mejor y conectar a sus empleados. Las soluciones de Canteen incluyen mercados, cafés y aperitivos para oficinas, tiendas minoristas sin supervisión y gastronomía.
+
+Nuestra gente está en el centro de todo lo que hacemos. Su dedicación, colaboración y pasión impulsan nuestro crecimiento. ¿Está interesado en unirse a nuestro equipo? Tú aportas el entusiasmo, el servicio al cliente y el compromiso; nosotros te proporcionaremos la oportunidad y la innovación. Juntos, continuaremos transformando nuestra industria.
+
+Venga por el trabajo, quédese por la profesión. Somos Canteen.
+Resumen del trabajo
+
+Resumen: administra el proceso de programación diario para todas las rutas de venta de SmartService.
+
+Deberes y responsabilidades esenciales:
+• Gestiona el proceso de programación diario para las máquinas expendedoras y los mercados.
+• Utiliza el software de programación Cantaloupe para programar dinámicamente cada ruta.
+• Comercializa cada ruta utilizando las herramientas de comercialización de Cantaloupe.
+• Actúa como supervisor de la línea de recogida de respaldo según sea necesario.
+• Se comunica diariamente con los conductores y los CSM en relación con los cambios de horario, los cambios de POG, la comercialización, las selecciones perdidas, las paradas omitidas, etc.
+• Proporciona información actualizada a la alta dirección y comparte los avances con los conductores.
+• Actúa como recolector de respaldo según sea necesario.
+• Realiza otras tareas según lo asignado.
+
+Cualificaciones:
+• Experiencia como conductor de ruta en la sucursal (preferible).
+• Debe poder levantar 50 libras de manera constante.
+• Habilidades técnicas informáticas (excel, análisis, nuevas tecnologías, etc.).
+• Fuertes habilidades de comunicación y orientación a los detalles.
+
+A los asociados de Canteen se les ofrecen muchos beneficios fantásticos.
+
+Los puestos de tiempo completo y parcial ofrecen los siguientes beneficios a los asociados: plan de jubilación, programa de compras para asociados, programas de salud y bienestar, mercado de descuentos, protección contra el robo de identidad, seguro para mascotas Beneficios voluntarios, que incluyen el seguro de enfermedades graves, el seguro de accidentes, el seguro de indemnización hospitalaria, los servicios legales y el programa Choice Auto and Home
+
+Los puestos de tiempo completo también ofrecen los siguientes beneficios a los empleados: seguro médico, dental, oftalmológico , seguro de vida/AD, seguro de discapacidad, prestaciones para viajes diarios, programa de asistencia al empleado y cuentas de gastos flexibles (FSA).
+
+Los asociados también pueden ser elegibles para recibir beneficios por tiempo libre remunerado o no remunerado de acuerdo con las leyes federales, estatales y locales aplicables. Para trabajar en Maryland o en el estado de Washington, o para trabajar de forma remota, haga clic aquí para obtener información sobre los beneficios adicionales por tiempo libre proporcionados por la empresa.
+
+Acerca de Compass Group: Lograr el liderazgo en la industria de servicios de alimentos
+
+Compass Group es un empleador que ofrece igualdad de oportunidades. En Compass, nos comprometemos a tratar a todos los solicitantes y asociados de manera justa en función de sus habilidades, logros y experiencia sin distinción de raza, nacionalidad, sexo, edad, discapacidad, condición de veterano, orientación sexual, identidad de género o cualquier otra clasificación protegida por la ley.
+
+Los candidatos calificados deben poder desempeñar las funciones esenciales de este puesto de manera satisfactoria, con o sin una adaptación razonable. Descargo de responsabilidad: este puesto de trabajo no es necesariamente una lista exhaustiva de todas las responsabilidades, habilidades, tareas o requisitos esenciales asociados con este puesto. Si bien esto pretende reflejar con precisión el puesto publicado, la Compañía se reserva el derecho de modificar o cambiar las funciones esenciales del puesto de trabajo en función de las necesidades empresariales.
+
+Las solicitudes se aceptan de forma continua.
+
+Canteen mantiene un lugar de trabajo libre de drogas.
+
+Número de requisito: 1431662
+
+Cantina",[],Software,2025-07-08T00:00:00.000Z,https://trabajos.compassgroupcareers.com/programador-tiempo-completo/job/29143149?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+7437b5ffe119f27d69e151705271562c,rapidapi1,Desarrollador Frontend,The Big Tech Experience,"None, US","• Desarrollo
+
+En TheBigTech Experience, continuamos en expansión y actualmente buscamos incorporar a un Desarrollador Frontend (H/M). Nuestra empresa forma parte de un destacado grupo empresarial en pleno proceso de expansión y verticalización en el ámbito informático.
+
+En este contexto, el equipo de sistemas desempeña un papel crucial para alcanzar el éxito en los objetivos establecidos
+• Zaragoza
+• Jornada Completa",[],Software,,https://www.indeed.com/viewjob?jk=423752fb4544c7de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+e4d38527d044e7bd4cceb497091e81b6,rapidapi1,Analista Programador Sénior,AxiansPT,"Tagus, US","Na Axians, valorizamos o talento, não os rótulos.
+Acreditamos numa cultura de inclusão, onde todas as pessoas têm lugar e todas as candidaturas serão consideradas com base no mérito, sem discriminação.
+
+Ao mesmo tempo garante a conciliação entre a sua vida profissional e familiar, com benefícios premium, estabilidade e reconhecimento pessoal.",[],Software,2025-07-11T00:00:00.000Z,"https://www.ziprecruiter.com/c/AxiansPT/Job/Analista-Programador-S%C3%A9nior/-in-Tagus,ND?jid=e8fe597fddbdbae7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+fc42d9538ae20096d43c2d039935716f,rapidapi1,Programador / A Java Con Inglés - Remoto,buscojobs España,"None, US","En OPTIMISSA, creemos que el éxito de nuestros proyectos se debe a las personas que conforman nuestro equipo. Por ello, buscamos un Backend Developer (Java) con al menos 3 años de experiencia , preferiblemente con conocimientos en ETL / analítica de Datos .
+
+El candidato ideal tendrá experiencia en la exposición de APIs REST utilizando Spring Boot , y en la generación de dashboards con Kibana en servicios alojados en AWS .
+
+Nos comprometemos a impulsar tu talento, satisfacer tus expectativas laborales y hacerte sentir como en casa. ¿Quieres construir hoy el mundo de mañana? ¡Sigue leyendo!
+
+Requisitos mínimos:
+• Experiencia en proyectos tecnológicos con Java
+• Conocimiento técnico en lenguajes de programación como Scala y plataformas como SPARK, Hadoop
+• Conocimiento de SQL
+• Conocimiento básico en Shell scripting
+• Conocimiento básico en Kibana y entorno ELK
+
+Ubicación: Java Remoto • Nava, Oviedo (comarca), España
+#J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/programador-java-con-ingles-remoto-jobs/358BC5BC8B44B1CE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+029a0f0f501ee0cf083d2035cdc95db7,rapidapi1,🚀 Buscamos Programador/a Web – Jornada Completa | Proyecto en Crecimiento - Contract to Hire,Upwork,"None, US","🚀 Buscamos Programador/a Web – Jornada Completa | Proyecto en Crecimiento
+
+¿Te apasiona el desarrollo web limpio, funcional y optimizado? ¿Quieres formar parte de un proyecto sólido y en expansión? Estamos en búsqueda de un/a Programador/a Web a jornada completa para incorporarse a nuestro equipo técnico y apoyar el crecimiento orgánico de nuestras propiedades digitales.
+
+🧩 Responsabilidades:
+
+• Adaptar landings generadas por IA en HTML, CSS y JavaScript.
+
+• Subir y alojar correctamente las webs en hosting tipo Hostinger (vía FTP o cPanel).
+
+• Optimizar la velocidad de carga y mantener el código limpio y funcional.
+
+• Asegurar una visualización perfecta en todos los dispositivos (responsive).
+
+• Realizar el mantenimiento y las actualizaciones técnicas necesarias.
+
+Además, colaborarás estrechamente con nuestro equipo de contenido y SEO para:
+
+• Implementar artículos de blog y estructuras de enlazado interno.
+
+• Apoyar la optimización técnica de cara al posicionamiento en buscadores.
+
+🎯 Perfil técnico ideal:
+
+• Dominio de HTML, CSS y JavaScript.
+
+• Experiencia subiendo sitios web mediante FTP o cPanel.
+
+• Conocimientos sólidos en diseño responsive y optimización técnica básica.
+
+• Deseable: experiencia en proyectos SEO y familiaridad con Core Web Vitals.
+
+📌 Ofrecemos:
+
+• Colaboración a jornada completa.
+
+• Estabilidad a largo plazo.
+
+• Proyecto transparente, con acompañamiento desde el primer día.
+
+• Entorno profesional, enfocado en resultados y mejora continua.",[],Software,,https://www.upwork.com/freelance-jobs/apply/Buscamos-Programador-Web-Jornada-Completa-Proyecto-Crecimiento_~021928417294207629373/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+438a6fdcb1cb7a9f66ef2a4b41d5b2fb,rapidapi1,"Analista Programador/a Senior (NodeJS, Java, JavaScript) - Remoto (=)",Between Technology,"None, US","En BETWEEN te ofrecemos las oportunidades que necesitas para alcanzar tus objetivos profesionales. Si quieres desarrollar tus capacidades en IT e Ingeniería ¡este es tu próximo destino!
+Damos soporte en una gran variedad de áreas como Firmware, Software, BI, Diseño, Project Management y muchas más. Además, desarrollamos soluciones tecnológicas a medida desde nuestros BETWEEN Labs.
+Estamos buscando un Analista Programador/a Senior (NodeJS, Java, JavaScript) para ampliar uno de nuestros equipos en remoto.
+Funciones
+• Escribir código para implementar servicios de software, junto con otros miembros del equipo de Desarrollo.
+• Será persona responsable de aplicar mejoras en la aplicación y desarrollar nuevas funcionalidades, según las necesidades actuales y futuras
+• Coordinarse con el equipo de QA para descubrir y resolver incidencias.
+• Modificar especificaciones técnicas.
+• Participar en el desarrollo, prueba e implementación de código limpio en un entorno DevOps.
+• Realizar guardias de emergencia en el caso de que el proyecto lo requiera.
+
+Condiciones
+• 100% remoto.
+• Disponibilidad para trabajar en horario USA (+6h España).
+
+Beneficios
+• Seguro médico con Sanitas, asegurando tu bienestar y el de tu familia.
+• Oportunidades de formación en idiomas, certificaciones, bootcamps y mucho más para potenciar tus habilidades y conocimientos.
+• Acceso a una multitud de eventos corporativos, como BETWEEN Night, Torneo de Padel, Black Mamba Race y muchos más, para fomentar el compañerismo y la diversión.
+• Retribución flexible que incluye opciones en restaurant, transporte y guardería para adaptarse a tus necesidades personales.
+• Incentivos por validar o recomendar talento, premiando la colaboración y el trabajo en equipo.
+
+En BETWEEN valoramos la diversidad y creemos firmemente que cada miembro de nuestro equipo aporta una visión única que enriquece nuestro entorno laboral. Si cuentas con un mínimo de 3 años de experiencia en desarrollo y un fuerte compromiso con la excelencia técnica, te animamos a formar parte de esta apasionante aventura tecnológica.
+Ofrecemos un entorno dinámico y flexible, agradecemos la iniciativa y la proactividad y nos comprometemos a proporcionar todas las herramientas necesarias para que puedas crecer profesionalmente y contribuir al éxito de nuestros proyectos.
+Si estás listo para dar el siguiente paso en tu carrera y unirte a un equipo en constante evolución que trabaja en proyectos innovadores y desafiantes, ¡te estamos esperando!
+Requisitos
+• Conocimiento de los siguientes lenguajes: Node.JS, JavaScript, Java.
+• Experiencia en la implementación y uso de API RESTful.
+• Experiencia con tecnologías de hosting como Docker, Kubernetes, Lambda.
+• Experiencia con control de código fuente, sistemas de compilación y herramientas de prueba.
+• Experiencia con AWS u otras tecnologías en la nube.
+• Experiencia con bases de datos relacionales (Postgres) o bases de datos en caché (Redis).
+• Licenciatura en Ciencias de la Computación, Ingeniería de Software o campo técnico relacionado.
+• Excelentes habilidades de comunicación escrita y verbal en inglés.
+• Experiencia en el desarrollo de software con metodología Agile/Scrum/Kanban.
+
+Analista Programador/a .NET - Remoto (=)
+Analista Programador Microservicios con SPRING BOOT. TELETRAABAJO #J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/analista-programador-nodejs-java-javascript-jobs/435443CD2D8C06D5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+c8f5d8d4c66de89f44a3b00f5c792632,rapidapi1,Software Engineer,Inceptial Tech,"Home, US","Job Title: Software Engineer
+
+Exp: 3-5years
+
+Skills
+• C/Embedded C
+• Multithreading
+• Inter-Process Communication
+• TCP/UDP/IPv6
+• RTOS/BAREMETAL
+• *professional experience in C.
+• Should have a good understanding of various methods of inter-process communication and multi- threading Embedded systems, Linux, RTOS/BareMetal-based systems in C.
+• Should have sound knowledge of communication modules like TCP/UDP.
+• Experience in working on REST APIs will be an added advantage.
+• Experience in working with IoT protocols will like MQTT/LwM2M will be an added advantage.
+
+Job Category: Software Developer
+
+Job Type: Remote
+
+Job Location: Work from Home","['C/Embedded C', 'Multithreading', 'Inter-Process Communication', 'TCP/UDP/IPv6', 'RTOS/BAREMETAL', '*professional experience in C', 'Should have a good understanding of various methods of inter-process communication and multi- threading Embedded systems, Linux, RTOS/BareMetal-based systems in C', 'Should have sound knowledge of communication modules like TCP/UDP', 'Experience in working on REST APIs will be an added advantage', 'Experience in working with IoT protocols will like MQTT/LwM2M will be an added advantage']",Software,,https://www.linkedin.com/jobs/view/software-engineer-at-inceptial-tech-4242712695?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+1ab674214773910c523fba3e9028bc79,rapidapi1,Analista Programador Senior,AxiansPT,"Tagus, US","Na Axians, valorizamos o talento, nao os rotulos.
+Acreditamos numa cultura de inclusao, onde todas as pessoas tem lugar e todas as candidaturas serao consideradas com base no merito, sem discriminacao.
+
+Ao mesmo tempo garante a conciliacao entre a sua vida profissional e familiar, com beneficios premium, estabilidade e reconhecimento pessoal.
+O CARGO
+Procuramos um#TechTalentpara desempenhar funcoes enquantoAnalista Programador Seniorna area financeira.
+
+O TEU DIA A DIA
+• Realizar Analise Tecnica, novos desenvolvimentos ou impactos em software existente, com base em Especificacoes Funcionais;
+• Preparar cadernos de testes unitarios e sistema. Execucao de testes unitarios e de sistema relativos a projetos geridos no nucleo;
+• Preparar documentacao tecnica e outras, de acordo com as metodologias em vigor;
+• Programacao de software, de acordo com regras de programacao e framework de desenvolvimento em vigor,com base em documentos de Analise Tecnica previamente elaborados;
+• Analise e resolucao de incidentes, incluindo diferencas contabilisticas, e correcoes de bugs;
+• Acompanhamento das cadeias batch, incluindo apoio ao batch noturno de producao, inserido em escala para o efeito;
+
+O QUE PROCURAMOS
+• Pelo menos 10 anos de experiencia comCobol, DB2, CICS e JCL;
+• Competencia na area tecnica e com experiencia de pelo menos 10 anos em programacao / Analise;
+• Conhecimentos funcionais especificos da area de Credito - preferencialmente na area de credito amortizavel bonificado - hipotecario, Descontos (Letras), Garantias Recebidas e Recuperacao de Credito;
+• Conhecimentos de contabilidade, aplicada a aplicacoes de credito;
+
+O QUE PODE ESPERAR DE NOS
+
+Oportunidade de liderar projetos importantes
+Liderando projetos de um cliente internacional da Axians, podera deixar a sua marca no mundo de IT.
+
+Reconhecimento enquanto profissional e pessoa
+Para a Axians, os profissionais que lideram os projetos de clientes tem um nome e um rosto, e por isso sao reconhecidos pela empresa.
+
+Conciliacao entre ambiente profissional e familiar com beneficios premium
+A Axians valoriza a vida familiar dos seus colaboradores, dando mais 5 dias alem dos previstos legalmente apos o nascimento de filhos. Mais tarde, poderao frequentar cursos tecnologicos com recurso a bolsas.
+
+Possibilidade de ser acionista da empresa
+Alem da progressao na carreira, pode ser acionista do Grupo VINCI Energies, que detem a Axians.
+
+Estabilidade e seguranca profissional
+A Axians conta com 14.000 colaboradores e tem receitas na ordem dos 3,3 mil milhoes de euros. Ao liderar projetos importantes, ingressara numa entidade solida e segura.
+
+Valorizacao monetaria justa
+Tera acesso a vencimento base + beneficios e podera ainda beneficiar de premios de performance, seguro de saude e consultas de psicologia gratuitas.
+
+Identifica-se com esta vaga?
+Se pensa que esta vaga e a sua cara e tem o #TechTalent que procuramos envie-nos o seu curriculo, de preferencia em ingles e em formato Europass, para recrutamento.axianspt@axians.com com o subject ""APS.SA.TD"".
+
+Saber mais sobre a Axians",[],Software,2025-07-11T00:00:00.000Z,"https://www.ziprecruiter.com/c/AxiansPT/Job/Analista-Programador-Senior/-in-Tagus,ND?jid=845854a967d9e042&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+e9e78147df722a3eaf6ada48cedf001a,rapidapi1,Programador/a PLC Senior - Madrid,Initium HR,"Ponte Vedra Beach, US","Descripción del trabajo
+
+LiveTicketGroup is seeking a talented Senior Frontend Software Engineer to join their team, driving innovation in the live event industry. Dedicated to revolutionizing the way fans access unforgettable moments in sports and entertainment, LiveTicketGroup offers an exciting opportunity for those ready to propel their careers forward in a dynamic environment. If you're passionate about technology and ready to contribute to shaping the future of live events, LiveTicketGroup is the perfect place for you.
+
+WHAT IS THEIR PURPOSE?
+
+LiveTicketGroup emerges as a leading force in the European live event marketplace, fostering connections between fans and unforgettable sports experiences. Their primary aim revolves around delivering unparalleled customer satisfaction within the secondary ticket market, revolutionizing how millions engage with live football and rugby events globally.
+
+Functioning as a live entertainment platform, LiveTicketGroup simplifies the ticket purchasing process for fans, ensuring a seamless journey from selection to stadium entry. Their ethos centers on facilitating experiences where fans can fully immerse themselves in the thrill of live events, eliminating any hassle along the way.
+
+WHAT WILL BE YOUR MISSION?
+
+In response to the rapidly evolving technology landscape, LiveTicketGroup is actively seeking Software Engineers to leverage cutting-edge innovations in designing and developing next-generation technologies and complex features.
+
+As a Senior Frontend Software Engineer at LiveTicketGroup, individuals will spearhead the resolution of significant, ambitious, and non-trivial challenges. They serve as core contributors and innovators, translating creative technical solutions into reality. Demonstrating initiative and enthusiasm for problem-solving is essential for success within the company.
+
+What you’ll do:
+• Design, develop, test, deploy, and maintain impactful improvements across all LiveTicketGroup platforms and products, resulting in high-quality outcomes.
+• Collaborate with team members to ensure best practices across their code.
+• Manage individual initiative priorities, deadlines, and deliverables with your technical expertise.
+• Mentor other team members and help many increase their technical capabilities, fostering a culture of inclusion, results-oriented execution, open innovation, and limitless creativity.
+
+WHAT DO THEY NEED FROM YOU TO CONQUER THIS CHALLENGE?
+
+What will make you succeed in this position of Senior Frontend Software Engineer?
+• 5+ years of professional experience with web application development.
+• 3+ years of in-depth experience with Next.js, React.js, TypeScript, Redux, TailwindCSS and the relevant toolset/framework ecosystem.
+• Experience building complex layouts with CSS and HTML, and an understanding of core web and browser concepts.
+• An in-depth understanding of core JavaScript concepts and experience building robust SPA and/or stateful web applications.
+• Previous experience designing and developing solutions to complex problems with significant business impact; focus on large-scale consumer products is preferred.
+• A real interest and passion for software development and high-quality code.
+• Fluent English is required.
+
+They would really, really love if you can also bring:
+• Experience working closely with product teams, designers, and other engineers to create impactful and highly performant web experiences.
+• Proven ability to learn other coding languages, platforms, frameworks, and tools.
+• Basic understanding and/or experience with SEO.
+• Experience with working in an agile development team (Scrum/Kanban).
+
+HOW WILL THE SELECTION PROCESS BE?
+
+We'll get to know you in a short videocall and then you'll meet:
+• The Head of Engineering for a first talk.
+• Then you'll do a live coding session on Codesandbox (stack React + Typescript).
+• The CTO (and Head of Engineering) for the last step.
+
+WHAT AWAITS YOU AT LIVETICKET GROUP?
+
+Competitive salary.
+
+Flexible schedule with core working hours.
+
+23 days of vacation + birthday off.
+
+100% remote position in Spain.
+
+Training budget.
+
+HOW CAN YOU SHARE YOUR TALENT WITH GROWARA?
+
+At Growara, we have a genuine commitment to creating an inclusive work environment where every person feels valued and respected for their talent and skills. We firmly believe that diversity is a strength that enriches our companies and communities, and we strive to ensure that everyone has equal opportunities to grow and thrive in the workplace, regardless of their gender, origin, including racial or ethnic background, marital status, social condition, religion or beliefs, political ideas, disability, sexual orientation and identity, gender expression, sexual characteristics, or any other personal, family, or social circumstance.
+
+Our ethical social responsibility drives us to continue working towards a fairer and more inclusive society, where talent and merit are the only criteria guiding our decisions in the personnel selection process.
+
+To apply for this life-changing opportunity, all you have to do is register your candidacy for the position. Growara is a talent community of over 40,000 individuals united by a common passion: creating amazing careers. By registering, you allow us to offer you new challenges like this one.
+
+Thank you for trusting Growara with your next big career move.
+#J-18808-Ljbffr","['5+ years of professional experience with web application development', '3+ years of in-depth experience with Next.js, React.js, TypeScript, Redux, TailwindCSS and the relevant toolset/framework ecosystem', 'Experience building complex layouts with CSS and HTML, and an understanding of core web and browser concepts', 'An in-depth understanding of core JavaScript concepts and experience building robust SPA and/or stateful web applications', 'A real interest and passion for software development and high-quality code', 'Fluent English is required', 'Experience working closely with product teams, designers, and other engineers to create impactful and highly performant web experiences', 'Proven ability to learn other coding languages, platforms, frameworks, and tools', 'Basic understanding and/or experience with SEO', 'Experience with working in an agile development team (Scrum/Kanban)', 'The Head of Engineering for a first talk', ""Then you'll do a live coding session on Codesandbox (stack React + Typescript)"", 'Their primary aim revolves around delivering unparalleled customer satisfaction within the secondary ticket market, revolutionizing how millions engage with live football and rugby events globally', 'Functioning as a live entertainment platform, LiveTicketGroup simplifies the ticket purchasing process for fans, ensuring a seamless journey from selection to stadium entry', 'As a Senior Frontend Software Engineer at LiveTicketGroup, individuals will spearhead the resolution of significant, ambitious, and non-trivial challenges', 'They serve as core contributors and innovators, translating creative technical solutions into reality', 'Demonstrating initiative and enthusiasm for problem-solving is essential for success within the company', 'Design, develop, test, deploy, and maintain impactful improvements across all LiveTicketGroup platforms and products, resulting in high-quality outcomes', 'Collaborate with team members to ensure best practices across their code', 'Manage individual initiative priorities, deadlines, and deliverables with your technical expertise', 'Mentor other team members and help many increase their technical capabilities, fostering a culture of inclusion, results-oriented execution, open innovation, and limitless creativity', 'The CTO (and Head of Engineering) for the last step']",Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/programador-plc-madrid-jobs/404A5876E72C0C4F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+9332c6067072591c9eca6996848c0462,rapidapi1,Developer SharePoint,Iceberg Solutions,"Arlington, US","Nos orientamos a profesionales de la carrera de Sistemas o afines, para desempeñarse en el área de desarrollo utilizando SharePoint.
+
+Tareas
+
+Desarrollar aplicaciones sobre SharePoint en Office 365 y SharePoint 2013.
+
+Estimar los esfuerzos de trabajo en conjunto con el equipo de trabajo.
+
+Participar en reuniones de avance del proyecto.
+
+Requisitos
+
+Experiencia mínima comprobable de 2 años como Programador SharePoint en proyectos de desarrollo (excluyente).
+
+Conocimientos en SharePoint sobre Office 365.
+
+Conocimientos básicos de HTML, JavaScript, JQuery, Json y CSS. C#/ Microsoft SQL Server
+
+Conocimientos deseables
+
+Deseable dominio de inglés oral y escrito",[],Software,,https://www.simplyhired.com/job/PyobDEv6UEJvJF6h5GrDeDoSQReA-yEiqQPgl6TiGk2dQFdPlKobjA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+3b8756fce1f980a9a0edfd0e7408ce2f,rapidapi1,Ofertas de Programador/ Arquitecto y Jefe de Proyecto Java J2ee,Javahispano,"New York, US","Empleo > Ofertas de Programador, Arquitecto y Jefe de Proyecto Java J2ee
+
+Expertos Java
+Programadores, Jefe de Proyecto y Arquitecto
+
+Nuestro cliente, debido al importante crecimiento de proyectos que ha experimentado, requiere incorporar a su plantilla varios perfiles Java. A nivel general es una empresa que apuesta por el Cloud Computing, BigData, Desarrollo Web, Movilidad y Usabilidad.
+
+Buscamos los siguientes perfiles:
+• Programador Java: La persona que encajaría en este puesto aporta al menos dos años de experiencia en Java, y ha trabajado principalmente con Spring.
+Salario entre 25.000 - 28.000 + Bonus + TR + Seguro médico (dependiendo de capacidades de análisis)
+• Jefe de Proyecto: La persona que encajaría en este puesto aporta al menos dos años de experiencia en gestión de proyectos y equipos de entre 5-10 personas. Además buscamos alguien con fuerte background técnico. El entorno sería principalmente con Spring. Valorable certificación en SCRUM.
+Salario entre 32.000 - 35.000 + Bonus + TR + Seguro Médico
+• Arquitecto Java: La persona que encajaría en este puesto aporta al menos tres años de experiencia como Arquitecto Java JEE, buen nivel de inglés, y motivación e interés por especializarse en el negocio financiero y en sus herramientas.
+Salario entre 32.000 - 35.000 + Bonus + TR + Seguro Médico
+
+Descripción general:
+
+Estas son las tecnologías que tienen: Spring IOC 3.x, Spring Webflow 2.x o Spring Security 3, JQuery, Json, Hibernate, Eclipse, Subversion, Tomcat, Jboss, integración continua (Jenkins/Hudson, Subversion/GIT, Maven/Ant) bajo metodologías ágiles de desarrollo (p.ej. Scrum).
+
+Si estás interesad@ sólo tienes que remitirnos tu CV. Asímismo si conoces alguien que pueda estarlo, no dudes en facilitar mi contacto.
+
+#J-18808-Ljbffr
+
+Original job Ofertas de Programador/ Arquitecto y Jefe de Proyecto Java J2ee posted on GrabJobs ©. To flag any issues with this job please use the Report Job button on GrabJobs.",[],Software,2025-07-15T00:00:00.000Z,https://grabjobs.co/us/job/full-time/others/ofertas-de-programador-arquitecto-y-jefe-de-proyecto-java-j2ee-78522534?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+438a6fdcb1cb7a9f66ef2a4b41d5b2fb,rapidapi1,"Analista Programador/a Senior (NodeJS, Java, JavaScript) - Remoto (=)",Between Technology,"None, US","En BETWEEN te ofrecemos las oportunidades que necesitas para alcanzar tus objetivos profesionales. Si quieres desarrollar tus capacidades en IT e Ingeniería ¡este es tu próximo destino!
+Damos soporte en una gran variedad de áreas como Firmware, Software, BI, Diseño, Project Management y muchas más. Además, desarrollamos soluciones tecnológicas a medida desde nuestros BETWEEN Labs.
+Estamos buscando un Analista Programador/a Senior (NodeJS, Java, JavaScript) para ampliar uno de nuestros equipos en remoto.
+Funciones
+• Escribir código para implementar servicios de software, junto con otros miembros del equipo de Desarrollo.
+• Será persona responsable de aplicar mejoras en la aplicación y desarrollar nuevas funcionalidades, según las necesidades actuales y futuras
+• Coordinarse con el equipo de QA para descubrir y resolver incidencias.
+• Modificar especificaciones técnicas.
+• Participar en el desarrollo, prueba e implementación de código limpio en un entorno DevOps.
+• Realizar guardias de emergencia en el caso de que el proyecto lo requiera.
+
+Condiciones
+• 100% remoto.
+• Disponibilidad para trabajar en horario USA (+6h España).
+
+Beneficios
+• Seguro médico con Sanitas, asegurando tu bienestar y el de tu familia.
+• Oportunidades de formación en idiomas, certificaciones, bootcamps y mucho más para potenciar tus habilidades y conocimientos.
+• Acceso a una multitud de eventos corporativos, como BETWEEN Night, Torneo de Padel, Black Mamba Race y muchos más, para fomentar el compañerismo y la diversión.
+• Retribución flexible que incluye opciones en restaurant, transporte y guardería para adaptarse a tus necesidades personales.
+• Incentivos por validar o recomendar talento, premiando la colaboración y el trabajo en equipo.
+
+En BETWEEN valoramos la diversidad y creemos firmemente que cada miembro de nuestro equipo aporta una visión única que enriquece nuestro entorno laboral. Si cuentas con un mínimo de 3 años de experiencia en desarrollo y un fuerte compromiso con la excelencia técnica, te animamos a formar parte de esta apasionante aventura tecnológica.
+Ofrecemos un entorno dinámico y flexible, agradecemos la iniciativa y la proactividad y nos comprometemos a proporcionar todas las herramientas necesarias para que puedas crecer profesionalmente y contribuir al éxito de nuestros proyectos.
+Si estás listo para dar el siguiente paso en tu carrera y unirte a un equipo en constante evolución que trabaja en proyectos innovadores y desafiantes, ¡te estamos esperando!
+Requisitos
+• Conocimiento de los siguientes lenguajes: Node.JS, JavaScript, Java.
+• Experiencia en la implementación y uso de API RESTful.
+• Experiencia con tecnologías de hosting como Docker, Kubernetes, Lambda.
+• Experiencia con control de código fuente, sistemas de compilación y herramientas de prueba.
+• Experiencia con AWS u otras tecnologías en la nube.
+• Experiencia con bases de datos relacionales (Postgres) o bases de datos en caché (Redis).
+• Licenciatura en Ciencias de la Computación, Ingeniería de Software o campo técnico relacionado.
+• Excelentes habilidades de comunicación escrita y verbal en inglés.
+• Experiencia en el desarrollo de software con metodología Agile/Scrum/Kanban.
+
+Analista Programador/a .NET - Remoto (=)
+Analista Programador Microservicios con SPRING BOOT. TELETRAABAJO #J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/analista-programador-nodejs-java-javascript-jobs/435443CD2D8C06D5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+bdad65a31893029edf11b0c7f141f020,rapidapi1,Ingeniero de Sistemas / Diseñador / Programador,"Digital Surroundings, LLC","None, US","Beneficios:
+• Bonificación basada en el rendimiento
+• Salario competitivo
+• Seguro dental
+• Seguro de enfermedad
+• Oportunidad de ascenso
+• Tiempo libre remunerado
+• Seguro de la vista
+
+Resumen del trabajo:
+
+¿Quieres trabajar en proyectos a gran escala implementando la última tecnología? ¿Está buscando ampliar su alcance de responsabilidades? Tenemos una oportunidad inmediata para un Ingeniero de Sistemas responsable de diseñar, programar e integrar sistemas complejos.
+
+Digital Surroundings es una empresa de consultoría tecnológica e integración de sistemas que ofrece soluciones de entretenimiento y automatización de edificios a gran escala. Diseñamos, construimos, ponemos en marcha y brindamos soporte continuo para clientes residenciales y comerciales. Nuestras soluciones incluyen redes, automatización, audiovisual, medio ambiente, iluminación y gestión energética, etc.
+
+Buscamos experiencia, competencia técnica y excelentes habilidades de servicio al cliente. Lo más importante es que queremos miembros del equipo apasionados por nuestra industria y tecnología.
+
+Responsabilidades clave del trabajo:
+• Crear documentación de diseño e ingeniería para todos los aspectos de un proyecto
+• Programación completa de sistemas avanzados, incluidos Savant, Lutron, Control 4, etc.
+• Diseñe, programe y gestione entornos de redes cableadas e inalámbricas
+• Preconfigurar, poner en marcha, probar y capacitar a los clientes sobre el funcionamiento de sus nuevos sistemas.
+• Proporcionar solución de problemas avanzada de sistemas simples y complejos
+• Realice un seguimiento del progreso del proyecto reuniéndose con arquitectos, contratistas generales y subcontratistas
+• Ser líder en la integración de los proyectos de los clientes asegurando el correcto funcionamiento de todos los equipos y software
+• Completar o haber completado la capacitación y las certificaciones con los principales fabricantes
+
+Requisitos mínimos para el trabajo:
+• 3-5+ años de experiencia en la industria
+• Excelentes habilidades de instalación, configuración y resolución de problemas del sistema
+• Habilidades informáticas y de redes avanzadas, incluidas Juniper Networks, Fortinet, Ruckus
+• Experiencia / certificaciones con: Savant, Lutron, Control 4 etc
+• Se valorarán las certificaciones con CEDIA y/o AVIXA
+• Las habilidades sólidas de comunicación verbal y escrita son fundamentales
+• Altamente detallado, organizado y orientado a la multitarea
+• Excelentes habilidades con la informática de escritorio, incluyendo Visio, CAD, Office 365 y D-tools
+
+Nuestros paquetes de compensación se basan en su experiencia e incluyen vacaciones, beneficios de salud y oportunidades de bonificación. Nos enfocamos en el crecimiento de los empleados a través de la capacitación y la certificación y lo apoyaremos en el crecimiento de sus habilidades.
+
+Buscamos emprendedores. ¡Póngase en contacto con nosotros hoy mismo y hablemos de las posibilidades!",[],Software,,https://digital-surroundings-llc.careerplug.com/jobs/2477293/apps/new?loc=es&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+f48a1dcbf0940558f73ce5cca084621b,rapidapi1,Programador/A Senior,Whatjobs,"Manresa, US","Precisamos incorporar perfil de Programador/a Senior o Analista Programador/a, con experiencia en desarrollo en VB .NET, con un mínimo de 4 años.IMPORTANTE:
+es modalidad de trabajo presencial en zona Manresa.Buscamos un perfil técnico en desarrollo de software para trabajar dando apoyo y ayuda al Responsable de Software.Funciones:
+-Desarrollo de nuevas aplicaciones informáticas (programación, verificación de la funcionalidad y formación de la aplicación):
+VB.Net (.Net framework), SQL Server.-Implantación, formación al personal y documentación de todo los proyectos.-Mantenimiento y resolución de incidencias diarias de las aplicaciones requeridas por el proyecto.Responsabilidades:
+-Responsable del óptimo desarrollo, documentación e implantación los proyectos asignados.Requisitos:
+-Formación minima:
+Formación técnica en informática de gestión o Programación (VB.NET, SQL Server)-Experiencia mínima de 4 años en entornos de programación en VB.NET y SQL server.Se valorará:
+-Experiencia en React.Js y Node.JsCompetencias:
+-Adaptación al cambio y flexible.-Capacidad de atención y resolutivo.-Compromiso con la empresa y el equipo.-Motivación personal, implicación con las funciones propias del puesto de trabajo.-Organizado y trabajo en equipo-Es necesario que sea proactivo y que tenga buen trato con cliente-Buena capacidad de comunicación.Se ofrece:
+-Te unirás a Plexus Tech, un equipo de +3700 personas desarrollando soluciones tecnológicas con flexibilidad laboral, planes de carrera y formación.-Incorporación inmediata.-Retribución a convenir según valía del candidato.-Contratación Indefinida.-Beneficios sociales.Plexus Tech mantiene un compromiso firme con las políticas de Igualdad de empresa. Todos nuestros procesos de selección tienen en cuenta la igualdad de oportunidades entre hombres y mujeres de forma transversal, quedando esto reflejado en nuestro Plan de Igualdad. Fomentamos la igualdad de trato y de oportunidades para toda persona, de modo que ninguna razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social cause discriminación. En particular, la organización está comprometida con la creación de un contexto favorable a la diversidad y avance en la erradicación de la discriminación de las personas LGTBI, independientemente de su orientación e identidad sexual o su expresión de género.",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/programador-a-senior-jobs/4AC1EE7E3397ED2F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18

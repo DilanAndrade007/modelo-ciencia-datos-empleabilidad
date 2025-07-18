@@ -1,0 +1,1154 @@
+job_id,source,job_title,company,location,description,skills,careers_required,date_posted,url,career_tag,soft_skills_detected,extraction_date
+078b50102749474e9725831d331ab5e9,rapidapi1,Ingeniero(a) de Software,Capital One,"Dorchester, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+
+Software Engineer - Full Stack
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you&ll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers
+
+who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you&ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+What You&ll Do:
+• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies
+• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community
+• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+• Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+Basic Qualifications:
+• Intermediate-Advanced English fluency
+• Bachelor&s Degree
+• At least 1.5 years of experience in software engineering (Internship experience does not apply)
+
+Preferred Qualifications:
+• 3+ years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, or Go
+• 1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+• 2+ years of experience in open source frameworks
+• 2+ years of experience in Agile practices
+
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+
+For technical support or questions about Capital One&s recruiting process, please send an email to
+
+Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Intermediate-Advanced English fluency', 'Bachelor&s Degree', 'At least 1.5 years of experience in software engineering (Internship experience does not apply)', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community', 'Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment', 'Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services']",Software,2025-07-16T00:00:00.000Z,https://www.jobserve.com/us/en/extjob/INGENIERO-in-Dorchester-Iowa-USA-0374E9758E927EBA66/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+11e7f7747b4e2699d2e082a7ad1af7a1,rapidapi1,Ingeniero de software superior,Different Health,"None, US","Who we are: Different Health is a high-performance health company for people who expect more. We bring clinical-grade health optimization into the workplace—so high performers don’t have to choose between working hard and staying healthy. We make elite diagnostics and personalized plans radically more accessible, right where people spend their time: the office. Our platform enables companies to offer personalized health testing and insights—covering everything from nutrition to recovery and resilience—designed to optimize both well-being and performance. We’re growing fast, with a passionate, cross-disciplinary team, and are now looking for a
+
+Senior Full-Stack Engineer to join us in building the future of proactive healthcare.
+About the Role
+
+As a Senior Full-Stack Engineer, you’ll own the end-to-end development of product features that drive real impact for our clients and their teams:
+• Frontend: Build responsive, accessible interfaces using Next.js, TypeScript, and SCSS.
+• Backend: Design and implement APIs and services using Fastify and Node.js.
+• Infrastructure: Deploy, monitor, and scale our platform on Google Cloud Platform (GCP).
+• Databases: Model and work with non-relational databases like MongoDB or similar.
+
+You’ll work closely with product, design, and other engineers to deliver high-quality, data-driven features that help users take control of their health.
+Tech Stack
+
+Frontend: Next.js, TypeScript, SCSS
+
+Backend: Node.js, Fastify
+
+Databases: MongoDB, Firestore, or similar
+
+Cloud: Google Cloud Platform
+
+DevOps: CI/CD pipelines, Docker, Cron jobs, Terraform (optional)
+
+Tools: Bitbucket, GitHub, Linear, Slack, etc.
+
+AI: Cursor, Claude Code, Gemini CLI, agents, etc.
+What You’ll Bring
+• 3+ years of experience in web development, ideally in fast-paced SaaS or health-tech environments.
+• Proficiency with TypeScript, React / Next.js, Node.js, and SCSS.
+• Experience with Fastify or similar backend frameworks.
+• Solid understanding of non-relational databases.
+• Experience with cloud infrastructure, especially Google Cloud Platform.
+• Familiarity with software architecture principles (e.g., Clean Architecture, DDD).
+• A strong product mindset—you care about the why behind the what.
+
+Bonus Points
+• Experience in fast-growing startups or early-stage teams.
+• Experience working in or with wellness.
+• Passion for testing (unit / integration / e2e).
+
+Short-Term Goals
+
+In your first few months, you'll focus on high-impact initiatives that will strengthen the foundation of our platform and accelerate delivery:
+• Improve the visual design and UX.
+• Elevate the interface quality and ensure consistency across all user journeys.
+• Implement access control and user roles, setting up granular permissions to support enterprise use cases.
+• Strengthen security controls, reviewing and enhancing security practices to ensure compliance and user trust.
+
+What We Offer
+
+Competitive salary (TBD by location). 100% remote work available. Subsidized wellness perks. The opportunity to help shape the future of preventive health.
+Hiring Process
+
+We move fast and value your time. Our goal is to wrap up the process within 2 weeks:
+• Intro Call (30 min)
+• Small project (1-3 hours)
+• Call to discuss the reasoning behind your work (30 min)
+• Final interviews (60 min)
+#J-18808-Ljbffr","['Backend: Node.js, Fastify', 'Databases: MongoDB, Firestore, or similar', 'Cloud: Google Cloud Platform', 'Tools: Bitbucket, GitHub, Linear, Slack, etc', '3+ years of experience in web development, ideally in fast-paced SaaS or health-tech environments', 'Proficiency with TypeScript, React / Next.js, Node.js, and SCSS', 'Experience with Fastify or similar backend frameworks', 'Solid understanding of non-relational databases', 'Experience with cloud infrastructure, especially Google Cloud Platform', 'Familiarity with software architecture principles (e.g., Clean Architecture, DDD)', 'A strong product mindset—you care about the why behind the what', 'Experience in fast-growing startups or early-stage teams', 'Experience working in or with wellness', 'Passion for testing (unit / integration / e2e)', 'Intro Call (30 min)', 'Small project (1-3 hours)', 'As a Senior Full-Stack Engineer, you’ll own the end-to-end development of product features that drive real impact for our clients and their teams:', 'Frontend: Build responsive, accessible interfaces using Next.js, TypeScript, and SCSS', 'Backend: Design and implement APIs and services using Fastify and Node.js', 'Infrastructure: Deploy, monitor, and scale our platform on Google Cloud Platform (GCP)', 'Databases: Model and work with non-relational databases like MongoDB or similar', 'You’ll work closely with product, design, and other engineers to deliver high-quality, data-driven features that help users take control of their health', 'Frontend: Next.js, TypeScript, SCSS', 'AI: Cursor, Claude Code, Gemini CLI, agents, etc', ""In your first few months, you'll focus on high-impact initiatives that will strengthen the foundation of our platform and accelerate delivery:"", 'Improve the visual design and UX', 'Elevate the interface quality and ensure consistency across all user journeys', 'Implement access control and user roles, setting up granular permissions to support enterprise use cases', 'Strengthen security controls, reviewing and enhancing security practices to ensure compliance and user trust', 'Call to discuss the reasoning behind your work (30 min)']",Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-superior-jobs/9D4D7782A571C36B?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+e6e0833978a065d1d066aeb3094335eb,rapidapi1,Ingeniero(a) de Software,Capital One,"Plano, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico Lead Software Engineer - Full Stack Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Lead Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One. What You’ll Do: Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services Basic Qualifications: Bachelor’s Degree At least 6 years of experience in software engineering (Internship experience does not apply) At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud) Preferred Qualifications: Master's Degree At least 7 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, or Go At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service At least 4 years of experience in open source frameworks At least 1 year of people management experience At least 2 years of experience in Agile practices At this time, Capital One will not sponsor a new applicant for employment authorization for this position. At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws. For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site. Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.
+
+Location: EL PUEBLITO, Estado de Queretaro de Arteaga, MX
+
+Posted Date: 7/15/2025",[],Software,2025-07-14T00:00:00.000Z,https://www.internationaljobs.com/job/details/25533171/ingeniero-a-de-software?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+97061af194a7a52499c03642d5a46356,rapidapi1,Ingeniero de Prueba Avanzada,WNC Corporation,"Ranson, US","We are a leading company in the wireless broadband communications industry looking for talented professionals with a winning attitude.
+
+Job Description
+• 開發自動化設備以符合客戶(產線生產)需求
+• 設計自動化設備電路符合電工法規與ISO13849-1規範
+• 開發自動化設備PLC/HMI程式參照MSD方式並模組化降低設計工時與異常發生
+• 開發FANUC Robot TP 程式並模組化降低設計工時與異常發生
+• 設計自動化設備圖面/文件/Source code並歸檔，提高模組套用機制降低設計工時
+• review 同仁設計並提供優化改善建議，以提高設備OEE
+• 指導同仁Debug方式並協助分析問題Root cause，預防異常再發生
+
+Education
+
+Work Experience
+
+Language",[],Software,,https://www.linkedin.com/jobs/view/ingeniero-de-prueba-avanzada-at-wnc-corporation-4157145121?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+f311db4e6ee4b93e33ad5219094d16d2,rapidapi1,Ingeniero(a) Senior de Software,Capital One,"Nebraska City, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+Senior Software Engineer - Full Stack
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+What You’ll Do:
+Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+Basic Qualifications:
+Intermediate-Advanced English fluency
+Bachelor’s Degree
+At least 3 years of experience in software engineering (Internship experience does not apply)
+Preferred Qualifications:
+5+ years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, or Go
+1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+3+ years of experience in open source frameworks
+2+ years of experience in Agile practices
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Intermediate-Advanced English fluency', 'Bachelor’s Degree', 'At least 3 years of experience in software engineering (Internship experience does not apply)', '5+ years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, or Go', '1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service', '3+ years of experience in open source frameworks', '2+ years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community', 'Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services']",Software,2025-07-15T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-jobs/46B310F334C4DA53?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+9951af60dbf867d2a6786af587f2f318,rapidapi1,Ingeniero De Software Java | Kafka,buscojobs España,"None, US","atSistemas evoluciona a knowmad mood! Somos casi 3.000 talentos, pero ¡nos faltas tú! Si te apasiona el desarrollo Back-End y disfrutas de proyectos creativos, queremos que crezcas con nosotros. Únete a una empresa que valora y reconoce tu esfuerzo.
+
+Buscamos profesionales que cumplan con los siguientes requisitos (no te preocupes si no los tienes todos, aún puedes ser perfecto para el puesto):
+• Java +11
+• Spring Boot
+• Microservicios
+• Kafka
+• Scrum
+• IntelliJ
+• Nivel fluido de inglés
+
+¿Qué ofrecemos?
+Nuestra Filosofía
+• Personas en el centro: cuidamos de las personas, fomentamos un ambiente positivo y relaciones saludables.
+• Flexibilidad y Conciliación: smartworking y flexibilidad horaria para equilibrar vida laboral y familiar.
+• Desarrollo Profesional: mapa de carreras, programa de certificaciones y cursos para formación continua.
+• Diversidad e Inclusión: promovemos un entorno inclusivo.
+• Bienestar y Felicidad: iniciativas como QUOKKA! para la salud y bienestar.
+
+Beneficios
+• 22 días de vacaciones + 2 días de libre disposición, cierre en 24 y 31 de diciembre.
+• Eventos tecnológicos y encuentros informales.
+• Salario abierto a negociación.
+
+¿Qué buscamos en ti?
+• Pasión por aprender y crecer.
+• Experiencia que te permita trabajar de forma autónoma, en equipo y con código sin supervisión constante.
+
+Si encajas en lo anterior, ¡contáctanos!
+#J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-java-kafka-jobs/2E6F54182BD4B615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+1410fb6c15c830421a6e58324c7bf1cd,rapidapi1,"Ingeniero de Proyecto, Salas blancas",HEMAV,"None, US","We're pleased to be able to offer an exciting opportunity to join us at Voodoo Park. We're looking for a talented Front End Engineer to work on a new Fintech project. If you'd like the opportunity to join our exciting team and think you have the skills to match, then please get in touch!
+
+Please note applicants must be a UK, EU or SA citizen that also resides in either of those territories.
+
+Accountabilities and Deliveries
+• Contribute to the design and development of software components within a defined quality standard
+• Define, implement and contribute to User Experience guidelines collaboratively for software products
+• Resolve issues, defects and queries raised at any phase of development or production in a timely and professional manner
+• Follow configuration management processes to deploy code
+• Understand and follow the development processes, protocols, methods and tools
+• Conduct quality reviews of own deliverables and deliverables from peers
+• Provide sizing on technical development tasks
+• Report progress regularly, escalating matters as appropriate
+• Mentor and coach more junior members of staff
+• Provide client support where necessary
+• Build knowledge of latest technologies and processes
+• Build knowledge of the clients’ business in relation to products
+• Build knowledge of products, relevant markets and regulatory requirements
+
+Key Relationships
+• You will work very closely with your delivery team, typically comprising analysts, Quality Engineers and other Engineers, to deliver your joint project goals
+• You will work closely with Product Managers to elicit and engineer a desirable user experience for the software products the team is responsible for.
+• You will liaise with your engineering team lead, ensuring development is completed within agreed quality levels
+• You will also work closely with other delivery teams and colleagues across the business, to ensure the overall project goals are successfully delivered
+• You may be asked to discuss project matters with our clients
+• Your engineering team lead will meet with you regularly to discuss your personal progress against objectives and development plan.
+
+Required Skills & Experience
+• UI Regression Testing Framework (Playwright)
+• Automated Web Accessibility Testing (WCAG)
+• GitHub
+• AWS (or other cloud computing provider)
+• Remix / React-Router
+• Webpack / Vite
+• Test Driven Development
+• Build pipelines - TeamCity / Buildkite
+• Docker
+
+Knowledge and Attributes
+• Experience of a project through the life cycle of development and into production
+• Experience of developing and enhancing the user experience of web applications
+• Knowledge and experience of developing within an object-oriented development environment
+• Knowledge and experience of developing within an agile project framework
+• Knowledge of source control, release management, testing and task management, working within a team environment (including application lifecycle management)
+• Knowledge of Financial Services solutions (Mortgages, Life Insurance, Retirement, Wealth Mgt)
+• You have good interpersonal and communication skills (both written and verbal)
+• You are an analytical thinker, with a logical approach to solutions and problem solving
+• You are able to work well under pressure and manage own time appropriately
+• You are able to work well on an individual basis and within a team
+• You are able to seek appropriate support from developer community / supporting peers
+• You are self-motivated, proactive with a positive attitude
+• You have a flexible approach and mind-set, and can adapt to changes in projects and priorities
+• Yoodoo - You can go offline and spend 2 hours of your work time every week on any activity that serves your mental or physical health
+• You will get 25 days paid Annual Leave per annum
+• Additional paid day off for festivals, your birthday, any celebration
+• Paid maternity leave
+• Paid paternity leave
+• Paid sick leave
+• Union - who provide assistance and service to everyone at VDP
+• Contract until the end of 2025 with a possibility of an extension beyond
+
+About VDP
+
+Founded 12 years ago in the UK, our company has a worldwide team that offers technology services.
+
+We help various clients, including those without their own developers. For them, we build entire teams to develop software from the ground up. We also assist clients who already have platforms and development teams but need help speeding up their work or starting new projects.
+
+Our skills include a broad range of technologies such as C#, Python, C++, Angular, React, Node.js, and both native and hybrid app development, as well as AI. Since we started, we have always worked remotely, so we don’t have an office, and everyone works from home.
+
+We are a certified B Corp and have proven we are a force for good for our Employees, our Customers, our suppliers, our Communities and the Environment.
+
+10% of what we make goes to our VDP Trust, helping to support projects for Women and Girls around the world.
+
+Through our work, our values and our actions, we aim to be a force for good, not just for ourselves and our customers, but for our communities and the world at large.
+
+We have four values that we all live by : Collaborate, Compassion, Honesty, and Inclusion.
+
+J-18808-Ljbffr
+#J-18808-Ljbffr","['UI Regression Testing Framework (Playwright)', 'Automated Web Accessibility Testing (WCAG)', 'GitHub', 'AWS (or other cloud computing provider)', 'Remix / React-Router', 'Webpack / Vite', 'Test Driven Development', 'Build pipelines - TeamCity / Buildkite', 'Docker', 'Experience of a project through the life cycle of development and into production', 'Experience of developing and enhancing the user experience of web applications', 'Knowledge and experience of developing within an object-oriented development environment', 'Knowledge and experience of developing within an agile project framework', 'Knowledge of source control, release management, testing and task management, working within a team environment (including application lifecycle management)', 'Knowledge of Financial Services solutions (Mortgages, Life Insurance, Retirement, Wealth Mgt)', 'You have good interpersonal and communication skills (both written and verbal)', 'You are an analytical thinker, with a logical approach to solutions and problem solving', 'You are able to work well under pressure and manage own time appropriately', 'You are able to work well on an individual basis and within a team', 'You are able to seek appropriate support from developer community / supporting peers', 'You are self-motivated, proactive with a positive attitude', 'You have a flexible approach and mind-set, and can adapt to changes in projects and priorities', 'Yoodoo - You can go offline and spend 2 hours of your work time every week on any activity that serves your mental or physical health', 'Contract until the end of 2025 with a possibility of an extension beyond', 'Contribute to the design and development of software components within a defined quality standard', 'Define, implement and contribute to User Experience guidelines collaboratively for software products', 'Resolve issues, defects and queries raised at any phase of development or production in a timely and professional manner', 'Follow configuration management processes to deploy code', 'Understand and follow the development processes, protocols, methods and tools', 'Conduct quality reviews of own deliverables and deliverables from peers', 'Provide sizing on technical development tasks', 'Report progress regularly, escalating matters as appropriate', 'Mentor and coach more junior members of staff', 'Provide client support where necessary', 'Build knowledge of latest technologies and processes', 'Build knowledge of the clients’ business in relation to products', 'Build knowledge of products, relevant markets and regulatory requirements', 'You will work very closely with your delivery team, typically comprising analysts, Quality Engineers and other Engineers, to deliver your joint project goals', 'You will work closely with Product Managers to elicit and engineer a desirable user experience for the software products the team is responsible for', 'You will liaise with your engineering team lead, ensuring development is completed within agreed quality levels', 'You will also work closely with other delivery teams and colleagues across the business, to ensure the overall project goals are successfully delivered', 'You may be asked to discuss project matters with our clients', 'Your engineering team lead will meet with you regularly to discuss your personal progress against objectives and development plan']",Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-proyecto-salas-blancas-jobs/C8BC3E35817D46C3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+5678a296dc4da85b9646c9c6dd0ae0d1,rapidapi1,Ingeniero/a de Software Frontend,NTT DATA Europe & Latam,"Seville, US","NTT DATA somos todas las personas que la formamos. Un equipo de más de 190.000 profesionales, tan diverso como diversos son los más de 50 países en los que estamos presentes y los diferentes sectores en los que desarrollamos nuestra actividad.
+
+¿Nuestra misión? Ofrecer soluciones tecnológicas, de negocio, estrategia, desarrollo y mantenimiento de aplicaciones, siendo un referente en consultoría. Todo gracias a la colaboración entre equipos, la calidad humana de nuestra gente y a que no nos conformamos con lo establecido, buscamos siempre la innovación que nos acerca al futuro.
+
+Nuestra esencia nos ha llevado a la vanguardia de la tecnología, a romper paradigmas y a brindar las soluciones que realmente se corresponden a las necesidades de cada cliente. Nuestro talento nos ha hecho poder decir con orgullo que somos una de las 6 empresas TOP de tecnologías en el mundo.
+
+¿Te gustaría formar parte de este equipo? Buscamos profesionales de desarrollo frontend para un gran cliente multinacional español del sector textil, que tengan motivación por crecer y desarrollar una carrera profesional dentro del cliente, trabajando en proyectos de gran envergadura, acompañados de un plan de formación y con mucha flexibilidad.
+
+Requisitos
+• Buen nivel de js y TypeScript
+• CSS
+• React / React Native / Vue.js / Nuxt.js / AngularJS
+• Redux / Vuex / Pinia
+• Swagger
+• Test con jest y Cypress
+• Buen nivel con GIT
+• Experiencia trabajando en entornos Cloud (Azure, AWS, GCP)
+
+¿Qué te ofrecemos?
+• Salario competitivo acorde a tu perfil, ámbito de especialización tecnológica y aportación de valor en conocimiento y experiencia.
+• Proceso de revisiones salariales acorde a la evolución dentro de la cuenta de cliente.
+• Contrato indefinido a jornada completa y estabilidad laboral.
+• Beneficios sociales y retribución flexible (opción de seguro médico para ti y tus familiares).
+• Plan de formación y certificaciones que te permitan desarrollar conocimientos y capacidades dentro de la cuenta del cliente.
+• Modelo híbrido de teletrabajo, horario y presencialidad a convenir con el cliente.
+
+Apúntate y ven a formar parte de una de las mayores compañías de IT del mundo. ¡Te estamos esperando!",[],Software,2025-07-15T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-frontend-jobs/42E6B7AFE17AC2F8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+705cfdbdbe528569a0f2fd383776aa7d,rapidapi1,Ingeniero de Software III,"Omega Enterprise Solutions, LLC","Annapolis Junction, US","Beneficios:
+• 401(k)
+• Igualación de 401(k)
+• Salario competitivo
+• Seguro dental
+• Horario flexible
+• Seguro de enfermedad
+• Tiempo libre remunerado
+• Permiso por paternidad
+• Participación en las utilidades
+• Formación y desarrollo
+• Seguro de visión
+
+Ingeniero de Software III (SWE-III)
+
+Omega Enterprise Solutions es una pequeña empresa propiedad de veteranos discapacitados en servicio (SDVOSB) con sede en Maryland con un enfoque especial en la misión del Departamento de Defensa de los EE. UU. (DoD) y la Comunidad de Inteligencia (IC) y las tecnologías habilitadoras. Estamos construyendo un equipo con valores compartidos y pasión por nuestra Visión y Misión. Además de brindar oportunidades de crecimiento profesional que son innovadoras y desafiantes y de misión crítica para nuestros clientes, enfatizamos un enfoque diario centrado en la vida. Estamos comprometidos con el aprendizaje permanente y brindamos un método de gestión de coaching de vida para empoderarlo e inspirarlo a convertirse en la mejor versión de sí mismo en la búsqueda de una vida feliz, saludable y satisfactoria.
+
+Descripción
+
+El ingeniero de software (SWE) diseña, desarrolla, mantiene, mejora y documenta los sistemas de software. Dependiendo de la función, el nivel de habilidad y la complejidad del sistema del SWE, el SWE puede realizar todas o algunas de estas funciones. En los niveles más bajos, la SWE puede trabajar bajo estrecha supervisión como miembro de un equipo utilizando especificaciones bien definidas para desarrollar o mantener sistemas no complejos. En los niveles más altos, los SWE pueden trabajar de forma independiente o en un papel técnico principal, desarrollando la arquitectura y los requisitos del sistema, definiendo procesos y metodologías, resolviendo cuestiones técnicas complejas o problemas de investigación, y pueden tener la responsabilidad de dirigir las actividades de software de un programa grande.
+
+Habilidades
+
+• Analizar los requisitos del sistema para derivar los requisitos funcionales y de rendimiento del software
+• Ayudar en el desarrollo de un diseño de software a partir de los requisitos o especificaciones del software
+• Desarrollar software que cumpla con los requisitos funcionales y de rendimiento del sistema
+• Ayudar con el desarrollo y ejecución de procedimientos de prueba de integración para componentes de software
+• Practicar la calidad del software mediante el uso de herramientas o procesos (por ejemplo, análisis de código estático, cobertura de código, programación entre pares)
+• Contribuir a la documentación del software del proyecto
+• Desarrollar software de acuerdo con una metodología de desarrollo de software estructurada (por ejemplo, Agile, Spiral, Extreme, etcétera).
+
+Calificaciones
+
+Este puesto requiere una autorización de seguridad activa adecuada y un polígrafo.
+
+Se requiere una Licenciatura en Ciencias de la Computación o una disciplina relacionada (Nota 1). También se requieren seis (6) años de experiencia como ingeniero de software, o se requiere una Maestría en Ciencias de la Computación o una disciplina relacionada (Nota 1). También se requieren cuatro (4) años de experiencia como ingeniero de software, o se requiere un diploma de escuela secundaria (o GED) con diez (10) años de experiencia en ingeniería de software.
+
+Omega Enterprise Solutions es un empleador que ofrece igualdad de oportunidades. Todos los solicitantes de empleo calificados son considerados para todos los puestos sin distinción de raza, color, religión, origen nacional, sexo, orientación sexual, identidad de género, edad, discapacidad, estado de veterano o cualquier otra clase protegida.",[],Software,,https://omega-enterprise-solutions-llc.careerplug.com/jobs/2588564?loc=es-US&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+4a3b208470aea5ed3bb5d36435f1ab48,rapidapi1,Ingeniero/A De Software Front-End | Angular,buscojobs España,"None, None","En CORUS queremos incorporar a personas recién tituladas o programadores juniors (Ingeniería Informática, Física o Matemáticas) que formarán parte de nuestro equipo de proyectos IT y participarán en las siguientes áreas de negocio:
+
+Ubicación: 100% remoto desde España.
+
+Requisitos: nivel de inglés B2-C1.
+
+Responsabilidades:
+• Levantamiento de procesos.
+• Análisis de datos y mejora continua.
+• Integración con Bus de Servicios, arquitecturas orientadas a servicios y mensajería.
+• Desarrollo de servicios en FLOW, JAVA, .NET.
+• Creación y prueba de soluciones RPA, mantenimiento y soporte en producción.
+• Creación de paneles de supervisión del rendimiento.
+• Estimación de duración de automatizaciones y documentación de soluciones.
+• Diseño de arquitectura completa de sistemas IoT (front, back, base de datos, integraciones).
+• Formación en herramientas IoT y CEP (Plataforma de Eventos).
+• Desarrollo de microservicios y programación en Java con Spring para web.
+• Trabajo con objetos JSON, provisión y consumo de APIs REST.
+• Gestión de dependencias con Maven o Gradle.
+• Protocolos de mensajería en IoT y pruebas con clientes (REST, MQTT, OPC UA, etc.).
+• Desarrollo, gestión, publicación y consumo de APIs REST/SOAP.
+
+Condiciones: Teletrabajo 100% desde España, retribución flexible, plan de formación personalizado.
+
+Equipo y entorno:
+• Equipo humano centrado en las personas.
+• Entorno dinámico con oportunidades de crecimiento profesional.
+• Participación en proyectos internacionales de alto valor tecnológico.
+
+En CORUS valoramos la diversidad y no excluimos a nadie por motivos de raza, color, edad, sexo, estado civil, ideología, opiniones políticas, nacionalidad, religión, orientación sexual u otras condiciones personales.
+#J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-front-end-jobs/51097A47F8B81E44?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+11e7f7747b4e2699d2e082a7ad1af7a1,rapidapi1,Ingeniero de software superior,Different Health,"None, US","Who we are: Different Health is a high-performance health company for people who expect more. We bring clinical-grade health optimization into the workplace—so high performers don’t have to choose between working hard and staying healthy. We make elite diagnostics and personalized plans radically more accessible, right where people spend their time: the office. Our platform enables companies to offer personalized health testing and insights—covering everything from nutrition to recovery and resilience—designed to optimize both well-being and performance. We’re growing fast, with a passionate, cross-disciplinary team, and are now looking for a
+
+Senior Full-Stack Engineer to join us in building the future of proactive healthcare.
+About the Role
+
+As a Senior Full-Stack Engineer, you’ll own the end-to-end development of product features that drive real impact for our clients and their teams:
+• Frontend: Build responsive, accessible interfaces using Next.js, TypeScript, and SCSS.
+• Backend: Design and implement APIs and services using Fastify and Node.js.
+• Infrastructure: Deploy, monitor, and scale our platform on Google Cloud Platform (GCP).
+• Databases: Model and work with non-relational databases like MongoDB or similar.
+
+You’ll work closely with product, design, and other engineers to deliver high-quality, data-driven features that help users take control of their health.
+Tech Stack
+
+Frontend: Next.js, TypeScript, SCSS
+
+Backend: Node.js, Fastify
+
+Databases: MongoDB, Firestore, or similar
+
+Cloud: Google Cloud Platform
+
+DevOps: CI/CD pipelines, Docker, Cron jobs, Terraform (optional)
+
+Tools: Bitbucket, GitHub, Linear, Slack, etc.
+
+AI: Cursor, Claude Code, Gemini CLI, agents, etc.
+What You’ll Bring
+• 3+ years of experience in web development, ideally in fast-paced SaaS or health-tech environments.
+• Proficiency with TypeScript, React / Next.js, Node.js, and SCSS.
+• Experience with Fastify or similar backend frameworks.
+• Solid understanding of non-relational databases.
+• Experience with cloud infrastructure, especially Google Cloud Platform.
+• Familiarity with software architecture principles (e.g., Clean Architecture, DDD).
+• A strong product mindset—you care about the why behind the what.
+
+Bonus Points
+• Experience in fast-growing startups or early-stage teams.
+• Experience working in or with wellness.
+• Passion for testing (unit / integration / e2e).
+
+Short-Term Goals
+
+In your first few months, you'll focus on high-impact initiatives that will strengthen the foundation of our platform and accelerate delivery:
+• Improve the visual design and UX.
+• Elevate the interface quality and ensure consistency across all user journeys.
+• Implement access control and user roles, setting up granular permissions to support enterprise use cases.
+• Strengthen security controls, reviewing and enhancing security practices to ensure compliance and user trust.
+
+What We Offer
+
+Competitive salary (TBD by location). 100% remote work available. Subsidized wellness perks. The opportunity to help shape the future of preventive health.
+Hiring Process
+
+We move fast and value your time. Our goal is to wrap up the process within 2 weeks:
+• Intro Call (30 min)
+• Small project (1-3 hours)
+• Call to discuss the reasoning behind your work (30 min)
+• Final interviews (60 min)
+#J-18808-Ljbffr","['Backend: Node.js, Fastify', 'Databases: MongoDB, Firestore, or similar', 'Cloud: Google Cloud Platform', 'Tools: Bitbucket, GitHub, Linear, Slack, etc', '3+ years of experience in web development, ideally in fast-paced SaaS or health-tech environments', 'Proficiency with TypeScript, React / Next.js, Node.js, and SCSS', 'Experience with Fastify or similar backend frameworks', 'Solid understanding of non-relational databases', 'Experience with cloud infrastructure, especially Google Cloud Platform', 'Familiarity with software architecture principles (e.g., Clean Architecture, DDD)', 'A strong product mindset—you care about the why behind the what', 'Experience in fast-growing startups or early-stage teams', 'Experience working in or with wellness', 'Passion for testing (unit / integration / e2e)', 'Intro Call (30 min)', 'Small project (1-3 hours)', 'As a Senior Full-Stack Engineer, you’ll own the end-to-end development of product features that drive real impact for our clients and their teams:', 'Frontend: Build responsive, accessible interfaces using Next.js, TypeScript, and SCSS', 'Backend: Design and implement APIs and services using Fastify and Node.js', 'Infrastructure: Deploy, monitor, and scale our platform on Google Cloud Platform (GCP)', 'Databases: Model and work with non-relational databases like MongoDB or similar', 'You’ll work closely with product, design, and other engineers to deliver high-quality, data-driven features that help users take control of their health', 'Frontend: Next.js, TypeScript, SCSS', 'AI: Cursor, Claude Code, Gemini CLI, agents, etc', ""In your first few months, you'll focus on high-impact initiatives that will strengthen the foundation of our platform and accelerate delivery:"", 'Improve the visual design and UX', 'Elevate the interface quality and ensure consistency across all user journeys', 'Implement access control and user roles, setting up granular permissions to support enterprise use cases', 'Strengthen security controls, reviewing and enhancing security practices to ensure compliance and user trust', 'Call to discuss the reasoning behind your work (30 min)']",Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-superior-jobs/BE5C030B67DC76B0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+ebf09df77d01a72dc298d59c8f8e20f1,rapidapi1,Ingeniero​/a de Software,Capital One,"Rewey, US","Position: Ingeniero(a) de Software
+Location: Rewey
+WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+
+Lead Software Engineer - Full Stack
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies.
+
+As a Capital One Lead Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+What You’ll Do:
+
+Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+
+Utilize programming languages like JavaScript, Java, HTML/CSS, Type Script, SQL, Python, and Go, Open Source RDBMS and No
+
+SQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+Basic Qualifications:
+
+Advanced English fluency
+
+Bachelor’s Degree
+
+At least 4 years of experience in software engineering (Internship experience does not apply)
+
+At least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+
+Preferred Qualifications:
+
+Master's Degree
+
+7+ years of experience in at least one of the following:
+JavaScript, Java, Type Script, SQL, Python, or Go
+
+3+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+
+4+ years of experience in open source frameworks
+
+1+ years of people management experience
+
+2+ years of experience in Agile practices
+
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+
+For technical support or questions about Capital One's recruiting process, please send an email to
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Utilize programming languages like JavaScript, Java, HTML/CSS, Type Script, SQL, Python, and Go, Open Source RDBMS and No', 'SQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services', 'Advanced English fluency', 'Bachelor’s Degree', 'At least 4 years of experience in software engineering (Internship experience does not apply)', 'At least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)', ""Master's Degree"", '7+ years of experience in at least one of the following:', 'JavaScript, Java, Type Script, SQL, Python, or Go', '3+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service', '4+ years of experience in open source frameworks', '1+ years of people management experience', '2+ years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community']",Software,2025-07-16T00:00:00.000Z,https://www.learn4good.com/jobs/wisconsin/info_technology/4377557444/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+469c1e7726351e09f70c686200cebeaa,rapidapi1,Ingeniero de Software Full-stack Automotriz en Palo Alto,Trident Consulting,"Palo Alto, US","OFFER.JSON_DESC
+
+Salary
+
+Aplicar en sus términos
+
+Lugar de trabajo : Palo Alto, CA
+
+trad._.importantInformation
+
+Únete a Trident Consulting como **Ingeniero de Software Full-stack Automotriz** en **Palo Alto, CA**. Trabaja en un entorno dinámico centrado en **HMI**, **sistemas basados en Linux** y **desarrollo de software embebido**. Colaborarás con equipos para desarrollar software para simulación y uso en vehículos. Las habilidades clave incluyen **C#**, **protocolos CAN** y **Unity**. Sé parte de nuestros proyectos innovadores que dan forma al futuro de la tecnología automotriz.
+
+offer.json_desc_2",[],Software,2025-06-22T00:00:00.000Z,https://usamotorjobs.com/es/oferta-de-empleo/ingeniero-de-software-full-stack-automotriz/palo-alto/7e3d97c05bO?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+3694865e131ccab6ee7b641e3d4a2653,rapidapi1,Ingeniero​/a Senior de Software,Capital One,"Rockport, US","Position: Ingeniero(a) Senior de Software
+Location: Rockport
+WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+
+Senior Software Engineer - Full Stack
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies.
+
+As a Capital One Senior Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+What You’ll Do:
+
+Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+
+Utilize programming languages like JavaScript, Java, HTML/CSS, Type Script, SQL, Python, and Go, Open Source RDBMS and No
+
+SQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+Basic
+
+Qualifications:
+
+Intermediate-Advanced English fluency
+
+Bachelor’s Degree
+
+At least 4 years of experience in software engineering (Internship experience does not apply)
+
+Preferred Qualifications:
+
+At least 5 years of experience in at least one of the following:
+Python, Java, JavaScript, Type Script, SQL, C#/.Net or Go
+
+At least 1 year of experience with AWS, GCP, Microsoft Azure, or another cloud service
+
+At least 3 years of experience in open source frameworks
+
+At least 2 years of experience in Agile practices
+
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+
+For technical support or questions about Capital One's recruiting process, please send an email to
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Utilize programming languages like JavaScript, Java, HTML/CSS, Type Script, SQL, Python, and Go, Open Source RDBMS and No', 'Intermediate-Advanced English fluency', 'Bachelor’s Degree', 'At least 4 years of experience in software engineering (Internship experience does not apply)', 'At least 5 years of experience in at least one of the following:', 'Python, Java, JavaScript, Type Script, SQL, C#/.Net or Go', 'At least 1 year of experience with AWS, GCP, Microsoft Azure, or another cloud service', 'At least 3 years of experience in open source frameworks', 'At least 2 years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community']",Software,2025-07-16T00:00:00.000Z,https://www.learn4good.com/jobs/indiana/info_technology/4377553248/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+b7e98fcd41e878cf390bdd77ad26452e,rapidapi1,"Gerente Senior, Ingeniero(a) de Software",Capital One,"None, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+Senior Manager, Software Engineering - Full Stack
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Sr. Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+What You’ll Do:
+Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+Basic Qualifications:
+Intermediate-Advanced English fluency
+Bachelor’s Degree
+At least 6 years of experience in software engineering (Internship experience does not apply)
+At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+At least 4 years of people management experience
+Preferred Qualifications:
+Master’s Degree
+At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go
+At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+At least 4 years of experience in open source frameworks
+At least 4 years of people management experience
+At least 2 years of experience in Agile practices
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Intermediate-Advanced English fluency', 'Bachelor’s Degree', 'At least 6 years of experience in software engineering (Internship experience does not apply)', 'At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)', 'At least 4 years of people management experience', 'Master’s Degree', 'At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go', 'At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service', 'At least 4 years of experience in open source frameworks', 'At least 4 years of people management experience', 'At least 2 years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One', 'Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code', 'Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services']",Software,2025-07-06T00:00:00.000Z,https://www.theladders.com/job-listing/gerente-senior-ingeniero-a-de-software-capital-one-azteca-mobile-home-park-florida-_v2_-11-967750749.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+5f33c10e9ee93c3fa958e88973dba225,rapidapi1,Ingeniero de software Liferay,CGI,"None, None","Quieres formar parte de una de las cinco empresas más grandes de TI y procesos de negocios en el mundo.
+
+En CGI, estamos seleccionando un/a Ingeniero/a de Software Liferay para trabajar en uno de nuestros equipos profesionales más avanzados.
+
+Requisitos del candidato:
+• Experiencia demostrada como desarrollador de aplicaciones.
+• Experiencia en diseño y creación de aplicaciones.
+• Conocimiento en plataformas de desarrollo como Liferay DXP, SAP BTP, SAP UI5, Flutter, Dart, entre otras.
+
+Profundo conocimiento de programación en varios sistemas operativos y plataformas, utilizando herramientas como Eclipse, GitHub, Atom, etc.
+
+Conocimientos en bases de datos y lenguajes de programación asociados, como MariaDB, Oracle, MySQL, etc.
+
+Excelentes conocimientos en diseño de software y principios de programación.
+
+Habilidades para trabajar en equipo y excelentes dotes de comunicación.
+
+Capacidades de pensamiento analítico y solución de problemas.
+
+Gran atención al detalle y buena gestión del tiempo.
+
+Grado superior en desarrollo de aplicaciones (se valora grado en Ingeniería Informática o campo relacionado).
+
+Se valora un nivel alto de inglés.
+
+Grupo CGI ofrece:
+• Contrato indefinido.
+• Salario competitivo según experiencia.
+• Posibilidad de trabajo remoto.
+• Retribución flexible (cheque guardería, tickets restaurante, tarjeta de transporte, etc.).
+• Participación en la compra de acciones de la empresa.
+• Formación y desarrollo en distintas tecnologías.
+• Club de ventajas como miembro de CGI.
+• Excelente ambiente laboral.
+• Seguro de vida y accidentes.
+
+Si tienes capacidad de trabajo y ganas de seguir aprendiendo en una empresa dinámica y en constante crecimiento, ¡esta es tu oportunidad!
+
+En CGI, te estamos esperando.
+#J-18808-Ljbffr",[],Software,2025-07-18T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-liferay-jobs/B35F0CC7D32FFA40?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+16ad01f8dc09d9dbcf953c6ec71af63b,rapidapi1,"Gerente Senior, Ingeniero(a) de Software",Capital One,"None, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+
+Senior Manager, Software Engineering - Full Stack
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs.
+
+We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Sr. Manager Software Engineer, you'll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+What You'll Do:Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that
+
+help meet regulatory needs for the company
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+
+Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+Basic Qualifications:Intermediate-Advanced English fluency
+
+Bachelor's Degree
+
+At least 6 years of experience in software engineering (Internship experience does not apply)
+
+At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+
+At least 4 years of people management experience
+
+Preferred Qualifications:Master's Degree
+
+At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go
+
+At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+
+At least 4 years of experience in open source frameworks
+
+At least 4 years of people management experience
+
+At least 2 years of experience in Agile practices
+
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+
+For technical support or questions about Capital One's recruiting process, please send an email to
+
+...@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services', 'Basic Qualifications:Intermediate-Advanced English fluency', ""Bachelor's Degree"", 'At least 6 years of experience in software engineering (Internship experience does not apply)', 'At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)', 'At least 4 years of people management experience', 'At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go', 'At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service', 'At least 4 years of experience in open source frameworks', 'At least 4 years of people management experience', 'At least 2 years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', ""Manager Software Engineer, you'll have the opportunity to be on the forefront of driving a major transformation within Capital One"", ""What You'll Do:Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that"", 'help meet regulatory needs for the company', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code']",Software,2025-07-18T00:00:00.000Z,https://jobs.kget.com/jobs/gerente-senior-ingenieroa-de-software-rockport-indiana/2251358056-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+7bdfe6d260ef74f241480e7c41420bc6,rapidapi1,Ingeniero de diseño de software,"LAUNCH Technical Workforce Solutions, LLC","Bellevue, US","Descripción del puesto: Buscamos un ingeniero de diseño de software en pruebas con experiencia para estar en primera línea en este puesto altamente visible mientras utiliza su pensamiento crítico y sus habilidades técnicas para ayudar a impulsar el éxito de la empresa. Los ingenieros de diseño de software tienen la oportunidad de influir en las primeras decisiones de diseño, diseñar y crear marcos de automatización de pruebas, introducir y experimentar nuevas técnicas de prueba, impulsar mejoras de procesos en toda la organización, establecer prioridades e impulsar proyectos hasta su finalización. Aporta tu creatividad, habilidades de liderazgo técnico, habilidades de comunicación y deseo de ser el mejor.",[],Software,,https://www.launchtws.com/es/empleos/977/Software%2BDise%C3%B1o%2BIngeniero-Bellevue-Washington?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+49d757b3f7f323940bfc8baace0a9a2a,rapidapi1,"Gerente Senior, Ingeniero(a) de Software",Capital One,"Salinas, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+Senior Manager, Software Engineering - Full Stack
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Sr. Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+What You’ll Do:
+Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+Basic Qualifications:
+Intermediate-Advanced English fluency
+Bachelor’s Degree
+At least 6 years of experience in software engineering (Internship experience does not apply)
+At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+At least 4 years of people management experience
+Preferred Qualifications:
+Master’s Degree
+At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go
+At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+At least 4 years of experience in open source frameworks
+At least 4 years of people management experience
+At least 2 years of experience in Agile practices
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Intermediate-Advanced English fluency', 'Bachelor’s Degree', 'At least 6 years of experience in software engineering (Internship experience does not apply)', 'At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)', 'At least 4 years of people management experience', 'Master’s Degree', 'At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go', 'At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service', 'At least 4 years of experience in open source frameworks', 'At least 4 years of people management experience', 'At least 2 years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One', 'Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code', 'Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services']",Software,2025-07-06T00:00:00.000Z,https://www.theladders.com/job-listing/gerente-senior-ingeniero-a-de-software-capital-one-salinas-california-_v2_-11-967750774.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+7bdfe6d260ef74f241480e7c41420bc6,rapidapi1,Ingeniero de diseño de software,"LAUNCH Technical Workforce Solutions, LLC","Bellevue, US","Descripción del puesto: Buscamos un ingeniero de diseño de software en pruebas con experiencia para estar en primera línea en este puesto altamente visible mientras utiliza su pensamiento crítico y sus habilidades técnicas para ayudar a impulsar el éxito de la empresa. Los ingenieros de diseño de software tienen la oportunidad de influir en las primeras decisiones de diseño, diseñar y crear marcos de automatización de pruebas, introducir y experimentar nuevas técnicas de prueba, impulsar mejoras de procesos en toda la organización, establecer prioridades e impulsar proyectos hasta su finalización. Aporta tu creatividad, habilidades de liderazgo técnico, habilidades de comunicación y deseo de ser el mejor.",[],Software,,https://www.launchtws.com/es/empleos/977/Software%2BDise%C3%B1o%2BIngeniero-Bellevue-Washington?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+fa018a9be028358e67493c0d77fe7285,rapidapi1,Ingeniero de software | Teletrabajo,Neotalent Conclusion,"Ponte Vedra Beach, US","Neotalent Conclusion es una de las mayores especialistas del mercado ibérico en captación y gestión de talento informático y de ingeniería. Como parte del grupo neerlandés Conclusion, que se compone por un ecosistema de 25 empresas y 3.600 empleados, nos centramos en aumentar la capacidad tecnológica de nuestros clientes y acelerar la transformación digital de los mismos.
+
+Atraemos a los mejores profesionales y los combinamos con los proyectos más ambiciosos, en el momento justo. Nuestro éxito radica en la inversión en innovación, orientación a resultados y, por encima de todo, en la garantía de que las personas tengan carreras felices y realizadoras.
+
+Con más de 25 años de experiencia, Neotalent Conclusion cuenta con oficinas en Madrid, Lisboa y Oporto. Nuestra compañía está formada por un equipo de más de 850 profesionales entre sus diferentes áreas de operación.
+
+Estamos buscando un perfil de Arquitecto software, con experiencia en sector sanitario, para trabajar en un proyecto , en uno de nuestros clientes, en modalidad 100% remoto.
+
+Análisis de los requisitos funcionales de la aplicación.
+
+Interlocución con las áreas funcionales y de gestión de proyectos
+
+Licenciado o Ingeniero Superior en cualquiera de las áreas de ingeniería, informática o ciencias.
+
+Experiencia mínima de 4 años en la Definición y Diseño de Arquitecturas de Sistemas en el entorno del proyecto.
+
+Tecnologías : Java (v.8 y superiores), Hibernate (v.6 y superiores), Angular (v.18 y superiores), Spring (v.6 y superiores), Restful y JSON, JPA (v.3 y superiores), Oracle (v.19C y superiores), Ensemble o HealthShare Health Connect 2020, PowerBI Desktop, Cloudera Data Platform.
+
+Experiencia mínima de 1 año en la aplicación Agile (Scrum).
+
+Experiencia en tecnologías estándares de interoperabilidad ( HL7, FHIR ), integraciones con sistemas HIS, RIS, LIS, PACS, EMR / EHR (Registros Electrónicos de Salud).
+
+Trabajar en proyectos desafiantes para grandes clientes
+
+Acceso a formación continua y certificaciones
+Crear una alerta de empleo para esta búsqueda
+
+Software Teletrabajo • Jaén, Provincia de Jaén, España
+#J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-teletrabajo-jobs/21B44E5D745C2980?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+ed8d97a0fa4efcf87da968d32a567309,rapidapi1,"Gerente Senior, Ingeniero(a) de Software",Capital One,"Albuquerque, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+Senior Manager, Software Engineering - Full Stack
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Sr. Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+What You’ll Do:
+Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+Basic Qualifications:
+Intermediate-Advanced English fluency
+Bachelor’s Degree
+At least 6 years of experience in software engineering (Internship experience does not apply)
+At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+At least 4 years of people management experience
+Preferred Qualifications:
+Master’s Degree
+At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go
+At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+At least 4 years of experience in open source frameworks
+At least 4 years of people management experience
+At least 2 years of experience in Agile practices
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Intermediate-Advanced English fluency', 'Bachelor’s Degree', 'At least 6 years of experience in software engineering (Internship experience does not apply)', 'At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)', 'At least 4 years of people management experience', 'Master’s Degree', 'At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go', 'At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service', 'At least 4 years of experience in open source frameworks', 'At least 4 years of people management experience', 'At least 2 years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One', 'Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code', 'Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services']",Software,,https://www.theladders.com/job-listing/gerente-senior-ingeniero-a-de-software-capital-one-albuquerque-new-mexico-_v2_-11-967798389.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+8d66098894570758746aa0dfa3d3710a,rapidapi1,Ingeniero de software - Microservicios,ITERIAM,"None, US","Estamos buscando un / a Analista Programador / a Java - Microservicios!
+
+Te apasiona el desarrollo de software y la implementación de soluciones innovadoras? Si eres experto / a en Java e implementas Microservicios, y te gusta aplicar las buenas prácticas en cada línea de código, ¡esta es tu oportunidad para destacar y crecer profesionalmente!
+
+Tecnología : Java
+
+Servicios Web : Rest y SOAP
+
+3 años de experiencia en desarrollo en entornos J2EE.
+
+Experiencia en microservicios.
+
+Curiosidad por las nuevas tecnologías.
+
+Trabajo en equipo.
+
+Ganas por aprender y desarrollarte en un entorno dinámico.
+
+Proactivo y buena gente.
+
+Ofrecemos :
+
+Flexibilidad y trabajo en remoto fomentando un entorno seguro y de conciliación.
+
+Creemos en la libertad, la responsabilidad y la autogestión ¿piensas igual?
+
+Seguro de salud, dental y de vida.
+
+Retribución flexible : comida, transporte, guardería, formación y seguro de jubilación.
+
+23 días laborales + 24 y 31 de diciembre y bonus de empresa.
+
+Viernes, julio y agosto jornada intensiva.
+
+Zona de trabajo : Residentes en España
+
+Envia tu CV a , te estamos esperando
+Crear una alerta de empleo para esta búsqueda
+
+Ingeniero Software • Cartagena, Región de Murcia, España
+#J-18808-Ljbffr",[],Software,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-microservicios-jobs/EBA12335EF7F4D2C?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+eb931d30f2b687a877059f1e13ca2ee8,rapidapi1,"Gerente Senior, Ingeniero(a) de Software",Capital One,"Jacob, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+Senior Manager, Software Engineering - Full Stack
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Sr. Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+What You’ll Do:
+Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+Basic Qualifications:
+Intermediate-Advanced English fluency
+Bachelor’s Degree
+At least 6 years of experience in software engineering (Internship experience does not apply)
+At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+At least 4 years of people management experience
+Preferred Qualifications:
+Master’s Degree
+At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go
+At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+At least 4 years of experience in open source frameworks
+At least 4 years of people management experience
+At least 2 years of experience in Agile practices
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Intermediate-Advanced English fluency', 'Bachelor’s Degree', 'At least 6 years of experience in software engineering (Internship experience does not apply)', 'At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)', 'At least 4 years of people management experience', 'Master’s Degree', 'At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go', 'At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service', 'At least 4 years of experience in open source frameworks', 'At least 4 years of people management experience', 'At least 2 years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One', 'Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code', 'Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services']",Software,2025-07-06T00:00:00.000Z,https://www.theladders.com/job-listing/gerente-senior-ingeniero-a-de-software-capital-one-jacob-illinois-_v2_-11-967750757.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+580cf2ba411f55ccc41ecf0a92db5bd2,rapidapi1,"Ingeniero de Software de Audio Automotriz, Senior en San Diego",Jobleads-US,"San Diego, US","OFFER.JSON_DESC
+
+Salary
+
+Aplicar en sus términos
+
+Lugar de trabajo : San Diego, CA
+
+trad._.importantInformation
+
+Únete a Qualcomm Canada ULC y contribuye al desarrollo de sistemas de entretenimiento automotriz de próxima generación. Trabaja con un equipo diverso para diseñar, implementar y depurar controladores de audio, y mejorar las características de audio automotriz. Los candidatos ideales son apasionados por la tecnología y tienen fuertes habilidades analíticas y de resolución de problemas.
+
+offer.json_desc_2",[],Software,2025-06-30T00:00:00.000Z,https://usamotorjobs.com/es/oferta-de-empleo/ingeniero-de-software-de-audio-automotriz-senior/san-diego/6a86cf217CI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+1e0fd5bb26e254ad4c0d0e734758e71c,rapidapi1,"Gerente Senior, Ingeniero(a) de Software",Capital One,"Illinois City, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+
+Senior Manager, Software Engineering - Full Stack
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you&ll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Sr. Manager Software Engineer, you&ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+What You&ll Do:
+• Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+• Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+Basic Qualifications:
+• Intermediate-Advanced English fluency
+• Bachelor&s Degree
+• At least 6 years of experience in software engineering (Internship experience does not apply)
+• At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+• At least 4 years of people management experience
+
+Preferred Qualifications:
+• Master&s Degree
+• At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go
+• At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+• At least 4 years of experience in open source frameworks
+• At least 4 years of people management experience
+• At least 2 years of experience in Agile practices
+
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+
+For technical support or questions about Capital One&s recruiting process, please send an email to
+
+Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Intermediate-Advanced English fluency', 'Bachelor&s Degree', 'At least 6 years of experience in software engineering (Internship experience does not apply)', 'At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)', 'At least 4 years of people management experience', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Manager Software Engineer, you&ll have the opportunity to be on the forefront of driving a major transformation within Capital One', 'Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code', 'Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment', 'Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services']",Software,2025-07-10T00:00:00.000Z,https://www.jobserve.com/us/en/extjob/GERENTE-SENIOR-INGENIERO-in-Illinois-City-Illinois-USA-F270DB50BFB640899D/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+3c0f3c5b587ad7bca507449a4730d914,rapidapi1,Software Engineer,TravelgateX,"Berry, US","En TravelgateX (www.travelgatex.com) estamos ampliando nuestra division de Ingenieria y buscamos ingenier@s de software para unirse a nuestro equipazo de profesionales.
+
+Desde nuestros centros de Palma de Mallorca, Madrid y Sevilla ofrecemos a nuestros clientes de todo el mundo (plataformas tecnologicas, OTAs, bancos de cama, agencias de viaje, DMCs...) un ecosistema con el que optimizar la comercializacion de noches de hotel.
+
+Buscamos personas a las que les apasione el analisis, diseno y desarrollo de soluciones de software que sean innovadoras, de alta calidad y gran rendimiento.
+
+Cuales seran tus responsabilidades?
+• Ejecutar todo el ciclo de vida de desarrollo de software
+• Programar codigo de manera eficiente, con buen diseno y que se pueda someter a pruebas
+• Elaborar especificaciones y determinar la viabilidad operativa de cada solucion
+• Colaborar estrechamente con el equipo de ingenieria de sistemas y con los product managers para entregar soluciones tecnicas de alta calidad
+• Desarrollar diagramas de flujos, disenos y documentacion para identificar los requisitos y las soluciones
+• Integrar los componentes del software en un sistema de software completamente funcional
+• Desarrollar planes de verificacion del software y procedimientos de control de calidad
+• Mantener la arquitectura del back-end
+• Documentar y mantener la funcionalidad del software
+
+Que buscamos?
+• Que seas Tech-Lover...esto es lo mas importante!
+• Al menos 2 anos de experiencia en ingenieria o desarrollo de software
+• Capacidad de desarrollar software en varios lenguajes (preferiblemente CSharp, Go, JS, Python...)
+• Experiencia en el desarrollo de software guiado por pruebas
+• Capacidad para documentar los requisitos y las especificaciones
+• Formacion dentro del campo de las ciencias informaticas, ingenieria, desarrollo de aplicaciones...
+• Nivel alto de espanol
+• Al menos nivel medio de ingles
+
+Que ofrecemos?
+• La oportunidad de unirte a una empresa muy dinamica que trabaja con tecnologias punteras
+• Participacion real en la creacion de nuestro producto, en contacto directo con el negocio
+• Formar parte de un equipo de profesionales muy diverso al que le gusta disfrutar de lo que hace
+• Trabajar en un entorno en el que se fomenta la autonomia responsable: nada de micro-management ni estructuras organizativas complejas.
+• Nos encanta pasarnoslo bien: organizamos Get Togethers, eventos corporativos alucinantes, fiestas de verano y navidad legendarias...
+• Flexibilidad horaria real, pudiendo empezar a trabajar a las 8:00. Los viernes acabamos a las 14:00 porque nos gustan los fines de semana largos
+• Tu eliges que formula de trabajo te encaja mejor: si resides en Mallorca, podras hacer 2 dias de teletrabajo. Si resides fuera hay opcion de contrato a distancia, 100% remoto.
+• Contrato indefinido desde el primer dia
+
+Animate y mandanos tu CV para que nos conozcamos! Apuntate a la oferta o escribenos a careers@travelgate.com",[],Software,,"https://www.ziprecruiter.com/c/TravelgateX/Job/Software-Engineer/-in-Berry,KY?jid=ea58d47faf5d9d02&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+081fc37d33384b0e6569babdefbc7788,rapidapi1,Ingeniero De Software,Whatjobs,"None, US","Somos Plexus Tech. Una compañía tecnológica especializada en servicios y productos IT, fundada en el talento y las capacidades de nuestra gente, más de 3.000 profesionales desarrollando tecnología con alma.¡Ampliamos nuestro equipo! ¡Buscamos talento!¿Te animas a seguir formándote en tecnologías punteras y vanguardistas en el Mercado? entonces, ¡debes unirte a la familia Plexus!Desde Plexus seleccionamos un perfil de Programador/a Node.Js con ganas de continuar su carrera profesional en proyectos innovadores.El puesto tiene un modelo de trabajo 100% remoto.REQUISITOS:
+- Experiencia sólida en desarrollo con Typescript.- +4 años de experiencia con Node.Js.- Experiencia en PostgreSQL.- Valorable el conocimiento de AWS.- Inglés avanzado (B2-C1).Ofrecemos:
+Acceso a formación continuada. Posibilidad de contratación freelance.Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.Formar parte de una compañía con muchos profesionales de referencia en el sectorUn ecosistema de trabajo con un ambiente colaborativo.Contratación indefinida + teletrabajo.Paquete de retribución Flexible compuesto por:
+- Seguro médico- Ticket Restaurante- Ticket transporte- Ticket guarderíaNos apasiona la tecnología, pero sobre todo nos encantan las personas que la hacen posible. Porque con motivación, ilusión y trabajo en equipo estamos haciendo cosas maravillosas.Plexus Tech mantiene un compromiso firme con las políticas de Igualdad de empresa. Todos nuestros procesos de selección tienen en cuenta la igualdad de oportunidades entre hombres y mujeres de forma transversal, quedando esto reflejado en nuestro Plan de Igualdad.Fomentamos la igualdad de trato y de oportunidades para toda persona, de modo que ninguna razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social cause discriminación. En particular, la organización está comprometida con la creación de un contexto favorable a la diversidad y avance en la erradicación de la discriminación de las personas LGTBI, independientemente de su orientación e identidad sexual o su expresión de género",[],Software,2025-07-18T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-jobs/5F4C28B42F647886?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+11fe910af0f7cb6b339f67d4c8f2b5a4,rapidapi1,Ingeniero de diseño de software,"LAUNCH Technical Workforce Solutions, LLC","Oak Brook, US","Descripción del puesto: Buscamos un ingeniero de diseño de software en pruebas con experiencia para estar en primera línea en este puesto altamente visible mientras utiliza su pensamiento crítico y sus habilidades técnicas para ayudar a impulsar el éxito de la empresa. Los ingenieros de diseño de software tienen la oportunidad de influir en las primeras decisiones de diseño, diseñar y crear marcos de automatización de pruebas, introducir y experimentar nuevas técnicas de prueba, impulsar mejoras de procesos en toda la organización, establecer prioridades e impulsar proyectos hasta su finalización. Traiga su creatividad, habilidades de liderazgo técnico, habilidades de comunicación y deseo de ser el mejor y únase a nosotros.",[],Software,,https://www.launchtws.com/es/jobs/956/Software+Design+Engineer-Oak+Brook-Illinois?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+a3ab192e282e5956e6e18522c66c06c7,rapidapi1,Infrastructure Engineer,Vastika Inc,"San Diego, US","Will report into the CEO of the firm
+
+This is a part time position –20-25hrs a week
+
+Opt to go perm for the right person
+
+This is a 3 month + assignment
+
+This position is ONSITE
+• Good user skills
+• Need someone with 10-15 yrs + experience
+• Strong infrastructure background
+• Networks/security/phones etc
+• Will support about 180 user’s
+• Company has several locations in Calif.
+• Must be a hands on person
+• Will manage 2 people
+• Company is a distribution firm [ about 50 m in sales ]
+• Need someone who is Bilingual [ Spanish ]
+
+Thanks & Regards
+
+Prashant Awasthi
+
+Vastika Inc.
+
+1200 West Walnut Hill Lane, Suite# 2200
+
+Irving, TX 75038
+
+E-mail-Pawasthi@vastika.com
+
+Cell 469-359-1422","['This is a 3 month + assignment', 'Need someone with 10-15 yrs + experience', 'Strong infrastructure background', 'Will support about 180 user’s', 'Must be a hands on person', 'Will manage 2 people', 'Will report into the CEO of the firm', 'This is a part time position –20-25hrs a week', 'Opt to go perm for the right person']",Software,2025-07-17T00:00:00.000Z,https://www.linkedin.com/jobs/view/infrastructure-engineer-at-vastika-inc-4268276039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+5f33c10e9ee93c3fa958e88973dba225,rapidapi1,Ingeniero de software Liferay,CGI,"None, None","Quieres formar parte de una de las cinco empresas más grandes de TI y procesos de negocios en el mundo.
+
+En CGI, estamos seleccionando un/a Ingeniero/a de Software Liferay para trabajar en uno de nuestros equipos profesionales más avanzados.
+
+Requisitos del candidato:
+• Experiencia demostrada como desarrollador de aplicaciones.
+• Experiencia en diseño y creación de aplicaciones.
+• Conocimiento en plataformas de desarrollo como Liferay DXP, SAP BTP, SAP UI5, Flutter, Dart, entre otras.
+
+Profundo conocimiento de programación en varios sistemas operativos y plataformas, utilizando herramientas como Eclipse, GitHub, Atom, etc.
+
+Conocimientos en bases de datos y lenguajes de programación asociados, como MariaDB, Oracle, MySQL, etc.
+
+Excelentes conocimientos en diseño de software y principios de programación.
+
+Habilidades para trabajar en equipo y excelentes dotes de comunicación.
+
+Capacidades de pensamiento analítico y solución de problemas.
+
+Gran atención al detalle y buena gestión del tiempo.
+
+Grado superior en desarrollo de aplicaciones (se valora grado en Ingeniería Informática o campo relacionado).
+
+Se valora un nivel alto de inglés.
+
+Grupo CGI ofrece:
+• Contrato indefinido.
+• Salario competitivo según experiencia.
+• Posibilidad de trabajo remoto.
+• Retribución flexible (cheque guardería, tickets restaurante, tarjeta de transporte, etc.).
+• Participación en la compra de acciones de la empresa.
+• Formación y desarrollo en distintas tecnologías.
+• Club de ventajas como miembro de CGI.
+• Excelente ambiente laboral.
+• Seguro de vida y accidentes.
+
+Si tienes capacidad de trabajo y ganas de seguir aprendiendo en una empresa dinámica y en constante crecimiento, ¡esta es tu oportunidad!
+
+En CGI, te estamos esperando.
+#J-18808-Ljbffr",[],Software,2025-07-18T00:00:00.000Z,https://www.recruit.net/job/ingeniero-de-software-liferay-jobs/B35F0CC7D32FFA40?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+fb7e0b69a223cb20b7a99b69cfa22fd8,rapidapi1,"Gerente Senior, Ingeniero(a) de Software",Capital One,"Rockport, US","WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+Senior Manager, Software Engineering - Full Stack
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Sr. Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+What You’ll Do:
+Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+Basic Qualifications:
+Intermediate-Advanced English fluency
+Bachelor’s Degree
+At least 6 years of experience in software engineering (Internship experience does not apply)
+At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+At least 4 years of people management experience
+Preferred Qualifications:
+Master’s Degree
+At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go
+At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+At least 4 years of experience in open source frameworks
+At least 4 years of people management experience
+At least 2 years of experience in Agile practices
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Intermediate-Advanced English fluency', 'Bachelor’s Degree', 'At least 6 years of experience in software engineering (Internship experience does not apply)', 'At least 1 year of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)', 'At least 4 years of people management experience', 'Master’s Degree', 'At least 6 years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, C#/.Net or Go', 'At least 3 years of experience with AWS, GCP, Microsoft Azure, or another cloud service', 'At least 4 years of experience in open source frameworks', 'At least 4 years of people management experience', 'At least 2 years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Manager Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One', 'Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code', 'Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services']",Software,2025-07-06T00:00:00.000Z,https://www.theladders.com/job-listing/gerente-senior-ingeniero-a-de-software-capital-one-rockport-indiana-_v2_-11-967750797.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+a2a3bc4f23e220731136a5ec64f9aa8e,rapidapi1,Ingeniero de software Full-Stack,Top Echelon,"Los Angeles, US","Ingeniero Full Stack de nivel medio
+
+Estamos buscando un ingeniero Full Stack perspicaz y orientado a la misión que nos ayude a construir la próxima generación de nuestra plataforma impulsada por IA. Si te entusiasma la oportunidad de trabajar en productos de vanguardia que impactan directamente en la vida de las personas, y prosperas en un entorno de ritmo rápido y de etapa inicial, este puesto es para ti.
+Qué harás:
+• Desarrollar y enviar funciones de extremo a extremo en toda la pila utilizando React, Remix, TailwindCSS y TypeScript
+• Integrar herramientas de IA/LLM (OpenAI, Anthropic, Vercel AI SDK) en aplicaciones de producción para mejorar la experiencia del usuario y la inteligencia del sistema
+• Colaborar de forma interfuncional con diseño, producto e ingeniería para iterar rápidamente y ofrecer experiencias de consumidor pulidas
+• Ayudar a evolucionar y escalar una plataforma de mercado
+• Mantenerse práctico con arquitectura, rendimiento y confiabilidad a medida que el producto crece
+
+Lo que buscamos:
+• 3 a 4 años de experiencia desarrollando e implementando aplicaciones web full-stack
+• Profundo confort con React, TailwindCSS, TypeScript, y preferiblemente Remix
+• Experiencia trabajando con LLMs o herramientas de IA y familiaridad con IA agentiva
+• Historial de desarrollo en startups o mercados orientados al consumidor
+• Sólidos fundamentos de CS, idealmente con un título de una universidad de primer nivel
+• Excelente comunicación escrita y verbal en inglés
+• Entusiasmado por trabajar En el sitio en Los Ángeles
+• Patrocinio de Visa no disponible
+Si está listo para ayudar a dar forma a un producto de alto impacto y superar los límites de lo que es posible con IA, nos encantaría saber de usted.",[],Software,2025-07-06T00:00:00.000Z,https://redsealrecruiting.com/es/trabajo/ingeniero-de-software-full-stack/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+35e218a98d27ce0e5fa261473eec0584,rapidapi1,"Sr Software Engineer - Cloud Native, Automation","Medline Industries, LP","None, US","Job Summary Job Description Job Title: Sr Software Engineer – Cloud Native, Automation Location: Northfield Department: E-Commerce IT Team Employment Type: Full-Time About the Role We are looking for a seasoned Senior Software Engineer – Test Automation (QA) to join our Digital Frameworks team. In this role, you'll drive the future of test engineering by contributing to core automation initiatives and enabling frameworks, tools, and platforms that accelerate quality across our product teams. This is not a traditional QA role. We're looking for a full-stack automation expert who is passionate about tooling, platforms, and frameworks, capable of evaluating cutting-edge solutions—including low-code/no-code test tools, building PoCs, and influencing architecture-level decisions. Our application stack includes Java/Spring Boot microservices on the backend and Next.js/React on the frontend, all deployed to Azure Kubernetes Service (AKS). Key Responsibilities Architect and maintain reusable automation frameworks for backend (API/microservices) and frontend (UI) testing. Research, evaluate, and introduce modern test automation tools (e.g., low-code/no-code, model-based testing, AI-powered test platforms). Lead proof-of-concepts (PoCs) for new tools and frameworks to assess fit for the organization. Build shared quality tooling and pipelines to be used across teams (test orchestration, data setup, mocks/stubs, parallelization, etc.). Collaborate with platform, DevOps, and product engineering teams to shift quality left and define testability patterns. Establish automation standards, coding guidelines, and governance models for cross-team reuse. Actively mentor junior engineers and guide teams in adopting quality engineering best practices. What You Bring: Skills and Expertise 10+ years of experience in Quality Engineering, with deep expertise in test automation. Strong programming skills in Java (Spring Boot stack) and JavaScript/TypeScript (React/Next.js). Experience building automation frameworks using JUnit/TestNG, Cypress, Playwright, Selenium, etc. Proficiency in evaluating and implementing tools for test case management, test execution, and reporting. Demonstrated success with CI/CD-integrated testing using Azure DevOps, GitHub Actions, or equivalent. Knowledge of Kubernetes, containers, and testing in cloud-native environments (preferably Azure). Familiarity with contract testing, mocking services, and test data management strategies. Preferred Skills Experience with low-code/no-code automation platforms such as Testim, Tricentis Tosca, Mabl, or Katalon. Exposure to AI/ML-based testing, self-healing tests, or model-based test generation. Understanding of platform thinking and working in centralized enablement teams. Hands-on experience with observability and monitoring tools for test impact analysis. Educational Requirements Bachelor’s Degree in Computer Science, Engineering, or a related field is required. Why Join Medline? Be a key contributor to the transformation of Medline’s e-commerce platform. Access opportunities for growth, training, and certifications. Competitive salary, comprehensive benefits, and flexible work arrangements. Collaborate with a dynamic and innovative team in a supportive culture. Medline Industries, LP, and its subsidiaries, offer a competitive total rewards package, continuing education & training, and tremendous potential with a growing worldwide organization. The anticipated salary range for this position: $132,600.00 - $199,160.00 Anual The actual salary will vary based on applicant’s location, education, experience, skills, and abilities. This role is bonus and/or incentive eligible. Medline will not pay less than the applicable minimum wage or salary threshold. Our benefit package includes health insurance, life and disability, 401(k) contributions, paid time off, etc., for employees working 30 or more hours per week on average. For a more comprehensive list of our benefits please click here. For roles where employees work less than 30 hours per week, benefits include 401(k) contributions as well as access to the Employee Assistance Program, Employee Resource Groups and the Employee Service Corp. We’re dedicated to creating a Medline where everyone feels they belong and can grow their career. We strive to do this by seeking diversity in all forms, acting inclusively, and ensuring that people have tools and resources to perform at their best. Explore our Belonging page here. Medline Industries, LP is an equal opportunity employer. Medline evaluates qualified individuals without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability, neurodivergence, protected veteran status, marital or family status, caregiver responsibilities, genetic information, or any other characteristic protected by applicable federal, state, or local laws. Gracias a nuestra cultura de pertenencia, nuestro equipo global, ágil y resiliente, está decidido a brindarles a nuestros clientes exactamente lo que necesitan, en el momento oportuno, siempre. Si eres emprendedor y te entusiasma desarrollar tu carrera profesional en un entorno de alto rendimiento, este es tu lugar. Preséntese a nuestros reclutadores y le contactaremos si hay un puesto que parezca adecuado. Medline es el mayor proveedor de productos médico-quirúrgicos y soluciones para la cadena de suministro, que atiende a todos los puntos de atención. Gracias a su amplia cartera de productos, su sólida cadena de suministro y sus soluciones clínicas líderes, Medline ayuda a los profesionales de la salud a mejorar sus resultados clínicos, financieros y operativos. Con sede en Northfield, Illinois, la compañía emplea a más de 43.000 personas en todo el mundo y opera en más de 100 países y territorios. Para obtener más información sobre cómo Medline optimiza la atención médica, visite www.medline.com.","['What You Bring: Skills and Expertise 10+ years of experience in Quality Engineering, with deep expertise in test automation', 'Strong programming skills in Java (Spring Boot stack) and JavaScript/TypeScript (React/Next.js)', 'Experience building automation frameworks using JUnit/TestNG, Cypress, Playwright, Selenium, etc', 'Proficiency in evaluating and implementing tools for test case management, test execution, and reporting', 'Demonstrated success with CI/CD-integrated testing using Azure DevOps, GitHub Actions, or equivalent', 'Knowledge of Kubernetes, containers, and testing in cloud-native environments (preferably Azure)', 'Familiarity with contract testing, mocking services, and test data management strategies', 'Exposure to AI/ML-based testing, self-healing tests, or model-based test generation', 'Hands-on experience with observability and monitoring tools for test impact analysis', 'Educational Requirements Bachelor’s Degree in Computer Science, Engineering, or a related field is required', ""In this role, you'll drive the future of test engineering by contributing to core automation initiatives and enabling frameworks, tools, and platforms that accelerate quality across our product teams"", 'Our application stack includes Java/Spring Boot microservices on the backend and Next.js/React on the frontend, all deployed to Azure Kubernetes Service (AKS)', 'Key Responsibilities Architect and maintain reusable automation frameworks for backend (API/microservices) and frontend (UI) testing', 'Research, evaluate, and introduce modern test automation tools (e.g., low-code/no-code, model-based testing, AI-powered test platforms)', 'Lead proof-of-concepts (PoCs) for new tools and frameworks to assess fit for the organization', 'Build shared quality tooling and pipelines to be used across teams (test orchestration, data setup, mocks/stubs, parallelization, etc.). Collaborate with platform, DevOps, and product engineering teams to shift quality left and define testability patterns', 'Establish automation standards, coding guidelines, and governance models for cross-team reuse', 'Actively mentor junior engineers and guide teams in adopting quality engineering best practices', 'Understanding of platform thinking and working in centralized enablement teams', 'Be a key contributor to the transformation of Medline’s e-commerce platform']",Software,2025-07-01T00:00:00.000Z,https://medline.wd5.myworkdayjobs.com/es/Medline/job/Northfield-Illinois/Sr-Software-Engineer---Cloud-Native--Automation_R2510992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+d5c2e263a9e059ab5b8a515d8312eedd,rapidapi1,Ingeniero/a Mainframe,GFR Technologies SE,"Mineral Springs, US","GFT es una compania pionera en transformacion digital que desarrolla soluciones sostenibles basadas en nuevas tecnologias, como la inteligencia artificial y blockchain/DLT. Los expertos de GFT crean e implementan aplicaciones de software escalables que hacen que el acceso a modelos de negocio innovadores sea seguro y sencillo.
+
+Que estamos buscando?
+
+Actualmente, tenemos un puesto vacante para un/a Ingeniero/a Mainframe y que quiera desarrollar su carrera en GFT. Buscamos una persona entusiasta y dinamica con interes en trabajar en nuestro area de proyectos internacionales.
+
+Tus principales responsabilidades son:
+
+Aunque dependeran de tu perfil y experiencia aportada, en general las principales funciones que llevarias a cabo con nosotros serian:
+• Analizar y programar tanto sobre codigo existente como desde cero, y realizar el mantenimiento de modulos de software de complejidad media, trabajando a partir de requisitos y especificaciones detallados de forma oral y escrita.
+• Realizar revisiones de codigo de otros desarrolladores y proporcionar puntos de mejora.
+• Dar soporte a los perfiles mas junior actuando como punto de referencia cuando necesiten ayuda o soporte en temas especificos.
+• Ayudar en el desarrollo de prototipos de modulos de software y aplicaciones.
+• Desarrollar tests unitarios y asumir la responsabilidad sobre el test unitario del codigo propio.
+• Participar en distintas fases del ciclo de desarrollo.
+
+Requisitos deseados:
+• Graduado en Ingenieria informatica (o equivalente).
+• Buen nivel de ingles (B2 minimo).
+• Experiencia de al menos 3 anos con Cobol/CICS/DB2.
+• Experiencia tanto en desarrollo como analisis.
+• Conocimiento y experiencia en testing.
+• Experiencia en proyectos tecnicos como: analisis de consumos, optimizacion de procesos batch/online, migracion/regeneracion de datos, etc.
+
+Competencias personales:
+• Trabajo en equipo.
+• Habilidades de comunicacion, favoreciendo dinamicas que permitan el flujo de conocimiento, con interes tanto en aprender como en ensenar.
+• Proactividad en la busqueda de nuevas soluciones y mejoras.
+
+En GFT consideramos que la diversidad es uno de nuestros pilares fundamentales y promovemos un entorno de trabajo inclusivo basado en la cooperacion y el respeto mutuo. Ofrecemos igualdad de oportunidades a todas las personas sin tener en cuenta su raza, origen cultural, sexo, edad, orientacion sexual, identidad de genero, discapacidad o creencias religiosas.
+
+GFT dispone y ha registrado un Plan de Igualdad que recoge las medidas a adoptar con el objetivo de alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar, si es que la hay, la discriminacion por razon de sexo.
+
+Unete a nuestro equipo global!",[],Software,2025-07-08T00:00:00.000Z,"https://www.ziprecruiter.com/c/GFR-Technologies-SE/Job/Ingeniero-a-Mainframe/-in-Mineral-Springs,NC?jid=08a35f9714126b71&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+0f1c5e14884da330209c537e51d140af,rapidapi1,Software Engineer,CAE Solutions Corporation,"Burlington, US","BE / MCA with 2-3 years experience in .Net Technologies, C#, ASP.NET, MVC, Perl, Java, Servlets and J2EE technologies.","['BE / MCA with 2-3 years experience in .Net Technologies, C#, ASP.NET, MVC, Perl, Java, Servlets and J2EE technologies']",Software,,https://www.indeed.com/viewjob?jk=8b076dc34c2c8875&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+53de8484a0f126070d262d7e165246db,rapidapi1,Senior Firmware Software Engineer,CNH Industrial Global Careers,"Oak Brook, US","About Us
+
+Innovation. Sustainability. Productivity. This is how we are Breaking New Ground in our mission to sustainably advance the noble work of farmers and builders everywhere. With a growing global population and increased demands on resources, our products are instrumental to feeding and sheltering the world.
+
+From developing products that run on alternative power to productivity-enhancing precision tech, we are delivering solutions that benefit people – and they are possible thanks to people like you. If the opportunity to build your skills as part of a collaborative, global team excites you, you’re in the right place.
+
+Grow a Career. Build a Future!
+
+Be part of this company at the forefront of agriculture and construction, that passionately innovates to drive customer efficiency and success. And we know innovation can’t happen without collaboration. So, everything we do at CNH Industrial is about reaching new heights as one team, always delivering for the good of our customers.
+
+Job Purpose
+
+We are currently seeking an Senior Firmware Software Engineer to join our organization. CNH is designing a next generation core software solution. Core software typically includes middle layer, lower layer embedded software, RTOS, bootloader, cybersecurity stack for electronic control unit (ECU). Core software needs to meet stringent real time and performance requirements. The developed core software is integrated with application software. As a Senior Firmware Software Engineer, you will be responsible for design, development, and third part integrations of cybersecurity stack.
+
+Key Responsibilities
+• Develop new generation core software solution catered for automotive grade real time ECUs.
+• Cybersecurity Software Design and development
+• Benchmark and select suitable third-party software components, microcontrollers etc.
+• Lead software development tasks with Software suppliers, integrate and accept supplier provided software modules.
+• Coordinate with internal requirements teams and derive software requirements.
+• Configure and Integrate AUTOSAR - MCAL based drivers with legacy middle layer modules.
+• Troubleshoot and fix bugs reported by HIL, product validation team or application software team during verification and validation cycle.
+• Develop and maintain software documentation: SDD, SRS, API documentation, product functional spec etc.
+• Design and develop tools to automate software workflows and processes.
+• Define software configuration management to ensure effective software management.
+• Ensure that software adheres to coding standards and meet stringent performance and safety requirements of real time embedded system.
+
+Experience Required
+• Bachelor’s degree in engineering or technical field with 5+ years of engineering experience.
+• Experience of microcontrollers (16/32-bit automotive grade), HSM, compilers/linkers.
+• Experience with embedded code debugging (call stack analysis, profiling, breakpoint evaluation, resource budget analysis as Flash, RAM, and CPU load).
+• Experience with cybersecurity implementations (e.g. Secure Boot, Secure communication, Certificate management, Authentication, Intrusion Detection/Logging etc).
+• Experience with CAN based protocols such as J1939, XCP, KWP, UDS, communication tools Vector CANalayser, CANape, CANoe, INCA or similar.
+• Experience working with memories (Flash, EEPROM, RAM, External memories), MMU/MPU etc.
+• Experience with software design and requirements documentation.
+• US Citizenship will be required for this position.
+
+Pay Transparency
+
+​The annual salary for this role is $105,750 - $141,000 plus any applicable bonus (Actual salaries will vary and will be based on various factors, such as skill, experience and qualification for the role.)
+
+What We Offer
+
+We offer dynamic career opportunities across an international landscape. As an equal opportunity employer, we are committed to delivering value for all our employees and fostering a culture of respect.
+
+At CNH, we understand that the best solutions come from the diverse experiences and skills of our people. Here, you will be empowered to grow your career, to follow your passion, and help build a better future. To support our employees, we offer regional comprehensive benefits, including:
+• Flexible work arrangements
+• Savings & Retirement benefits
+• Tuition reimbursement
+• Parental leave
+• Adoption assistance
+• Fertility & Family building support
+• Employee Assistance Programs
+• Charitable contribution matching and Volunteer Time Off
+
+Click here to learn more about our benefits offerings! (US only)
+
+US applicants: CNH Industrial is an equal opportunity employer. This company considers candidates regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status. Applicants can learn more about their rights by viewing the federal ""Know Your Rights"" poster here. CNH Industrial participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. You can view additional information here.
+
+Canada applicants: CNH Industrial is an equal opportunity employer. This company considers candidates regardless of race, color, religion, sex, sexual orientation, gender identity, nationality, place of origin, disability, marital status, family status, age, or any other ground prohibited by applicable provincial human rights legislation.
+
+If you need reasonable accommodation with the application process, please contact us at narecruitingmailbox@cnhind.com.","['Core software needs to meet stringent real time and performance requirements', 'Bachelor’s degree in engineering or technical field with 5+ years of engineering experience', 'Experience of microcontrollers (16/32-bit automotive grade), HSM, compilers/linkers', 'Experience with embedded code debugging (call stack analysis, profiling, breakpoint evaluation, resource budget analysis as Flash, RAM, and CPU load)', 'Experience with cybersecurity implementations (e.g', 'Secure Boot, Secure communication, Certificate management, Authentication, Intrusion Detection/Logging etc)', 'Experience with CAN based protocols such as J1939, XCP, KWP, UDS, communication tools Vector CANalayser, CANape, CANoe, INCA or similar', 'Experience working with memories (Flash, EEPROM, RAM, External memories), MMU/MPU etc', 'Experience with software design and requirements documentation', 'US Citizenship will be required for this position', 'Core software typically includes middle layer, lower layer embedded software, RTOS, bootloader, cybersecurity stack for electronic control unit (ECU)', 'As a Senior Firmware Software Engineer, you will be responsible for design, development, and third part integrations of cybersecurity stack', 'Develop new generation core software solution catered for automotive grade real time ECUs', 'Cybersecurity Software Design and development', 'Benchmark and select suitable third-party software components, microcontrollers etc', 'Lead software development tasks with Software suppliers, integrate and accept supplier provided software modules', 'Coordinate with internal requirements teams and derive software requirements', 'Configure and Integrate AUTOSAR - MCAL based drivers with legacy middle layer modules', 'Troubleshoot and fix bugs reported by HIL, product validation team or application software team during verification and validation cycle', 'Develop and maintain software documentation: SDD, SRS, API documentation, product functional spec etc', 'Design and develop tools to automate software workflows and processes', 'Define software configuration management to ensure effective software management', 'Ensure that software adheres to coding standards and meet stringent performance and safety requirements of real time embedded system']",Software,2025-07-09T00:00:00.000Z,https://careers.cnh.com/es/job-es/22198054/senior-firmware-software-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+c09ba7fbcb6db0e982bdd803e6674f9f,rapidapi1,Ingeniero​/a Senior de Software,Capital One,"Lovilia, US","Position: Ingeniero(a) Senior de Software
+Location: Lovilia
+WeWork Reforma Latino (97001), Mexico, Ciudad de Mexico, Ciudad de Mexico
+
+Senior Software Engineer - Full Stack
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies.
+
+As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+What You’ll Do:
+
+Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+
+Utilize programming languages like JavaScript, Java, HTML/CSS, Type Script, SQL, Python, and Go, Open Source RDBMS and No
+
+SQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+Basic Qualifications:
+
+Advanced English fluency
+
+Bachelor’s Degree
+
+At least 3+ years of experience in software engineering (Internship experience does not apply)
+
+Preferred Qualifications:
+
+3++ years of experience in at least one of the following:
+JavaScript, Java, Type Script, SQL, Python, or Go
+
+1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+
+3+ years of experience in open source frameworks
+
+3++ years of experience in Agile practices
+
+Capital One will only consider candidates that are Mexico citizens or permanent residents.
+
+At Capital One, we respect individual differences in culture, religion, and ethnicity. Likewise, we promote equal opportunities and development for all personnel. In the hiring process, we seek to provide equal employment opportunities to candidates, regardless of race, color, religion, gender, sexual orientation, marital or civil status, national origin, disability, or any other situation protected by federal, state, or local laws.
+
+For technical support or questions about Capital One's recruiting process, please send an email to
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe, any position posted in the Philippines is for Capital One Service Corp (COPSSC), and any position posted in Mexico is for Capital One Technology Labs Mexico.","['Utilize programming languages like JavaScript, Java, HTML/CSS, Type Script, SQL, Python, and Go, Open Source RDBMS and No', 'SQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services', 'Advanced English fluency', 'Bachelor’s Degree', 'At least 3+ years of experience in software engineering (Internship experience does not apply)', '3++ years of experience in at least one of the following:', 'JavaScript, Java, Type Script, SQL, Python, or Go', '1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service', '3+ years of experience in open source frameworks', '3++ years of experience in Agile practices', 'Capital One will only consider candidates that are Mexico citizens or permanent residents', 'Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies', 'Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community']",Software,2025-07-16T00:00:00.000Z,https://www.learn4good.com/jobs/iowa/info_technology/4377557123/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18

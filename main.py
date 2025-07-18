@@ -87,7 +87,7 @@ def ejecutar_rapidapi_1():
     for carrera, terminos in carreras.items():
         print(f"\n Carrera: {carrera} (RapidAPI)")
         for termino in terminos:
-            extraer_desde_rapidapi_1(termino, api_key, carrera, locations)
+            extraer_desde_rapidapi_1(termino, api_key, carrera)
         unir_corpus_por_carrera("rapidapi1", carrera, fecha_hoy)
         copiar_corpus_diario_a_global("rapidapi1", carrera, fecha_hoy)
         unir_corpus_acumulado_por_carrera("rapidapi1", carrera)
@@ -145,6 +145,20 @@ def ejecutar_rapidapi_2():
         copiar_corpus_diario_a_global("rapidapi2", carrera, fecha_hoy)
         unir_corpus_acumulado_por_carrera("rapidapi2", carrera)
 
+if "coresignal" in plataformas_seleccionadas:
+    ejecutar_coresignal()
+
+if "jooble" in plataformas_seleccionadas:
+    ejecutar_jooble()
+
+if "rapidapi1" in plataformas_seleccionadas:
+    ejecutar_rapidapi_1()
+
+if "rapidapi2" in plataformas_seleccionadas:
+    ejecutar_rapidapi_2()
+
+print("\n Proceso finalizado.")
+
 
 # # === Función para ejecutar CAREERJET
 # def ejecutar_careerjet():
@@ -171,18 +185,3 @@ def ejecutar_rapidapi_2():
 
 # if "careerjet" in plataformas_seleccionadas:
 #     ejecutar_careerjet()
-
-
-if "coresignal" in plataformas_seleccionadas:
-    ejecutar_coresignal()
-
-if "jooble" in plataformas_seleccionadas:
-    ejecutar_jooble()
-
-if "rapidapi1" in plataformas_seleccionadas:
-    ejecutar_rapidapi_1()
-
-if "rapidapi2" in plataformas_seleccionadas:
-    ejecutar_rapidapi_2()
-
-print("\n Proceso finalizado.")

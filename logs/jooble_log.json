@@ -1,23 +1,23 @@
 {
   "Administración de Empresas": {
-    "last_extraction_date": "2025-06-11",
-    "total_offers_extracted": 1096,
-    "last_page_extracted": 39
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 1004,
+    "last_page_extracted": 34
   },
   "Agroindustria": {
-    "last_extraction_date": "2025-06-11",
-    "total_offers_extracted": 2,
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 1,
     "last_page_extracted": 1
   },
   "Ciencia de Datos": {
-    "last_extraction_date": "2025-06-11",
-    "total_offers_extracted": 1087,
-    "last_page_extracted": 38
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 1108,
+    "last_page_extracted": 37
   },
   "Inteligencia Artificial": {
-    "last_extraction_date": "2025-06-11",
-    "total_offers_extracted": 1062,
-    "last_page_extracted": 37
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 1142,
+    "last_page_extracted": 39
   },
   "Computación": {
     "last_extraction_date": "2025-06-11",
@@ -30,8 +30,8 @@
     "last_page_extracted": 2
   },
   "Electricidad": {
-    "last_extraction_date": "2025-06-11",
-    "total_offers_extracted": 75,
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 65,
     "last_page_extracted": 3
   },
   "Electrónica y Automatización": {
@@ -108,5 +108,575 @@
     "last_extraction_date": "2025-06-11",
     "total_offers_extracted": 37,
     "last_page_extracted": 2
+  },
+  "Computacion": {
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 1,
+    "last_page_extracted": 1
+  },
+  "Economia": {
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 25,
+    "last_page_extracted": 1
+  },
+  "Electronica y Automatizacion": {
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 1106,
+    "last_page_extracted": 37
+  },
+  "Fisica": {
+    "last_extraction_date": "2025-07-11",
+    "total_offers_extracted": 37,
+    "last_page_extracted": 2
+  },
+  "administracion de empresas": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1159,
+    "last_page_extracted": 39
+  },
+  "gerente administrativo": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 461,
+    "last_page_extracted": 16
+  },
+  "asistente administrativo": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1096,
+    "last_page_extracted": 37
+  },
+  "coordinador de oficina": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1045,
+    "last_page_extracted": 35
+  },
+  "analista de gestion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1008,
+    "last_page_extracted": 34
+  },
+  "agroindustria": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1,
+    "last_page_extracted": 1
+  },
+  "ingeniero agroindustrial": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 117,
+    "last_page_extracted": 4
+  },
+  "produccion agricola": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 35,
+    "last_page_extracted": 2
+  },
+  "procesamiento de alimentos": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1136,
+    "last_page_extracted": 38
+  },
+  "control de calidad alimentos": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1102,
+    "last_page_extracted": 37
+  },
+  "ciencia de datos": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1028,
+    "last_page_extracted": 35
+  },
+  "cientifico de datos": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1016,
+    "last_page_extracted": 34
+  },
+  "analista de datos": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1163,
+    "last_page_extracted": 39
+  },
+  "machine learning": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1018,
+    "last_page_extracted": 34
+  },
+  "computacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1,
+    "last_page_extracted": 1
+  },
+  "tecnologias de la computacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1130,
+    "last_page_extracted": 38
+  },
+  "informatica": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1159,
+    "last_page_extracted": 39
+  },
+  "tecnico en computacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1168,
+    "last_page_extracted": 39
+  },
+  "ingeniero en computacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1136,
+    "last_page_extracted": 38
+  },
+  "inteligencia artificial": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1129,
+    "last_page_extracted": 38
+  },
+  "ia": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1100,
+    "last_page_extracted": 37
+  },
+  "deep learning": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1070,
+    "last_page_extracted": 36
+  },
+  "aprendizaje automatico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 211,
+    "last_page_extracted": 8
+  },
+  "ingeniero de ia": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1009,
+    "last_page_extracted": 34
+  },
+  "economia": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 29,
+    "last_page_extracted": 1
+  },
+  "economista": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 2,
+    "last_page_extracted": 1
+  },
+  "analisis economico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 24,
+    "last_page_extracted": 1
+  },
+  "estudios de mercado": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1117,
+    "last_page_extracted": 38
+  },
+  "consultor economico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1122,
+    "last_page_extracted": 38
+  },
+  "electricidad": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 71,
+    "last_page_extracted": 3
+  },
+  "electricista": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 23,
+    "last_page_extracted": 1
+  },
+  "instalaciones electricas": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 293,
+    "last_page_extracted": 10
+  },
+  "mantenimiento electrico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1056,
+    "last_page_extracted": 36
+  },
+  "tecnico electrico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 143,
+    "last_page_extracted": 5
+  },
+  "electronica y automatizacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1147,
+    "last_page_extracted": 39
+  },
+  "electronica industrial": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1035,
+    "last_page_extracted": 35
+  },
+  "control automatico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1062,
+    "last_page_extracted": 36
+  },
+  "ingeniero electronico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 122,
+    "last_page_extracted": 5
+  },
+  "tecnico en automatizacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1153,
+    "last_page_extracted": 39
+  },
+  "fisica": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 40,
+    "last_page_extracted": 2
+  },
+  "fisica aplicada": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 63,
+    "last_page_extracted": 3
+  },
+  "modelado fisico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 42,
+    "last_page_extracted": 2
+  },
+  "fisica computacional": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 42,
+    "last_page_extracted": 2
+  },
+  "laboratorio de fisica": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1019,
+    "last_page_extracted": 34
+  },
+  "ciencias de la tierra": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1041,
+    "last_page_extracted": 35
+  },
+  "ingenieria ambiental": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1140,
+    "last_page_extracted": 38
+  },
+  "medio ambiente": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1007,
+    "last_page_extracted": 34
+  },
+  "gestion ambiental": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1143,
+    "last_page_extracted": 39
+  },
+  "auditoria ambiental": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1079,
+    "last_page_extracted": 36
+  },
+  "ingeniero ambiental": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1121,
+    "last_page_extracted": 38
+  },
+  "ingenieria civil": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1040,
+    "last_page_extracted": 35
+  },
+  "ingeniero civil": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1154,
+    "last_page_extracted": 39
+  },
+  "obras civiles": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1021,
+    "last_page_extracted": 35
+  },
+  "construccion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 23,
+    "last_page_extracted": 1
+  },
+  "proyectos de infraestructura": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1141,
+    "last_page_extracted": 39
+  },
+  "ingenieria de la produccion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1025,
+    "last_page_extracted": 35
+  },
+  "produccion industrial": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1053,
+    "last_page_extracted": 36
+  },
+  "gestion de produccion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 998,
+    "last_page_extracted": 35
+  },
+  "ingeniero de planta": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1128,
+    "last_page_extracted": 39
+  },
+  "procesos industriales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 712,
+    "last_page_extracted": 24
+  },
+  "ingenieria quimica": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 7,
+    "last_page_extracted": 1
+  },
+  "ingeniero quimico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 113,
+    "last_page_extracted": 4
+  },
+  "procesos quimicos": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 592,
+    "last_page_extracted": 20
+  },
+  "produccion quimica": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 30,
+    "last_page_extracted": 1
+  },
+  "plantas industriales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 228,
+    "last_page_extracted": 8
+  },
+  "matematica": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 9,
+    "last_page_extracted": 1
+  },
+  "matematico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1,
+    "last_page_extracted": 1
+  },
+  "modelado matematico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 22,
+    "last_page_extracted": 1
+  },
+  "matematica aplicada": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 32,
+    "last_page_extracted": 2
+  },
+  "modelado numerico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 22,
+    "last_page_extracted": 1
+  },
+  "optimizacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 2,
+    "last_page_extracted": 1
+  },
+  "estadistica aplicada": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 23,
+    "last_page_extracted": 1
+  },
+  "investigacion operativa": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 136,
+    "last_page_extracted": 5
+  },
+  "materiales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 401,
+    "last_page_extracted": 14
+  },
+  "ciencia de materiales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1093,
+    "last_page_extracted": 37
+  },
+  "ensayo de materiales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1106,
+    "last_page_extracted": 37
+  },
+  "ingenieria de materiales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1069,
+    "last_page_extracted": 36
+  },
+  "caracterizacion de materiales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1095,
+    "last_page_extracted": 37
+  },
+  "mecanica": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 7,
+    "last_page_extracted": 1
+  },
+  "ingeniero mecanico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 128,
+    "last_page_extracted": 5
+  },
+  "diseno mecanico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 16,
+    "last_page_extracted": 1
+  },
+  "mantenimiento industrial": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1028,
+    "last_page_extracted": 35
+  },
+  "automatizacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1,
+    "last_page_extracted": 1
+  },
+  "control electronico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1132,
+    "last_page_extracted": 38
+  },
+  "robotica": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 8,
+    "last_page_extracted": 1
+  },
+  "ingeniero mecatronico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 113,
+    "last_page_extracted": 4
+  },
+  "ingenieria petrolera": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 9,
+    "last_page_extracted": 1
+  },
+  "petroleo y gas": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1108,
+    "last_page_extracted": 37
+  },
+  "exploracion petrolera": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 2,
+    "last_page_extracted": 1
+  },
+  "industria petrolera": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 432,
+    "last_page_extracted": 15
+  },
+  "sistemas de informacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1132,
+    "last_page_extracted": 38
+  },
+  "erp": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1038,
+    "last_page_extracted": 35
+  },
+  "gestion de datos": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1117,
+    "last_page_extracted": 38
+  },
+  "consultor de sistemas": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1006,
+    "last_page_extracted": 34
+  },
+  "analisis de sistemas": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1154,
+    "last_page_extracted": 39
+  },
+  "software": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1115,
+    "last_page_extracted": 38
+  },
+  "desarrollo de software": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1101,
+    "last_page_extracted": 37
+  },
+  "programador": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 8,
+    "last_page_extracted": 1
+  },
+  "ingeniero de software": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1118,
+    "last_page_extracted": 38
+  },
+  "arquitectura de software": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1083,
+    "last_page_extracted": 37
+  },
+  "tecnologias de la informacion": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1017,
+    "last_page_extracted": 34
+  },
+  "ti": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 967,
+    "last_page_extracted": 33
+  },
+  "soporte tecnico": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 378,
+    "last_page_extracted": 13
+  },
+  "infraestructura ti": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 935,
+    "last_page_extracted": 32
+  },
+  "tecnologias empresariales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 198,
+    "last_page_extracted": 7
+  },
+  "telecomunicaciones": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 42,
+    "last_page_extracted": 2
+  },
+  "redes": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 185,
+    "last_page_extracted": 7
+  },
+  "comunicaciones digitales": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 493,
+    "last_page_extracted": 17
+  },
+  "ingenieria de telecomunicaciones": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1063,
+    "last_page_extracted": 36
+  },
+  "proyectos de red": {
+    "last_extraction_date": "2025-07-18",
+    "total_offers_extracted": 1103,
+    "last_page_extracted": 37
   }
 }

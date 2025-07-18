@@ -9,57 +9,48 @@ from utils.file_manager import (
     guardar_log,
     cargar_log_existente,
 )
+
 def generar_job_id(titulo, empresa, ubicacion, fecha):
     cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
     return hashlib.md5(cadena.encode('utf-8')).hexdigest()
 
-def buscar_en_rapidapi(query, api_key, locations):
+def buscar_en_rapidapi(query, api_key):
     resultados = []
-    ubicaciones_finales = {}
     headers = {
         "x-rapidapi-host": "jsearch.p.rapidapi.com",
         "x-rapidapi-key": api_key,
     }
     base_url = "https://jsearch.p.rapidapi.com/search"
 
-    for location in locations:
-        page = 1
-        total_local = 0
-        while True:
-            params = {
-                "query": query,
-                "location": location,
-                "page": page,
-                "language": "es"
-            }
-            try:
-                response = requests.get(base_url, headers=headers, params=params, timeout=10)
-                if response.status_code != 200:
-                    print(f"Error HTTP {response.status_code} para '{query}' en {location}, página {page}")
-                    break
-                data = response.json()
-                jobs = data.get("data", [])
-                if not jobs:
-                    break
-                resultados.extend([job | {"_location": location} for job in jobs])
-                print(f"  {location} - Página {page}: {len(jobs)} ofertas")
-                total_local += len(jobs)
-                page += 1
-            except Exception as e:
-                print(f" Error en {location}, página {page}: {e}")
-                break
-        ubicaciones_finales[location] = {
-            "last_page_extracted": page - 1,
-            "total_extracted": total_local,
+    page = 1
+    while True:
+        params = {
+            "query": query,
+            "page": page,
         }
-    return resultados, ubicaciones_finales
+        try:
+            response = requests.get(base_url, headers=headers, params=params, timeout=10)
+            if response.status_code != 200:
+                print(f"Error HTTP {response.status_code} para '{query}', página {page}")
+                break
+            data = response.json()
+            jobs = data.get("data", [])
+            if not jobs:
+                break
+            resultados.extend(jobs)
+            print(f"  Página {page}: {len(jobs)} ofertas")
+            page += 1
+        except Exception as e:
+            print(f" Error en página {page}: {e}")
+            break
+    return resultados, page - 1, len(resultados)
 
 def normalizar_oferta(job, fuente, carrera, fecha):
     uid = generar_job_id(
-    job.get('job_title', ''),
-    job.get('employer_name', ''),
-    job.get('job_city', ''),
-    job.get('job_posted_at_datetime_utc', '')
+        job.get('job_title', ''),
+        job.get('employer_name', ''),
+        job.get('job_city', ''),
+        job.get('job_posted_at_datetime_utc', '')
     )
     return {
         "job_id": hashlib.md5(uid.encode()).hexdigest(),
@@ -78,9 +69,9 @@ def normalizar_oferta(job, fuente, carrera, fecha):
         "extraction_date": fecha,
     }
 
-def extraer_desde_rapidapi_1(query, api_key, carrera, locations):
+def extraer_desde_rapidapi_1(query, api_key, carrera):
     HOY = datetime.now().strftime("%Y-%m-%d")
-    fuente = "rapidapi"
+    fuente = "rapidapi1"
     crear_directorios()
 
     log = cargar_log_existente(fuente)
@@ -88,7 +79,7 @@ def extraer_desde_rapidapi_1(query, api_key, carrera, locations):
         print(f" Ya se extrajo '{query}' hoy. Omitiendo...")
         return
 
-    ofertas_raw, ubicaciones_finales = buscar_en_rapidapi(query, api_key, locations)
+    ofertas_raw, ultima_pagina, total = buscar_en_rapidapi(query, api_key)
     if not ofertas_raw:
         print(" No se extrajeron resultados.")
         return
@@ -96,7 +87,6 @@ def extraer_desde_rapidapi_1(query, api_key, carrera, locations):
     corpus = [normalizar_oferta(job, fuente, carrera, HOY) for job in ofertas_raw]
     df = pd.DataFrame(corpus)
 
-    # === Guardado ===
     directorio = f"data/outputs/{fuente}/{carrera.replace(' ', '_')}"
     os.makedirs(directorio, exist_ok=True)
     nombre_csv = f"{directorio}/{fuente}__{query.replace(' ', '_')}__{HOY}.csv"
@@ -108,4 +98,4 @@ def extraer_desde_rapidapi_1(query, api_key, carrera, locations):
     df.to_csv(nombre_csv, index=False)
     print(f"✅ Archivo guardado: {nombre_csv} ({len(df)} filas)")
 
-    guardar_log(fuente, query, fecha=HOY, ubicaciones_finales=ubicaciones_finales)
+    guardar_log(fuente, query, fecha=HOY, total=total, pagina=ultima_pagina)

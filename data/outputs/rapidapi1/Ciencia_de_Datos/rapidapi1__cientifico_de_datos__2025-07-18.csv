@@ -1,0 +1,143 @@
+job_id,source,job_title,company,location,description,skills,careers_required,date_posted,url,career_tag,soft_skills_detected,extraction_date
+5b98a027a5bb99c6960f145148f84763,rapidapi1,Científico de datos,Akuaro,"None, US","Position: Data Scientist
+Our client, a fast-growing and innovative technology company in the hospitality sector, is seeking a talented and motivated Data Scientist to join their expanding Data Science team.
+If you have a strong foundation in machine learning and programming—whether your background is in Computer Science, Mathematics, Engineering, Physics, or any other quantitative discipline—this is an exciting opportunity to make an immediate impact.
+
+About the Company
+This company provides cutting-edge B2B SaaS solutions designed to help hotel brands increase direct bookings by optimizing the guest booking experience and reclaiming their share of online revenue. With a diverse, international team based in Barcelona and other key locations worldwide, the company combines deep expertise in hospitality, product design, and consumer marketing to deliver pioneering technology that benefits thousands of hotels globally.
+
+The Role
+The Data Science team plays a central role in shaping the future of the platform by applying advanced machine learning techniques across multiple domains, including user behavior prediction, natural language processing (NLP), large language models (LLMs), computer vision, time-series forecasting, and causal inference.
+Working with a unique dataset derived from millions of daily user sessions on thousands of hotel websites, the team develops AI-powered products that lead the market in personalization and performance.
+
+Examples of Key Projects
+Predictive Systems: Machine learning models forecasting user behaviors such as purchase likelihood, price sensitivity, and travel flexibility, enabling personalized experiences through targeted messaging.
+AI-Driven Web Content Analysis: NLP-based tools analyzing content across numerous hotel websites, combined with extensive behavioral data to provide actionable insights that improve the customer journey.
+AI-Powered Personalization: Recommendation engines using LLMs to automatically tailor web tools for each property, maximizing the effectiveness of direct booking strategies.
+
+Why Join This Team?
+The Data Science team is at the core of the company’s innovation, developing and deploying advanced ML and AI techniques that power high-impact products used daily by clients worldwide. Joining the team means contributing to a fast-paced environment where your work will directly influence key product features affecting millions of travelers.
+
+What We’re Looking For
+Bachelor’s degree in a quantitative discipline such as Computer Science, Mathematics, Physics, Engineering, or similar.
+3+ years of industry experience applying machine learning techniques.
+Proven experience managing data science projects end-to-end, from ideation to implementation and delivery.
+Strong theoretical and practical knowledge of machine learning and statistics.
+Proficiency in Python and familiarity with key ML libraries (e.g., pandas, numpy, scikit-learn, TensorFlow/Keras or PyTorch, matplotlib, seaborn, FastAPI).
+Strong problem-solving skills with a proactive and resourceful approach.
+Self-motivated, creative, and eager to learn new technologies and methodologies.
+
+Nice to Have
+Experience with workflow orchestration tools like Airflow and messaging systems such as Apache Kafka.
+Familiarity with cloud platforms, especially AWS (e.g., S3, ECR).
+Experience with containerization and orchestration technologies like Docker and Kubernetes.
+Comfortable with Linux environments, version control (Git/GitHub), and CI/CD pipelines.
+Experience handling large datasets.
+Hands-on experience with Deep Learning frameworks, particularly PyTorch.
+Knowledge of deploying retrieval-augmented generation (RAG) and agentic workflows.
+Understanding of best practices in production environments including testing, documentation, and maintenance.
+Master’s degree in a relevant field is a plus.
+
+What the Company Offers
+Competitive salary package.
+A truly international team with 25+ nationalities.
+Work from a central office in Barcelona.
+Opportunity to have a real impact on a fast-growing tech company.
+Ongoing training and development opportunities.
+Healthy work-life balance with flexible hours and a hybrid remote policy (3 days remote per week).
+Flexible benefits including meal, transport, and nursery vouchers.
+Perks like coffee, tea, fresh fruit, and weekly team breakfasts.
+Exclusive discounts at hotels worldwide.","['Bachelor’s degree in a quantitative discipline such as Computer Science, Mathematics, Physics, Engineering, or similar', '3+ years of industry experience applying machine learning techniques', 'Proven experience managing data science projects end-to-end, from ideation to implementation and delivery', 'Strong theoretical and practical knowledge of machine learning and statistics', 'Proficiency in Python and familiarity with key ML libraries (e.g., pandas, numpy, scikit-learn, TensorFlow/Keras or PyTorch, matplotlib, seaborn, FastAPI)', 'Strong problem-solving skills with a proactive and resourceful approach', 'Self-motivated, creative, and eager to learn new technologies and methodologies', 'Experience with workflow orchestration tools like Airflow and messaging systems such as Apache Kafka', 'Familiarity with cloud platforms, especially AWS (e.g., S3, ECR)', 'Experience with containerization and orchestration technologies like Docker and Kubernetes', 'Comfortable with Linux environments, version control (Git/GitHub), and CI/CD pipelines', 'Experience handling large datasets', 'Hands-on experience with Deep Learning frameworks, particularly PyTorch', 'Knowledge of deploying retrieval-augmented generation (RAG) and agentic workflows', 'Understanding of best practices in production environments including testing, documentation, and maintenance', 'The Data Science team plays a central role in shaping the future of the platform by applying advanced machine learning techniques across multiple domains, including user behavior prediction, natural language processing (NLP), large language models (LLMs), computer vision, time-series forecasting, and causal inference', 'Predictive Systems: Machine learning models forecasting user behaviors such as purchase likelihood, price sensitivity, and travel flexibility, enabling personalized experiences through targeted messaging', 'AI-Driven Web Content Analysis: NLP-based tools analyzing content across numerous hotel websites, combined with extensive behavioral data to provide actionable insights that improve the customer journey']",Ciencia de Datos,2025-07-09T00:00:00.000Z,https://www.recruit.net/job/cientifico-de-datos-jobs/A39B6CD35F7AC1F4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+c5aae98f9087f4709514fcc5ea6d90c6,rapidapi1,cientifico de datos IA Madrid · Completamente remoto,Tecdata,"Avila, US","Hola a , buscamos un perfil Científico de Datos Sénior con experiencia en MLOps.
+
+Requisitos académicos:
+• Máster o PhD en Estadística, Matemáticas, Informática u otro campo cuantitativo.
+• Más de 5 años de experiencia en desarrollo y despliegue de proyectos de IA.
+
+Habilidades requeridas:
+• Gran capacidad de resolución de problemas centrada en el desarrollo de productos.
+• Dominio de lenguajes informáticos estadísticos (Python, SQL, etc.) para manipular datos y extraer conclusiones de grandes conjuntos de datos.
+• Experiencia práctica en herramientas y técnicas MLOps para casos de uso de IA, incluyendo despliegue, monitorización y mantenimiento, con menor énfasis en modelos de IA como GenAI (LMM, transformadores, GPT, OpenAI, NLP).
+• Experiencia en despliegue, monitorización y aseguramiento de modelos de Machine Learning en plataformas cloud como Google Cloud (Vertex, Gemini) (imprescindible); y conocimientos en AWS (Sagemaker, Bedrock) o Azure (ML Studio, AutoML, OpenAI) son valorados.
+• Conocimiento en tecnologías de contenedorización como Docker y herramientas de orquestación como Kubernetes.
+• Experiencia con protocolos de comunicación como API REST o MQTT.
+• Sólida comprensión de pipelines CI/CD y sistemas de control de versiones.
+
+Teletrabajo: Sí
+#J-18808-Ljbffr",[],Ciencia de Datos,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/cientifico-de-datos-ia-madrid-jobs/A9A4DFAA82D8D66C?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+58414d53eac5b84b17e5a3fa0bd34722,rapidapi1,Ingeniero de datos senior,NFI Industries,"Camden, US","Resumen
+
+¿Es usted un modelador de datos sénior dinámico y visionario con el deseo de marcar la diferencia y ser un actor clave en la configuración de nuestro futuro del análisis de datos en la nube?
+
+Buscamos que se una a nuestro equipo en crecimiento, donde dará rienda suelta a su innovación, pensamiento estratégico y destreza técnica para revolucionar la forma en que almacenamos, administramos y analizamos datos en la nube. Si prosperas en un entorno acelerado y en constante evolución y tienes una sed insaciable de tecnologías de vanguardia, ¡este puesto es para ti!
+
+En NFI, ofrecemos soluciones innovadoras, integradas y personalizadas que abarcan toda la cadena de suministro. Cualquiera que sea el desafío de nuestros clientes, tenemos el conocimiento, la tecnología, la escala y el compromiso para ayudarlos a resolverlo. Es simplemente lo que hacemos.
+
+Esta es una oportunidad para unirse a NFI en su viaje para convertirse en una organización basada en datos, continuar desarrollando su disciplina de análisis de datos e integrar las mejores prácticas en el entorno de datos. El modelador de datos senior desempeñará un papel crucial en el diseño, implementación y optimización de nuestros modelos y arquitectura de datos para respaldar la toma de decisiones basada en datos en toda la organización. Esta persona tendrá una sólida formación en modelado de datos, un profundo conocimiento de los principios del almacenamiento de datos y experiencia práctica con los servicios de datos de Microsoft Azure.
+
+Responsabilidades
+• Diseñe y desarrolle modelos de datos robustos, escalables y eficientes para diversas necesidades de análisis y procesamiento de datos.
+• Colabore con ingenieros de datos, científicos de datos y partes interesadas del negocio para comprender los requisitos de datos y traducirlos en modelos de datos efectivos.
+• Optimice y ajuste los modelos de datos para garantizar un alto rendimiento y escalabilidad.
+• Implemente y administre soluciones de almacenamiento de datos en Microsoft Azure, aprovechando servicios como Azure SQL Database, Azure Data Lake, Azure Synapse Analytics y más.
+• Realice análisis comerciales para comprender y documentar los procesos comerciales, los flujos de trabajo y las necesidades de información.
+• Traducir los requisitos comerciales en requisitos de datos y especificaciones técnicas.
+• Garantice la calidad e integridad de los datos a través de rigurosos procesos de prueba y validación.
+• Desarrollar y mantener documentación completa para modelos de datos, esquemas y diagramas de flujo de datos.
+• Colabore con analistas de negocios y otras partes interesadas para identificar oportunidades de mejoras e innovación basadas en datos.
+• Manténgase actualizado con las últimas tendencias de la industria y las mejores prácticas en modelado de datos y servicios de datos de Azure.
+• Asesorar y brindar orientación a modeladores de datos e ingenieros de datos junior.
+
+Calificaciones
+• Licenciatura o Maestría en Ciencias de la Computación, Sistemas de Información o un campo relacionado.
+• Mínimo de 5 años de experiencia en modelado de datos, con al menos 2 años enfocados en Microsoft Azure.
+• Dominio de herramientas de modelado de datos como ER/Studio, ERwin o similares.
+• Gran conocimiento de las técnicas de modelado de datos relacionales, dimensionales y NoSQL.
+• Experiencia práctica con conceptos de diseño de almacenamiento de datos de esquema en estrella de Kimble.
+• Habilidades SQL de nivel experto y experiencia en ajuste y optimización del rendimiento.
+• Experiencia con Azure SQL Database, Azure Data Lake, Azure Synapse Analytics y otros servicios de datos de Azure.
+• Sólido conocimiento de los procesos ETL y herramientas de BI.
+• Excelentes habilidades para la resolución de problemas y atención al detalle.
+• Fuertes habilidades de comunicación, con la capacidad de transmitir conceptos de datos complejos a partes interesadas no técnicas.
+
+Nos complace compartir que el rango de salario base para este puesto es $104,530.40 -$139,381.84. Este puesto también es elegible para una bonificación discrecional anual, cuyo objetivo es el 3%. NFI toma en consideración las calificaciones, la experiencia, la educación y la ubicación geográfica de los solicitantes al determinar una tasa de pago inicial.
+
+Los empleados también son elegibles para un sólido programa de beneficios, que incluye cobertura médica, dental, oftalmológica, de medicamentos recetados, plan 401k, programa de bienestar, seguro de vida, tiempo libre remunerado y licencia parental remunerada, entre otras opciones de planes de beneficios.
+
+Empleador que ofrece Igualdad de Oportunidades/Veteranos Protegidos/Individuos con Discapacidades
+
+El contratista no despedirá ni discriminará de ninguna otra manera a los empleados o solicitantes porque hayan preguntado, discutido o revelado su propio salario o el salario de otro empleado o solicitante. Sin embargo, los empleados que tienen acceso a la información de compensación de otros empleados o solicitantes como parte de sus funciones laborales esenciales no pueden revelar el salario de otros empleados o solicitantes a personas que de otro modo no tendrían acceso a la información de compensación, a menos que la divulgación sea (a ) en respuesta a una queja o cargo formal, (b) en cumplimiento de una investigación, procedimiento, audiencia o acción, incluida una investigación realizada por el empleador, o (c) de conformidad con el deber legal del contratista de proporcionar información. 41 CFR 60-1.35(c)
+
+Solicitantes del condado de Los Ángeles: La Compañía considerará a los solicitantes calificados, incluidos aquellos con antecedentes penales, de manera consistente con las leyes estatales y locales aplicables.
+PC-1010 (US)",[],Ciencia de Datos,2025-06-27T00:00:00.000Z,https://careers.nfiindustries.com/jobs/22981?lang=es-mx&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+2f7368efebb890fa5fab219ffc5ab199,rapidapi1,"Científico de Datos en Warner Music Group, Nueva York",Warner Music Group,"New York, US","Descripción
+
+Warner Music Group busca incorporar a un científico de datos para sus oficinas en Nueva York.
+
+El departamento de Investigación + Análisis trabaja para influir en la estrategia de WMG y optimizar las operaciones del día a día a través de datos y conocimientos.
+
+Este puesto se encuentra dentro del equipo global de Investigación + Análisis con sede en Nueva York, que trabaja en estrecha colaboración con colegas de Business Development WEA Distribution y Label Partners para comprender mejor qué hace que los socios digitales globales funcionen, y cómo se puede usar esa información en beneficio de nuestro artistas y compositores.
+
+El científico de datos trabajará en un centro de excelencia de ciencia de datos utilizando, en particular, datos específicos de la industria de la música.
+
+El científico entregará informes, inferencia avanzada, productos y herramientas predictivas utilizando, en particular, datos nativos de la industria de la música. El puesto reporta al Director de Ciencia de Datos.
+
+Responsabilidades
+• Contribuir al desarrollo de herramientas de alto impacto y la ejecución de proyectos ad hoc con solidez metodológica y rigor científico.
+• Trabajar con socios comerciales en WMG para aplicar la ciencia de datos para mejorar la toma de decisiones.
+• Colaborar con otros científicos de datos en la ejecución de los objetivos, plazos y responsabilidades del proyecto según lo definido por el director de ciencia de datos.
+• Funcionar como traductor de problemas y soluciones complejas en las unidades técnicas, comerciales y ejecutivas en todos los niveles de la organización.
+• Gestionar múltiples prioridades en una combinación de proyectos operativos y ad hoc.
+• Pensar críticamente sobre los datos y las combinaciones adecuadas de casos de uso y datos.
+• Impulsar la recopilación y manipulación de nuevos datos y el refinamiento de las fuentes de datos existentes.
+
+Requisitos
+• Licenciatura (se recomienda doctorado) con especialización en Estadística, Ciencia de datos, Matemáticas, Investigación de operaciones, Economía u otros campos donde se aplican métodos cuantitativos avanzados.
+• Profundo entrenamiento estadístico y fluidez en la aplicación de métodos avanzados de inferencia y predicción.
+• Más de 2 años de experiencia en ciencia de datos o análisis avanzado aplicando métodos estadísticos avanzados y técnicas de aprendizaje automático a fuentes de datos complejas.
+• Más de 2 años de experiencia usando R o Python a un nivel experto.
+• Más de 2 años de experiencia con técnicas y conceptos de visualización de datos.
+• Más de 2 años de experiencia en el uso de bases de datos relacionales y SQL
+• Conocimiento experto de lenguajes de programación adicionales (es decir, Julia, Java, Scala) es una ventaja.
+• Experiencia en el uso de entornos informáticos distribuidos como es una ventaja.
+• Capacidad para aprender nuevos métodos y herramientas según sea necesario.",[],Ciencia de Datos,,https://promocionmusical.es/trabajo/cientifico-datos-warner-music-group-nueva-york/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18

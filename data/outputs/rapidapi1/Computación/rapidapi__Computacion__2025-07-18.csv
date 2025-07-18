@@ -1,0 +1,978 @@
+job_id,source,job_title,company,location,description,skills,careers_required,date_posted,url,career_tag,soft_skills_detected,extraction_date
+8c6a84058a9c584f591cb6df4bc17f97,rapidapi,Informatica Adminstrator,Sienna Systems,"Alexandria, US","HOW TO APPLY
+Send your resume, contact information, and position title to careers@sienna-systems.com.
+REQ#1901:Informatica Adminstrator - Alexandria, VA
+
+This person will be part of the team that supports a growing Data Warehousing and Business Intelligence environment using Informatica, Oracle 11g/10g RDBMS, and SQL Server 2005/2008. This individual will be responsible for the following:
+• Administering the Informatica environment on UNIX
+• Apply patches / upgrades / hotfixes for Informatica PowerCenter
+• Monitor performance, troubleshoot, and tune ETL processes
+• Will be responsible for 24x7 support
+• Work with Informatica vendor on any issues that arise
+• Support the Informatica developer team as needed
+
+1. Ensure development teams are following appropriate standards
+2. Promote and deploy Informatica code
+3. Assist development team at design time ensuring code will run at scale
+4. Serve as an Informatica Developer as needed to get work completed.
+• Write and maintain BASH shell scripts for administering the Informatica environment
+• Design and implement appropriate error handling procedures
+• Develop project, documentation, and ETL standards in conjunction with data architects
+• Work with other team members to ensure standards around monitoring and management of the Informatica environment within the context of existing enterprise monitoring solutions
+
+Qualifications:
+• Excellent oral and written English communication skills
+
+Specifically needs to be able to communicate well on phone calls
+• Must be able to thrive under pressure and have a strong sense of ownership and responsibility for the project
+• Minimum of 7-10 years of experience in the administration, architecture, design, and development of ETL programs using Informatica’s data integration tools;
+
+1. Informatica experience must include working with large mission critical data systems (multiple terabytes in size with millions of rows processing per day)
+2. Must be able to demonstrate mastery of Informatica command line utilities
+3. Must be able to demonstrate mastery of quickly debugging and resolving issues that can arise with Informatica programs.
+4. Must know how to navigate through the Informatica metadata repository
+5. Expert knowledge of Informatica version 8.5 and above. Informatica version 9.x and above preferred;
+6. Working with Informatica PowerExchange products is a plus
+• Minimum 2 full lifecycle project experience with small development groups, e.g., leading ground up development of Informatica standards in one or more previous projects.
+• Demonstrated ability to navigate through organizational and technical uncertainty
+• Mastery of Unix concepts and commands, including process management, scripting, directory structures, file permissions and editors
+• Solid background in Oracle database 11g
+
+1. Must be able to read and understand an Oracle Explain Plan
+2. Must understand and know Oracle hints
+3. Solid experience building SQL queries, including creating sub-queries, minus/union, and inline queries
+4. Stored procedure development experience
+• Fluency with business concepts related to relational and dimensional data models
+• BA/BS in computer science or equivalent experience
+• Experience with large scale database application like Exadata would be a plus","['Excellent oral and written English communication skills', 'Specifically needs to be able to communicate well on phone calls', 'Must be able to thrive under pressure and have a strong sense of ownership and responsibility for the project', 'Minimum of 7-10 years of experience in the administration, architecture, design, and development of ETL programs using Informatica’s data integration tools;', 'Informatica experience must include working with large mission critical data systems (multiple terabytes in size with millions of rows processing per day)', 'Must be able to demonstrate mastery of Informatica command line utilities', 'Must be able to demonstrate mastery of quickly debugging and resolving issues that can arise with Informatica programs', 'Must know how to navigate through the Informatica metadata repository', 'Expert knowledge of Informatica version 8.5 and above', 'This person will be part of the team that supports a growing Data Warehousing and Business Intelligence environment using Informatica, Oracle 11g/10g RDBMS, and SQL Server 2005/2008', 'This individual will be responsible for the following:', 'Administering the Informatica environment on UNIX', 'Apply patches / upgrades / hotfixes for Informatica PowerCenter', 'Monitor performance, troubleshoot, and tune ETL processes', 'Will be responsible for 24x7 support', 'Work with Informatica vendor on any issues that arise', 'Support the Informatica developer team as needed', 'Ensure development teams are following appropriate standards', 'Promote and deploy Informatica code', 'Assist development team at design time ensuring code will run at scale', 'Serve as an Informatica Developer as needed to get work completed', 'Write and maintain BASH shell scripts for administering the Informatica environment', 'Design and implement appropriate error handling procedures', 'Develop project, documentation, and ETL standards in conjunction with data architects', 'Work with other team members to ensure standards around monitoring and management of the Informatica environment within the context of existing enterprise monitoring solutions']",Computación,,https://www.indeed.com/viewjob?jk=9745d6393d1b4739&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+9919d90b2b8ce02d74a4ccc9a84658d4,rapidapi,Informatica Developer,Dellfor Technologies,"Washington, US","Company Description
+
+Dellfor Technologies is founded by software professionals with fresh approach, and ideas empowering clients and partners in meeting the unique challenges created by transforming business needs. Our technical, domain expertise across obust solutions. We strive to prove ourselves from project inception through completion... Our technical, domain expertise across industries and process oriented approach enables clients to develop cost effective and robust solutions. We strive to prove ourselves from project inception through completion...
+
+To succeed in the Dellfor technologies, you need exceptional connections - to the right experts, the right opportunities and the right answers. You'll find Dellfor Technologies right in the center of this ever-changing technological world - uncovering opportunities and connecting possibilities.
+
+As a global provider of IT staffing services, Dellfor Technologies connects the very best IT professionals to great opportunities at leading companies. And we do it every single day - for both temporary and permanent assignments and across virtually all industries. We use our insight, flexibility and expanded resources to anticipate the needs of leading tech companies and help them make exceptional connections with top tech talent.
+
+Job Description
+• 5-12+ Years of Informatica experience.
+• Client is looking for an Informatica Developer with a combination of development and Support experience (development 70%, Support 30%).
+• Developing Error Handling Framework in Autosys / Control-M / Tidal tool with Informatica.
+• Experience on Informatica Power center Grid config.
+• Experience on Informatica IDQ.
+• Experience on Informatica Master Data Management.
+• Experience with Informatica Cloud.
+• Experience on Informatica development, performance tuning
+• Good hands on experience with Unix scripting.
+• Experience with the MDM (Master Data Management) Tool
+• Experience with Data Cleansing, Data Standardization, Data Profiling
+• Strong on Teradata, SQL and Informatica
+
+Additional Information
+
+Highlights and benefits
+• We are a registered E verified company
+• Starting salary between $ 60,000 with regular increments
+• Free classroom skill enhancement program
+• Relocation allowance
+• Referral bonus
+• On the job support from experienced professionals in the relative field
+• Travel allowance
+• Insurance- Medical, dental, vision and 401K
+• Health Benefits through Carefirst BCBS (Blue Cross Blue Shield)
+• Company paid Life Insurance
+
+Please respond with your resume. US Citizens and all other parties authorized to work in the US are encouraged to apply.
+
+Job Type: Contract
+
+Salary: $80,000.00 /year
+
+Required education:
+• Bachelor's
+
+Required experience:
+• Developer: 5-12year","['5-12+ Years of Informatica experience', 'Client is looking for an Informatica Developer with a combination of development and Support experience (development 70%, Support 30%)', 'Experience on Informatica IDQ', 'Experience on Informatica Master Data Management', 'Experience with Informatica Cloud', 'Experience on Informatica development, performance tuning', 'Good hands on experience with Unix scripting', 'Experience with the MDM (Master Data Management) Tool', 'Experience with Data Cleansing, Data Standardization, Data Profiling', 'Strong on Teradata, SQL and Informatica', ""Bachelor's"", 'Developer: 5-12year', 'Developing Error Handling Framework in Autosys / Control-M / Tidal tool with Informatica', 'Experience on Informatica Power center Grid config']",Computación,,"https://www.ziprecruiter.com/c/Dellfor-Technologies/Job/Informatica-Developer/-in-Washington,DC?jid=1ca4c0145bcbe74e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+eb3d0706c717c366cf71c5800874a4bc,rapidapi,Senior ETL Informatica Developer,Pyramid Consulting,"McLean, US","Immediate need for a talented Senior ETL Informatica Developer with experience in the Financial and Banking Industry. This is a 6+ Months Contract opportunity with long-term potential and is located in Mclean, VA. Please review the job description below.
+
+Job ID: 20-18842
+
+Key Requirements and Technology Experience:
+• Support migration of Informatica Power Center ETLs connections from Vertica to Snowflake.
+• Support and integrate existing Informatica Power Center ETL’s with Snowflake.
+• Support and develop new ETL component integration with Snowflake and make recommendations for functions that result in a more cost- effective product delivery.
+• Work with initiative leads, business areas, technical leads, architects, subject matter experts, developers, technical support groups and test teams to deliver value to the business;
+• Support development and deliver PowerCenter and IICS components as specified in the design, functional and non-functional requirements
+• Perform unit testing of PowerCenter and IICS components and document te
+• * st results when needed;
+• Correct testing defects and support all testing, including but not limited to: Development Integration Testing, System Testing, User Acceptance Testing, End-to-End Testing, andPerformance Testing.
+• Perform troubleshooting on Informatica PowerCenter and IICS components and work with Informatica GCS where needed;
+• Identify application bottlenecks and opportunities to optimize performance;
+• Provide resolution to an extensive range of complicated PowerCenter and IICS related problems, proactively and as issues surface;
+• Perform code version control activities via GitHub.
+• College Degree or equivalent experience; advanced studies/degree preferred;
+• Minimum six (6) years overall current and hands-on development/integration/administration experience with Informatica Power Center and IICS.
+• Minimum five (5) years of current and hands-on experience with complex SQL and high-volume Relational databases and SQL Query performance tuning;
+• Minimum two (2) years of current and hands-on Amazon Web Services (AWS);
+• Minimum two (2) years of current and hands-on UNIX shell scripting experience;
+• Minimum two (2) years of current and hands-on Autosys experience;
+• Minimum two (2) years of current and hands-on experience with code management tools such as GitHub or ClearCase;
+• Agile team exposure preferred
+• Self-starter that takes initiative to fill in gaps where needed
+Our client is a leading Financial and Banking Industry and we are currently interviewing to fill this and other similar contract positions. If you are interested in this position, please apply online for immediate consideration.","['Immediate need for a talented Senior ETL Informatica Developer with experience in the Financial and Banking Industry', 'Support migration of Informatica Power Center ETLs connections from Vertica to Snowflake', 'Correct testing defects and support all testing, including but not limited to: Development Integration Testing, System Testing, User Acceptance Testing, End-to-End Testing, and', 'Minimum six (6) years overall current and hands-on development/integration/administration experience with Informatica Power Center and IICS', 'Minimum five (5) years of current and hands-on experience with complex SQL and high-volume Relational databases and SQL Query performance tuning;', 'Minimum two (2) years of current and hands-on Amazon Web Services (AWS);', 'Minimum two (2) years of current and hands-on UNIX shell scripting experience;', 'Minimum two (2) years of current and hands-on Autosys experience;', 'Minimum two (2) years of current and hands-on experience with code management tools such as GitHub or ClearCase;', 'Self-starter that takes initiative to fill in gaps where needed', 'Support and integrate existing Informatica Power Center ETL’s with Snowflake', 'Support and develop new ETL component integration with Snowflake and make recommendations for functions that result in a more cost- effective product delivery', 'Work with initiative leads, business areas, technical leads, architects, subject matter experts, developers, technical support groups and test teams to deliver value to the business;', 'Support development and deliver PowerCenter and IICS components as specified in the design, functional and non-functional requirements', 'Perform unit testing of PowerCenter and IICS components and document te', 'st results when needed;', 'Performance Testing', 'Perform troubleshooting on Informatica PowerCenter and IICS components and work with Informatica GCS where needed;', 'Identify application bottlenecks and opportunities to optimize performance;', 'Provide resolution to an extensive range of complicated PowerCenter and IICS related problems, proactively and as issues surface;', 'Perform code version control activities via GitHub']",Computación,,"https://www.ziprecruiter.com/c/Pyramid-Consulting/Job/Senior-ETL-Informatica-Developer/-in-Mclean,VA?jid=57b1de8090550e6c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+c795a4eb0d7cdc0cd0d9b6ff31d2e619,rapidapi,Informatica IICS Developer,VDart Inc,"McLean, US","Job Title: Informatica IICS Developer
+Contract
+MClean, VA (Hybrid)
+
+Description: The Informatica IICS Developer will be responsible for designing, developing, and implementing data integration solutions using Informatica Intelligent Cloud Services (IICS). This role requires expertise in ETL processes, data transformation, and integration workflows to ensure efficient data management and delivery.
+Responsibilities:
+Design and develop data integration workflows, mappings, and transformations using Informatica IICS.
+Implement ETL processes to extract, transform, and load data from various sources into target systems.
+Collaborate with business analysts and stakeholders to understand data requirements and translate them into technical solutions.
+Optimize ETL processes for performance, scalability, and reliability.
+Develop and maintain documentation for data integration processes and workflows.
+Troubleshoot and resolve data integration issues and performance bottlenecks.
+Perform data validation and quality checks to ensure data accuracy and integrity.
+Stay up-to-date with Informatica IICS features, best practices, and emerging trends in data integration.
+Work closely with the data engineering and analytics teams to support data-driven initiatives.
+Required skills and qualifications:
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Hands on experience in data integration and ETL development with Informatica IICS.Proficiency in designing and implementing data workflows, mappings, and transformations.
+Strong understanding of relational databases, SQL, and data modeling concepts.","[""Bachelor's degree in Computer Science, Information Technology, or a related field"", 'Hands on experience in data integration and ETL development with Informatica IICS', 'Proficiency in designing and implementing data workflows, mappings, and transformations', 'Strong understanding of relational databases, SQL, and data modeling concepts', 'Description: The Informatica IICS Developer will be responsible for designing, developing, and implementing data integration solutions using Informatica Intelligent Cloud Services (IICS)', 'This role requires expertise in ETL processes, data transformation, and integration workflows to ensure efficient data management and delivery', 'Design and develop data integration workflows, mappings, and transformations using Informatica IICS', 'Implement ETL processes to extract, transform, and load data from various sources into target systems', 'Collaborate with business analysts and stakeholders to understand data requirements and translate them into technical solutions', 'Optimize ETL processes for performance, scalability, and reliability', 'Develop and maintain documentation for data integration processes and workflows', 'Troubleshoot and resolve data integration issues and performance bottlenecks', 'Perform data validation and quality checks to ensure data accuracy and integrity', 'Stay up-to-date with Informatica IICS features, best practices, and emerging trends in data integration', 'Work closely with the data engineering and analytics teams to support data-driven initiatives']",Computación,,"https://www.ziprecruiter.com/c/VDart-Inc/Job/Informatica-IICS-Developer/-in-Mclean,VA?jid=e14aebcdce008af4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+d4ad6520021dfea97c7a04d172fdaab0,rapidapi,ETL Informatica Developer,ViedTech,"Washington, US","Company Description
+
+Incorporated in 2006; Headquartered in Chantilly, VA. Viedtech has established itself globally with its services and solution excellence. Viedtech offers fast, reliable, cost effective and value added IT and Staffing Services.
+
+We constantly strive hard to refine our quality, expand our capabilities, increase our efficiency, and elevate the superior level of customer service by delivering excellent and targeted solutions with professional integrity.
+
+Job Description
+• 8-10 Years of experience as Strong ETL- Informatica Intelligent Cloud Services (IICS) along with API experience.
+• Good experience with Informatica cloud migration projects.
+• Good knowledge of SQL - Teradata/Oracle/SQL Server/AWS Redshift
+• Assess requirements for completeness and accuracy
+• Responsible for managing tasks and deadlines for the ETL teams.
+• Requirement gathering and requirement Analysis.
+• Sound concepts of Relational and dimensional data modelling with good DW concept.
+• Good working exposure in Star and Snowflake Schemas
+• Good working exposure in implementing end-to-end Data warehousing solutions using Informatica.
+• Head complex ETL requirements and design. Identify, recommend, and implement ETL process and architecture improvements.
+• Determine if requirements are actionable for ETL team.
+• Sound Informatica Power Center knowledge.
+• Good Knowledge on Power Center jobs implementation along with Sound SCD concepts
+• Good knowledge on defines data collection methods, data models, types, and outlines the transformation process.
+• Understanding concepts of Cloud and good exposure with Amazon Redshift would be an added advantage.
+• Good knowledge of writing shell scripts
+• Ability to design, test, debug and migrate Informatica code.
+• Ability to develop test cases based on test matrix including test data preparation for Data Completeness, Data Transformations, Data quality, Performance, and scalability.
+• Good analytical and problem-solving skills
+
+Qualifications
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.","['8-10 Years of experience as Strong ETL- Informatica Intelligent Cloud Services (IICS) along with API experience', 'Good experience with Informatica cloud migration projects', 'Good knowledge of SQL - Teradata/Oracle/SQL Server/AWS Redshift', 'Good Knowledge on Power Center jobs implementation along with Sound SCD concepts', 'Understanding concepts of Cloud and good exposure with Amazon Redshift would be an added advantage', 'Good knowledge of writing shell scripts', 'Ability to design, test, debug and migrate Informatica code', 'Ability to develop test cases based on test matrix including test data preparation for Data Completeness, Data Transformations, Data quality, Performance, and scalability', 'Good analytical and problem-solving skills', 'Assess requirements for completeness and accuracy', 'Responsible for managing tasks and deadlines for the ETL teams', 'Requirement gathering and requirement Analysis', 'Sound concepts of Relational and dimensional data modelling with good DW concept', 'Good working exposure in Star and Snowflake Schemas', 'Good working exposure in implementing end-to-end Data warehousing solutions using Informatica', 'Head complex ETL requirements and design', 'Identify, recommend, and implement ETL process and architecture improvements', 'Determine if requirements are actionable for ETL team', 'Sound Informatica Power Center knowledge', 'Good knowledge on defines data collection methods, data models, types, and outlines the transformation process']",Computación,,"https://www.ziprecruiter.com/c/ViedTech/Job/ETL-Informatica-Developer/-in-Washington,DC?jid=f425256f4fc2cf16&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+745270734d842064d0ed77cca312eaa6,rapidapi,Data Engineer (Informatica),Randstad Digital,"None, US","job summary:
+
+Location: Westlake, TX Only
+
+Required Skills
+• Bachelor's Degree or equivalent in a technology related field (e.g. Computer Science, Engineering, etc.) required
+• 10+ years of hands-on experience in Data engineering, data warehousing and analytics technologies
+
+location: Roanoke, Texas
+
+job type: Contract
+
+salary: $75 - 76 per hour
+
+work hours: 8am to 5pm
+
+education: Bachelors
+
+responsibilities:
+• Proven ability with modern Object-Oriented Programming Languages (Python, Scala, Java)
+• Advanced skills in data intensive application development, data integration, and data pipeline design patterns on a distributed platform
+• Strong knowledge of designing data engineering solutions and platforms
+• Working experience with Relational Databases like Oracle
+• Experience with business intelligence and analytics tools such as OBIEE, PowerBI or Tableau
+• Strong working knowledge of cloud native data warehousing and data lake solutions using Snowflake, Redshift etc.
+• Experience building scalable patterns for data consumption from cloud based data-lakes.
+• Advanced experience with PL/SQL and complex queries
+• Solid understanding of Cloud Computing and DevOps concepts including CI/CD pipelines
+
+qualifications:
+• Significant experience with ELT data integration and data movement design patterns
+• Working experience of NoSQL and BigData technologies such as e.g. Hadoop, HBase, MongoDB, Cassandra, etc.
+• Your ability and passion for leading tech teams and mentor junior engineers
+• Your ability to collaborate with other technical and business minds in the organization
+
+skills:
+• Your ability to learn and experiment with new technologies and patterns
+• Your penchant for modern test driven and automation driven software development methodologies
+• Your expertise in converting technology goals into achievable initiatives and Epics and stories
+• Your experience in executing projects in an Agile environment
+
+Equal Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status.
+
+At Randstad Digital, we welcome people of all abilities and want to ensure that our hiring and interview process meets the needs of all applicants. If you require a reasonable accommodation to make your application or interview experience a great one, please contact
+
+Pay offered to a successful candidate will be based on several factors including the candidate's education, work experience, work location, specific job duties, certifications, etc. In addition, Randstad Digital offers a comprehensive benefits package, including: medical, prescription, dental, vision, AD&D, and life insurance offerings, short-term disability, and a 401K plan (all benefits are based on eligibility).
+
+This posting is open for thirty (30) days.","[""Bachelor's Degree or equivalent in a technology related field (e.g. Computer Science, Engineering, etc.) required"", '10+ years of hands-on experience in Data engineering, data warehousing and analytics technologies', 'Proven ability with modern Object-Oriented Programming Languages (Python, Scala, Java)', 'Advanced skills in data intensive application development, data integration, and data pipeline design patterns on a distributed platform', 'Strong knowledge of designing data engineering solutions and platforms', 'Working experience with Relational Databases like Oracle', 'Experience with business intelligence and analytics tools such as OBIEE, PowerBI or Tableau', 'Strong working knowledge of cloud native data warehousing and data lake solutions using Snowflake, Redshift etc', 'Advanced experience with PL/SQL and complex queries', 'Significant experience with ELT data integration and data movement design patterns', 'Working experience of NoSQL and BigData technologies such as e.g. Hadoop, HBase, MongoDB, Cassandra, etc', 'Your ability and passion for leading tech teams and mentor junior engineers', 'Your ability to collaborate with other technical and business minds in the organization', 'Your ability to learn and experiment with new technologies and patterns', 'Your penchant for modern test driven and automation driven software development methodologies', 'Your expertise in converting technology goals into achievable initiatives and Epics and stories', 'Your experience in executing projects in an Agile environment', 'Equal Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status', 'work hours: 8am to 5pm', 'Experience building scalable patterns for data consumption from cloud based data-lakes', 'Solid understanding of Cloud Computing and DevOps concepts including CI/CD pipelines']",Computación,2025-07-16T00:00:00.000Z,https://www.dice.com/job-detail/58ec5b7e-194f-443b-aa95-3b92778c0480?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+c5e52755095e7207fd3495cb2b736728,rapidapi,Jr. Informatica Developer,SoftNice INC,"Reston, US","Company Description
+
+SoftNice specializes in assembling and managing dedicated teams of highly skilled technical professionals to augment your in-house resources. With corporate headquarters in Allentown, PA and software development centers in India, SoftNice offers you the convenience and security of working with a reliable U.S. corporation plus all the benefits of a highly affordable offshore outsource development team
+
+Job Description
+
+Title: Jr. Informatica Developer
+
+Location: Reston VA
+
+Duration: Fulltime
+
+US Citizen and Green Card only.
+
+Primary Skills:
+• Must have 2-3+ years of experience in BI/DW/ETL space.
+• Excellent hands on with Informatica Powercenter version 9 and above.
+• Must have strong Unix skills - should be able to use Unix commands to filter, sort and analyze records
+• Must have worked on Autosys (preferred) or other scheduler tools.
+• Must have excellent SQL skills
+• Experience in using Parallelism & Partitioning in Informatica
+• Experience in performance tuning in Informatica
+• Excellent communication skills
+
+Qualifications
+
+Bachelors
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.","['US Citizen and Green Card only', 'Must have 2-3+ years of experience in BI/DW/ETL space', 'Excellent hands on with Informatica Powercenter version 9 and above', 'Must have strong Unix skills - should be able to use Unix commands to filter, sort and analyze records', 'Must have excellent SQL skills', 'Experience in using Parallelism & Partitioning in Informatica', 'Experience in performance tuning in Informatica', 'Excellent communication skills', 'Bachelors']",Computación,,"https://www.ziprecruiter.com/c/SoftNice-INC/Job/Jr.-Informatica-Developer/-in-Reston,VA?jid=6df2463bd5f29e5e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+68da418dda64a14a62abe4ca03f6dc79,rapidapi,Senior Informatica ETL Developer - REMOTE,NTT DATA North America,"Canton, US","Req ID: 328373
+
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Senior Informatica ETL Developer - REMOTE to join our team in Canton, Massachusetts (US-MA), United States (US).
+
+Day to Day Responsibilities:
+• Perform Data analysis, collect business requirements and identify business rules.
+• Analyze, develop and support Data Integration, EDW and Data Management using Informatica, SQL, Oracle etc. platforms and tools.
+• Collaborate with data modelling team to define data integration logic.
+• Create data mappings necessary to fulfill the requirements.
+• Build and test new ETL programs to fulfill the service requests.
+• Automate the ETL processes and pipelines using scripting and Schedulers.
+• Participate in Unit Testing, assist QA team in Integration Testing, and support Business team for UAT.
+• Participate in code deployment and coordinate with different infrastructure teams during go-live, post-production, and continued support of end product.
+• Debug data quality issues by analyzing the upstream sources and provide guidance to data integration team resolutions.
+• Work closely work with DBAs to fix performance bottlenecks.
+
+Minimum Requirements:
+• Recent experience and clear responsibilities in an ETL / Extracts / Data Engineering lead developer capacity.
+• 8 plus years of experience in data integration (ETL) with 6 or more in solution development using Informatica suite.
+• 6 or more years of experience in RDBMS / Data Warehousing platforms on Oracle.
+• Must be an expert in Linux shell scripting to introduce automation as part of solution delivery.
+• Strong SQL knowledge and ability to write most complex queries.
+• Conceptual understanding of logical and physical data modelling is a must, and a working experience is a plus.
+• Ability to develop and maintain data integration/ETL specifications that states integration rules and mappings.
+• Ability to use documentation tools such as MS Visio and MS PowerPoint to diagram integration data flows.
+• Ability to communicate effectively with business and technical staff members.
+
+Preferred Skills:
+• Certifications in ETL and Data Warehouse platforms.
+• Domain experience in Healthcare.
+• Data profiling and implementation of automated solutions for data quality checks.
+
+Education:
+• Bachelor’s degree in Computer Engineering, Computer Science, Engineering, or related field of study
+
+Where required by law, NTT DATA provides a reasonable range of compensation for specific roles. The starting pay range for this remote role is $105,840 - $245,000. This range reflects the minimum and maximum target compensation for the position across all US locations. Actual compensation will depend on a number of factors, including the candidate’s actual work location, relevant experience, technical skills, and other qualifications.
+
+INDHCLSMC
+
+About NTT DATA
+
+NTT DATA is a $30 billion trusted global innovator of business and technology services. We serve 75% of the Fortune Global 100 and are committed to helping clients innovate, optimize and transform for long term success. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure and connectivity. We are one of the leading providers of digital and AI infrastructure in the world. NTT DATA is a part of NTT Group, which invests over $3.6 billion each year in R&D to help organizations and society move confidently and sustainably into the digital future. Visit us at us.nttdata.com
+
+NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.","['Recent experience and clear responsibilities in an ETL / Extracts / Data Engineering lead developer capacity', '8 plus years of experience in data integration (ETL) with 6 or more in solution development using Informatica suite', '6 or more years of experience in RDBMS / Data Warehousing platforms on Oracle', 'Must be an expert in Linux shell scripting to introduce automation as part of solution delivery', 'Strong SQL knowledge and ability to write most complex queries', 'Ability to develop and maintain data integration/ETL specifications that states integration rules and mappings', 'Ability to use documentation tools such as MS Visio and MS PowerPoint to diagram integration data flows', 'Ability to communicate effectively with business and technical staff members', 'Bachelor’s degree in Computer Engineering, Computer Science, Engineering, or related field of study', 'Perform Data analysis, collect business requirements and identify business rules', 'Analyze, develop and support Data Integration, EDW and Data Management using Informatica, SQL, Oracle etc. platforms and tools', 'Collaborate with data modelling team to define data integration logic', 'Create data mappings necessary to fulfill the requirements', 'Build and test new ETL programs to fulfill the service requests', 'Automate the ETL processes and pipelines using scripting and Schedulers', 'Participate in Unit Testing, assist QA team in Integration Testing, and support Business team for UAT', 'Participate in code deployment and coordinate with different infrastructure teams during go-live, post-production, and continued support of end product', 'Debug data quality issues by analyzing the upstream sources and provide guidance to data integration team resolutions', 'Work closely work with DBAs to fix performance bottlenecks']",Computación,2025-07-16T00:00:00.000Z,https://careers.services.global.ntt/global/en/job/181eea327b5c470/Senior-Informatica-ETL-Developer-REMOTE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+d8803ade0961ec799a48d6fdd290af5d,rapidapi,Netezza Developer with Informatica,TekWissen,"Herndon, US","Company Description
+
+TekWissen provides a unique portfolio of innovative capabilities that seamlessly combines clients insights, strategy, design, software engineering and systems integration. Our tightly integrated offerings are tailored to each clients requirements and span the services spectrum from Application Development/Maintenance, testing, IT Consulting & staffing for IT Infrastructure Management through strategic consulting and industry oriented Business Process. Our end-to-end Business Process as a Service (BPaaS) solutions support complex, high-value, knowledge based work. Combining applications, platforms, infrastructure, knowledge processes, and domain expertise allows us to deliver greater efficiencies and innovative business capabilities.
+
+Job Description
+
+JD:
+
+Good in Informatica and should have Informatica PowerCenter experience for minimum 5 years
+
+Should have good experience in Netezza
+
+Should be extremely strong in SQL and UNIX
+
+Experience in Autosys is preferred - or any other scheduler such as Tidal, Control-M is also acceptable.
+
+Excellent written and verbal skills
+
+Demonstrated ability to design and build mappings and transformations in Informatica
+
+Qualifications
+
+Additional Information
+
+Thanks & Regards
+Sandeep
+Email: sandeep(AT)tekwissen.com
+
+734-357-8979","['Good in Informatica and should have Informatica PowerCenter experience for minimum 5 years', 'Should have good experience in Netezza', 'Should be extremely strong in SQL and UNIX', 'Excellent written and verbal skills', 'Demonstrated ability to design and build mappings and transformations in Informatica']",Computación,,"https://www.ziprecruiter.com/c/TekWissen/Job/Netezza-Developer-with-Informatica/-in-Herndon,VA?jid=9875608de86c837b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+536deb19e9715d2d1520d797ff1fae52,rapidapi,ETL Informatica Develope,PROLIM Global Corporation,"Austin, US","Responsibilities
+• Design, develop, and automate ETL processes using Informatica (IICS, IDMC, or Power Center)
+• Acquire and integrate data from diverse sources including Snowflake, Oracle, SQL Server, Excel, Access, and PDF
+• Develop complex SQL scripts and materialized views for data transformation and reporting
+• Collaborate with data engineers and architects to design optimal data models
+• Automate data validation and testing using Python
+• Participate in Agile ceremonies and contribute to sprint deliverables
+• Enhance and maintain a Java-based web interface for Tableau dashboards
+• Create technical documentation, diagrams, and specifications
+• Support testing, deployment, and operational monitoring of data pipelines
+• Identify and resolve defects, and continuously improve QA processes
+Minimum Qualifications
+• 8+ years of experience with Informatica (IICS, IDMC, or Power Center)
+• 8+ years of experience integrating data from multiple sources
+• 8+ years of experience writing efficient and complex SQL scripts
+• 8+ years of experience in data analytics or data warehousing projects
+• Strong Python scripting skills for automation and testing
+• Proficiency in technical documentation and tools like Visio, Erwin, MS Office
+• Experience with defect tracking, test planning, and Agile collaboration
+• Strong analytical, organizational, and communication skills
+Preferred Qualifications
+• Experience enhancing automation frameworks and test coverage
+• Exposure to AI-integrated platforms or products
+• Familiarity with observability and testing infrastructure at scale
+• Proven track record of innovation in software quality or test automation","['8+ years of experience with Informatica (IICS, IDMC, or Power Center)', '8+ years of experience integrating data from multiple sources', '8+ years of experience writing efficient and complex SQL scripts', '8+ years of experience in data analytics or data warehousing projects', 'Strong Python scripting skills for automation and testing', 'Proficiency in technical documentation and tools like Visio, Erwin, MS Office', 'Experience with defect tracking, test planning, and Agile collaboration', 'Strong analytical, organizational, and communication skills', 'Design, develop, and automate ETL processes using Informatica (IICS, IDMC, or Power Center)', 'Acquire and integrate data from diverse sources including Snowflake, Oracle, SQL Server, Excel, Access, and PDF', 'Develop complex SQL scripts and materialized views for data transformation and reporting', 'Collaborate with data engineers and architects to design optimal data models', 'Automate data validation and testing using Python', 'Participate in Agile ceremonies and contribute to sprint deliverables', 'Enhance and maintain a Java-based web interface for Tableau dashboards', 'Create technical documentation, diagrams, and specifications', 'Support testing, deployment, and operational monitoring of data pipelines', 'Identify and resolve defects, and continuously improve QA processes']",Computación,2025-07-10T00:00:00.000Z,https://www.dice.com/job-detail/1b1ff6b9-73da-477c-9766-45c58bf64f65?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+ebb75e4023d502d0ba72c19a8751109b,rapidapi,Informatica Technical Lead/Admin,RELQ TECHNOLOGIES LLC,"Harrisburg, US","Job Title: Informatica Technical Lead/Admin
+Location: PA (Day -01 Onsite)
+Duration: Long Term
+
+Primary Skills: Informatica IDMC - Architect, Design and develop ETL processes on IDMC and Informatica suite of tools.
+
+Key Responsibilities:
+10+ years of experience in Informatica platform and at least 1+ year of experience in Informatica cloud platform
+3+ years of experience working on AWS
+Proficient in SQL and related database technologies including No SQL
+Architect, Design and develop ETL processes on IDMC and Informatica suite of tools
+Build and document high level and low level ETL design and get it signed off by Enterprise architecture and technical leadership
+Work with business stakeholders to understand requirements and translate requirements to technical design
+Experience with building data mapping and understanding logical and physical data models
+Help the development team with technical support, and providing solutions to technical challenges
+Code reviews, performance tuning, establishing ETL standards and best practices and troubleshooting issues
+Knowledge of tools on Informatica platforms including all Informatica tools (ETL, Quality, MDM, Governance etc)
+Informatica developer certification is preferred","['10+ years of experience in Informatica platform and at least 1+ year of experience in Informatica cloud platform', '3+ years of experience working on AWS', 'Proficient in SQL and related database technologies including No SQL', 'Architect, Design and develop ETL processes on IDMC and Informatica suite of tools', 'Work with business stakeholders to understand requirements and translate requirements to technical design', 'Experience with building data mapping and understanding logical and physical data models', 'Knowledge of tools on Informatica platforms including all Informatica tools (ETL, Quality, MDM, Governance etc)', 'Primary Skills: Informatica IDMC - Architect, Design and develop ETL processes on IDMC and Informatica suite of tools', 'Build and document high level and low level ETL design and get it signed off by Enterprise architecture and technical leadership', 'Help the development team with technical support, and providing solutions to technical challenges', 'Code reviews, performance tuning, establishing ETL standards and best practices and troubleshooting issues']",Computación,,https://www.indeed.com/viewjob?jk=b9fee10cd5f760a9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+310e5e1edaa2e06a0e1fbda9f88d4bb2,rapidapi,Informatica MDM Consultant,"Cybertec, Inc.","Owings Mills, US","Interview : Phone and skype
+
+Description:
+
+JOB DESCRIPTION:
+• Minimum of 3years of experience in Informatica MDM, preferably should have experience in 10.x
+• Expertise in customizing/configuring Customer360, E360, Informatica Data Director (IDD) applications and ActiveVOS approval workflow
+• Minimum of 2 years of experience installing informatica MDM environments.
+• Should be proficient in promoting objects to upper environments
+• Should have experience with designing merge/match/validation rules and implement
+• Minimum of 1 yearof experience in SIF APIs
+• Minimum of 2years of experience in IDQ ( analyst and Developer)","['Minimum of 3years of experience in Informatica MDM, preferably should have experience in 10.x', 'Expertise in customizing/configuring Customer360, E360, Informatica Data Director (IDD) applications and ActiveVOS approval workflow', 'Minimum of 2 years of experience installing informatica MDM environments', 'Should be proficient in promoting objects to upper environments', 'Should have experience with designing merge/match/validation rules and implement', 'Minimum of 1 yearof experience in SIF APIs', 'Minimum of 2years of experience in IDQ ( analyst and Developer)']",Computación,,"https://www.ziprecruiter.com/c/Cybertec,-Inc./Job/Informatica-MDM-Consultant/-in-Owings-Mills,MD?jid=304639f1260ee031&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+db0dc32a8c0ce6007c8e943decad3f14,rapidapi,ETL Informatica Developer,Zettalogix,"Woodbridge Township, US","Responsibilities:
+• Develop Informatica ETL Code consistent with departmental standards and practices.
+• Analyze and validate data load using SQL.
+• Develop SQL scripts to load and transform data as necessary.
+• Develop Linux shell scripts as necessary
+• Work with the Data Warehouse team to assist in the development of ETL code to build out the Enterprise Data Warehouse.
+• Informatica Powercenter 9.x development including Mapping, Session and Workflow development.
+• Ability to write SQL queries for efficiency, performance and maintainability and understanding of what it takes to develop ETL solutions.
+
+Degree Requirement: Bachelor’s Degree in Computer Science, Computer information systems, Information technology, relevant engineering or related degree, or a combination of education and experience equating to the U.S. equivalent of a Bachelor’s degree in one of the aforementioned subjects.
+
+Work location is 66 Middlesex Avenue, Suite #309 Iselin, NJ 08830 with required travel to client locations throughout USA.
+
+Please mail resumes to e-mail to contact@zettalogix.com","['Degree Requirement: Bachelor’s Degree in Computer Science, Computer information systems, Information technology, relevant engineering or related degree, or a combination of education and experience equating to the U.S. equivalent of a Bachelor’s degree in one of the aforementioned subjects', 'Develop Informatica ETL Code consistent with departmental standards and practices', 'Analyze and validate data load using SQL', 'Develop SQL scripts to load and transform data as necessary', 'Develop Linux shell scripts as necessary', 'Work with the Data Warehouse team to assist in the development of ETL code to build out the Enterprise Data Warehouse', 'Informatica Powercenter 9.x development including Mapping, Session and Workflow development', 'Ability to write SQL queries for efficiency, performance and maintainability and understanding of what it takes to develop ETL solutions']",Computación,,https://www.indeed.com/viewjob?jk=2bb9bd9021a3c825&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+3e94c0e200783cdc3f038c208a3526b0,rapidapi,"Informatica MDM Developer - Baltimore, MD",Georgia IT Inc,"Baltimore, US","Informatica MDM Developer
+Baltimore, MD
+Work Style: Hybrid (3 days on-site; 2 days work from home)
+Looking for local resources. Resources from MD, VA and DC area candidates are preferred and will be given weightage.
+Duties:
+• Informatica MDM Configuration: Configure and customize Informatica MDM to implement the Party Model, defining entity types, relationships, business rules, match and merge strategies, and user interfaces.
+• Data Modeling: Work with data architects and stakeholders to design and maintain the data model for party-related entities within the MDM system, ensuring data accuracy and consistency.
+• Data Integration: Integrate data from various source systems into Informatica MDM, performing data profiling, cleansing, and transformation to ensure data quality and integrity.
+• Match and Merge: Implement match and merge rules to identify and consolidate duplicate records within the party entities, enabling a single and accurate view of each entity.
+• Data Quality Management: Define and implement data quality rules and workflows within the MDM system to monitor, measure, and improve data quality across party [1] related data.
+• Data Governance: Ensure adherence to data governance principles and data security best practices during MDM implementation and data management processes.
+• Performance Optimization: Identify performance bottlenecks within the MDM system and optimize data loading, matching, and retrieval processes for efficient and seamless data operations.
+• Collaboration: Collaborate with cross-functional teams, including data architects, data analysts, and business users, to understand data requirements and deliver MDM solutions that meet business needs.
+• Testing and Validation: Conduct unit testing and integration testing to validate MDM configurations, ensuring accuracy and completeness of data within the MDM repository.
+• Documentation: Maintain comprehensive technical documentation, including design specifications, configuration guides, and troubleshooting manuals for the MDM implementation.
+Education Qualification:
+• Bachelor's Degree from an accredited college or university with a major in Computer Science, Information Systems, Engineering, Business, or other related scientific or technical discipline.
+General Experience:
+• At least six (6) years of experience in MDM Development experience with a focus on Informatica MDM and Party Model implementation.
+• In-depth knowledge of Informatica MDM tools, including MDM Hub, Data Director, and ActiveVOS, and their functionalities for party entities.
+• Familiarity with data modeling principles and data integration techniques.
+• Strong understanding of data quality management and data governance practices within an MDM environment.
+• Proficiency in data profiling, data cleansing, and data transformation processes.
+• Excellent problem-solving and analytical skills to troubleshoot MDM-related issues.
+• Strong communication and collaboration skills to work effectively with cross [1] functional teams and stakeholders.
+• Prior experience with other MDM tools or cloud-based MDM solutions is advantageous.
+• Informatica MDM certifications, such as Informatica MDM Developer Specialist or Informatica MDM Administrator Specialist, are highly desirable.","[""Bachelor's Degree from an accredited college or university with a major in Computer Science, Information Systems, Engineering, Business, or other related scientific or technical discipline"", 'At least six (6) years of experience in MDM Development experience with a focus on Informatica MDM and Party Model implementation', 'In-depth knowledge of Informatica MDM tools, including MDM Hub, Data Director, and ActiveVOS, and their functionalities for party entities', 'Familiarity with data modeling principles and data integration techniques', 'Strong understanding of data quality management and data governance practices within an MDM environment', 'Proficiency in data profiling, data cleansing, and data transformation processes', 'Excellent problem-solving and analytical skills to troubleshoot MDM-related issues', 'Strong communication and collaboration skills to work effectively with cross [1] functional teams and stakeholders', 'Prior experience with other MDM tools or cloud-based MDM solutions is advantageous', 'Resources from MD, VA and DC area candidates are preferred and will be given weightage', 'Informatica MDM Configuration: Configure and customize Informatica MDM to implement the Party Model, defining entity types, relationships, business rules, match and merge strategies, and user interfaces', 'Data Modeling: Work with data architects and stakeholders to design and maintain the data model for party-related entities within the MDM system, ensuring data accuracy and consistency', 'Data Integration: Integrate data from various source systems into Informatica MDM, performing data profiling, cleansing, and transformation to ensure data quality and integrity', 'Match and Merge: Implement match and merge rules to identify and consolidate duplicate records within the party entities, enabling a single and accurate view of each entity', 'Data Quality Management: Define and implement data quality rules and workflows within the MDM system to monitor, measure, and improve data quality across party [1] related data', 'Data Governance: Ensure adherence to data governance principles and data security best practices during MDM implementation and data management processes', 'Performance Optimization: Identify performance bottlenecks within the MDM system and optimize data loading, matching, and retrieval processes for efficient and seamless data operations', 'Collaboration: Collaborate with cross-functional teams, including data architects, data analysts, and business users, to understand data requirements and deliver MDM solutions that meet business needs', 'Testing and Validation: Conduct unit testing and integration testing to validate MDM configurations, ensuring accuracy and completeness of data within the MDM repository', 'Documentation: Maintain comprehensive technical documentation, including design specifications, configuration guides, and troubleshooting manuals for the MDM implementation']",Computación,,"https://www.ziprecruiter.com/c/Georgia-IT-Inc/Job/Informatica-MDM-Developer-Baltimore,-MD/-in-Baltimore,MD?jid=f86eb40cccd5d1eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+264e497c670d6ad390516efb757ef45f,rapidapi,Informatica IICS Developer,Miracle Software Systems,"None, US","USA-Michigan
+
+Exp 4 - 15 Years
+
+Key Skills
+
+Informatica IICS
+
+Informatica PowerCenter
+
+Hadoop
+
+SQL
+
+Responsibilities
+
+Position Description:
+
+Looking for an IICS (Informatica Intelligent Cloud Services) developer to support the data integration efforts
+
+Experience Required:
+
+•Extensive experience in data integrations using Informatica Cloud development •SQL experience involving multiple, sophisticated queries on huge amounts of data •Exceptional analytical experience of complex applications and data relationships
+
+Experience Preferred:
+
+•ETL development experience with Informatica PowerCenter or the likes •Some experience with data other technologies like Teradata, Hadoop, Essbase, SAP etc •Knowledge and experience with SQL, FTP etc •
+
+Education Required:
+
+Bachelor's degree in Computer Science or higher","['Exp 4 - 15 Years', 'Looking for an IICS (Informatica Intelligent Cloud Services) developer to support the data integration efforts', 'Extensive experience in data integrations using Informatica Cloud development •SQL experience involving multiple, sophisticated queries on huge amounts of data •Exceptional analytical experience of complex applications and data relationships', ""Bachelor's degree in Computer Science or higher""]",Computación,,https://www.indeed.com/viewjob?jk=0a6b40bd63e00b98&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+3adbaf7d3f1cbae9311d8dbb6cf51696,rapidapi,Informatica Data Engineer,HKA Enterprises,"East Hartford, US","Informatica Data Engineer
+
+Works with client management to identify and specify business requirements and processes for diverse development platforms, computing environments e.g., host based, distributed systems, client server, software, hardware, technologies and tools. Formulates logical statements of business problems and devises, tests and implements efficient, cost effective application program solutions e.g., codes and or reuses existing code through the use of program development software alternatives and or integrates purchased solutions. Works independently, receives minimal guidance. Acts as a resource for colleagues with less experience. Solves complex problems takes a new perspective using existing solutions.
+
+Responsibilities:
+• Participate in team agile tasks and sessions such as story estimation, sprint planning demonstrations, and retrospectives.
+• Establishes IDQ environments (Dev, Staging & Test) according to project requirements
+• Design and develop data quality rules to evaluate and verify data transformations; update ETL scripts and data mappings to improve data migration activities using Informatica, Oracle, SQL, and other technologies.
+• Evaluate legacy databases and ERD's to determine high confidence data quality and best transformation strategies to next generation data model
+• Support data traceability, integrity and validation documentation along with ETL code, data dictionaries, profiles and script repository management.
+• Work closely with Data Architects and Test Specialist to verify business rules and develop test plans and test scripts for data validation.
+• Establish a portal for data analysts and customer to evaluate data anomalies /exceptions and data migration verifications.
+• Develop reports to display validation and review progress; in addition to generating data cleansing and exception management reports.
+• Work effectively with teammates; collaborate on shared work products and related tasks to ensure best solution derived.
+• Expertise in Informatica (v.9/10) Data Quality (IDQ), Oracle RDBMS
+• Bachelor’s Degree or an equivalent combination of education and training that provides the required knowledge, skills and abilities.
+• Strong interpersonal skills
+
+Qualifications/ Skills:
+
+BS degree with 4+ years in SQL experience and 5+ years overall hands on Informatica Data Quality (IDQ) development experience.
+
+Strong understanding on Data Profiling / Data Analyst tool.
+
+Skilled and experienced in Informatica ETL tool suite including PowerCenter designer, workflow, monitoring and repository services.
+
+Proficient with Informatica ETL Integration using Teradata, Oracle, Mainframe, and SQL Server databases.
+
+Understanding of reusability, parameterization, and workflow design concepts.
+
+Performs technical walk-through as needed to communicate design/coded solution and to seek input from team members.
+
+Strong Programing and SQL skills
+
+Informatica Admin experience is a plus.
+
+Excellent oral and written communication and interpersonal skills.
+
+Strong organizational, multi-tasking, and time-management skills preferred.
+
+Ability to work independently or within a team for problem resolution.
+
+Strong knowledge of Microsoft Office tool set.","['Bachelor’s Degree or an equivalent combination of education and training that provides the required knowledge, skills and abilities', 'Strong interpersonal skills', 'BS degree with 4+ years in SQL experience and 5+ years overall hands on Informatica Data Quality (IDQ) development experience', 'Strong understanding on Data Profiling / Data Analyst tool', 'Skilled and experienced in Informatica ETL tool suite including PowerCenter designer, workflow, monitoring and repository services', 'Proficient with Informatica ETL Integration using Teradata, Oracle, Mainframe, and SQL Server databases', 'Strong Programing and SQL skills', 'Excellent oral and written communication and interpersonal skills', 'Ability to work independently or within a team for problem resolution', 'Strong knowledge of Microsoft Office tool set', 'Works with client management to identify and specify business requirements and processes for diverse development platforms, computing environments e.g., host based, distributed systems, client server, software, hardware, technologies and tools', 'Formulates logical statements of business problems and devises, tests and implements efficient, cost effective application program solutions e.g., codes and or reuses existing code through the use of program development software alternatives and or integrates purchased solutions', 'Works independently, receives minimal guidance', 'Acts as a resource for colleagues with less experience', 'Solves complex problems takes a new perspective using existing solutions', 'Participate in team agile tasks and sessions such as story estimation, sprint planning demonstrations, and retrospectives', 'Establishes IDQ environments (Dev, Staging & Test) according to project requirements', 'Design and develop data quality rules to evaluate and verify data transformations; update ETL scripts and data mappings to improve data migration activities using Informatica, Oracle, SQL, and other technologies', ""Evaluate legacy databases and ERD's to determine high confidence data quality and best transformation strategies to next generation data model"", 'Support data traceability, integrity and validation documentation along with ETL code, data dictionaries, profiles and script repository management', 'Work closely with Data Architects and Test Specialist to verify business rules and develop test plans and test scripts for data validation', 'Establish a portal for data analysts and customer to evaluate data anomalies /exceptions and data migration verifications', 'Develop reports to display validation and review progress; in addition to generating data cleansing and exception management reports', 'Work effectively with teammates; collaborate on shared work products and related tasks to ensure best solution derived', 'Expertise in Informatica (v.9/10) Data Quality (IDQ), Oracle RDBMS', 'Understanding of reusability, parameterization, and workflow design concepts', 'Performs technical walk-through as needed to communicate design/coded solution and to seek input from team members']",Computación,,https://jobs.hkaa.com/jb/Informatica-Data-Engineer-Jobs-in-East-Hartford-CT/12234771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+6c8c3f150ad14afb09add652ae5d1bbf,rapidapi,Informatica IICS Developer,PamTen Inc,"Remote, US","Below are the requirements for the IICS developer role we are looking for.
+• Good IICS experience (not PowerCenter) and someone who has hands on experience with IICS Data Catalog.
+• Experienced in ingesting large XML files from AWS S3 buckets
+• Good SQL skills preferably experience with Snowflake
+• Experienced in Unix Shell Scripting
+
+Required Skills:
+• IICS Catalogue is a must
+• Snowflake SQL skills
+• SQL is a must
+• Strong iics","['Good IICS experience (not PowerCenter) and someone who has hands on experience with IICS Data Catalog', 'Experienced in ingesting large XML files from AWS S3 buckets', 'Good SQL skills preferably experience with Snowflake', 'Experienced in Unix Shell Scripting', 'IICS Catalogue is a must', 'Snowflake SQL skills', 'SQL is a must', 'Strong iics']",Computación,,"https://www.ziprecruiter.com/c/PamTen-Inc/Job/Informatica-IICS-Developer/-in-Remote,OR?jid=030425a5a8c07809&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+9cac61d4ed1d21d516ae4a7d65757555,rapidapi,Informatica ETL Developer,CSpring,"Springfield, US","Description
+
+At CSpring, we believe infrastructure and insight go hand in hand. We’re looking for a seasoned Informatica ETL Developer to join our Enterprise Data Warehouse (EDW) team in support of a major healthcare data transformation initiative. This role is instrumental in building and maintaining robust data integration pipelines that ensure timely, trusted insights across Medicaid systems.
+
+Whether you’re optimizing job schedules, scripting solutions in Teradata, or leading performance tuning efforts, you’ll be working on meaningful projects that power decision-making and improve healthcare delivery for real people.
+
+Why You’ll Love Working Here
+• Build What Matters – Play a key role in evolving data infrastructure that improves health outcomes across state Medicaid programs.
+• People-First Culture – We prioritize your growth, your wellbeing, and your voice—because consulting is personal.
+• Technical Autonomy – Own your craft while collaborating with a cross-functional team of analysts, architects, and policy experts.
+• Innovation with Integrity – Solve complex problems while mentoring others and continuously improving system performance.
+What You’ll Do
+• Design, develop, and optimize ETL solutions using Informatica PowerCenter.
+• Implement automated data staging, integration, and scheduling processes across large datasets.
+• Build, test, and maintain mappings, mapplets, workflows, and sessions using advanced Informatica transformations.
+• Administer ETL environments (development and production), including backups, recovery, and system tuning.
+• Write and optimize complex SQL and Unix Shell scripts to support Teradata-based data marts and reporting layers.
+• Participate in solution design, requirements analysis, testing, and documentation activities.
+• Collaborate with cross-functional teams and clients to align solutions with business needs and timelines.
+• Provide technical guidance and mentorship to junior developers and analysts.
+• Keep up with new technologies and recommend improvements to enhance performance and scalability.
+
+Requirements
+• 7+ years of experience in ETL development with Informatica PowerCenter
+• 5+ years of experience with Teradata (v17+) and tools such as Fastload, TPT, Multiload
+• 5+ years of experience in ETL environment administration (PowerCenter)
+• 5+ years of writing and tuning complex SQL queries
+• 2+ years of Unix Shell scripting (Bash/Korn)
+• Strong communication, documentation, and mentoring abilities
+• Bachelor’s or advanced degree in Computer Science, IT, Mathematics, or related field
+• Excellent organizational and time management skills
+
+Preferred Qualifications:
+• Located near or within driving distance of Springfield, IL
+• 5+ years of data warehouse development experience
+• 5+ years of data modeling using ERWIN or similar tools
+• 2+ years of experience with Azure Data Factory and Snowflake
+• Familiarity with scripting languages like Python, R, or JavaScript/React
+• Experience with Informatica Data Quality (IDQ), Address Doctor, or Metadata Manager
+• Experience working in Agile environments
+• Exposure to Medicaid, Medicare, or healthcare data systems and standards
+
+Location & Travel
+
+This is a telecommute role with occasional travel (<15%) to Springfield, IL for client meetings.
+
+At CSpring, we unlock the potential in people and data. If you’re a hands-on technologist who thrives in a fast-moving, impact-driven environment, we’d love to connect. Apply today to help shape the future of healthcare data infrastructure.","['7+ years of experience in ETL development with Informatica PowerCenter', '5+ years of experience with Teradata (v17+) and tools such as Fastload, TPT, Multiload', '5+ years of experience in ETL environment administration (PowerCenter)', '5+ years of writing and tuning complex SQL queries', '2+ years of Unix Shell scripting (Bash/Korn)', 'Strong communication, documentation, and mentoring abilities', 'Bachelor’s or advanced degree in Computer Science, IT, Mathematics, or related field', 'Excellent organizational and time management skills', 'This role is instrumental in building and maintaining robust data integration pipelines that ensure timely, trusted insights across Medicaid systems', 'Whether you’re optimizing job schedules, scripting solutions in Teradata, or leading performance tuning efforts, you’ll be working on meaningful projects that power decision-making and improve healthcare delivery for real people', 'Design, develop, and optimize ETL solutions using Informatica PowerCenter', 'Implement automated data staging, integration, and scheduling processes across large datasets', 'Build, test, and maintain mappings, mapplets, workflows, and sessions using advanced Informatica transformations', 'Administer ETL environments (development and production), including backups, recovery, and system tuning', 'Write and optimize complex SQL and Unix Shell scripts to support Teradata-based data marts and reporting layers', 'Participate in solution design, requirements analysis, testing, and documentation activities', 'Collaborate with cross-functional teams and clients to align solutions with business needs and timelines', 'Provide technical guidance and mentorship to junior developers and analysts', 'Keep up with new technologies and recommend improvements to enhance performance and scalability']",Computación,2025-06-27T00:00:00.000Z,https://recruiting.paylocity.com/recruiting/jobs/Details/3341285/CSpring/Informatica-ETL-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+454ebc1e52ab4509e005089333c0c160,rapidapi,"ETL / Informatica Developer - Local to Pittsburgh, Cleveland, Da Jobs",CGI,"Pittsburgh, US","Position Description:
+
+CGI is seeking a ETL / Informatica Developer that is able to work hybrid out of our Pittsburgh, PA office. We would also accept candidates out of Dallas, Cleveland, Knoxville, or Lafayette.
+
+Your future duties and responsibilities:
+
+Technical expertise in the design, development, coding, testing, and debugging of software:
+Ensures that software meets or exceed specified standards and end-user requirements.
+Design and develop Informatica mappings, sessions, and workflows
+Identify areas of Optimization
+Design, build, deploy and support end to end ETL processes using Informatica Powercenter.
+Document customizations, configurations, and integrations for reference and support.
+Communication with client stakeholders and partners
+Ensuring that software meets or exceed specified standards and end-user requirements.
+Iterative development on an agile team.
+Daily agile active SCRUM participation
+Lead and mentor other developers on the team or in other teams within the client.
+
+Required qualifications to be successful in this role:
+
+6+ years of experience in developing Informatica PowerCenter ETL mappings
+Hands-on experience in Informatica PowerCenter ETL mappings using Designer, Workflow Manager, Workflow Monitor, and Repository Manager
+Strong SQL skills with the ability to tune and optimize complex queries
+Troubleshoot and perform tune ETL solutions
+Familiarity with mainframe environment IBM zOS
+Experience in providing general system design, programming, unit and integration testing of developed programs and documentation of those efforts
+Experience in physical database modeling
+Knowledge of Unix/Linux scripting
+Strong analytical and problem solving skills
+Experience working on large and medium scale projects
+Ability to troubleshoot issues independently
+
+CGI is required by law in some jurisdictions to include a reasonable estimate of the compensation range for this role. The determination of this range includes various factors not limited to skill set, level, experience, relevant training, and licensure and certifications. To support the ability to reward for merit-based performance, CGI typically does not hire individuals at or near the top of the range for their role. Compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range for this role in the U.S. is $67,700.00 - $145,300.00.
+
+CGIs benefits are offered to eligible professionals on their first day of employment to include:
+Competitive compensation
+Comprehensive insurance options
+Matching contributions through the 401(k) plan and the share purchase plan
+Paid time off for vacation, holidays, and sick time
+Paid parental leave
+Learning opportunities and tuition assistance
+Wellness and Well-being programs
+
+#LI-GA1
+
+Skills:
+• English
+• Software Architecture
+• Software Design Patterns
+
+What you can expect from us:
+
+Together, as owners, lets turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, youll reach your full potential because
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. Thats why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our companys strategy and direction.
+
+Your work creates value. Youll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+Youll shape your career by joining a company built to grow and last. Youll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+Come join our teamone of the largest IT and business consulting services firms in the world.
+
+Qualified applicants will receive consideration for employment without regard to their race, ethnicity, ancestry, color, sex, religion, creed, age, national origin, citizenship status, disability, pregnancy, medical condition, military and veteran status, marital status, sexual orientation or perceived sexual orientation, gender, gender identity, and gender expression, familial status or responsibilities, reproductive health decisions, political affiliation, genetic information, height, weight, or any other legally protected status or characteristics to the extent required by applicable federal, state, and/or local laws where we do business.
+
+CGI provides reasonable accommodations to qualified individuals with disabilities. If you need an accommodation to apply for a job in the U.S., please email the CGI U.S. Employment Compliance mailbox at US_Employment_Compliance@cgi.com . You will need to reference the Position ID of the position in which you are interested. Your message will be routed to the appropriate recruiter who will assist you. Please note, this email address is only to be used for those individuals who need an accommodation to apply for a job. Emails for any other reason or those that do not include a Position ID will not be returned.
+
+We make it easy to translate military experience and skills! Click here to be directed to our site that is dedicated to veterans and transitioning service members.
+
+All CGI offers of employment in the U.S. are contingent upon the ability to successfully complete a background investigation. Background investigation components can vary dependent upon specific assignment and/or level of US government security clearance held. Dependent upon role and/or federal government security clearance requirements, and in accordance with applicable laws, some background investigations may include a credit check. CGI will consider for employment qualified applicants with arrests and conviction records in accordance with all local regulations and ordinances.
+
+CGI will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with CGIs legal duty to furnish information.","['6+ years of experience in developing Informatica PowerCenter ETL mappings', 'Hands-on experience in Informatica PowerCenter ETL mappings using Designer, Workflow Manager, Workflow Monitor, and Repository Manager', 'Experience in providing general system design, programming, unit and integration testing of developed programs and documentation of those efforts', 'Experience in physical database modeling', 'Knowledge of Unix/Linux scripting', 'Strong analytical and problem solving skills', 'Experience working on large and medium scale projects', 'CGI is required by law in some jurisdictions to include a reasonable estimate of the compensation range for this role', 'English', 'Software Architecture', 'Software Design Patterns', 'Dependent upon role and/or federal government security clearance requirements, and in accordance with applicable laws, some background investigations may include a credit check', 'CGI will consider for employment qualified applicants with arrests and conviction records in accordance with all local regulations and ordinances', 'Technical expertise in the design, development, coding, testing, and debugging of software:', 'Ensures that software meets or exceed specified standards and end-user requirements', 'Design and develop Informatica mappings, sessions, and workflows', 'Identify areas of Optimization', 'Design, build, deploy and support end to end ETL processes using Informatica Powercenter', 'Document customizations, configurations, and integrations for reference and support', 'Communication with client stakeholders and partners', 'Ensuring that software meets or exceed specified standards and end-user requirements', 'Iterative development on an agile team', 'Daily agile active SCRUM participation', 'Lead and mentor other developers on the team or in other teams within the client', 'Strong SQL skills with the ability to tune and optimize complex queries', 'Troubleshoot and perform tune ETL solutions', 'Familiarity with mainframe environment IBM zOS', 'Ability to troubleshoot issues independently']",Computación,2025-07-18T02:00:00.000Z,https://www.clearancejobs.com/jobs/8376909/etl-informatica-developer-local-to-pittsburgh-cleveland-da?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+249f8393736e65e638dbc979db7dd5bc,rapidapi,Sr. Informatica Developer,Sonoma Consulting Inc.,"New Brunswick, US","Company Description
+
+Halo Group is a premier provider of IT talent. We place technology experts within
+the teams of the world’s leading companies to help them build innovative
+businesses that keep them one step closer to their customers and one step
+ahead of the competition. We offer a meaningful work environment for
+employees, attractive and interesting engagements for consultants, and cutting-edge
+digital innovation for our customers.
+
+We delight in helping our customers execute their digital vision. Big projects or
+small, Halo Group knows that by combining the highest quality talent with our
+unwavering support, we will become an invaluable extension of the team. Halo
+Group's experienced consultants in Detroit, Atlanta and Dallas specialize in all
+areas of product/project governance, UX/UI, multi-platform applications, quality
+assurance/testing, cloud computing, and data analytics.
+
+Since its inception, Halo Group has been recognized for numerous awards, including:
+• INC 5000
+• Future 50
+• 101 Best and Brightest
+• Michigan 50 Companies to Watch
+
+- Goldline Research - “Most Dependable Companies”
+- Ernst & Young - “Entrepreneur of the Year” Finalist
+
+Job Description
+• Designs, develops, modifies, configures, debugs Informatica workflows using Informatica PowerCenter and PowerExchange CDC tools
+• Design technical and Business solutions in our change data capture technologies.
+• Build infrastructure to extract and format captured change data and provide that data to other Informatica components and products.
+• Expertise in handling data recovery, solution designing, Production implementation, Testing and support of interfaces PWC and PWX.
+• Responsible for the development/customization of interfaces, conversions, and enhancements
+• Analyses existing applications and systems and formulates logic for new systems, devises logic procedures, logical database design, performs coding and tests/debugs programs
+• Performs technical walk-through as needed to communicate design/coded solution and to seek input from team members
+• Implements data clean-up procedures, data import/export utilities, transformations, scripts, stored procedures, and execution of test plans for loading the data successfully into the targets
+• Performs Data analysis, data mapping, data loading
+• Responsible for the development and documentation of deliverables, and specifications on a project-by-project basis as defined in the IT Methodology, in collaboration with business analyst and other project team members
+• Performs migration of workflows from development/Test to production environment and provide post-deployment support
+• Documents all technical specifications and associate project deliverables
+• Should have worked in multi-location delivery environment
+• Preferred worked with multiple databases like Netezza,Oracle etc.
+
+Qualifications
+• Bachelor's Degree in computer science/related field or equivalent experience
+• Professional Informatica certification a PLUS
+• 4+ years development, maintenance and enhancement experience in Informatica PowerCenter,
+• 3+ years of experience in development, maintenance, and enhancement of Informatica Mappings, Work-flows, and processes
+• 4+ yrs. experience in Power Exchange CDC tools and should have worked extracting data from different source system like SAP, Oracle, and AS400 etc.
+• Good Knowledge on DWH concepts
+• Experience in developing and deploying Informatica in Unix and Oracle 11g database environment
+• Experience in performance trouble shooting and remediation
+
+Additional Information
+• * U.S. Citizens and those who are authorized to work independently in the United States are encouraged to apply. We are unable to sponsor at this time.
+This is a Full-Time / Permanent job opportunity.
+Only US Citizen, Green Card Holder, GC-EAD, H4-EAD & L2-EAD can apply.
+• * All your information will be kept confidential according to EEO guidelines.","['areas of product/project governance, UX/UI, multi-platform applications, quality', 'assurance/testing, cloud computing, and data analytics', 'Should have worked in multi-location delivery environment', ""Bachelor's Degree in computer science/related field or equivalent experience"", '4+ years development, maintenance and enhancement experience in Informatica PowerCenter,', '3+ years of experience in development, maintenance, and enhancement of Informatica Mappings, Work-flows, and processes', '4+ yrs', 'experience in Power Exchange CDC tools and should have worked extracting data from different source system like SAP, Oracle, and AS400 etc', 'Good Knowledge on DWH concepts', 'Experience in developing and deploying Informatica in Unix and Oracle 11g database environment', 'Experience in performance trouble shooting and remediation', 'U.S. Citizens and those who are authorized to work independently in the United States are encouraged to apply', 'Designs, develops, modifies, configures, debugs Informatica workflows using Informatica PowerCenter and PowerExchange CDC tools', 'Design technical and Business solutions in our change data capture technologies', 'Build infrastructure to extract and format captured change data and provide that data to other Informatica components and products', 'Expertise in handling data recovery, solution designing, Production implementation, Testing and support of interfaces PWC and PWX', 'Responsible for the development/customization of interfaces, conversions, and enhancements', 'Analyses existing applications and systems and formulates logic for new systems, devises logic procedures, logical database design, performs coding and tests/debugs programs', 'Performs technical walk-through as needed to communicate design/coded solution and to seek input from team members', 'Implements data clean-up procedures, data import/export utilities, transformations, scripts, stored procedures, and execution of test plans for loading the data successfully into the targets', 'Performs Data analysis, data mapping, data loading', 'Responsible for the development and documentation of deliverables, and specifications on a project-by-project basis as defined in the IT Methodology, in collaboration with business analyst and other project team members', 'Performs migration of workflows from development/Test to production environment and provide post-deployment support', 'Documents all technical specifications and associate project deliverables']",Computación,,https://www.indeed.com/viewjob?jk=c7f1fc12196d0781&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+86b6677278372c514ae619efc341515f,rapidapi,Hadoop Informatica Developer,AKKODIS,"Kennesaw, US","Akkodis is seeking a Hadoop Informatica Developer for a Contract job with a client in Charlotte, NC/Chandler, AZ/Atlanta, GA/Kennesaw, GA(Hybrid). This role involves designing and implementing solutions using Informatica, Hadoop, and SQL, while also providing production support and troubleshooting issues.
+
+Rate Range: $52/hour to $59/hour; The rate may be negotiable based on experience, education, geographic location, and other factors.
+
+Hadoop Informatica Developer job responsibilities include:
+• Leading the design, implementation, and enhancement of ETL solutions using Informatica, Hadoop, PL/SQL, and Linux scripting.
+• Analyzing and troubleshooting production issues, determining root causes, and proposing work-around solutions.
+• Providing L3 production support and clear communication of issues and resolutions.
+• Collaborating with cross-functional teams to complete tasks and improve processes.
+• Identifying gaps in current processes and recommending improvements to tools and workflows.
+• Performing requirements analysis and implementing solutions to meet business needs.
+
+Desired Qualifications:
+• Bachelor’s degree in computer science, Information Technology, or a related field.
+• 10+ years in ETL and data warehousing development, with expertise in Informatica and Hadoop.
+• Strong experience with SQL, Oracle databases, and data transformation technologies.
+• Proficiency in Linux scripting, Python, and troubleshooting complex data issues.
+
+If you are interested in this role, then please click APPLY NOW. For other opportunities available at Akkodis, or any questions, feel free to contact me at aditya.singh@akkodisgroup.com.
+
+Pay Details: $52.00 to $59.00 per hour
+
+Benefit offerings available for our associates include medical, dental, vision, life insurance, short-term disability, additional voluntary benefits, EAP program, commuter benefits and a 401K plan. Our benefit offerings provide employees the flexibility to choose the type of coverage that meets their individual needs. In addition, our associates may be eligible for paid leave including Paid Sick Leave or any other paid leave required by Federal, State, or local law, as well as Holiday pay where applicable.
+
+Equal Opportunity Employer/Veterans/Disabled
+
+To read our Candidate Privacy Information Statement, which explains how we will use your information, please navigate to https://www.akkodis.com/en/us/candidate-privacy-policy
+
+The Company will consider qualified applicants with arrest and conviction records in accordance with federal, state, and local laws and/or security clearance requirements, including, as applicable:
+• The California Fair Chance Act
+• Los Angeles City Fair Chance Ordinance
+• Los Angeles County Fair Chance Ordinance for Employers
+• San Francisco Fair Chance Ordinance","['This role involves designing and implementing solutions using Informatica, Hadoop, and SQL, while also providing production support and troubleshooting issues', 'Leading the design, implementation, and enhancement of ETL solutions using Informatica, Hadoop, PL/SQL, and Linux scripting', 'Analyzing and troubleshooting production issues, determining root causes, and proposing work-around solutions', 'Providing L3 production support and clear communication of issues and resolutions', 'Collaborating with cross-functional teams to complete tasks and improve processes', 'Identifying gaps in current processes and recommending improvements to tools and workflows', 'Performing requirements analysis and implementing solutions to meet business needs']",Computación,2025-07-10T00:00:00.000Z,https://www.akkodis.com/en-us/careers/jobs/hadoop-informatica-developer-kennesaw/US_EN_6_971600_1565651?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+576684029145b6d7cdec3fa8cbc93037,rapidapi,"Informatica Engineer - Fort Worth, TX (locals only)",iSoftTek Solutions Inc,"Fort Worth, US","Job Title: Informatica Engineer
+
+Location: Fort Worth, TX (locals only)
+
+Mode of Work: Hybrid
+
+Yrs of exp: 6+
+
+Any Visa
+
+Description:
+
+Infromatica Engineer POSITION
+
+Web/Mobile Developer Job Responsibilities
+
+This role is responsible for designing, coding, and modifying ETL processes using Informatica based on mappings from Source to Target applications. Experience in migration to Cloud
+
+Developer Job Duties
+
+- Participates in ETL Design of new or changing mappings and workflows with the team and prepares technical specifications.
+
+- Creates ETL Mappings, Mapplets, Workflows, Worklets using Informatica PowerCenter 10.x and prepare corresponding documentation.
+
+- Designs and builds integrations supporting standard data warehousing objects (type-2 dimensions, aggregations, star schema, etc.).
+
+- Performs source system analysis as required.
+
+- Works with DBAs and Data Architects to plan and implement appropriate data partitioning strategy in Enterprise Data Warehouse.
+
+- Implements versioning of the ETL repository and supporting code as necessary.
+
+- Develops stored procedures, database triggers and SQL queries where needed.
+
+- Implements best practices and tunes SQL code for optimization.
+
+- Loads data from SF Power Exchange to MongoDB database using Informatica.
+
+- Works with XML's, XML parser, Java and HTTP transformation within Informatica.
+
+- Works with Informatica Data Quality (Analyst and Developer)
+
+- Primary skill is Informatica PowerCenter
+
+- 5-7 years of experience.
+
+Developer Skills and Qualifications
+
+Informatica PowerCenter, Informatica Powerxchange.
+MongoDB, IMS , Relational Database
+
+Education/Experience
+
+• Bachelor’s Degree in computer science or equivalent training required
+• 5+ years’ experience required","['Primary skill is Informatica PowerCenter', '5-7 years of experience', 'Developer Skills and Qualifications', 'Informatica PowerCenter, Informatica Powerxchange', 'Bachelor’s Degree in computer science or equivalent training required', '5+ years’ experience required', 'This role is responsible for designing, coding, and modifying ETL processes using Informatica based on mappings from Source to Target applications', 'Experience in migration to Cloud', 'Participates in ETL Design of new or changing mappings and workflows with the team and prepares technical specifications', 'Creates ETL Mappings, Mapplets, Workflows, Worklets using Informatica PowerCenter 10.x and prepare corresponding documentation', 'Designs and builds integrations supporting standard data warehousing objects (type-2 dimensions, aggregations, star schema, etc.)', 'Performs source system analysis as required', 'Works with DBAs and Data Architects to plan and implement appropriate data partitioning strategy in Enterprise Data Warehouse', 'Implements versioning of the ETL repository and supporting code as necessary', 'Develops stored procedures, database triggers and SQL queries where needed', 'Implements best practices and tunes SQL code for optimization', 'Loads data from SF Power Exchange to MongoDB database using Informatica', ""Works with XML's, XML parser, Java and HTTP transformation within Informatica"", 'Works with Informatica Data Quality (Analyst and Developer)']",Computación,,https://apply.workable.com/isofttek-solutions-inc/j/0D2BE7B354/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+1542d24a30845c4c9779ea044c68e06a,rapidapi,Sr. Data Systems Engineer - Informatica ETL,The Weather Channel,"Atlanta, US","Company Description
+
+The Weather Channel is the world's leading cross-platform media company with a portfolio that includes The Weather Channel television network, TWC digital properties (weather.com, mobile and tablet applications) and Weather Services International (WSI). Headquartered in Cobb County since 1982, The Weather Channel brand has connected millions of consumers by providing the most accurate weather forecasts, 24 hours a day. Seen in more than 100 million U.S. households, The Weather Channel network is one of the most widely-distributed cable networks. The Weather Channel online properties reach 60 million unique Web consumers each month. This includes 32 million consumers monthly through weather.com on mobile Web and mobile apps. TWC has the No.1 app on all smartphones and is the second most used app on all smartphones. WSI provides business-to-business weather services to media, aviation, marine and energy sectors.
+
+Job Description
+
+The ETL Informatica Systems Engineer will support of our EDW/BI program. This individual will act as the Sr. ETL Engineer for the TWC EDW/BI project and will be responsible for developing ETL applications using Informatica. Successful candidates will have demonstrated proficiency using the Informatica Suite of tools including Standard Edition Power Center, Team Based Development, Parallel Processing, and more. The role will focus on developing Extract, Transformation and Loading (ETL) procedures for implementing data integration and data loading tasks in support of the EDW/BI project.
+
+Qualifications
+
+·BS in computer science, or its equivalent
+
+·7 years of relevant experience with demonstrated proficiency and progressive responsibilities to include the following experiences:
+
+·Informatica PowerCenter
+
+·Linux
+
+·Solid MS SQL Server database skills including the ability to write complex SQL and stored procedures
+
+·Fact and Dimensional data, including slowly changing dimensions
+
+·Demonstrated proficiency with SOAP/XML and REST/JSON API use, including the use of oAuth and oAuth2.
+
+·Demonstrated ability to establish priorities, organize and plan work to satisfy established timeframes.
+
+·Proven ability to handle multiple tasks and projects simultaneously.
+
+·Demonstrated experience in performance tuning for Informatica ETL processing
+
+·Excellent analytical skills, attention to detail and problem-solving skills.
+
+·Demonstrated proficiency converting shell and Perl programming to Informatica Objects
+
+·Strong interpersonal and leadership skills and demonstrated ability to work comfortably with all levels within an organization and across business function
+
+·Demonstrated proficiency with any of the following will be considered a plus.
+
+·Contract Management Systems (Operative.one),
+
+·Ad Delivery Systems (Google Double Click for Publishers Premium),
+
+·Omniture,
+
+·Nielson Ratings data,
+
+·Peoplesoft Financials,
+
+·Salesforce
+
+·Yieldex
+
+·Java and Perl programming
+
+Additional Information
+
+Must apply to: https://career8.successfactors.com/sfcareer/jobreqcareer?jobId=1475&company=3323768P&username=
+
+Requisition Number: 1475","['BS in computer science, or its equivalent', '7 years of relevant experience with demonstrated proficiency and progressive responsibilities to include the following experiences:', 'Informatica PowerCenter', 'Linux', 'Solid MS SQL Server database skills including the ability to write complex SQL and stored procedures', 'Fact and Dimensional data, including slowly changing dimensions', 'Demonstrated proficiency with SOAP/XML and REST/JSON API use, including the use of oAuth and oAuth2', 'Demonstrated ability to establish priorities, organize and plan work to satisfy established timeframes', 'Proven ability to handle multiple tasks and projects simultaneously', 'Demonstrated experience in performance tuning for Informatica ETL processing', 'Excellent analytical skills, attention to detail and problem-solving skills', 'Demonstrated proficiency converting shell and Perl programming to Informatica Objects', 'Strong interpersonal and leadership skills and demonstrated ability to work comfortably with all levels within an organization and across business function', 'Contract Management Systems (Operative.one),', 'Ad Delivery Systems (Google Double Click for Publishers Premium),', 'Nielson Ratings data,', 'Peoplesoft Financials,', 'Salesforce', 'Yieldex', 'Java and Perl programming', 'This individual will act as the Sr. ETL Engineer for the TWC EDW/BI project and will be responsible for developing ETL applications using Informatica', 'Successful candidates will have demonstrated proficiency using the Informatica Suite of tools including Standard Edition Power Center, Team Based Development, Parallel Processing, and more', 'The role will focus on developing Extract, Transformation and Loading (ETL) procedures for implementing data integration and data loading tasks in support of the EDW/BI project']",Computación,,https://jobs.smartrecruiters.com/TheWeatherChannel/80521921-sr-data-systems-engineer-informatica-etl?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+b0e0088d8fb3f6315ba96a4ef023c38d,rapidapi,"Senior Engineer, Informatica MDM",Royal Caribbean Cruises Ltd,"None, US","Journey with us! Combine your career goals and sense of adventure by joining our exciting team of employees. Royal Caribbean Group is pleased to offer a competitive compensation and benefits package, and excellent career development opportunities, each offering unique ways to explore the world.
+
+The Royal Caribbean Group’s Data Analytics and AI Team has an exciting career opportunity for a full time Senior Engineer, Informatica MDM reporting to the Director of Enterprise MDM & Quality.
+
+This position will work on-site in Miramar, Florida.
+
+Position Summary
+
+We are seeking an experienced MDM Developer with a strong focus on Informatica SAS MDM and Party Model implementation. The ideal candidate will be responsible for configuring and customizing the MDM platform, ensuring data accuracy and consistency, integrating data from various sources, and optimizing performance. Proficiency in data quality management, data modeling, and effective communication with cross-functional teams is essential for this role.
+
+Essential Duties and Responsibilities
+• Informatica SAS MDM Configuration: Configure and customize Informatica SAS MDM to implement the Party Model, defining entity types, relationships, business rules, match and merge strategies, and user interfaces.
+• Data Modelling: Work with data architects and stakeholders to design and maintain the data model for party-related entities within the Informatica SAS MDM platform, ensuring data accuracy and consistency.
+• Data Integration: Integrate data from various source systems into Informatica’s SAS MDM platform through IDMC, performing data profiling, cleansing, and transformation to ensure data quality and integrity.
+• Match and Merge: Implement match and merge rules to identify and consolidate duplicate records within the party entities, enabling a single and accurate view of each entity.
+• Configure Address Doctor Engine-reference and email and phone verification.
+• Data Quality Management: Define and implement data quality rules and workflows within the SAS MDM system to monitor, measure, and improve data quality across party related data.
+• Experieince working with Refernce 360 and it’s usage within the MDM domain.
+• Performance Optimization: Identify performance bottlenecks within the SAS MDM system and optimize data loading, matching, and retrieval processes for efficient and seamless data operations.
+• Testing and Validation: Conduct unit testing and integration testing to validate MDM configurations, ensuring accuracy and completeness of data within the MDM repository.
+• Documentation: Maintain comprehensive technical documentation, including design specifications, configuration guides, and troubleshooting manuals for the MDM implementation.
+• Build UNIX shell scripting, Pre-Session, Post-Session UNIX Commands for automation of Informatica job scheduling, backup of repository etc.
+• Work with SFTP/SSH file transfer and loading using SQL, PL/SQL, SQL *Loader.
+
+Position Requirements
+• Bachelor's Degree from an accredited college or university with a major in Computer Science, Information Systems, Engineering, Business, or other related scientific or technical discipline.
+• 4+ years of experience in MDM Development experience with a focus on Informatica MDM and Party Model implementation.
+• Must have hands on experience implementing Informatica’s SAS MDM application.
+• Experieince working with Refernce 360 and it’s usage within the MDM domain.
+• Experience working with CAI, CDI and CDQ is a must.
+• In-depth knowledge of Informatica’s SAS MDM tools, including IDMC, and their functionalities for party entities.
+• Familiarity with data modelling principles and data integration techniques.
+• Strong understanding of data quality management and data governance practices within an MDM environment.
+• Proficiency in data profiling, data cleansing, and data transformation processes.
+• Excellent problem-solving and analytical skills to troubleshoot MDM-related issues.
+• Strong communication and collaboration skills to work effectively with cross functional teams and stakeholders.
+• Knowledgeable in technology and software development processes.
+• Good presentation development and delivery skills.
+• Fair understanding of Agile methodologies (e.g., Scrum, Kanban) required.
+• Experience with travel and hospitality industry is a huge plus.
+• Knowledge of Data Warehouses/Lakehouse architectures, Master Data Management, Data Quality Management, Data Integration, and Data Warehouse architecture.
+
+We know there's a lot to consider. As you go through the application process, our recruiters will be glad to provide guidance, and more relevant details to answer any additional questions. Thank you again for your interest in Royal Caribbean Group. We'll hope to see you onboard soon!
+
+It is the policy of the Company to ensure equal employment and promotion opportunity to qualified candidates without discrimination or harassment on the basis of race, color, religion, sex, age, national origin, disability, sexual orientation, sexuality, gender identity or expression, marital status, or any other characteristic protected by law. Royal Caribbean Group and each of its subsidiaries prohibit and will not tolerate discrimination or harassment.
+
+#LI-MP1","[""Bachelor's Degree from an accredited college or university with a major in Computer Science, Information Systems, Engineering, Business, or other related scientific or technical discipline"", '4+ years of experience in MDM Development experience with a focus on Informatica MDM and Party Model implementation', 'Must have hands on experience implementing Informatica’s SAS MDM application', 'Experieince working with Refernce 360 and it’s usage within the MDM domain', 'Experience working with CAI, CDI and CDQ is a must', 'In-depth knowledge of Informatica’s SAS MDM tools, including IDMC, and their functionalities for party entities', 'Familiarity with data modelling principles and data integration techniques', 'Strong understanding of data quality management and data governance practices within an MDM environment', 'Proficiency in data profiling, data cleansing, and data transformation processes', 'Excellent problem-solving and analytical skills to troubleshoot MDM-related issues', 'Strong communication and collaboration skills to work effectively with cross functional teams and stakeholders', 'Knowledgeable in technology and software development processes', 'Good presentation development and delivery skills', 'Fair understanding of Agile methodologies (e.g., Scrum, Kanban) required', 'Experience with travel and hospitality industry is a huge plus', 'Knowledge of Data Warehouses/Lakehouse architectures, Master Data Management, Data Quality Management, Data Integration, and Data Warehouse architecture', 'We are seeking an experienced MDM Developer with a strong focus on Informatica SAS MDM and Party Model implementation', 'The ideal candidate will be responsible for configuring and customizing the MDM platform, ensuring data accuracy and consistency, integrating data from various sources, and optimizing performance', 'Proficiency in data quality management, data modeling, and effective communication with cross-functional teams is essential for this role', 'Informatica SAS MDM Configuration: Configure and customize Informatica SAS MDM to implement the Party Model, defining entity types, relationships, business rules, match and merge strategies, and user interfaces', 'Data Modelling: Work with data architects and stakeholders to design and maintain the data model for party-related entities within the Informatica SAS MDM platform, ensuring data accuracy and consistency', 'Data Integration: Integrate data from various source systems into Informatica’s SAS MDM platform through IDMC, performing data profiling, cleansing, and transformation to ensure data quality and integrity', 'Match and Merge: Implement match and merge rules to identify and consolidate duplicate records within the party entities, enabling a single and accurate view of each entity', 'Configure Address Doctor Engine-reference and email and phone verification', 'Data Quality Management: Define and implement data quality rules and workflows within the SAS MDM system to monitor, measure, and improve data quality across party related data', 'Experieince working with Refernce 360 and it’s usage within the MDM domain', 'Performance Optimization: Identify performance bottlenecks within the SAS MDM system and optimize data loading, matching, and retrieval processes for efficient and seamless data operations', 'Testing and Validation: Conduct unit testing and integration testing to validate MDM configurations, ensuring accuracy and completeness of data within the MDM repository', 'Documentation: Maintain comprehensive technical documentation, including design specifications, configuration guides, and troubleshooting manuals for the MDM implementation', 'Build UNIX shell scripting, Pre-Session, Post-Session UNIX Commands for automation of Informatica job scheduling, backup of repository etc', 'Work with SFTP/SSH file transfer and loading using SQL, PL/SQL, SQL *Loader']",Computación,2025-06-25T00:00:00.000Z,https://jobs.royalcaribbeangroup.com/job/Miramar-Senior-Engineer%2C-Informatica-MDM-FL-33132/1201210100/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+3b045285de0e1f21978447ffee66eb22,rapidapi,Senior Informatica/ETL Developer,SENTIER TECHNOLOGIES,"Allen, US","Senior Informatica/ETL Developer with master’s degree in Computer Science/Applications, Engineering (any), Technology or related and 2 yrs. of exp to Work on Informatica Power Center tools- Designer, Repository Manager, Workflow Manager, and Workflow Monitor. Responsible for creating Functional design specifications and mapping documents for end-to-end ETL process flow. Design and develop ETL code that meets technical specifications and business requirements according to the established designs and framework. Provide production support for ETL batch and real time process. Develop Mappings, Workflows, reusable and non-reusable session tasks. Use various transformations like Filter, Expression, Sequence Generator, Update Strategy, Joiner, Stored Procedure, and Union to develop robust mappings in the Informatica Designer.
+
+Work location is Allen, TX with required travel to client locations throughout the USA. Please mail resumes to e-mail: hr@sentiertech.com","['Senior Informatica/ETL Developer with master’s degree in Computer Science/Applications, Engineering (any), Technology or related and 2 yrs. of exp to Work on Informatica Power Center tools- Designer, Repository Manager, Workflow Manager, and Workflow Monitor', 'Responsible for creating Functional design specifications and mapping documents for end-to-end ETL process flow', 'Design and develop ETL code that meets technical specifications and business requirements according to the established designs and framework', 'Provide production support for ETL batch and real time process', 'Develop Mappings, Workflows, reusable and non-reusable session tasks', 'Use various transformations like Filter, Expression, Sequence Generator, Update Strategy, Joiner, Stored Procedure, and Union to develop robust mappings in the Informatica Designer']",Computación,,https://www.indeed.com/viewjob?jk=29ff407dbfd2a135&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+379cefc9ce0c627a6143960ef5fffa23,rapidapi,Informatica Lead Developer,Tech Digital Group,"Durham, US","Minimum Mandatory Skills:
+• 7+ years of experience in Informatica PowerCenter development and ETL processes.
+• Strong knowledge of SQL and relational databases such as Oracle, SQL Server, MySQL, or DB2.
+Desired Skills
+• Experience with data warehousing concepts, dimensional modeling, and data marts.
+• Proficiency in performance tuning and optimization of complex ETL jobs.
+• Hands-on experience with cloud platforms (e.g., AWS, Azure, Google Cloud) is a plus.
+• Strong analytical, problem-solving, and debugging skills.
+• Excellent communication and team collaboration abilities.
+Job Description
+We are seeking a highly skilled Informatica Lead Developer to manage our data integration efforts, focusing on the design, development, and implementation of ETL solutions. The ideal candidate will have extensive experience with Informatica PowerCenter, cloud platforms, and a deep understanding of data warehousing concepts.
+
+Key Responsibilities:
+• Lead the design, development, and implementation of ETL (Extract, Transform, Load) processes using Informatica PowerCenter or other Informatica tools.
+• Collaborate with business analysts, data architects, and stakeholders to gather requirements and design ETL workflows.
+• Optimize and tune existing Informatica processes to improve performance and scalability.
+• Lead and mentor junior developers, ensuring best practices and coding standards are followed.
+• Develop and maintain technical documentation for ETL processes, data flow, and error handling.
+• Troubleshoot data integration and transformation issues and provide root cause analysis.
+• Collaborate with the Data Warehouse team to integrate new data sources and ensure consistency in data flows.
+• Manage and schedule ETL jobs, ensuring successful data load, transformation, and migration activities.
+• Work closely with the database administrators and other IT teams to ensure seamless data delivery.
+• Support production ETL processes and resolve any data discrepancies or job failures.","['7+ years of experience in Informatica PowerCenter development and ETL processes', 'Strong knowledge of SQL and relational databases such as Oracle, SQL Server, MySQL, or DB2', 'We are seeking a highly skilled Informatica Lead Developer to manage our data integration efforts, focusing on the design, development, and implementation of ETL solutions', 'The ideal candidate will have extensive experience with Informatica PowerCenter, cloud platforms, and a deep understanding of data warehousing concepts', 'Lead the design, development, and implementation of ETL (Extract, Transform, Load) processes using Informatica PowerCenter or other Informatica tools', 'Collaborate with business analysts, data architects, and stakeholders to gather requirements and design ETL workflows', 'Optimize and tune existing Informatica processes to improve performance and scalability', 'Lead and mentor junior developers, ensuring best practices and coding standards are followed', 'Develop and maintain technical documentation for ETL processes, data flow, and error handling', 'Troubleshoot data integration and transformation issues and provide root cause analysis', 'Collaborate with the Data Warehouse team to integrate new data sources and ensure consistency in data flows', 'Manage and schedule ETL jobs, ensuring successful data load, transformation, and migration activities', 'Work closely with the database administrators and other IT teams to ensure seamless data delivery', 'Support production ETL processes and resolve any data discrepancies or job failures']",Computación,,"https://www.ziprecruiter.com/c/Tech-Digital-Group/Job/Informatica-Lead-Developer/-in-Durham,NC?jid=152b493701915e4e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+d1327f0807797c0c6f2615d710dcbb45,rapidapi,Senior Informatica Administrator,Insicloud,"Ohio, US","Senior Informatica Administrator
+
+We are seeking an experienced and proficient Senior Informatica Administrator with over 7 years of expertise to join our dynamic IT team. As a key member responsible for managing our Informatica platform, you will play a crucial role in overseeing the installation, configuration, and optimization of Informatica environments. Your extensive experience in Informatica administration will be essential in ensuring the reliability, performance, and security of our data integration and ETL processes.
+
+Responsibilities:
+• Installation and Configuration: Lead the installation and configuration of Informatica PowerCenter and related components, ensuring optimal performance and scalability.
+• Environment Management: Manage and maintain multiple Informatica environments, including development, testing, and production, to support the full software development lifecycle.
+• Performance Tuning: Implement performance tuning strategies to optimize Informatica workflows, mappings, and sessions for efficient ETL processing.
+• Security Management: Establish and enforce security policies and access controls within the Informatica environment, ensuring data integrity and compliance with organizational standards.
+• Monitoring and Troubleshooting: Monitor system performance, troubleshoot issues, and implement corrective actions to minimize downtime and enhance system reliability.
+• Backup and Recovery: Implement and manage backup and recovery strategies to safeguard Informatica metadata and configurations, ensuring data integrity in case of system failures.
+• Patch and Upgrade Management: Plan and execute Informatica software upgrades and apply patches to stay current with the latest features, security updates, and bug fixes.
+• Metadata Management: Oversee metadata management, ensuring consistency and accuracy of metadata across different environments.
+• Collaboration: Collaborate with development teams, database administrators, and other stakeholders to support data integration requirements and resolve dependencies.
+• Documentation: Maintain comprehensive documentation of Informatica configurations, processes, and procedures.
+
+Requirements:
+• Bachelor//'s or Master//'s degree in Computer Science, Information Technology, or a related field.
+• Over 7 years of proven experience as an Informatica Administrator in a large-scale enterprise environment.
+• Expertise in installing, configuring, and administering Informatica PowerCenter, PowerExchange, and related tools.
+• Strong understanding of ETL concepts, data integration, and data warehousing.
+• Experience in performance tuning and optimizing Informatica workflows for large datasets.
+• Knowledge of security best practices for Informatica environments, including user access management and encryption.
+• Proficiency in monitoring tools for Informatica and experience in proactive issue identification and resolution.
+• Experience with Informatica upgrades, patches, and applying hotfixes.
+• Strong SQL and relational database skills.
+• Excellent communication and collaboration skills, with the ability to work effectively in a team environment.","['We are seeking an experienced and proficient Senior Informatica Administrator with over 7 years of expertise to join our dynamic IT team', ""Bachelor//'s or Master//'s degree in Computer Science, Information Technology, or a related field"", 'Over 7 years of proven experience as an Informatica Administrator in a large-scale enterprise environment', 'Expertise in installing, configuring, and administering Informatica PowerCenter, PowerExchange, and related tools', 'Strong understanding of ETL concepts, data integration, and data warehousing', 'Experience in performance tuning and optimizing Informatica workflows for large datasets', 'Knowledge of security best practices for Informatica environments, including user access management and encryption', 'Proficiency in monitoring tools for Informatica and experience in proactive issue identification and resolution', 'Experience with Informatica upgrades, patches, and applying hotfixes', 'Strong SQL and relational database skills', 'Excellent communication and collaboration skills, with the ability to work effectively in a team environment', 'As a key member responsible for managing our Informatica platform, you will play a crucial role in overseeing the installation, configuration, and optimization of Informatica environments', 'Your extensive experience in Informatica administration will be essential in ensuring the reliability, performance, and security of our data integration and ETL processes', 'Installation and Configuration: Lead the installation and configuration of Informatica PowerCenter and related components, ensuring optimal performance and scalability', 'Environment Management: Manage and maintain multiple Informatica environments, including development, testing, and production, to support the full software development lifecycle', 'Performance Tuning: Implement performance tuning strategies to optimize Informatica workflows, mappings, and sessions for efficient ETL processing', 'Security Management: Establish and enforce security policies and access controls within the Informatica environment, ensuring data integrity and compliance with organizational standards', 'Monitoring and Troubleshooting: Monitor system performance, troubleshoot issues, and implement corrective actions to minimize downtime and enhance system reliability', 'Backup and Recovery: Implement and manage backup and recovery strategies to safeguard Informatica metadata and configurations, ensuring data integrity in case of system failures', 'Patch and Upgrade Management: Plan and execute Informatica software upgrades and apply patches to stay current with the latest features, security updates, and bug fixes', 'Metadata Management: Oversee metadata management, ensuring consistency and accuracy of metadata across different environments', 'Collaboration: Collaborate with development teams, database administrators, and other stakeholders to support data integration requirements and resolve dependencies', 'Documentation: Maintain comprehensive documentation of Informatica configurations, processes, and procedures']",Computación,,https://www.indeed.com/viewjob?jk=101256de657cb86e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+f05c5675ea85d20723b5229bae68da01,rapidapi,Informatica/ETL Developer - New York city (Remote to start),Georgia IT Inc,"New York, US","Informatica/ETL Developer
+Location : New York city (Remote to start)
+Type : 06 months
+Rate : DOE
+Start date : Immediately
+
+US citizen, Green card H4 EAD and GC EAD accepted & will be remote until the virus subsides.
+
+Required
+• Development on Informatica tools: Informatica Power Center, Informatica Cloud and other tools.
+• Develop ETL workflows using Informatica for data loads from source to target databases.
+• Determine appropriate translations between source and target, capture metadata, load and transform data from data sources into target.
+• Design and implement appropriate error handling procedures.
+• Monitor performance, troubleshoot and tune ETL processes.
+• Work closely with the architect and engineers to design systems effectively reflect business needs, security requirements and service level requirements.
+• Research and investigate any Informatica issues. Develop a deep understanding of the relationship between various business process, systems, and the underlying data.
+• Create mapping /requirement document, ETL design documents, Unit Test cases, code repository and other relevant documents. Coordinate with application team and develop all ETL processes.","['Development on Informatica tools: Informatica Power Center, Informatica Cloud and other tools', 'Work closely with the architect and engineers to design systems effectively reflect business needs, security requirements and service level requirements', 'Research and investigate any Informatica issues', 'Develop ETL workflows using Informatica for data loads from source to target databases', 'Determine appropriate translations between source and target, capture metadata, load and transform data from data sources into target', 'Design and implement appropriate error handling procedures', 'Monitor performance, troubleshoot and tune ETL processes', 'Develop a deep understanding of the relationship between various business process, systems, and the underlying data', 'Create mapping /requirement document, ETL design documents, Unit Test cases, code repository and other relevant documents', 'Coordinate with application team and develop all ETL processes']",Computación,,"https://www.ziprecruiter.com/c/Georgia-IT-Inc/Job/Informatica-ETL-Developer-New-York-city-(Remote-to-start)/-in-New-York,NY?jid=33d8c334ce8d2a5c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18
+62f10fff99a4343d2c9fca2658d15568,rapidapi,"Informatica Developer with Strong SQL / Remote (Denver, CO ), 3+ Months Contract",Suncap Technology,"Denver, US","Remote Role, Location is no preference ,10+ years of experienced candidates only
+Job Description
+
+The contractor will need experience in Informatica and SQL. This involves using Informatica and SQL to load tables and generate files for federal reporting. In addition, this individual may be requested to provide recommendations, documentation, and knowledge transfer to the CDE staff. With this partnership the need for knowledge transfer should happen in the normal course of work between the DW team and the contractor.
+• Included in the daily work but not limited to, is maintaining the existing Oracle Data Warehouse environment and ETL development.
+• The contractor will need experience in Informatica and SQL. This involves using Informatica and SQL to load tables and generate files for federal reporting. In addition, this individual may be requested to provide recommendations, documentation, and knowledge transfer to the CDE staff.
+• With this partnership the need for knowledge transfer should happen in the normal course of work between the DW team and the contractor.
+Balance SLDS Work With DAILY Maintenance of our existing structure
+• With the guidance of the data warehouse manager and in partnership with a DW employee, the contractor shall
+• Review internal CDE documentation and provide maintenance and support for the existing CDE Informatica and SQL processes.
+• Review status on the SLDS project and perform tasks as determined by the partnership. This may include, but is not limited to, mapping of data fields to the new environment and structures, migrating data, testing, and other duties as assigned in the MS Azure cloud environment using SQL and possibly Data Factory skills
+Informatica Skills
+• Strong development skills: ability to develop very difficult or complicated transformation from scratch
+• Strong administrative skills including repository management and knowledge of best practices regarding Informatica
+• Strong oral and written communication skills working with both business users and technical staff
+• The contractor shall demonstrate their understanding of the overall project goals and the specific goals as pertains to the contractor's assignment for this project to the satisfaction of the Project Manager.
+• The contractor be able to advise and provide guidance on the requested work.
+• The contractor shall develop, maintain, and support Extract Transform and Load processes which are written using Informatica and SQL.
+• The contractor shall use Informatica and SQL to load the CDE Data Warehouse tables and generate Ed Facts files for federal reporting.
+• The contractor shall thoroughly test and document each step taken and perform knowledge transfer to the CDE staff.
+Others
+• Contractor shall provide its their own computer hardware and software necessary to perform the Work at CDE's facilities.
+• If working at the CDE office, CDE will provide the contractor with office space, phone, and internet access at CDE's Colfax office subject to all applicable health and safety guidelines and requirements.
+• While working remotely at locations other than CDE's office, CDE will provide the contractor with virtual access to the data and systems necessary for completion of the Work.
+• The Contractor shall provide documentation to the Project Manager. This documentation must provide details on the work provided and at a level a Department employee can use the information to support the work at the end of the contract.
+• The Contractor shall submit detailed status reports or participate in weekly status meetings as required by the Department during the engagement.
+• The Contractor shall attend required meetings with the required project stakeholders as directed by the Department. These meetings will be scheduled by a Department employee. All questions and communication should go through the Project Manager, Kevin Smith. If Kevin is not available, he will designate a Department employee for the communication.
+• Contractor shall retain all work papers generated for reference through the duration of the project and project acceptance.
+• Contractor shall respond to all telephone calls, voicemail, and e-mail inquiries from the Department within one business day.
+
+Type Category Qualification Description Competency Required Skills Others ETL Proficient (4-6 Years) Yes Skills Others Informatica Proficient (4-6 Years) Yes Skills Others Oracle Data Warehouse Proficient (4-6 Years) Yes Skills Others SQL Proficient (4-6 Years) Yes","['Strong development skills: ability to develop very difficult or complicated transformation from scratch', 'Strong administrative skills including repository management and knowledge of best practices regarding Informatica', 'Strong oral and written communication skills working with both business users and technical staff', ""The contractor shall demonstrate their understanding of the overall project goals and the specific goals as pertains to the contractor's assignment for this project to the satisfaction of the Project Manager"", 'Type Category Qualification Description Competency Required Skills Others ETL Proficient (4-6 Years) Yes Skills Others Informatica Proficient (4-6 Years) Yes Skills Others Oracle Data Warehouse Proficient (4-6 Years) Yes Skills Others SQL Proficient (4-6 Years) Yes', 'The contractor will need experience in Informatica and SQL', 'This involves using Informatica and SQL to load tables and generate files for federal reporting', 'In addition, this individual may be requested to provide recommendations, documentation, and knowledge transfer to the CDE staff', 'With this partnership the need for knowledge transfer should happen in the normal course of work between the DW team and the contractor', 'Included in the daily work but not limited to, is maintaining the existing Oracle Data Warehouse environment and ETL development', 'The contractor will need experience in Informatica and SQL', 'This involves using Informatica and SQL to load tables and generate files for federal reporting', 'In addition, this individual may be requested to provide recommendations, documentation, and knowledge transfer to the CDE staff', 'With this partnership the need for knowledge transfer should happen in the normal course of work between the DW team and the contractor', 'Balance SLDS Work With DAILY Maintenance of our existing structure', 'With the guidance of the data warehouse manager and in partnership with a DW employee, the contractor shall', 'Review internal CDE documentation and provide maintenance and support for the existing CDE Informatica and SQL processes', 'Review status on the SLDS project and perform tasks as determined by the partnership', 'This may include, but is not limited to, mapping of data fields to the new environment and structures, migrating data, testing, and other duties as assigned in the MS Azure cloud environment using SQL and possibly Data Factory skills', 'The contractor be able to advise and provide guidance on the requested work', 'The contractor shall develop, maintain, and support Extract Transform and Load processes which are written using Informatica and SQL', 'The contractor shall use Informatica and SQL to load the CDE Data Warehouse tables and generate Ed Facts files for federal reporting', 'The contractor shall thoroughly test and document each step taken and perform knowledge transfer to the CDE staff', ""Contractor shall provide its their own computer hardware and software necessary to perform the Work at CDE's facilities"", ""If working at the CDE office, CDE will provide the contractor with office space, phone, and internet access at CDE's Colfax office subject to all applicable health and safety guidelines and requirements"", ""While working remotely at locations other than CDE's office, CDE will provide the contractor with virtual access to the data and systems necessary for completion of the Work"", 'The Contractor shall provide documentation to the Project Manager', 'This documentation must provide details on the work provided and at a level a Department employee can use the information to support the work at the end of the contract', 'The Contractor shall submit detailed status reports or participate in weekly status meetings as required by the Department during the engagement', 'The Contractor shall attend required meetings with the required project stakeholders as directed by the Department', 'These meetings will be scheduled by a Department employee', 'All questions and communication should go through the Project Manager, Kevin Smith', 'Contractor shall retain all work papers generated for reference through the duration of the project and project acceptance', 'Contractor shall respond to all telephone calls, voicemail, and e-mail inquiries from the Department within one business day']",Computación,,"https://www.ziprecruiter.com/c/Suncap-Technology/Job/Informatica-Developer-with-Strong-SQL-Remote-(Denver,-CO-),-3+-Months-Contract/-in-Denver,CO?jid=4bbb381c2afa325f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",,[],2025-07-18

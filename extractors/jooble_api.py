@@ -79,7 +79,7 @@ def extraer_desde_jooble(query, api_key, carrera):
         print(" No se extrajeron nuevas ofertas.")
         return
 
-    corpus = [normalizar(o, fuente, HOY) for o in ofertas_raw]
+    corpus = [normalizar(o, fuente, carrera, HOY) for o in ofertas_raw]
     df = pd.DataFrame(corpus)
 
     # === Crear carpeta por carrera ===

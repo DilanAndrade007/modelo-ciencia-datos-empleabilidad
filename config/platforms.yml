@@ -3,58 +3,180 @@ jooble:
   api_key: "d3c40725-8cf4-433c-b993-3aa5995a7285"
   carreras:
     Administración de Empresas:
-      - Administración de Empresas
+      - administracion de empresas
+      - gerente administrativo
+      - asistente administrativo
+      - coordinador de oficina
+      - analista de gestion
+
     Agroindustria:
-      - Agroindustria
+      - agroindustria
+      - ingeniero agroindustrial
+      - produccion agricola
+      - procesamiento de alimentos
+      - control de calidad alimentos
+
     Ciencia de Datos:
-      - Ciencia de Datos
-    Inteligencia Artificial:
-      - Inteligencia Artificial
+      - ciencia de datos
+      - cientifico de datos
+      - analista de datos
+      - machine learning
+
     Computación:
-      - Computacion
+      - computacion
+      - tecnologias de la computacion
+      - informatica
+      - tecnico en computacion
+      - ingeniero en computacion
+    
+    Inteligencia Artificial:
+      - inteligencia artificial
+      - ia
+      - deep learning
+      - aprendizaje automatico
+      - ingeniero de ia
+
     Economía:
-      - Economia
+      - economia
+      - economista
+      - analisis economico
+      - estudios de mercado
+      - consultor economico
+
     Electricidad:
-      - Electricidad
+      - electricidad
+      - electricista
+      - instalaciones electricas
+      - mantenimiento electrico
+      - tecnico electrico
+
     Electrónica y Automatización:
-      - Electronica y Automatizacion
+      - electronica y automatizacion
+      - electronica industrial
+      - control automatico
+      - ingeniero electronico
+      - tecnico en automatizacion
+
     Física:
-      - Fisica
+      - fisica
+      - fisica aplicada
+      - modelado fisico
+      - fisica computacional
+      - laboratorio de fisica
+
     Geología:
-      - Geologia
+      - geologia
+      - geologo
+      - exploracion geologica
+      - ciencias de la tierra
+      - geociencias
+
     Ingeniería Ambiental:
-      - Ingenieria Ambiental
+      - ingenieria ambiental
+      - medio ambiente
+      - gestion ambiental
+      - auditoria ambiental
+      - ingeniero ambiental
+
     Ingeniería Civil:
-      - Ingenieria Civil
+      - ingenieria civil
+      - ingeniero civil
+      - obras civiles
+      - construccion
+      - proyectos de infraestructura
+
     Ingeniería de la Producción:
-      - Ingenieria de la Produccion
+      - ingenieria de la produccion
+      - produccion industrial
+      - gestion de produccion
+      - ingeniero de planta
+      - procesos industriales
+
     Ingeniería Química:
-      - Ingenieria Quimica
+      - ingenieria quimica
+      - ingeniero quimico
+      - procesos quimicos
+      - produccion quimica
+      - plantas industriales
+
     Matemática:
-      - Matematica
+      - matematica
+      - matematico
+      - calculo
+      - estadistica
+      - modelado matematico
+
     Matemática Aplicada:
-      - Matematica Aplicada
+      - matematica aplicada
+      - modelado numerico
+      - optimizacion
+      - estadistica aplicada
+      - investigacion operativa
+
     Materiales:
-      - Materiales
+      - materiales
+      - ciencia de materiales
+      - ensayo de materiales
+      - ingenieria de materiales
+      - caracterizacion de materiales
+
     Mecánica:
-      - Mecanica
+      - mecanica
+      - ingeniero mecanico
+      - diseno mecanico
+      - mantenimiento industrial
+      - termodinamica
+
     Mecatrónica:
-      - Mecatronica
+      - mecatronica
+      - automatizacion
+      - control electronico
+      - robotica
+      - ingeniero mecatronico
+
     Petróleos:
-      - Petroleos
+      - petroleos
+      - ingenieria petrolera
+      - petroleo y gas
+      - exploracion petrolera
+      - industria petrolera
+
     Sistemas de Información:
-      - Sistemas de Informacion
+      - sistemas de informacion
+      - erp
+      - gestion de datos
+      - consultor de sistemas
+      - analisis de sistemas
+
     Software:
-      - Software
+      - software
+      - desarrollo de software
+      - programador
+      - ingeniero de software
+      - arquitectura de software
+
     Tecnologías de la Información:
-      - Tecnologias de la Informacion
+      - tecnologias de la informacion
+      - ti
+      - soporte tecnico
+      - infraestructura ti
+      - tecnologias empresariales
+
     Telecomunicaciones:
-      - Telecomunicaciones
+      - telecomunicaciones
+      - redes
+      - comunicaciones digitales
+      - ingenieria de telecomunicaciones
+      - proyectos de red
 
 rapidapi1:
   enabled: true
   #api_key: "3fc36a3191msh878cd6993d56135p1978a2jsn5c4ecfd0d088"
-  api_key: "412298965fmsh3b6e92e951dc623p12e07bjsn9f945a31146b"
+  #api_key: "412298965fmsh3b6e92e951dc623p12e07bjsn9f945a31146b"
+  #api_key: "f332a187bemsh94c62470aa8c5a0p11712ajsn59975acc6819"
+  #api_key: "54fea3dcedmsh1fbe237001f696ep16a995jsn4279d6c78b8a"
+  #api_key: "4cb8f44d15msh3f72312d88fd412p124d5cjsnc9f0e085bdcc"
+  api_key: "a6b7032fb3msh7f1050003156278p1e5b5cjsna59e0b99444e"
   locations:
     - Ecuador
     - Colombia
@@ -63,53 +185,172 @@ rapidapi1:
     - México
   carreras:
     Administración de Empresas:
-      - Administración de Empresas
+      - administracion de empresas
+      - administrador
+      - gerente administrativo
+      - asistente administrativo
+      - coordinador de oficina
+      - analista de gestion
+
     Agroindustria:
-      - Agroindustria
+      - agroindustria
+      - ingeniero agroindustrial
+      - produccion agricola
+      - procesamiento de alimentos
+      - control de calidad alimentos
+
     Ciencia de Datos:
-      - Ciencia de Datos
+      - ciencia de datos
+      - cientifico de datos
+      - analista de datos
+      - machine learning
+
     Inteligencia Artificial:
-      - Inteligencia Artificial
+      - inteligencia artificial
+      - ia
+      - deep learning
+      - aprendizaje automatico
+      - ingeniero de ia
+
     Computación:
-      - Computacion
+      - computacion
+      - tecnologias de la computacion
+      - informatica
+      - tecnico en computacion
+      - ingeniero en computacion
+
     Economía:
-      - Economia
+      - economia
+      - economista
+      - analisis economico
+      - estudios de mercado
+      - consultor economico
+
     Electricidad:
-      - Electricidad
+      - electricidad
+      - electricista
+      - instalaciones electricas
+      - mantenimiento electrico
+      - tecnico electrico
+
     Electrónica y Automatización:
-      - Electronica y Automatizacion
+      - electronica y automatizacion
+      - electronica industrial
+      - control automatico
+      - ingeniero electronico
+      - tecnico en automatizacion
+
     Física:
-      - Fisica
+      - fisica
+      - fisica aplicada
+      - modelado fisico
+      - fisica computacional
+      - laboratorio de fisica
+
     Geología:
-      - Geologia
+      - geologia
+      - geologo
+      - exploracion geologica
+      - ciencias de la tierra
+      - geociencias
+
     Ingeniería Ambiental:
-      - Ingenieria Ambiental
+      - ingenieria ambiental
+      - medio ambiente
+      - gestion ambiental
+      - auditoria ambiental
+      - ingeniero ambiental
+
     Ingeniería Civil:
-      - Ingenieria Civil
+      - ingenieria civil
+      - ingeniero civil
+      - obras civiles
+      - construccion
+      - proyectos de infraestructura
+
     Ingeniería de la Producción:
-      - Ingenieria de la Produccion
+      - ingenieria de la produccion
+      - produccion industrial
+      - gestion de produccion
+      - ingeniero de planta
+      - procesos industriales
+
     Ingeniería Química:
-      - Ingenieria Quimica
+      - ingenieria quimica
+      - ingeniero quimico
+      - procesos quimicos
+      - produccion quimica
+      - plantas industriales
+
     Matemática:
-      - Matematica
+      - matematica
+      - matematico
+      - calculo
+      - estadistica
+      - modelado matematico
+
     Matemática Aplicada:
-      - Matematica Aplicada
+      - matematica aplicada
+      - modelado numerico
+      - optimizacion
+      - estadistica aplicada
+      - investigacion operativa
+
     Materiales:
-      - Materiales
+      - materiales
+      - ciencia de materiales
+      - ensayo de materiales
+      - ingenieria de materiales
+      - caracterizacion de materiales
+
     Mecánica:
-      - Mecanica
+      - mecanica
+      - ingeniero mecanico
+      - diseno mecanico
+      - mantenimiento industrial
+      - termodinamica
+
     Mecatrónica:
-      - Mecatronica
+      - mecatronica
+      - automatizacion
+      - control electronico
+      - robotica
+      - ingeniero mecatronico
+
     Petróleos:
-      - Petroleos
+      - petroleos
+      - ingenieria petrolera
+      - petroleo y gas
+      - exploracion petrolera
+      - industria petrolera
+
     Sistemas de Información:
-      - Sistemas de Informacion
+      - sistemas de informacion
+      - erp
+      - gestion de datos
+      - consultor de sistemas
+      - analisis de sistemas
+
     Software:
-      - Software
+      - software
+      - desarrollo de software
+      - programador
+      - ingeniero de software
+      - arquitectura de software
+
     Tecnologías de la Información:
-      - Tecnologias de la Informacion
+      - tecnologias de la informacion
+      - ti
+      - soporte tecnico
+      - infraestructura ti
+      - tecnologias empresariales
+
     Telecomunicaciones:
-      - Telecomunicaciones
+      - telecomunicaciones
+      - redes
+      - comunicaciones digitales
+      - ingenieria de telecomunicaciones
+      - proyectos de red
     
 rapidapi2:
   enabled: true
@@ -122,35 +363,35 @@ rapidapi2:
   api_key: "a6b7032fb3msh7f1050003156278p1e5b5cjsna59e0b99444e"
 
   carreras:
-    # Administración de Empresas:
-    #   - administracion de empresas
-    #   - gerente administrativo
-    #   - asistente administrativo
-    #   - coordinador de oficina
-    #   - analista de gestion
+    Administración de Empresas:
+      - administracion de empresas
+      - gerente administrativo
+      - asistente administrativo
+      - coordinador de oficina
+      - analista de gestion
 
-    # Agroindustria:
-    #   - agroindustria
-    #   - ingeniero agroindustrial
-    #   - produccion agricola
-    #   - procesamiento de alimentos
-    #   - control de calidad alimentos
+    Agroindustria:
+      - agroindustria
+      - ingeniero agroindustrial
+      - produccion agricola
+      - procesamiento de alimentos
+      - control de calidad alimentos
 
-    # Ciencia de Datos:
-    #   - ciencia de datos
-    #   - cientifico de datos
-    #   - analista de datos
-    #   - machine learning
+    Ciencia de Datos:
+      - ciencia de datos
+      - cientifico de datos
+      - analista de datos
+      - machine learning
 
-    # Computación:
-    #   - computacion
-    #   - tecnologias de la computacion
-    #   - informatica
-    #   - tecnico en computacion
-    #   - ingeniero en computacion
+    Computación:
+      - computacion
+      - tecnologias de la computacion
+      - informatica
+      - tecnico en computacion
+      - ingeniero en computacion
     
     Inteligencia Artificial:
-      # - inteligencia artificial
+      - inteligencia artificial
       - ia
       - deep learning
       - aprendizaje automatico
@@ -293,86 +534,170 @@ coresignal:
   enabled: true
   api_key: "cRreeqnOAOmLIp14RV9zNM7uV9bbfKpz"
   carreras:
-    Geología:
-      - Geologia
-    Ingeniería Ambiental:
-      - Ingenieria Ambiental
-    Ingeniería Civil:
-      - Ingenieria Civil
-    Ingeniería de la Producción:
-      - Ingenieria de la Produccion
-    Ingeniería Química:
-      - Ingenieria Quimica
-    Matemática:
-      - Matematica
-    Matemática Aplicada:
-      - Matematica Aplicada
-    Materiales:
-      - Materiales
-    Mecánica:
-      - Mecanica
-    Mecatrónica:
-      - Mecatronica
-    Petróleos:
-      - Petroleos
-    Sistemas de Información:
-      - Sistemas de Informacion
-    Software:
-      - Software
-    Tecnologías de la Información:
-      - Tecnologias de la Informacion
-    Telecomunicaciones:
-      - Telecomunicaciones
-
-careerjet:
-  enabled: true
-  country_code: "ec"
-  carreras:
     Administración de Empresas:
-      - Administración de Empresas
+      - administracion de empresas
+      - administrador
+      - gerente administrativo
+      - asistente administrativo
+      - coordinador de oficina
+      - analista de gestion
+
     Agroindustria:
-      - Agroindustria
+      - agroindustria
+      - ingeniero agroindustrial
+      - produccion agricola
+      - procesamiento de alimentos
+      - control de calidad alimentos
+
     Ciencia de Datos:
-      - Ciencia de Datos
+      - ciencia de datos
+      - cientifico de datos
+      - analista de datos
+      - machine learning
+
     Inteligencia Artificial:
-      - Inteligencia Artificial
+      - inteligencia artificial
+      - ia
+      - deep learning
+      - aprendizaje automatico
+      - ingeniero de ia
+
     Computación:
-      - Computacion
+      - computacion
+      - tecnologias de la computacion
+      - informatica
+      - tecnico en computacion
+      - ingeniero en computacion
+
     Economía:
-      - Economia
+      - economia
+      - economista
+      - analisis economico
+      - estudios de mercado
+      - consultor economico
+
     Electricidad:
-      - Electricidad
+      - electricidad
+      - electricista
+      - instalaciones electricas
+      - mantenimiento electrico
+      - tecnico electrico
+
     Electrónica y Automatización:
-      - Electronica y Automatizacion
+      - electronica y automatizacion
+      - electronica industrial
+      - control automatico
+      - ingeniero electronico
+      - tecnico en automatizacion
+
     Física:
-      - Fisica
+      - fisica
+      - fisica aplicada
+      - modelado fisico
+      - fisica computacional
+      - laboratorio de fisica
+
     Geología:
-      - Geologia
+      - geologia
+      - geologo
+      - exploracion geologica
+      - ciencias de la tierra
+      - geociencias
+
     Ingeniería Ambiental:
-      - Ingenieria Ambiental
+      - ingenieria ambiental
+      - medio ambiente
+      - gestion ambiental
+      - auditoria ambiental
+      - ingeniero ambiental
+
     Ingeniería Civil:
-      - Ingenieria Civil
+      - ingenieria civil
+      - ingeniero civil
+      - obras civiles
+      - construccion
+      - proyectos de infraestructura
+
     Ingeniería de la Producción:
-      - Ingenieria de la Produccion
+      - ingenieria de la produccion
+      - produccion industrial
+      - gestion de produccion
+      - ingeniero de planta
+      - procesos industriales
+
     Ingeniería Química:
-      - Ingenieria Quimica
+      - ingenieria quimica
+      - ingeniero quimico
+      - procesos quimicos
+      - produccion quimica
+      - plantas industriales
+
     Matemática:
-      - Matematica
+      - matematica
+      - matematico
+      - calculo
+      - estadistica
+      - modelado matematico
+
     Matemática Aplicada:
-      - Matematica Aplicada
+      - matematica aplicada
+      - modelado numerico
+      - optimizacion
+      - estadistica aplicada
+      - investigacion operativa
+
     Materiales:
-      - Materiales
+      - materiales
+      - ciencia de materiales
+      - ensayo de materiales
+      - ingenieria de materiales
+      - caracterizacion de materiales
+
     Mecánica:
-      - Mecanica
+      - mecanica
+      - ingeniero mecanico
+      - diseno mecanico
+      - mantenimiento industrial
+      - termodinamica
+
     Mecatrónica:
-      - Mecatronica
+      - mecatronica
+      - automatizacion
+      - control electronico
+      - robotica
+      - ingeniero mecatronico
+
     Petróleos:
-      - Petroleos
+      - petroleos
+      - ingenieria petrolera
+      - petroleo y gas
+      - exploracion petrolera
+      - industria petrolera
+
     Sistemas de Información:
-      - Sistemas de Informacion
+      - sistemas de informacion
+      - erp
+      - gestion de datos
+      - consultor de sistemas
+      - analisis de sistemas
+
     Software:
-      - Software
+      - software
+      - desarrollo de software
+      - programador
+      - ingeniero de software
+      - arquitectura de software
+
     Tecnologías de la Información:
-      - Tecnologias de la Informacion
+      - tecnologias de la informacion
+      - ti
+      - soporte tecnico
+      - infraestructura ti
+      - tecnologias empresariales
+
     Telecomunicaciones:
-      - Telecomunicaciones
+      - telecomunicaciones
+      - redes
+      - comunicaciones digitales
+      - ingenieria de telecomunicaciones
+      - proyectos de red
