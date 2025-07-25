@@ -1,12 +1,10 @@
 import yaml
 import os
 from datetime import datetime
-from extractors.indeed_api import extraer_desde_indeed
 from extractors.jooble_api import extraer_desde_jooble
 from extractors.rapidapi_api_1 import extraer_desde_rapidapi_1
 from extractors.rapidapi_api_2 import extraer_desde_rapidapi_2
 from extractors.coresignal_api import extraer_desde_coresignal
-from extractors.careerjet_api import extraer_desde_careerjet
 from utils.file_manager import (
     cargar_log_existente,
     unir_corpus_por_carrera,
@@ -158,30 +156,3 @@ if "rapidapi2" in plataformas_seleccionadas:
     ejecutar_rapidapi_2()
 
 print("\n Proceso finalizado.")
-
-
-# # === Función para ejecutar CAREERJET
-# def ejecutar_careerjet():
-#     carreras = config["careerjet"]["carreras"]
-#     country_code = config["careerjet"].get("country_code", "ec")
-#     log_cj = cargar_log_existente("careerjet")
-#     scraping_ya_hecho = any(
-#         termino in log_cj and log_cj[termino].get("last_extraction_date") == fecha_hoy
-#         for terminos in carreras.values()
-#         for termino in terminos
-#     )
-#     if scraping_ya_hecho:
-#         respuesta = input(f"Ya se realizó scraping en Careerjet hoy ({fecha_hoy}). ¿Deseas repetir todas las búsquedas? (y/n): ")
-#         if respuesta.strip().lower() != "y":
-#             print(" Saltando Careerjet.")
-#             return
-#     for carrera, terminos in carreras.items():
-#         print(f"\n Carrera: {carrera} (Careerjet)")
-#         for termino in terminos:
-#             extraer_desde_careerjet(termino, carrera, country_code)
-#         unir_corpus_por_carrera("careerjet", carrera, fecha_hoy)
-#         copiar_corpus_diario_a_global("careerjet", carrera, fecha_hoy)
-#         unir_corpus_acumulado_por_carrera("careerjet", carrera)
-
-# if "careerjet" in plataformas_seleccionadas:
-#     ejecutar_careerjet()
