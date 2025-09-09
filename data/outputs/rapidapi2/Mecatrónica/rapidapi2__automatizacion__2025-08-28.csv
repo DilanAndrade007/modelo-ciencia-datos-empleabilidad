@@ -1,0 +1,311 @@
+job_id,source,job_title,company,location,description,skills,careers_required,date_posted,url,career_tag,soft_skills_detected,extraction_date
+1c9da29b3f304f52a8f8905ac30844b2,rapidapi2,Practicante de Data & Automatizacion,BetterWase,"Bogota, Capital District, RAP (Especial) Central, Colombia","Oferta de Práctica Profesional – Área de Data & Automatización
+
+En Icon Services buscamos un Practicante de Data & Automatización para unirse a nuestro equipo y apoyar directamente a la Dirección de Data en proyectos estratégicos que impulsan la eficiencia y la innovación en nuestros procesos.
+
+Esta es una oportunidad ideal para estudiantes de últimos semestres que quieran trabajar en un entorno moderno, técnico y altamente orientado a resultados, con proyección a un cargo de Analista Junior al finalizar la práctica.
+
+Objetivo del Cargo
+Brindar soporte en la automatización de procesos, consolidación histórica de información y visualización de datos, aplicando herramientas de última generación para optimizar la gestión de datos corporativos.
+
+Funciones Principales
+Automatizar descargas desde websites de aseguradoras.
+Transformar archivos Excel a .csv para su admisión en Google Cloud Storage (GCS).
+Organizar y cargar archivos de forma estructurada en GCS.
+Validar y documentar técnicamente los archivos.
+Consolidar información histórica (2024–2025).
+Apoyar en la creación de vistas SQL en BigQuery.
+Colaborar en el desarrollo de dashboards interactivos en Power BI.
+Entregar reportes a áreas internas como Marketing, Operaciones y Gerencia.
+
+Perfil del Estudiante
+Estudiante en últimos semestres (con carta de presentación para práctica).
+Programas afines: Ingeniería de Sistemas, Electrónica, Industrial o similares.
+Conocimientos requeridos:
+Python
+SQL
+Excel
+Lógica de bases de datos
+Google Cloud Platform (GCS / BigQuery)
+Power BI
+Deseable: interés en Inteligencia Artificial aplicada al entorno laboral.
+Habilidades blandas:
+Buena comunicación.
+Capacidad de aprendizaje continuo.
+Alta responsabilidad y autogestión.
+Deseable nivel de inglés B1 o superior.
+Indispensable: contar con equipo propio (PC) y conexión estable a internet.
+
+Detalles de la Práctica
+Duración: 6 meses.
+Modalidad: híbrida o remota.
+Horario: lunes a viernes, tiempo completo con horario flexible.
+Remuneración: $1.423.500 COP mensuales (o superior según validación de aptitudes).
+Inicio estimado: inmediato.
+Evaluación universitaria: en 3 etapas:
+Automatización de procesos.
+Consolidación histórica y modelado SQL.
+Visualización de reportes y tableros.
+
+Envía tu hoja de vida al correo: [aacevedo@betterwase.com]
+Show more Show less","['Python', 'SQL', 'Excel', 'Database Logic', 'Google Cloud Platform', 'BigQuery', 'Power BI']",Mecatrónica,2025-08-27T19:50:25,https://co.linkedin.com/jobs/view/practicante-de-data-automatizacion-at-betterwase-4292045399,,[],2025-08-28
+35b7f988262f5d7b92082b0c24d804b3,rapidapi2,Ingeniero en Automatizacion y Control de Procesos,Fluidcontrol S.A. de C.V.,"Querétaro, Querétaro, Mexico","Descripción de la empresa #Firma de Ingenieria Integradora e inovadora de tecnología para la industria de Procesos de Productos Sanitarios, Farma, Home Care, Food, Cosmetics, etc...
+Descripción del puesto Como parte del equipo de Servicios de Ingeniería en Fluidcontrol S.A. de C.V., serás responsable de gestionar y supervisar proyectos en el ámbito de la ingeniería de proceso. Tus tareas diarias incluirán la coordinación de equipos, la gestión de recursos y la solución de problemas técnicos. Este es un puesto de tiempo completo y se realizará de manera presencial en nuestras oficinas ubicadas en Querétaro, Qro y en las instalaciones de nuestros Clientes triple A.
+Requisitos
+Aptitudes analíticas y capacidad para gestionar proyectos de manera efectiva.
+Excelentes habilidades de comunicación en ingles y en español para interactuar con equipos y clientes.
+Conocimiento y experiencia en desarrollo de Ingeniería, Electrica, Mecanica, Automatizacion y control de Procesos. Experiencia en gestión de proyectos, incluyendo planificación y seguimiento.
+Habilidades adicionales como la capacidad para trabajar en equipo, enfoque orientado al detalle y adaptación a entornos dinámicos serán muy valoradas.
+Show more Show less",,Mecatrónica,2025-08-26T21:37:12,https://mx.linkedin.com/jobs/view/ingeniero-en-automatizacion-y-control-de-procesos-at-fluidcontrol-s-a-de-c-v-4291663686,,[],2025-08-28
+883fc7ddc45fffa69e05f3ac4a6db6ff,rapidapi2,COL-ESPECIALISTA DE PRUEBAS Y AUTOMATIZACION-BOGOTA,Telefónica,"Bogota, Capital District, RAP (Especial) Central, Colombia","Enviar candidatura ahora »
+
+Fecha: 25 ago 2025
+
+Ubicación: BOGOTA D.C., DC, CO
+
+Empresa: Telefónica
+
+En Telefónica-Movistar, tenemos como misión hacer nuestro mundo más humano, conectando la vida de las personas, entendemos que son ustedes quienes le dan sentido a la tecnología y no al revés. 
+
+Creemos en el poder transformador de la diversidad, la equidad y la inclusión tanto para el negocio como para la sociedad, por eso nos enfocamos en seguir impulsando una cultura de trabajo abierta que atraiga talento, unimos a las personas y las invitamos a ser ellas mismas, a expresarse, a compartir. 
+
+Cargo: ESPECIALISTA PRUEBAS Y AUTOMATIZACION
+
+Dirección: TECNOLOGIA
+
+Área: COE DE DESARROLLO
+
+Ciudad: BOGOTA
+
+Rango salarial: $4.700.000 - $4.900.000
+
+Misión del puesto:
+
+Responsable del aseguramiento de la calidad de los diferentes desarrollos generados por la dirección de TI de impacto al cliente final y cliente interno; a través de la planeación, diseño, ejecución y automatización de pruebas sobre los diferentes sistemas de la compañía en modalidad scrum.
+
+Funciones principales:
+
+Diseñar, implementar y ejecutar planes de pruebas funcionales, no funcionales, de regresión y exploratorias.
+Participar en la definición de criterios de aceptación y estrategias de validación desde etapas tempranas del desarrollo (shift-left testing).
+Garantizar la trazabilidad entre los requerimientos, casos de prueba y resultados.
+Desarrollar y mantener scripts de pruebas automatizadas utilizando herramientas como Selenium, Postman, JMeter, entre otras.
+Integrar las pruebas automatizadas en los pipelines de CI/CD para asegurar validaciones continuas.
+Identificar oportunidades de automatización en los procesos de validación y proponer soluciones eficientes.
+Monitorear y reportar métricas de calidad del software (cobertura de pruebas, defectos, tiempos de ejecución, etc.).
+Analizar resultados de pruebas y colaborar con los equipos de desarrollo para la resolución de defectos.
+Participar en retrospectivas y sesiones de mejora continua para optimizar la estrategia de pruebas.
+Monitorear y reportar métricas de calidad del software (cobertura de pruebas, defectos, tiempos de ejecución, etc.).
+Analizar resultados de pruebas y colaborar con los equipos de desarrollo para la resolución de defectos.
+Participar en retrospectivas y sesiones de mejora continua para optimizar la estrategia de pruebas.
+
+Habilidades/conocimientos requeridos:
+
+Profesional en Ingeniería de sistemas, Ingeniería de telecomunicaciones o a fin, deseable especialización en temas afines a tecnología.
+De 02 a 03 años de experiencia en planificación, ejecución de pruebas funcionales y no funcionales.
+De 01 a 02 años de experiencia en automatización de pruebas (appium, selenium, funcional tester, jmeter, soapui, entre otras).
+01 año de experiencia con frameworks de agilidad (como Scrum y Kanban).
+Conocimiento en base de datos Oracle y SQL.
+Conocimiento en html, java, android sdk, javascript, apis, gcloud, maven, entre otras.
+Conocimiento en gestión de proyectos.
+Conocimiento en técnicas de diseño de pruebas.
+Conocimiento en pruebas agiles.
+
+Habilidades/conocimientos deseables:
+
+Experiencia en el sector de Telecomunicaciones. 
+Conocimiento de los procesos de negocio de telcos.
+Deseable: Certificado en ISTQB
+Deseable certificado en CAT (certified agile testing)
+Conocimiento en pruebas no funcionales.
+Conocimiento en versionador como Azure Repos
+Conocimiento en DEVOPS.
+
+Competencias:
+
+Trabajo en equipo.
+Comunicación asertiva.
+Excelentes relaciones interpersonales.
+Empuje por obtener resultados.
+Empatía por el negocio.
+
+Propuesta de Valor: 
+
+Flexibilidad horaria
+Beneficio en Puntos para intercambiar por tiempo
+Puntos para intercambiar por experiencias
+Descuentos en productos de la compañía
+Seguro de vida
+
+Enviar candidatura ahora » 
+Show more Show less","['Pruebas Funcionales', 'Pruebas No Funcionales', 'Automatización de Pruebas', 'Selenium', 'Postman', 'JMeter', 'Scrum', 'Kanban', 'Oracle', 'SQL', 'HTML', 'Java', 'JavaScript', 'APIs', 'Gcloud', 'Maven']",Mecatrónica,2025-08-26T08:01:56,https://co.linkedin.com/jobs/view/col-especialista-de-pruebas-y-automatizacion-bogota-at-telef%C3%B3nica-4288876366,,[],2025-08-28
+0515ac60991bedd7a7a6ed2d298e3600,rapidapi2,Consultor en automatizacion plaza SLP,Integracion total en Automatizacion,"San Luis Potosí City, San Luis Potosí, Mexico","🔌 ¿Te apasiona la automatización industrial y las ventas consultivas? ¡Únete a ITA! 🔌
+En ITA - Integración Total en Automatización, somos el partner estratégico de FESTO y SIEMENS. Impulsamos la transformación digital de la industria y estamos buscando un Consultor/a Senior en Automatización para que se una a nuestro equipo de expertos.
+Tu misión:
+Ser el arquitecto de soluciones integrales, liderando proyectos llave en mano.
+Integrar la gama de tecnologías de FESTO (neumática, electroneumática) y SIEMENS (autómatas PLC, TIA Portal, Digital Enterprise) para optimizar procesos industriales.
+Gestionar el ciclo comercial completo con un enfoque consultivo: desde el análisis y diseño técnico hasta la negociación y cierre.
+El perfil que buscamos:
+✅ Titulación en Ingeniería (Industrial, Electrónica, Mecánica o afín).
+✅ +3 años de experiencia en ventas técnicas, ingeniería de aplicaciones o consultoría en automatización.
+✅ Conocimiento sólido en automatización (PLC, neumática, sensórica). Experiencia con SIEMENS y/o FESTO es una ventaja decisiva.
+✅ Mentalidad de consultor, orientación al cliente y ambición por alcanzar objetivos.
+Te ofrecemos:
+💼 Contrato estable y salario base competitivo.
+📈 Plan de comisiones atractivo y sin límites.
+🚀 Certificación oficial continua en las tecnologías líderes de FESTO y SIEMENS.
+🏆 Un rol con impacto real en proyectos de Industria 4.0 y un camino de crecimiento claro.
+Si quieres ser el nexo entre la tecnología más avanzada y la industria, y trabajar con las mejores herramientas del mercado, ¡queremos conocerte!
+¿Es para ti?
+→ Reacciona a esta publicación 👍
+→ Comenta con tu principal fortaleza para este rol 🔍
+→ Envía tu CV a franco.vargas@integracion-total.com con el asunto: ""Consultor Automatización - LinkedIn""
+
+#Empleo #Trabajo #AutomatizaciónIndustrial #OfertaDeTrabajo #Ingeniería #VentasTécnicas #FESTO #SIEMENS #Industria40 #Consultoría #ITA #Innovación #LinkedInJobs
+Show more Show less","['Industrial Automation', 'Consultative Sales', 'Project Management', 'PLC', 'Pneumatics', 'Sensor Technology', 'Client Orientation', 'Technical Analysis', 'Negotiation', 'FESTO', 'SIEMENS', 'Digital Enterprise', 'TIA Portal', 'Engineering', 'Application Engineering', 'Consulting']",Mecatrónica,2025-08-26T00:49:26,https://mx.linkedin.com/jobs/view/consultor-en-automatizacion-plaza-slp-at-integracion-total-en-automatizacion-4290887928,,[],2025-08-28
+77bc10915c8bb25993e7eae8b3716594,rapidapi2,Responsable técnico- AUTOMATIZACION,ENGINEERS SOURCING,"Ortuella, Autonomous Community of the Basque Country, Spain","1.- IDENTIFICACIÓN DEL PUESTO
+Nombre del Puesto Responsable técnico
+Función Responsable técnico
+Familia de puestos Producción, Mantenimiento y Operaciones
+N+1 Responsable de Negocio
+
+2.- MISIÓN
+Se encargará del análisis y ejecución de ofertas en las disciplinas de sistemas de automatización y telecomunicaciones para
+el ámbito de las infraestructuras para la administración pública.
+Se encargará de dar soporte en la ejecución de los proyectos de control y supervisión: basadas en sistemas PLC, SCADA/DCS
+y tecnologías de la información IOT
+
+3.- RESPONSABILIDADES
+1. Análisis y estudios en fase de oferta/licitaciones:
+· Estudiar los proyectos, realizando un cálculo y previsión de los presupuestos.
+· Diseño de la arquitectura de control y confección de la oferta
+· Contactar con subcontratistas y proveedores para conseguir ofertas
+· Desarrollo de memorias técnicas en las disciplinas de sistemas de control y monitorización e integración de
+sistemas de telecomunicaciones tanto para clientes públicos (ferrocarril, agua, puertos y aeropuertos, etc.)
+2. Ejecución de obras:
+· Definición técnica de soluciones para proyectos
+· Gestión económica del proyecto:
+- Control de rendimientos/costes
+· Planificación: gestión de RRHH para sus proyectos
+· Relación con el cliente
+
+4.- OTRAS CARACTERÍSTICAS O CONDICIONES DEL PUESTO
+Movilidad Geográfica requerida
+Viajes Nacionales Para proyectos específicos que lo requieran
+Viajes Internacionales Ocasionales: para proyectos específicos que lo requieran
+
+5.- PERFIL PROFESIONAL
+Formación
+· Grado en Ingeniería industrial especialidad Automatización industrial o Electricidad, Licenciado en Ciencias
+Físicas
+Requisitos
+· Amplios conocimientos en el ámbito de control industrial:
+- PLC: Siemens, Schneider, Allen Bradley, Rockwell, Wago, Ge-fanuc.
+- SCADA: Wonderware, WinCC-OA, CITEC, PC-Vue
+- Comunicaciones industriales
+· Conocimientos de diseño eléctrico
+· Experiencia mínima de 5-8 años en un rol similar
+· Posicionamiento en el ámbito industrial
+Ofimática Nivel
+Office (Excel, Word, & PPT) Intermedio
+Idiomas Nivel
+Inglés
+Francés (a valorar) B2
+Show more Show less",,Mecatrónica,2025-08-25T14:50:56,https://es.linkedin.com/jobs/view/responsable-t%C3%A9cnico-automatizacion-at-engineers-sourcing-4288581194,,[],2025-08-28
+d4b5bca4cb3feea9ef8800cbc7bdb912,rapidapi2,"Ing. Ventas Instrumentación y automatizacion, valvulas",Pronort,"Zapopan, Jalisco, Mexico","Descripción del empleo
+OFERTA:
+Sueldo $16,666.66 + Bonos por Puntualidad y Asistencia $3,333.33
+Un bono anual de 24,000 mil pesos
+Si el primer trimestres llegaba su meta les dan primero 6mil
+tiene que llegará a la meta de venta para que le den el bono
+No está cerrado a dar más dinero si es de otro estado y está dispuesta a mudarse, siempre y cuando cumpla con la experiencia.
+REQUISITOS:
+Ingeniería en Electromecánica, Química, Mecatrónica, Electrónica, Instrumentación y Control, Mecánico, Control de Procesos Industriales
+Mínima de 2 años trabajando en Ventas para la Industria, sector automatización
+Deseable conocimiento en Control de Procesos, Instrumentación y Automatización Industrial
+Manejo de CRM | Generación de Agendas de visitas Semanales | Correcto seguimiento para cierre de oportunidades | Llegar a la habilidad de apoyo en configuración y puesta en marcha según se requiera
+Lunes a viernes de 8 AM a 6 PM
+PUESTO DE:
+Ventas relacionadas con la Representación de Emerson Automation Solution tanto en Instrumentos de Medición Industrial, así como para Válvulas de Control y Reguladores, asesoría técnica, y soporte de los equipos comercializados
+Funciones principales (actividades):
+ Atención de cartera de clientes ya desarrollada mediante visitas que generen nuevas oportunidades de negocio, en las que se deben obtener datos de proceso que tengan como resultado una propuesta que cumpla con el requerimiento del cliente, así como asesorar al mismo respecto de las tendencias de las nuevas tecnologías
+Tipo de puesto: Tiempo completo
+
+Sueldo: $16,000.00 - $27,000.00 al mes
+
+Show more Show less",,Mecatrónica,2025-08-23T10:57:58,https://mx.linkedin.com/jobs/view/ing-ventas-instrumentaci%C3%B3n-y-automatizacion-valvulas-at-pronort-4285932914,,[],2025-08-28
+30a8542f2e1e81f962f53f32a85bda9e,rapidapi2,Tecnico de Automatizacion,Siemens,"Juárez, Durango, Mexico","Manufacturing & machining technical support and assistance
+
+Assist in the installation, configuration and commissioning of the automatied solutions
+
+Peform basic programming modifications troubleshooting and routine maintenance on PLCs
+
+Utilize basic CAD to review interpret and assist with basic modifications mechanical schematics
+
+Assist in correct and complete documentation for automated solutions implemented & developed
+
+Experiencia in machining such as milling lathe and grinding machines
+
+Basic practical experience with CAD software AutoCAD, SolidEdge NX 
+Show more Show less","['Automation', 'Technical Support', 'PLC Programming', 'Troubleshooting', 'Routine Maintenance', 'CAD Software', 'Mechanical Schematics', 'Machining', 'Milling', 'Lathe', 'Grinding Machines', 'Documentation']",Mecatrónica,2025-08-22T13:12:00,https://mx.linkedin.com/jobs/view/tecnico-de-automatizacion-at-siemens-4289477536,,[],2025-08-28
+94525ec1295bd94adea4f0fa2610ddc1,rapidapi2,Asistente comercial para ventas- sistema automatizacion,Automatismos Lau,"Santiago, Santiago Metropolitan Region, Chile","Company Description: automatismos lau
+
+Job Description: Empresa líder en control de accesos y automatismos se encuentra en búsqueda de Asistente comercial
+
+cuya principal función será apoyar la gestión comercial en su conjunto, dentro de las instalaciones de la
+
+empresa. Necesitamos una persona con actitud positiva, motivada y por sobre todo con
+
+perfil comercial, que quiera ser parte de un equipo dinámico y en proceso de crecimiento.
+
+Idealmente con experiencia en venta en automatismos y accesos mínimo un año
+debe tener licencia de conducir
+Conocimientos comerciales
+
+Principales funciones
+
+Captar, asesorar y fidelizar clientes con el objetivo de ampliar cartera comercial.
+Manejar cartera de clientes asignados
+
+Objetivos Del Cargo
+
+Contacto telefónico o por correo electrónico a clientes
+
+Creación de clientes en sistema
+
+Gestión y seguimiento de cotizaciones y órdenes de compra
+
+mantener actualizada información del equipo comercial
+
+Si estas interesado envía tu CV indicando en Asunto Comercial y pretensiones de renta al siguiente mail [email] 
+Show more Show less","['Commercial Skills', 'Customer Service', 'Sales', 'Client Management', 'Communication', 'Positive Attitude', 'Motivation']",Mecatrónica,2025-08-21T20:05:12,https://cl.linkedin.com/jobs/view/asistente-comercial-para-ventas-sistema-automatizacion-at-automatismos-lau-4289344894,,[],2025-08-28
+727d3fe0f635ffe62c3effdcfdb53791,rapidapi2,Asistente para ventas- sistemas automatizacion,Automatismos Lau,"Santiago, Santiago Metropolitan Region, Chile","Company Description: automatismos lau
+
+Job Description: Empresa líder en control de accesos y automatismos se encuentra en búsqueda de Asistente comercial
+
+cuya principal función será apoyar la gestión comercial en su conjunto, dentro de las instalaciones de la
+
+empresa. Necesitamos una persona con actitud positiva, motivada y por sobre todo con
+
+perfil comercial, que quiera ser parte de un equipo dinámico y en proceso de crecimiento.
+
+Idealmente con experiencia en venta en automatismos y accesos mínimo un año
+debe tener licencia de conducir
+Conocimientos comerciales
+
+Principales funciones
+
+Captar, asesorar y fidelizar clientes con el objetivo de ampliar cartera comercial.
+Manejar cartera de clientes asignados
+
+Objetivos Del Cargo
+
+Contacto telefónico o por correo electrónico a clientes
+
+Creación de clientes en sistema
+
+Gestión y seguimiento de cotizaciones y órdenes de compra
+
+mantener actualizada información del equipo comercial
+
+Si estas interesado envía tu CV indicando en Asunto Comercial y pretensiones de renta al siguiente mail [email] 
+Show more Show less","['Sales', 'Customer Service', 'Client Management', 'Commercial Knowledge', 'Communication', 'Motivation', 'Positive Attitude', 'Teamwork']",Mecatrónica,2025-08-21T20:04:54,https://cl.linkedin.com/jobs/view/asistente-para-ventas-sistemas-automatizacion-at-automatismos-lau-4289347425,,[],2025-08-28
