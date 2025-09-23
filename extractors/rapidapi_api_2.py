@@ -7,7 +7,7 @@ import pandas as pd
 from datetime import datetime
 from utils.file_manager import guardar_log, crear_directorios, cargar_log_existente
 
-# ===================== PARÁMETROS DE TU PLAN =====================
+# ===================== PARÁMETROS =====================
 PLAN_MAX_JOBS_PER_MONTH = 10_000
 PLAN_MAX_REQUESTS_PER_MONTH = 5_000
 PLAN_MAX_JOBS_PER_CALL = 100
@@ -176,7 +176,7 @@ def extraer_desde_rapidapi_2(query, api_key, carrera, include_ai=False):
     fuente = "rapidapi2"
     crear_directorios()
 
-    # ====== CARGA/INICIALIZA CUOTA MENSUAL ======
+    # ====== INICIALIZA CUOTA ======
     quota_data = _load_quota(fuente, MES)
     requests_used = quota_data[MES]["requests_used"]
     jobs_used = quota_data[MES]["jobs_used"]

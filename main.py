@@ -23,7 +23,17 @@ with open("config/platforms.yml", "r", encoding="utf-8") as f:
 plataformas_disponibles = [k for k, v in config.items() if v.get("enabled")]
 print("Plataformas habilitadas:", ", ".join(plataformas_disponibles))
 
-seleccion = input(" Escribe las plataformas a ejecutar (jooble,rapidapi1, rapidapi2 ,coresignal), todas o ninguna: ").strip().lower()
+seleccion = input(
+    " Escribe las plataformas a ejecutar (jooble,rapidapi1,rapidapi2,coresignal), "
+    "todas, ninguna, o 'unir' para solo unificar el corpus: "
+).strip().lower()
+
+# Nueva ruta: solo unir corpus acumulado por carrera y salir
+if seleccion in {"unir"}:
+    print("\n▶ Uniendo corpus acumulado por carrera en 'data/outputs/todas_las_plataformas' ...")
+    unir_corpus_acumulado_por_carrera()
+    print("\n Proceso de unión finalizado.")
+    exit()
 
 if seleccion == "ninguna":
     print(" No se ejecutará ninguna plataforma.")
@@ -61,7 +71,6 @@ def ejecutar_jooble():
             extraer_desde_jooble(termino, api_key, carrera)
         unir_corpus_por_carrera("jooble", carrera, fecha_hoy)
         copiar_corpus_diario_a_global("jooble", carrera, fecha_hoy)
-        unir_corpus_acumulado_por_carrera("jooble", carrera)
 
 # === Función para ejecutar RAPIDAPI
 def ejecutar_rapidapi_1():
@@ -88,7 +97,6 @@ def ejecutar_rapidapi_1():
             extraer_desde_rapidapi_1(termino, api_key, carrera)
         unir_corpus_por_carrera("rapidapi1", carrera, fecha_hoy)
         copiar_corpus_diario_a_global("rapidapi1", carrera, fecha_hoy)
-        unir_corpus_acumulado_por_carrera("rapidapi1", carrera)
 
 # === Función para ejecutar CORESIGNAL
 def ejecutar_coresignal():
@@ -114,7 +122,6 @@ def ejecutar_coresignal():
             extraer_desde_coresignal(termino, api_key, carrera)
         unir_corpus_por_carrera("coresignal", carrera, fecha_hoy)
         copiar_corpus_diario_a_global("coresignal", carrera, fecha_hoy)
-        unir_corpus_acumulado_por_carrera("coresignal", carrera)
 
 # === Función para ejecutar LINKEDIN RAPIDAPI
 def ejecutar_rapidapi_2():
@@ -141,7 +148,6 @@ def ejecutar_rapidapi_2():
             extraer_desde_rapidapi_2(termino, api_key, carrera, include_ai=True)
         unir_corpus_por_carrera("rapidapi2", carrera, fecha_hoy)
         copiar_corpus_diario_a_global("rapidapi2", carrera, fecha_hoy)
-        unir_corpus_acumulado_por_carrera("rapidapi2", carrera)
 
 if "coresignal" in plataformas_seleccionadas:
     ejecutar_coresignal()

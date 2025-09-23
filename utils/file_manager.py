@@ -2,6 +2,40 @@ import os, json
 import pandas as pd
 import glob
 import shutil
+import hashlib
+from dateutil import parser
+
+NEEDED_COLS = ["job_title", "company", "location", "date_posted"]
+
+def normalize_date(value):
+    """Devuelve YYYY-MM-DD sin cambiar el día."""
+    if value is None or str(value).strip() == "":
+        return ""
+    s = str(value).strip()
+    for kwargs in ({}, {"dayfirst": True}):
+        try:
+            return parser.parse(s, **kwargs).date().isoformat()
+        except Exception:
+            pass
+    return ""
+
+def canonical_text(x) -> str:
+    return "" if pd.isna(x) else str(x).strip().lower()
+
+def make_uid(job_title, company, location, date_posted_norm):
+    base = "||".join(map(canonical_text, [job_title, company, location, date_posted_norm]))
+    return hashlib.sha256(base.encode("utf-8")).hexdigest()
+
+def read_csv_loose(path: str) -> pd.DataFrame:
+    """Lector tolerante a encoding/separador."""
+    for kwargs in ({}, {"engine": "python", "sep": None}, {"encoding": "latin-1"}):
+        try:
+            return pd.read_csv(path, **kwargs)
+        except Exception:
+            continue
+    print(f"⚠️  No se pudo leer: {path}")
+    return pd.DataFrame()
+
 
 def crear_directorios():
     os.makedirs("data/outputs", exist_ok=True)
@@ -28,26 +62,77 @@ def copiar_corpus_diario_a_global(fuente, carrera, fecha):
     else:
         print(f"⚠️  No se encontró el archivo diario para copiar: {origen}")
 
-def unir_corpus_acumulado_por_carrera(fuente, carrera):
+def unir_corpus_acumulado_por_carrera():
     """
-    Une todos los CSVs diarios ya consolidados por fecha (corpus_unido) para una carrera.
-    Guarda un corpus acumulado: corpus__<Carrera>__acumulado.csv
+    Deduplica por 'job_id' y guarda '<Carrera>_Merged.csv' en la carpeta de cada carrera.
     """
-    base_dir = os.path.join("data", "outputs", fuente, carrera.replace(" ", "_"), "corpus_unido")
-    patron = os.path.join(base_dir, f"{fuente}__{carrera.replace(' ', '_')}__*__merged.csv")
-    archivos_csv = glob.glob(patron)
+    base_global = os.path.join("data", "outputs", "todas_las_plataformas")
 
-    if not archivos_csv:
-        print(f"No se encontraron corpus diarios en {base_dir}")
-        return
+    carreras = sorted(
+        d for d in os.listdir(base_global)
+        if os.path.isdir(os.path.join(base_global, d))
+    )
 
-    dfs = [pd.read_csv(f) for f in archivos_csv]
-    df_total = pd.concat(dfs, ignore_index=True).drop_duplicates(subset="job_id")
+    for carrera_dirname in carreras:
+        cdir = os.path.join(base_global, carrera_dirname)
+        archivos = sorted(
+            p for p in os.listdir(cdir)
+            if os.path.isfile(os.path.join(cdir, p))
+            and (p.lower().endswith(".csv") or p.endswith("__merged"))
+        )
 
-    output_file = os.path.join(base_dir, f"{fuente}__{carrera.replace(' ', '_')}__acumulado.csv")
-    df_total.to_csv(output_file, index=False)
+        if not archivos:
+            print(f"⚠️  {carrera_dirname}: no hay archivos para unir.")
+            continue
 
-    print(f"Corpus acumulado guardado en: {output_file} ({len(df_total)} filas)")
+        dfs = []
+        total_reemplazos = 0
+
+        for fname in archivos:
+            path = os.path.join(cdir, fname)
+            df = read_csv_loose(path)
+            if df.empty:
+                print(f"⚠️  No se pudo leer o vacío: {path}")
+                continue
+
+            # Asegurar columnas mínimas
+            for col in NEEDED_COLS:
+                if col not in df.columns:
+                    df[col] = ""
+
+            # Normalizar fecha y recalcular/sobrescribir job_id
+            df["date_posted_norm"] = df["date_posted"].apply(normalize_date)
+
+            old_job_id = df["job_id"].astype(str) if "job_id" in df.columns else None
+            df["job_id"] = df.apply(
+                lambda r: make_uid(r["job_title"], r["company"], r["location"], r["date_posted_norm"]),
+                axis=1
+            )
+            if old_job_id is not None:
+                changed = (old_job_id != df["job_id"].astype(str))
+                total_reemplazos += int(changed.sum())
+
+            dfs.append(df)
+
+        merged = pd.concat(dfs, ignore_index=True)
+
+        # Deduplicar por job_id
+        before = len(merged)
+        merged.drop_duplicates(subset="job_id", inplace=True)
+        removed = before - len(merged)
+
+        # Reordenar: date_posted_norm inmediatamente después de date_posted
+        if "date_posted" in merged.columns and "date_posted_norm" in merged.columns:
+            cols = list(merged.columns)
+            cols.remove("date_posted_norm")
+            insert_at = cols.index("date_posted") + 1 if "date_posted" in cols else len(cols)
+            cols.insert(insert_at, "date_posted_norm")
+            merged = merged[cols]
+
+        out_path = os.path.join(cdir, f"{carrera_dirname}_Merged.csv")
+        merged.to_csv(out_path, index=False)
+        extra = f" | job_id sobrescritos: {total_reemplazos}" if total_reemplazos else ""
+        print(f"- {carrera_dirname}: {len(merged)} filas (elim. {removed} duplicados){extra} → {out_path}")
 
 
 def unir_corpus_por_carrera(fuente, carrera, fecha):
