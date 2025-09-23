@@ -400,6 +400,7 @@ data/outputs/
 
 ## 📊 Métricas y Resultados del Pipeline
 
+
 ### **🎯 Eficiencia del Procesamiento**
 
 | Etapa | Reducción Típica | Tiempo Aprox. | Observaciones |
@@ -412,37 +413,59 @@ data/outputs/
 | **Filas Vacías** | ~20-40% | 1-3 min | Mayor limpieza |
 | **Reportes** | - | 2-5 min | Visualizaciones finales |
 
-### **📈 Resultados Típicos por Carrera**
+#### **Top Carreras por Número de Ofertas y Plataforma**
 
-Basado en extracciones reales del sistema:
+| Carrera                   | Jooble | RapidAPI2 | RapidAPI1 | Coresignal | Total |
+|--------------------------|--------|-----------|-----------|------------|-------|
+| inteligencia_artificial  | 6275   | 350       | 146       | 34         | 6805  |
+| electronica_y_automatizacion | 6286 | 0         | 53        | 10         | 6349  |
+| sistemas_de_informacion  | 4456   | 1605      | 96        | 0          | 6157  |
+| software                 | 2615   | 2924      | 334       | 0          | 5873  |
+| administracion_de_empresas | 4608 | 4         | 174       | 50         | 4836  |
+| ciencia_de_datos         | 4109   | 400       | 71        | 50         | 4630  |
+| ingenieria_de_la_produccion | 4351 | 6         | 146       | 0          | 4503  |
+| tecnologias_de_la_informacion | 3521 | 585     | 124       | 0          | 4230  |
+| computacion              | 3726   | 222       | 103       | 50         | 4101  |
+| ingenieria_civil         | 3625   | 113       | 126       | 0          | 3864  |
 
-| Carrera | Ofertas Brutas | Post-Limpieza | Skills EURACE | País Principal |
-|---------|----------------|---------------|---------------|----------------|
-| **Ciencia de Datos** | ~800-1200 | ~600-900 | ~85% detección | Ecuador/Colombia |
-| **Computación** | ~1000-1500 | ~750-1100 | ~80% detección | México/Ecuador |
-| **Ing. Civil** | ~600-900 | ~450-650 | ~75% detección | Perú/Ecuador |
-| **Administración** | ~900-1300 | ~650-950 | ~90% detección | Ecuador/Argentina |
-| **Inteligencia Artificial** | ~400-700 | ~300-500 | ~88% detección | España/México |
+#### **Distribución Regional de Ofertas**
 
-### **🎯 Calidad de Datos Post-Pipeline**
+| Región                        | Porcentaje | Conteo |
+|-------------------------------|------------|--------|
+| América Latina                | 8.04%      | 6036   |
+| Habla hispana (fuera de LATAM)| 0.64%      | 484    |
+| Remoto                        | 1.16%      | 868    |
+| Otros países                  | 90.16%     | 67716  |
 
-- ✅ **Deduplicación**: >99% efectividad
-- ✅ **Traducción**: ~92% éxito (8% marcadas `[GT_FAIL]`)
-- ✅ **Normalización**: ~95% textos limpios
-- ✅ **Skills EURACE**: ~82% ofertas con al menos 1 habilidad detectada
-- ✅ **Completitud**: ~78% registros con todos los campos poblados
+#### **Top Países por Número de Ofertas**
 
-### **📊 Distribución de Habilidades EURACE**
+| País           | Ofertas |
+|----------------|---------|
+| United States  | 64135   |
+| Puerto Rico    | 3455    |
+| Brazil         | 1137    |
+| India          | 517     |
+| Canada         | 506     |
+| Spain          | 484     |
+| Mexico         | 418     |
+| Germany        | 340     |
+| Chile          | 278     |
+| United Kingdom | 266     |
 
-Ranking típico en ofertas procesadas:
+#### **Ejemplo de Distribución Carrera-País**
 
-1. 📋 **Gestión** (45-60%) - Planificación, organización
-2. 🤝 **Trabajo en equipo** (35-50%) - Colaboración
-3. 💬 **Comunicación efectiva** (30-45%) - Oral, escrita  
-4. 👑 **Liderazgo** (20-35%) - Dirección de equipos
-5. 📚 **Aprendizaje autónomo** (15-30%) - Adaptabilidad
-6. ⚖️ **Ética profesional** (10-25%) - Integridad
-7. 🌍 **Responsabilidad social** (5-15%) - Impacto social
+| Carrera                    | País         | Ofertas |
+|----------------------------|--------------|---------|
+| Administracion_de_empresas | United States| 4269    |
+| Administracion_de_empresas | Puerto Rico  | 228     |
+| Administracion_de_empresas | Colombia     | 42      |
+| Administracion_de_empresas | Brazil       | 40      |
+| Administracion_de_empresas | Chile        | 28      |
+| Administracion_de_empresas | Peru         | 26      |
+| Administracion_de_empresas | Mexico       | 24      |
+| Administracion_de_empresas | Spain        | 22      |
+| Administracion_de_empresas | Canada       | 20      |
+| Administracion_de_empresas | Argentina    | 17      |
 
 ---
 
