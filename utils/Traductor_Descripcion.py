@@ -11,14 +11,14 @@ from deep_translator import GoogleTranslator
 
 
 # ======================= CONFIGURACIÓN =====================
-BASE_GLOBAL = Path("/content/drive/MyDrive/todas_las_plataformas")
+BASE_GLOBAL = Path(r"C:\Users\andra\Documents\Proyects\TICs\Corpus\Jobs_ScalperV2\modelo-ciencia-datos-empleabilidad\data\outputs\todas_las_plataformas")
 DESCRIPTION_COL = "description"
 NEW_COL = "description_final"
-ONLY_THIS_CAREER = None            # p.ej. "Administración_de_Empresas" o None para todas
+ONLY_THIS_CAREER = None            # p.ej. "Sistemas_de_Información" o None para todas
 
 # Rendimiento
 MAX_WORKERS = 2                    # 2–4 si no te limita
-CHUNK_LIMIT = 4500                 # margen seguro (<~5000) por llamada
+CHUNK_LIMIT = 2000                 # Reducir para evitar errores con textos largos
 
 # Reintentos / control de fallos
 FAIL_MARKER = "[GT_FAIL] "         # prefijo cuando falla la traducción
@@ -43,9 +43,24 @@ DOT_SPACE_FIX_RE = re.compile(r"\s*\.\s*")       # normalizar espacios alrededor
 # Markdown/ruido
 MD_STRONG_EM_RE = re.compile(r"(\*\*|__)+")      # **, __
 MD_INLINE_EM_RE = re.compile(r"(^|[\s\W])(\*|_)(.+?)(\2)($|[\s\W])", re.DOTALL)  # *texto* / _texto_
+STRAY_STARS_RE = re.compile(r"\*+")              # asteriscos sueltos -> espacio
 PIPE_RE = re.compile(r"\s*\|\s*")                # " | " -> ". "
 UNDERSCORES_RUN_RE = re.compile(r"_{2,}")        # "__", "____" -> ". "
+
+# Viñetas (conjunto extendido de caracteres)
+BULLET_CHARS = "•◦·‣∙●○▪▫◆◇■□►➤–—"  # incluye guiones largos/medios
 LEADING_BULLET_RE = re.compile(r"^\s*[•\-\–\—\·\‣\∙\●\○\▪\▫\►\➤]\s*", re.MULTILINE)
+
+# Tags de idioma / encabezados tipo idioma
+LANG_TAG_INLINE_RE = re.compile(r"\[\s*(spanish|english|es|en|pt|fr|de|it)\s*\]", re.I)
+LANG_TAG_LINE_RE = re.compile(r"(?m)^\s*(spanish|english|es|en|pt|fr|de|it)\s*:\s*", re.I)
+
+# Líneas decorativas
+DECORATIVE_LINE_RE = re.compile(r"(?m)^\s*([=\-_*~<>\.]{3,})\s*$")  # líneas de ====, ----, ****, ...
+
+# Puntuación mejorada
+MULTI_DOTS_RE = re.compile(r"(?:\.\s*){2,}")       # ". ." repetidos -> ". "
+LEADING_PUNCT_RE = re.compile(r"^[\.\,\;\:\-\–\—\·\•\*]+")  # puntos/viñetas al inicio
 
 # Encabezados y hashes (#, ##, …)
 HASH_HEADING_RE = re.compile(r"(?m)^\s{0,3}#{1,6}\s*")  # quitar encabezados Markdown
@@ -67,11 +82,13 @@ def normalize_qa_terms(s: str) -> str:
     return s
 
 def normalize_unicode(s: str) -> str:
-    s = fix_text(s)
+    """Normalización mejorada de Unicode (integrada desde Normalizador_Independiente)."""
+    s = fix_text(s or "")
     s = html.unescape(s)
     return unicodedata.normalize("NFC", s)
 
 def _strip_markdown_and_layout(s: str) -> str:
+    """Limpieza mejorada con funcionalidades del Normalizador_Independiente."""
     # Quitar HTML, URLs y e-mails
     s = HTML_TAG_RE.sub(" ", s)
     s = URL_RE.sub(" ", s)
@@ -80,8 +97,15 @@ def _strip_markdown_and_layout(s: str) -> str:
     # Quitar emojis
     s = emoji.replace_emoji(s, " ")
 
-    # Quitar viñetas al inicio de línea
+    # === NUEVAS FUNCIONALIDADES DESDE NORMALIZADOR ===
+    # Elimina tags de idioma y líneas decorativas
+    s = LANG_TAG_INLINE_RE.sub(" ", s)
+    s = LANG_TAG_LINE_RE.sub("", s)
+    s = DECORATIVE_LINE_RE.sub(" ", s)
+
+    # Viñetas mejoradas: al inicio de línea y en todo el texto
     s = LEADING_BULLET_RE.sub("", s)
+    s = s.translate({ord(ch): " " for ch in BULLET_CHARS})
 
     # Quitar encabezados y hashes (#)
     s = HASH_HEADING_RE.sub("", s)
@@ -90,6 +114,7 @@ def _strip_markdown_and_layout(s: str) -> str:
     # Quitar negritas/cursivas Markdown ** __ * _
     s = MD_STRONG_EM_RE.sub(" ", s)
     s = MD_INLINE_EM_RE.sub(lambda m: f"{m.group(1)}{m.group(3)}{m.group(5)}", s)
+    s = STRAY_STARS_RE.sub(" ", s)               # quita * sueltos
 
     # Pipes y underscores largos -> separadores ". "
     s = PIPE_RE.sub(". ", s)
@@ -101,15 +126,20 @@ def _strip_markdown_and_layout(s: str) -> str:
     return s
 
 def _fix_spacing_and_punct(s: str) -> str:
+    """Normalización mejorada de espaciado y puntuación (desde Normalizador_Independiente)."""
     # Quitar espacios antes de puntuación
     s = SPACE_BEFORE_PUNCT_RE.sub(r"\1", s)
 
     # Normalizar puntos y espacios
-    s = DOT_SPACE_FIX_RE.sub(". ", s)     # ". " estándar
-    s = re.sub(r"\.\s+\.", ". ", s)       # ".  ." -> ". "
+    s = DOT_SPACE_FIX_RE.sub(". ", s)      # ". " estándar
+    s = MULTI_DOTS_RE.sub(". ", s)         # colapsa ". .", ". . .", etc.
+    s = re.sub(r"\.\s+\.", ". ", s)        # ".  ." -> ". "
 
     # Colapsar repeticiones de signos "!!!" -> "!"
     s = PUNCT_DUP_RE.sub(r"\1", s)
+
+    # Eliminar puntuación/viñetas al inicio
+    s = LEADING_PUNCT_RE.sub("", s)
 
     # Si quedó " . " al final -> "."
     s = re.sub(r"\s+\.$", ".", s)
@@ -162,13 +192,29 @@ def _get_translator():
     return gt
 
 def _split_into_chunks(text: str, limit: int = CHUNK_LIMIT):
-    """Divide en <=limit, intenta cortar por final de frase; si no, corta duro."""
+    """Divide en chunks, priorizando separadores naturales, luego espacios, finalmente corte duro."""
     if len(text) <= limit:
         return [text]
-    parts = re.split(r'(?<=[\.\!\?\;:])\s+', text)
+    
+    # 1. Intentar dividir por separadores de oración (incluyendo japonés)
+    parts = re.split(r'(?<=[\.\!\?\;:。])\s*', text)
+    
+    # 2. Si no hay separadores naturales suficientes, dividir por patrones japoneses comunes
+    if len(parts) <= 2:  # Muy pocas divisiones
+        # Buscar patrones japoneses como 【】 o números seguidos de punto
+        parts = re.split(r'(?<=】)\s*|(?<=\d\.)\s*', text)
+    
+    # 3. Si aún no hay suficientes divisiones, usar espacios
+    if len(parts) <= 2:
+        parts = text.split(' ')
+    
+    # 4. Como último recurso, corte duro cada 'limit' caracteres
+    if len(parts) <= 2:
+        parts = [text[i:i+limit] for i in range(0, len(text), limit)]
+    
     chunks, cur = [], ""
     for p in parts:
-        if not p:
+        if not p.strip():
             continue
         add = len(p) + (1 if cur else 0)
         if len(cur) + add <= limit:
@@ -176,6 +222,7 @@ def _split_into_chunks(text: str, limit: int = CHUNK_LIMIT):
         else:
             if cur:
                 chunks.append(cur)
+            # Si una parte individual sigue siendo muy larga, cortarla
             if len(p) > limit:
                 for i in range(0, len(p), limit):
                     chunks.append(p[i:i+limit])
@@ -184,6 +231,7 @@ def _split_into_chunks(text: str, limit: int = CHUNK_LIMIT):
                 cur = p
     if cur:
         chunks.append(cur)
+    
     return chunks
 
 def _translate_text_with_fail(text: str) -> str:
@@ -203,20 +251,24 @@ def _translate_text_with_fail(text: str) -> str:
 
     gt = _get_translator()
     outs = []
-    for ch in _split_into_chunks(text, CHUNK_LIMIT):
+    chunks = _split_into_chunks(text, CHUNK_LIMIT)
+    
+    for i, ch in enumerate(chunks):
         ok = False
-        delay = 2.0
-        for _ in range(3):
+        delay = 1.0  # Reducir delay inicial
+        for attempt in range(3):
             try:
                 out = gt.translate(ch)
                 if not isinstance(out, str) or out.strip() == "":
-                    raise RuntimeError("empty")
+                    raise RuntimeError("empty response")
                 outs.append(out)
                 ok = True
                 break
             except Exception:
-                time.sleep(delay)  # backoff 2s, 4s, 8s
-                delay *= 2
+                if attempt < 2:  # Solo dormir si no es el último intento
+                    time.sleep(delay)
+                    delay *= 1.5  # Reducir incremento: 1s, 1.5s, 2.25s
+        
         if not ok:
             fail_val = f"{FAIL_MARKER}{text}"
             _global_cache[text] = fail_val
@@ -338,4 +390,5 @@ def process_all():
 
 
 # =========================== EJECUCIÓN ==========================
-process_all()
+if __name__ == "__main__":
+    process_all()

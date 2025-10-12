@@ -1,83 +1,54 @@
 country_show,count,country
-United States,64135,united states
-Puerto Rico,3455,puerto rico
-Brazil,1137,brazil
-India,517,india
-Canada,506,canada
-Spain,484,spain
-Mexico,418,mexico
-Germany,340,germany
-Chile,278,chile
-United Kingdom,266,united kingdom
-Colombia,265,colombia
-France,243,france
-Peru,188,peru
-Italy,180,italy
-Argentina,107,argentina
-Portugal,103,portugal
-Poland,102,poland
-Netherlands,93,netherlands
-Switzerland,75,switzerland
+United States,64253,united states
+Puerto Rico,3456,puerto rico
+Brazil,1208,brazil
+India,524,india
+Spain,515,spain
+Canada,511,canada
+Mexico,471,mexico
+Colombia,372,colombia
+Germany,345,germany
+Chile,310,chile
+United Kingdom,283,united kingdom
+France,244,france
+Peru,231,peru
+Italy,181,italy
+China,178,china
+Argentina,128,argentina
+Poland,103,poland
+Netherlands,94,netherlands
+Switzerland,76,switzerland
 Australia,70,australia
-Malaysia,54,malaysia
-Singapore,51,singapore
-Philippines,49,philippines
-Egypt,41,egypt
-Belgium,40,belgium
-Austria,38,austria
+Singapore,53,singapore
+Belgium,41,belgium
+Guatemala,40,guatemala
 Romania,38,romania
-United Arab Emirates,36,united arab emirates
-Guatemala,33,guatemala
-Vietnam,32,vietnam
+Austria,38,austria
+Ecuador,30,ecuador
 Turkey,30,turkey
-Indonesia,29,indonesia
-Pakistan,27,pakistan
-Czech Republic,25,czech republic
-Dominican Republic,23,dominican republic
-Ecuador,23,ecuador
+Dominican Republic,28,dominican republic
+Costa Rica,26,costa rica
+Czech Republic,26,czech republic
+Israel,22,israel
 Denmark,22,denmark
-Israel,21,israel
 Sweden,21,sweden
-Saudi Arabia,21,saudi arabia
-Costa Rica,21,costa rica
-Japan,19,japan
-South Africa,17,south africa
-Sri Lanka,14,sri lanka
+Japan,20,japan
+South Africa,19,south africa
+Venezuela,15,venezuela
+Greece,13,greece
+El Salvador,13,el salvador
 Uruguay,13,uruguay
 Finland,12,finland
-El Salvador,12,el salvador
-Greece,12,greece
-Malta,11,malta
-Venezuela,11,venezuela
+Bolivia,12,bolivia
 Hungary,11,hungary
-Bangladesh,10,bangladesh
+Panama,11,panama
+Honduras,9,honduras
 Ukraine,8,ukraine
-Bolivia,8,bolivia
-Honduras,7,honduras
-Panama,7,panama
-Lithuania,5,lithuania
-Serbia,5,serbia
 Slovakia,5,slovakia
-Nigeria,5,nigeria
-Norway,4,norway
-Bulgaria,4,bulgaria
-Tunisia,4,tunisia
 Nicaragua,4,nicaragua
+Norway,4,norway
 New Zealand,3,new zealand
-Angola,3,angola
-Ivory Coast,3,ivory coast
 South Korea,2,south korea
-Morocco,2,morocco
-Thailand,2,thailand
-Russia,1,russia
-Latvia,1,latvia
-Uzbekistan,1,uzbekistan
-Croatia,1,croatia
-Kuwait,1,kuwait
-Kenya,1,kenya
-Iraq,1,iraq
-Laos,1,laos
-Mozambique,1,mozambique
 Haiti,1,haiti
-Madagascar,1,madagascar
+Russia,1,russia
 Cuba,1,cuba

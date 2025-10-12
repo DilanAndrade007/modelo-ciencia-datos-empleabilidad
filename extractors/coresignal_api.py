@@ -76,7 +76,8 @@ def extraer_desde_coresignal(query, api_key, carrera):
         print("No se encontraron trabajos.")
         return
 
-    job_ids = job_ids[:50]  # Límite arbitrario para evitar excesivas llamadas
+    # job_ids = job_ids[:50]  # Límite eliminado para obtener todos los trabajos
+    print(f"Se encontraron {len(job_ids)} trabajos. Procesando todos...")
     trabajos_mapeados = []
 
     for job_id in job_ids:

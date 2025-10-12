@@ -4,6 +4,11 @@ import glob
 import shutil
 import hashlib
 from dateutil import parser
+# Importar funciones de extracción de países
+try:
+    from .location_extractor import country_from_location, clean_text
+except ImportError:
+    from location_extractor import country_from_location, clean_text
 
 NEEDED_COLS = ["job_title", "company", "location", "date_posted"]
 
@@ -36,12 +41,10 @@ def read_csv_loose(path: str) -> pd.DataFrame:
     print(f"⚠️  No se pudo leer: {path}")
     return pd.DataFrame()
 
-
 def crear_directorios():
     os.makedirs("data/outputs", exist_ok=True)
     os.makedirs("logs", exist_ok=True)
     os.makedirs("config", exist_ok=True)
-
 
 def copiar_corpus_diario_a_global(fuente, carrera, fecha):
     """
@@ -121,19 +124,34 @@ def unir_corpus_acumulado_por_carrera():
         merged.drop_duplicates(subset="job_id", inplace=True)
         removed = before - len(merged)
 
-        # Reordenar: date_posted_norm inmediatamente después de date_posted
-        if "date_posted" in merged.columns and "date_posted_norm" in merged.columns:
-            cols = list(merged.columns)
+        # Crear columna location_final con países extraídos
+        if "location" in merged.columns:
+            print(f"  📍 Extrayendo países de {len(merged)} ubicaciones...")
+            merged["location_final"] = merged["location"].astype(str).apply(
+                lambda x: clean_text(country_from_location(x)) if x and str(x).strip() not in ['', 'nan', 'None'] else ""
+            )
+
+        # Reordenar columnas: date_posted_norm después de date_posted, location_final después de location
+        cols = list(merged.columns)
+        
+        # Mover date_posted_norm
+        if "date_posted" in cols and "date_posted_norm" in cols:
             cols.remove("date_posted_norm")
             insert_at = cols.index("date_posted") + 1 if "date_posted" in cols else len(cols)
             cols.insert(insert_at, "date_posted_norm")
-            merged = merged[cols]
+        
+        # Mover location_final
+        if "location" in cols and "location_final" in cols:
+            cols.remove("location_final")
+            insert_at = cols.index("location") + 1 if "location" in cols else len(cols)
+            cols.insert(insert_at, "location_final")
+        
+        merged = merged[cols]
 
         out_path = os.path.join(cdir, f"{carrera_dirname}_Merged.csv")
         merged.to_csv(out_path, index=False)
         extra = f" | job_id sobrescritos: {total_reemplazos}" if total_reemplazos else ""
         print(f"- {carrera_dirname}: {len(merged)} filas (elim. {removed} duplicados){extra} → {out_path}")
-
 
 def unir_corpus_por_carrera(fuente, carrera, fecha):
     """

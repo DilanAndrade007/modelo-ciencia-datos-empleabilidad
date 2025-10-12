@@ -3,8 +3,8 @@ inteligencia_artificial,6275,350,146,34,6805
 electronica_y_automatizacion,6286,0,53,10,6349
 sistemas_de_informacion,4456,1605,96,0,6157
 software,2615,2924,334,0,5873
-administracion_de_empresas,4608,4,174,50,4836
-ciencia_de_datos,4109,400,71,50,4630
+administracion_de_empresas,4990,7,173,50,5220
+ciencia_de_datos,4109,606,71,50,4836
 ingenieria_de_la_produccion,4351,6,146,0,4503
 tecnologias_de_la_informacion,3521,585,124,0,4230
 computacion,3726,222,103,50,4101
@@ -14,7 +14,7 @@ telecomunicaciones,2253,597,85,0,2935
 economia,2335,76,46,49,2506
 materiales,1941,65,121,0,2127
 electricidad,1631,199,186,50,2066
-agroindustria,1569,0,68,50,1687
+agroindustria,1569,1,68,50,1688
 mecanica,1281,96,256,0,1633
 fisica,1496,23,55,40,1614
 petroleos,1545,2,4,0,1551
@@ -23,4 +23,4 @@ ingenieria_quimica,1095,4,49,0,1148
 geologia,1041,23,10,0,1074
 matematica,181,10,208,0,399
 matematica_aplicada,345,3,35,0,383
-TOTAL_GENERAL,64689,7402,2630,383,75104
+TOTAL_GENERAL,65071,7612,2629,383,75695

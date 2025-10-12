@@ -4,7 +4,7 @@ import re
 import pandas as pd
 
 # -------- Config --------
-BASE_GLOBAL = Path("/content/drive/MyDrive/todas_las_plataformas")
+BASE_GLOBAL = Path(r"C:\Users\andra\Documents\Proyects\TICs\Corpus\Jobs_ScalperV2\modelo-ciencia-datos-empleabilidad\data\outputs\todas_las_plataformas")
 DESCRIPTION_COL = "description"
 SKILLS_COL = "skills"
 ONLY_THIS_CAREER = None  # p.ej. "Administración_de_Empresas" o None para todas
