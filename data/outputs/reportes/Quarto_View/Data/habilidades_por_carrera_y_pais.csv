@@ -1,0 +1,1895 @@
+﻿carrera,pais,habilidad,frecuencia,porcentaje_en_combinacion,empleos_totales_combinacion
+administracion_de_empresas,peru,gestion,17,85.0,20
+administracion_de_empresas,peru,comunicacion efectiva,7,35.0,20
+administracion_de_empresas,peru,liderazgo,6,30.0,20
+administracion_de_empresas,peru,etica profesional,4,20.0,20
+administracion_de_empresas,peru,trabajo en equipo,4,20.0,20
+administracion_de_empresas,peru,aprendizaje autonomo,4,20.0,20
+administracion_de_empresas,colombia,gestion,23,76.67,30
+administracion_de_empresas,colombia,comunicacion efectiva,10,33.33,30
+administracion_de_empresas,colombia,trabajo en equipo,9,30.0,30
+administracion_de_empresas,colombia,aprendizaje autonomo,5,16.67,30
+administracion_de_empresas,colombia,etica profesional,5,16.67,30
+administracion_de_empresas,colombia,responsabilidad social,2,6.67,30
+administracion_de_empresas,colombia,liderazgo,2,6.67,30
+administracion_de_empresas,spain,gestion,10,83.33,12
+administracion_de_empresas,spain,trabajo en equipo,5,41.67,12
+administracion_de_empresas,spain,comunicacion efectiva,3,25.0,12
+administracion_de_empresas,spain,etica profesional,2,16.67,12
+administracion_de_empresas,spain,aprendizaje autonomo,2,16.67,12
+administracion_de_empresas,spain,responsabilidad social,1,8.33,12
+administracion_de_empresas,chile,gestion,21,80.77,26
+administracion_de_empresas,chile,trabajo en equipo,8,30.77,26
+administracion_de_empresas,chile,etica profesional,8,30.77,26
+administracion_de_empresas,chile,aprendizaje autonomo,7,26.92,26
+administracion_de_empresas,chile,liderazgo,6,23.08,26
+administracion_de_empresas,chile,responsabilidad social,5,19.23,26
+administracion_de_empresas,chile,comunicacion efectiva,4,15.38,26
+administracion_de_empresas,el salvador,gestion,4,80.0,5
+administracion_de_empresas,el salvador,comunicacion efectiva,2,40.0,5
+administracion_de_empresas,el salvador,liderazgo,2,40.0,5
+administracion_de_empresas,el salvador,trabajo en equipo,2,40.0,5
+administracion_de_empresas,el salvador,etica profesional,2,40.0,5
+administracion_de_empresas,el salvador,aprendizaje autonomo,1,20.0,5
+administracion_de_empresas,mexico,gestion,18,94.74,19
+administracion_de_empresas,mexico,comunicacion efectiva,11,57.89,19
+administracion_de_empresas,mexico,etica profesional,6,31.58,19
+administracion_de_empresas,mexico,liderazgo,4,21.05,19
+administracion_de_empresas,mexico,trabajo en equipo,4,21.05,19
+administracion_de_empresas,mexico,aprendizaje autonomo,3,15.79,19
+administracion_de_empresas,venezuela,gestion,3,100.0,3
+administracion_de_empresas,venezuela,comunicacion efectiva,1,33.33,3
+administracion_de_empresas,venezuela,liderazgo,1,33.33,3
+administracion_de_empresas,venezuela,etica profesional,1,33.33,3
+administracion_de_empresas,venezuela,aprendizaje autonomo,1,33.33,3
+administracion_de_empresas,argentina,gestion,11,84.62,13
+administracion_de_empresas,argentina,trabajo en equipo,7,53.85,13
+administracion_de_empresas,argentina,comunicacion efectiva,5,38.46,13
+administracion_de_empresas,argentina,aprendizaje autonomo,4,30.77,13
+administracion_de_empresas,argentina,liderazgo,1,7.69,13
+administracion_de_empresas,argentina,etica profesional,1,7.69,13
+administracion_de_empresas,honduras,gestion,1,50.0,2
+administracion_de_empresas,honduras,comunicacion efectiva,1,50.0,2
+administracion_de_empresas,honduras,trabajo en equipo,1,50.0,2
+administracion_de_empresas,honduras,etica profesional,1,50.0,2
+administracion_de_empresas,ecuador,gestion,1,100.0,1
+administracion_de_empresas,ecuador,comunicacion efectiva,1,100.0,1
+administracion_de_empresas,ecuador,liderazgo,1,100.0,1
+administracion_de_empresas,puerto rico,gestion,24,48.0,50
+administracion_de_empresas,puerto rico,etica profesional,14,28.0,50
+administracion_de_empresas,puerto rico,liderazgo,8,16.0,50
+administracion_de_empresas,puerto rico,comunicacion efectiva,7,14.0,50
+administracion_de_empresas,puerto rico,trabajo en equipo,6,12.0,50
+administracion_de_empresas,puerto rico,responsabilidad social,1,2.0,50
+administracion_de_empresas,brazil,gestion,24,88.89,27
+administracion_de_empresas,brazil,liderazgo,10,37.04,27
+administracion_de_empresas,brazil,comunicacion efectiva,9,33.33,27
+administracion_de_empresas,brazil,etica profesional,5,18.52,27
+administracion_de_empresas,brazil,trabajo en equipo,3,11.11,27
+administracion_de_empresas,brazil,aprendizaje autonomo,1,3.7,27
+administracion_de_empresas,guatemala,gestion,4,100.0,4
+administracion_de_empresas,guatemala,comunicacion efectiva,3,75.0,4
+administracion_de_empresas,guatemala,liderazgo,2,50.0,4
+administracion_de_empresas,guatemala,aprendizaje autonomo,2,50.0,4
+administracion_de_empresas,guatemala,trabajo en equipo,1,25.0,4
+administracion_de_empresas,guatemala,etica profesional,1,25.0,4
+administracion_de_empresas,bolivia,gestion,1,100.0,1
+administracion_de_empresas,bolivia,liderazgo,1,100.0,1
+administracion_de_empresas,costa rica,gestion,2,100.0,2
+administracion_de_empresas,costa rica,comunicacion efectiva,1,50.0,2
+administracion_de_empresas,costa rica,liderazgo,1,50.0,2
+administracion_de_empresas,costa rica,etica profesional,1,50.0,2
+administracion_de_empresas,france,gestion,3,100.0,3
+administracion_de_empresas,france,trabajo en equipo,2,66.67,3
+administracion_de_empresas,dominican republic,gestion,1,100.0,1
+administracion_de_empresas,dominican republic,comunicacion efectiva,1,100.0,1
+administracion_de_empresas,united states,gestion,608,47.02,1293
+administracion_de_empresas,united states,trabajo en equipo,389,30.09,1293
+administracion_de_empresas,united states,etica profesional,325,25.14,1293
+administracion_de_empresas,united states,liderazgo,283,21.89,1293
+administracion_de_empresas,united states,comunicacion efectiva,179,13.84,1293
+administracion_de_empresas,united states,responsabilidad social,76,5.88,1293
+administracion_de_empresas,united states,aprendizaje autonomo,54,4.18,1293
+administracion_de_empresas,canada,gestion,9,81.82,11
+administracion_de_empresas,canada,liderazgo,2,18.18,11
+administracion_de_empresas,canada,comunicacion efectiva,2,18.18,11
+administracion_de_empresas,canada,trabajo en equipo,1,9.09,11
+administracion_de_empresas,canada,aprendizaje autonomo,1,9.09,11
+administracion_de_empresas,remote,gestion,7,58.33,12
+administracion_de_empresas,remote,comunicacion efectiva,4,33.33,12
+administracion_de_empresas,remote,liderazgo,2,16.67,12
+administracion_de_empresas,remote,etica profesional,1,8.33,12
+administracion_de_empresas,china,gestion,4,80.0,5
+administracion_de_empresas,china,comunicacion efectiva,1,20.0,5
+administracion_de_empresas,singapore,gestion,1,100.0,1
+agroindustria,peru,gestion,18,85.71,21
+agroindustria,peru,trabajo en equipo,6,28.57,21
+agroindustria,peru,etica profesional,5,23.81,21
+agroindustria,peru,responsabilidad social,4,19.05,21
+agroindustria,peru,comunicacion efectiva,2,9.52,21
+agroindustria,peru,aprendizaje autonomo,2,9.52,21
+agroindustria,peru,liderazgo,1,4.76,21
+agroindustria,colombia,gestion,2,100.0,2
+agroindustria,colombia,liderazgo,2,100.0,2
+agroindustria,colombia,trabajo en equipo,2,100.0,2
+agroindustria,chile,etica profesional,5,71.43,7
+agroindustria,chile,gestion,4,57.14,7
+agroindustria,chile,responsabilidad social,2,28.57,7
+agroindustria,chile,trabajo en equipo,1,14.29,7
+agroindustria,chile,aprendizaje autonomo,1,14.29,7
+agroindustria,chile,comunicacion efectiva,1,14.29,7
+agroindustria,mexico,gestion,3,100.0,3
+agroindustria,mexico,comunicacion efectiva,2,66.67,3
+agroindustria,mexico,liderazgo,2,66.67,3
+agroindustria,mexico,etica profesional,2,66.67,3
+agroindustria,mexico,aprendizaje autonomo,1,33.33,3
+agroindustria,argentina,gestion,2,100.0,2
+agroindustria,argentina,comunicacion efectiva,2,100.0,2
+agroindustria,argentina,trabajo en equipo,2,100.0,2
+agroindustria,argentina,aprendizaje autonomo,2,100.0,2
+agroindustria,argentina,etica profesional,1,50.0,2
+agroindustria,argentina,responsabilidad social,1,50.0,2
+agroindustria,puerto rico,gestion,10,38.46,26
+agroindustria,puerto rico,etica profesional,8,30.77,26
+agroindustria,puerto rico,trabajo en equipo,6,23.08,26
+agroindustria,puerto rico,comunicacion efectiva,5,19.23,26
+agroindustria,puerto rico,liderazgo,3,11.54,26
+agroindustria,puerto rico,responsabilidad social,1,3.85,26
+agroindustria,brazil,gestion,1,100.0,1
+agroindustria,guatemala,etica profesional,1,50.0,2
+agroindustria,guatemala,gestion,1,50.0,2
+agroindustria,guatemala,comunicacion efectiva,1,50.0,2
+agroindustria,guatemala,trabajo en equipo,1,50.0,2
+agroindustria,dominican republic,gestion,1,100.0,1
+agroindustria,dominican republic,trabajo en equipo,1,100.0,1
+agroindustria,united states,trabajo en equipo,157,42.43,370
+agroindustria,united states,gestion,120,32.43,370
+agroindustria,united states,etica profesional,99,26.76,370
+agroindustria,united states,liderazgo,84,22.7,370
+agroindustria,united states,comunicacion efectiva,25,6.76,370
+agroindustria,united states,aprendizaje autonomo,8,2.16,370
+agroindustria,united states,responsabilidad social,6,1.62,370
+agroindustria,remote,etica profesional,1,50.0,2
+agroindustria,remote,gestion,1,50.0,2
+agroindustria,china,gestion,1,100.0,1
+agroindustria,singapore,gestion,1,100.0,1
+ciencia_de_datos,peru,gestion,11,100.0,11
+ciencia_de_datos,peru,aprendizaje autonomo,5,45.45,11
+ciencia_de_datos,peru,comunicacion efectiva,5,45.45,11
+ciencia_de_datos,peru,trabajo en equipo,2,18.18,11
+ciencia_de_datos,peru,responsabilidad social,1,9.09,11
+ciencia_de_datos,peru,liderazgo,1,9.09,11
+ciencia_de_datos,colombia,gestion,19,86.36,22
+ciencia_de_datos,colombia,comunicacion efectiva,17,77.27,22
+ciencia_de_datos,colombia,liderazgo,13,59.09,22
+ciencia_de_datos,colombia,trabajo en equipo,5,22.73,22
+ciencia_de_datos,colombia,aprendizaje autonomo,4,18.18,22
+ciencia_de_datos,colombia,etica profesional,1,4.55,22
+ciencia_de_datos,spain,trabajo en equipo,15,71.43,21
+ciencia_de_datos,spain,gestion,13,61.9,21
+ciencia_de_datos,spain,comunicacion efectiva,9,42.86,21
+ciencia_de_datos,spain,aprendizaje autonomo,6,28.57,21
+ciencia_de_datos,spain,liderazgo,5,23.81,21
+ciencia_de_datos,spain,etica profesional,4,19.05,21
+ciencia_de_datos,spain,responsabilidad social,4,19.05,21
+ciencia_de_datos,chile,gestion,6,85.71,7
+ciencia_de_datos,chile,comunicacion efectiva,4,57.14,7
+ciencia_de_datos,chile,trabajo en equipo,4,57.14,7
+ciencia_de_datos,chile,liderazgo,2,28.57,7
+ciencia_de_datos,chile,etica profesional,1,14.29,7
+ciencia_de_datos,chile,responsabilidad social,1,14.29,7
+ciencia_de_datos,el salvador,liderazgo,1,100.0,1
+ciencia_de_datos,mexico,trabajo en equipo,14,58.33,24
+ciencia_de_datos,mexico,gestion,13,54.17,24
+ciencia_de_datos,mexico,comunicacion efectiva,12,50.0,24
+ciencia_de_datos,mexico,etica profesional,9,37.5,24
+ciencia_de_datos,mexico,liderazgo,6,25.0,24
+ciencia_de_datos,mexico,aprendizaje autonomo,6,25.0,24
+ciencia_de_datos,mexico,responsabilidad social,5,20.83,24
+ciencia_de_datos,argentina,trabajo en equipo,7,77.78,9
+ciencia_de_datos,argentina,comunicacion efectiva,6,66.67,9
+ciencia_de_datos,argentina,aprendizaje autonomo,6,66.67,9
+ciencia_de_datos,argentina,gestion,4,44.44,9
+ciencia_de_datos,argentina,etica profesional,2,22.22,9
+ciencia_de_datos,argentina,liderazgo,1,11.11,9
+ciencia_de_datos,ecuador,gestion,1,100.0,1
+ciencia_de_datos,ecuador,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,ecuador,liderazgo,1,100.0,1
+ciencia_de_datos,puerto rico,gestion,27,49.09,55
+ciencia_de_datos,puerto rico,etica profesional,19,34.55,55
+ciencia_de_datos,puerto rico,comunicacion efectiva,9,16.36,55
+ciencia_de_datos,puerto rico,liderazgo,8,14.55,55
+ciencia_de_datos,puerto rico,trabajo en equipo,5,9.09,55
+ciencia_de_datos,puerto rico,aprendizaje autonomo,2,3.64,55
+ciencia_de_datos,puerto rico,responsabilidad social,1,1.82,55
+ciencia_de_datos,brazil,comunicacion efectiva,3,75.0,4
+ciencia_de_datos,brazil,trabajo en equipo,1,25.0,4
+ciencia_de_datos,brazil,gestion,1,25.0,4
+ciencia_de_datos,guatemala,gestion,5,71.43,7
+ciencia_de_datos,guatemala,comunicacion efectiva,3,42.86,7
+ciencia_de_datos,guatemala,liderazgo,3,42.86,7
+ciencia_de_datos,guatemala,trabajo en equipo,2,28.57,7
+ciencia_de_datos,guatemala,aprendizaje autonomo,2,28.57,7
+ciencia_de_datos,guatemala,etica profesional,1,14.29,7
+ciencia_de_datos,bolivia,comunicacion efectiva,2,100.0,2
+ciencia_de_datos,bolivia,trabajo en equipo,2,100.0,2
+ciencia_de_datos,bolivia,liderazgo,1,50.0,2
+ciencia_de_datos,bolivia,aprendizaje autonomo,1,50.0,2
+ciencia_de_datos,costa rica,gestion,1,100.0,1
+ciencia_de_datos,costa rica,liderazgo,1,100.0,1
+ciencia_de_datos,costa rica,etica profesional,1,100.0,1
+ciencia_de_datos,france,trabajo en equipo,6,100.0,6
+ciencia_de_datos,france,comunicacion efectiva,4,66.67,6
+ciencia_de_datos,france,etica profesional,1,16.67,6
+ciencia_de_datos,dominican republic,gestion,1,100.0,1
+ciencia_de_datos,dominican republic,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,dominican republic,trabajo en equipo,1,100.0,1
+ciencia_de_datos,united states,trabajo en equipo,399,42.09,948
+ciencia_de_datos,united states,gestion,309,32.59,948
+ciencia_de_datos,united states,liderazgo,211,22.26,948
+ciencia_de_datos,united states,etica profesional,177,18.67,948
+ciencia_de_datos,united states,comunicacion efectiva,151,15.93,948
+ciencia_de_datos,united states,aprendizaje autonomo,67,7.07,948
+ciencia_de_datos,united states,responsabilidad social,29,3.06,948
+ciencia_de_datos,canada,trabajo en equipo,13,72.22,18
+ciencia_de_datos,canada,comunicacion efectiva,10,55.56,18
+ciencia_de_datos,canada,liderazgo,2,11.11,18
+ciencia_de_datos,canada,gestion,2,11.11,18
+ciencia_de_datos,canada,aprendizaje autonomo,2,11.11,18
+ciencia_de_datos,remote,liderazgo,6,42.86,14
+ciencia_de_datos,remote,trabajo en equipo,4,28.57,14
+ciencia_de_datos,remote,aprendizaje autonomo,2,14.29,14
+ciencia_de_datos,remote,etica profesional,1,7.14,14
+ciencia_de_datos,remote,gestion,1,7.14,14
+ciencia_de_datos,china,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,singapore,comunicacion efectiva,2,66.67,3
+ciencia_de_datos,singapore,gestion,1,33.33,3
+ciencia_de_datos,singapore,etica profesional,1,33.33,3
+ciencia_de_datos,panama,gestion,3,100.0,3
+ciencia_de_datos,panama,trabajo en equipo,3,100.0,3
+ciencia_de_datos,panama,comunicacion efectiva,1,33.33,3
+ciencia_de_datos,panama,liderazgo,1,33.33,3
+ciencia_de_datos,panama,aprendizaje autonomo,1,33.33,3
+ciencia_de_datos,uruguay,trabajo en equipo,3,75.0,4
+ciencia_de_datos,uruguay,liderazgo,2,50.0,4
+ciencia_de_datos,uruguay,etica profesional,2,50.0,4
+ciencia_de_datos,uruguay,aprendizaje autonomo,2,50.0,4
+ciencia_de_datos,uruguay,gestion,1,25.0,4
+ciencia_de_datos,uruguay,comunicacion efectiva,1,25.0,4
+ciencia_de_datos,united kingdom,trabajo en equipo,5,83.33,6
+ciencia_de_datos,united kingdom,gestion,3,50.0,6
+ciencia_de_datos,united kingdom,comunicacion efectiva,3,50.0,6
+ciencia_de_datos,united kingdom,liderazgo,2,33.33,6
+ciencia_de_datos,united kingdom,aprendizaje autonomo,2,33.33,6
+ciencia_de_datos,india,comunicacion efectiva,12,60.0,20
+ciencia_de_datos,india,trabajo en equipo,9,45.0,20
+ciencia_de_datos,india,gestion,3,15.0,20
+ciencia_de_datos,india,liderazgo,3,15.0,20
+ciencia_de_datos,india,aprendizaje autonomo,1,5.0,20
+ciencia_de_datos,finland,gestion,1,100.0,1
+ciencia_de_datos,finland,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,netherlands,comunicacion efectiva,1,50.0,2
+ciencia_de_datos,netherlands,trabajo en equipo,1,50.0,2
+ciencia_de_datos,greece,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,germany,comunicacion efectiva,7,87.5,8
+ciencia_de_datos,germany,trabajo en equipo,4,50.0,8
+ciencia_de_datos,germany,gestion,1,12.5,8
+ciencia_de_datos,germany,etica profesional,1,12.5,8
+ciencia_de_datos,turkey,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,hungary,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,hungary,trabajo en equipo,1,100.0,1
+ciencia_de_datos,sweden,trabajo en equipo,1,100.0,1
+ciencia_de_datos,belgium,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,belgium,trabajo en equipo,1,100.0,1
+ciencia_de_datos,belgium,aprendizaje autonomo,1,100.0,1
+ciencia_de_datos,haiti,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,romania,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,italy,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,italy,trabajo en equipo,1,100.0,1
+ciencia_de_datos,italy,etica profesional,1,100.0,1
+ciencia_de_datos,poland,gestion,1,100.0,1
+ciencia_de_datos,poland,liderazgo,1,100.0,1
+ciencia_de_datos,australia,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,ukraine,comunicacion efectiva,1,100.0,1
+ciencia_de_datos,ukraine,trabajo en equipo,1,100.0,1
+computacion,peru,etica profesional,1,100.0,1
+computacion,colombia,gestion,1,100.0,1
+computacion,colombia,etica profesional,1,100.0,1
+computacion,spain,gestion,4,100.0,4
+computacion,spain,trabajo en equipo,3,75.0,4
+computacion,spain,comunicacion efectiva,3,75.0,4
+computacion,spain,responsabilidad social,2,50.0,4
+computacion,spain,aprendizaje autonomo,2,50.0,4
+computacion,spain,liderazgo,2,50.0,4
+computacion,spain,etica profesional,1,25.0,4
+computacion,chile,gestion,1,100.0,1
+computacion,el salvador,comunicacion efectiva,1,50.0,2
+computacion,el salvador,trabajo en equipo,1,50.0,2
+computacion,el salvador,etica profesional,1,50.0,2
+computacion,mexico,gestion,7,70.0,10
+computacion,mexico,trabajo en equipo,3,30.0,10
+computacion,mexico,liderazgo,3,30.0,10
+computacion,mexico,responsabilidad social,2,20.0,10
+computacion,mexico,aprendizaje autonomo,2,20.0,10
+computacion,mexico,comunicacion efectiva,1,10.0,10
+computacion,mexico,etica profesional,1,10.0,10
+computacion,argentina,gestion,1,100.0,1
+computacion,argentina,comunicacion efectiva,1,100.0,1
+computacion,argentina,etica profesional,1,100.0,1
+computacion,puerto rico,gestion,18,43.9,41
+computacion,puerto rico,etica profesional,16,39.02,41
+computacion,puerto rico,liderazgo,8,19.51,41
+computacion,puerto rico,trabajo en equipo,6,14.63,41
+computacion,puerto rico,comunicacion efectiva,3,7.32,41
+computacion,puerto rico,aprendizaje autonomo,1,2.44,41
+computacion,brazil,gestion,14,93.33,15
+computacion,brazil,comunicacion efectiva,9,60.0,15
+computacion,brazil,aprendizaje autonomo,9,60.0,15
+computacion,brazil,trabajo en equipo,5,33.33,15
+computacion,brazil,etica profesional,3,20.0,15
+computacion,brazil,responsabilidad social,3,20.0,15
+computacion,brazil,liderazgo,2,13.33,15
+computacion,guatemala,etica profesional,1,100.0,1
+computacion,france,etica profesional,1,100.0,1
+computacion,united states,gestion,501,48.13,1041
+computacion,united states,trabajo en equipo,426,40.92,1041
+computacion,united states,etica profesional,243,23.34,1041
+computacion,united states,liderazgo,166,15.95,1041
+computacion,united states,comunicacion efectiva,150,14.41,1041
+computacion,united states,aprendizaje autonomo,63,6.05,1041
+computacion,united states,responsabilidad social,37,3.55,1041
+computacion,canada,trabajo en equipo,7,58.33,12
+computacion,canada,gestion,6,50.0,12
+computacion,canada,comunicacion efectiva,3,25.0,12
+computacion,canada,etica profesional,3,25.0,12
+computacion,canada,liderazgo,1,8.33,12
+computacion,remote,trabajo en equipo,7,41.18,17
+computacion,remote,etica profesional,4,23.53,17
+computacion,remote,gestion,3,17.65,17
+computacion,remote,liderazgo,3,17.65,17
+computacion,remote,comunicacion efectiva,1,5.88,17
+computacion,china,trabajo en equipo,2,33.33,6
+computacion,china,gestion,2,33.33,6
+computacion,china,etica profesional,2,33.33,6
+computacion,united kingdom,comunicacion efectiva,2,100.0,2
+computacion,united kingdom,etica profesional,2,100.0,2
+computacion,india,gestion,21,87.5,24
+computacion,india,trabajo en equipo,17,70.83,24
+computacion,india,etica profesional,10,41.67,24
+computacion,india,comunicacion efectiva,9,37.5,24
+computacion,india,aprendizaje autonomo,7,29.17,24
+computacion,india,liderazgo,6,25.0,24
+computacion,india,responsabilidad social,2,8.33,24
+computacion,netherlands,gestion,1,100.0,1
+computacion,netherlands,comunicacion efectiva,1,100.0,1
+computacion,netherlands,liderazgo,1,100.0,1
+computacion,netherlands,etica profesional,1,100.0,1
+computacion,netherlands,aprendizaje autonomo,1,100.0,1
+computacion,italy,etica profesional,9,50.0,18
+computacion,italy,gestion,9,50.0,18
+computacion,italy,trabajo en equipo,7,38.89,18
+computacion,italy,comunicacion efectiva,4,22.22,18
+computacion,italy,liderazgo,4,22.22,18
+computacion,italy,responsabilidad social,2,11.11,18
+computacion,italy,aprendizaje autonomo,1,5.56,18
+computacion,poland,gestion,4,100.0,4
+computacion,poland,trabajo en equipo,3,75.0,4
+computacion,poland,comunicacion efectiva,1,25.0,4
+computacion,poland,liderazgo,1,25.0,4
+computacion,poland,etica profesional,1,25.0,4
+computacion,australia,comunicacion efectiva,3,75.0,4
+computacion,australia,gestion,1,25.0,4
+computacion,australia,liderazgo,1,25.0,4
+computacion,australia,trabajo en equipo,1,25.0,4
+computacion,israel,gestion,2,100.0,2
+computacion,israel,aprendizaje autonomo,1,50.0,2
+computacion,switzerland,gestion,1,100.0,1
+computacion,switzerland,comunicacion efectiva,1,100.0,1
+computacion,switzerland,trabajo en equipo,1,100.0,1
+computacion,switzerland,responsabilidad social,1,100.0,1
+economia,colombia,gestion,1,100.0,1
+economia,spain,gestion,7,87.5,8
+economia,spain,comunicacion efectiva,5,62.5,8
+economia,spain,trabajo en equipo,4,50.0,8
+economia,spain,etica profesional,3,37.5,8
+economia,spain,responsabilidad social,3,37.5,8
+economia,spain,liderazgo,2,25.0,8
+economia,mexico,liderazgo,3,100.0,3
+economia,mexico,gestion,2,66.67,3
+economia,mexico,comunicacion efectiva,2,66.67,3
+economia,argentina,comunicacion efectiva,2,100.0,2
+economia,argentina,liderazgo,2,100.0,2
+economia,argentina,trabajo en equipo,2,100.0,2
+economia,argentina,gestion,1,50.0,2
+economia,puerto rico,gestion,7,35.0,20
+economia,puerto rico,trabajo en equipo,6,30.0,20
+economia,puerto rico,etica profesional,5,25.0,20
+economia,puerto rico,liderazgo,3,15.0,20
+economia,puerto rico,comunicacion efectiva,2,10.0,20
+economia,puerto rico,aprendizaje autonomo,1,5.0,20
+economia,brazil,comunicacion efectiva,23,74.19,31
+economia,brazil,gestion,19,61.29,31
+economia,brazil,trabajo en equipo,15,48.39,31
+economia,brazil,etica profesional,6,19.35,31
+economia,brazil,responsabilidad social,5,16.13,31
+economia,brazil,aprendizaje autonomo,5,16.13,31
+economia,united states,gestion,283,47.32,598
+economia,united states,trabajo en equipo,198,33.11,598
+economia,united states,etica profesional,97,16.22,598
+economia,united states,liderazgo,89,14.88,598
+economia,united states,comunicacion efectiva,45,7.53,598
+economia,united states,aprendizaje autonomo,23,3.85,598
+economia,united states,responsabilidad social,18,3.01,598
+economia,canada,gestion,1,100.0,1
+economia,remote,gestion,12,46.15,26
+economia,remote,etica profesional,6,23.08,26
+economia,remote,trabajo en equipo,5,19.23,26
+economia,remote,liderazgo,4,15.38,26
+economia,remote,comunicacion efectiva,2,7.69,26
+economia,remote,responsabilidad social,1,3.85,26
+economia,china,gestion,3,75.0,4
+economia,china,comunicacion efectiva,1,25.0,4
+economia,singapore,gestion,1,100.0,1
+economia,united kingdom,etica profesional,2,100.0,2
+economia,germany,gestion,1,100.0,1
+economia,germany,comunicacion efectiva,1,100.0,1
+economia,germany,liderazgo,1,100.0,1
+economia,italy,trabajo en equipo,34,73.91,46
+economia,italy,etica profesional,23,50.0,46
+economia,italy,gestion,20,43.48,46
+economia,italy,comunicacion efectiva,16,34.78,46
+economia,italy,responsabilidad social,13,28.26,46
+economia,italy,liderazgo,6,13.04,46
+economia,italy,aprendizaje autonomo,6,13.04,46
+economia,switzerland,gestion,2,100.0,2
+economia,switzerland,comunicacion efectiva,2,100.0,2
+economia,switzerland,etica profesional,2,100.0,2
+economia,switzerland,trabajo en equipo,1,50.0,2
+economia,switzerland,responsabilidad social,1,50.0,2
+electricidad,peru,trabajo en equipo,20,57.14,35
+electricidad,peru,gestion,17,48.57,35
+electricidad,peru,etica profesional,13,37.14,35
+electricidad,peru,comunicacion efectiva,11,31.43,35
+electricidad,peru,responsabilidad social,9,25.71,35
+electricidad,peru,aprendizaje autonomo,7,20.0,35
+electricidad,peru,liderazgo,6,17.14,35
+electricidad,colombia,trabajo en equipo,10,66.67,15
+electricidad,colombia,gestion,7,46.67,15
+electricidad,colombia,liderazgo,5,33.33,15
+electricidad,colombia,etica profesional,5,33.33,15
+electricidad,colombia,comunicacion efectiva,4,26.67,15
+electricidad,colombia,aprendizaje autonomo,2,13.33,15
+electricidad,spain,trabajo en equipo,43,63.24,68
+electricidad,spain,gestion,40,58.82,68
+electricidad,spain,etica profesional,34,50.0,68
+electricidad,spain,comunicacion efectiva,18,26.47,68
+electricidad,spain,aprendizaje autonomo,15,22.06,68
+electricidad,spain,liderazgo,10,14.71,68
+electricidad,spain,responsabilidad social,7,10.29,68
+electricidad,chile,etica profesional,23,57.5,40
+electricidad,chile,gestion,23,57.5,40
+electricidad,chile,trabajo en equipo,20,50.0,40
+electricidad,chile,responsabilidad social,16,40.0,40
+electricidad,chile,aprendizaje autonomo,11,27.5,40
+electricidad,chile,comunicacion efectiva,9,22.5,40
+electricidad,chile,liderazgo,3,7.5,40
+electricidad,mexico,gestion,5,55.56,9
+electricidad,mexico,trabajo en equipo,5,55.56,9
+electricidad,mexico,liderazgo,3,33.33,9
+electricidad,mexico,etica profesional,3,33.33,9
+electricidad,mexico,comunicacion efectiva,2,22.22,9
+electricidad,mexico,aprendizaje autonomo,2,22.22,9
+electricidad,venezuela,gestion,2,100.0,2
+electricidad,venezuela,trabajo en equipo,1,50.0,2
+electricidad,argentina,gestion,6,66.67,9
+electricidad,argentina,etica profesional,5,55.56,9
+electricidad,argentina,comunicacion efectiva,4,44.44,9
+electricidad,argentina,trabajo en equipo,4,44.44,9
+electricidad,argentina,liderazgo,2,22.22,9
+electricidad,argentina,aprendizaje autonomo,2,22.22,9
+electricidad,ecuador,gestion,2,100.0,2
+electricidad,ecuador,trabajo en equipo,1,50.0,2
+electricidad,ecuador,responsabilidad social,1,50.0,2
+electricidad,ecuador,aprendizaje autonomo,1,50.0,2
+electricidad,puerto rico,gestion,8,38.1,21
+electricidad,puerto rico,etica profesional,5,23.81,21
+electricidad,puerto rico,trabajo en equipo,4,19.05,21
+electricidad,puerto rico,comunicacion efectiva,4,19.05,21
+electricidad,puerto rico,liderazgo,1,4.76,21
+electricidad,guatemala,trabajo en equipo,1,100.0,1
+electricidad,costa rica,gestion,1,100.0,1
+electricidad,dominican republic,gestion,2,100.0,2
+electricidad,dominican republic,comunicacion efectiva,1,50.0,2
+electricidad,dominican republic,etica profesional,1,50.0,2
+electricidad,united states,trabajo en equipo,219,53.68,408
+electricidad,united states,gestion,153,37.5,408
+electricidad,united states,etica profesional,114,27.94,408
+electricidad,united states,comunicacion efectiva,56,13.73,408
+electricidad,united states,liderazgo,46,11.27,408
+electricidad,united states,responsabilidad social,32,7.84,408
+electricidad,united states,aprendizaje autonomo,27,6.62,408
+electricidad,canada,liderazgo,1,100.0,1
+electricidad,panama,trabajo en equipo,1,100.0,1
+electricidad,panama,aprendizaje autonomo,1,100.0,1
+electricidad,uruguay,liderazgo,1,100.0,1
+electricidad,uruguay,etica profesional,1,100.0,1
+electricidad,belgium,gestion,1,100.0,1
+electricidad,belgium,liderazgo,1,100.0,1
+electricidad,belgium,etica profesional,1,100.0,1
+electricidad,belgium,aprendizaje autonomo,1,100.0,1
+electronica_y_automatizacion,mexico,gestion,2,50.0,4
+electronica_y_automatizacion,mexico,liderazgo,2,50.0,4
+electronica_y_automatizacion,mexico,comunicacion efectiva,1,25.0,4
+electronica_y_automatizacion,mexico,trabajo en equipo,1,25.0,4
+electronica_y_automatizacion,mexico,aprendizaje autonomo,1,25.0,4
+electronica_y_automatizacion,argentina,comunicacion efectiva,1,100.0,1
+electronica_y_automatizacion,argentina,etica profesional,1,100.0,1
+electronica_y_automatizacion,ecuador,comunicacion efectiva,1,100.0,1
+electronica_y_automatizacion,ecuador,trabajo en equipo,1,100.0,1
+electronica_y_automatizacion,puerto rico,gestion,20,40.82,49
+electronica_y_automatizacion,puerto rico,etica profesional,16,32.65,49
+electronica_y_automatizacion,puerto rico,trabajo en equipo,8,16.33,49
+electronica_y_automatizacion,puerto rico,liderazgo,6,12.24,49
+electronica_y_automatizacion,puerto rico,comunicacion efectiva,5,10.2,49
+electronica_y_automatizacion,costa rica,trabajo en equipo,1,100.0,1
+electronica_y_automatizacion,united states,gestion,625,40.45,1545
+electronica_y_automatizacion,united states,trabajo en equipo,438,28.35,1545
+electronica_y_automatizacion,united states,etica profesional,433,28.03,1545
+electronica_y_automatizacion,united states,liderazgo,256,16.57,1545
+electronica_y_automatizacion,united states,comunicacion efectiva,108,6.99,1545
+electronica_y_automatizacion,united states,responsabilidad social,98,6.34,1545
+electronica_y_automatizacion,united states,aprendizaje autonomo,67,4.34,1545
+electronica_y_automatizacion,canada,gestion,8,80.0,10
+electronica_y_automatizacion,canada,liderazgo,2,20.0,10
+electronica_y_automatizacion,canada,trabajo en equipo,1,10.0,10
+electronica_y_automatizacion,canada,aprendizaje autonomo,1,10.0,10
+electronica_y_automatizacion,remote,gestion,3,60.0,5
+electronica_y_automatizacion,remote,aprendizaje autonomo,1,20.0,5
+electronica_y_automatizacion,remote,trabajo en equipo,1,20.0,5
+electronica_y_automatizacion,remote,liderazgo,1,20.0,5
+electronica_y_automatizacion,china,gestion,5,71.43,7
+electronica_y_automatizacion,china,trabajo en equipo,2,28.57,7
+electronica_y_automatizacion,china,liderazgo,1,14.29,7
+electronica_y_automatizacion,india,gestion,1,50.0,2
+electronica_y_automatizacion,india,trabajo en equipo,1,50.0,2
+fisica,peru,gestion,1,100.0,1
+fisica,peru,responsabilidad social,1,100.0,1
+fisica,colombia,trabajo en equipo,1,50.0,2
+fisica,colombia,gestion,1,50.0,2
+fisica,chile,gestion,2,66.67,3
+fisica,chile,liderazgo,1,33.33,3
+fisica,chile,comunicacion efectiva,1,33.33,3
+fisica,mexico,etica profesional,2,100.0,2
+fisica,mexico,comunicacion efectiva,1,50.0,2
+fisica,mexico,trabajo en equipo,1,50.0,2
+fisica,mexico,aprendizaje autonomo,1,50.0,2
+fisica,mexico,gestion,1,50.0,2
+fisica,argentina,comunicacion efectiva,1,100.0,1
+fisica,puerto rico,etica profesional,9,37.5,24
+fisica,puerto rico,trabajo en equipo,7,29.17,24
+fisica,puerto rico,gestion,7,29.17,24
+fisica,puerto rico,liderazgo,3,12.5,24
+fisica,puerto rico,comunicacion efectiva,3,12.5,24
+fisica,puerto rico,responsabilidad social,2,8.33,24
+fisica,brazil,gestion,8,57.14,14
+fisica,brazil,comunicacion efectiva,6,42.86,14
+fisica,brazil,aprendizaje autonomo,5,35.71,14
+fisica,brazil,trabajo en equipo,3,21.43,14
+fisica,brazil,responsabilidad social,2,14.29,14
+fisica,brazil,etica profesional,2,14.29,14
+fisica,brazil,liderazgo,2,14.29,14
+fisica,united states,trabajo en equipo,137,41.52,330
+fisica,united states,gestion,123,37.27,330
+fisica,united states,etica profesional,85,25.76,330
+fisica,united states,liderazgo,78,23.64,330
+fisica,united states,comunicacion efectiva,61,18.48,330
+fisica,united states,aprendizaje autonomo,16,4.85,330
+fisica,united states,responsabilidad social,2,0.61,330
+fisica,canada,gestion,1,100.0,1
+fisica,remote,etica profesional,1,50.0,2
+fisica,remote,gestion,1,50.0,2
+fisica,singapore,gestion,1,100.0,1
+fisica,italy,trabajo en equipo,11,84.62,13
+fisica,italy,etica profesional,10,76.92,13
+fisica,italy,aprendizaje autonomo,1,7.69,13
+fisica,italy,liderazgo,1,7.69,13
+fisica,italy,gestion,1,7.69,13
+fisica,italy,comunicacion efectiva,1,7.69,13
+fisica,nicaragua,gestion,2,100.0,2
+fisica,nicaragua,etica profesional,2,100.0,2
+fisica,nicaragua,comunicacion efectiva,1,50.0,2
+fisica,latin america,liderazgo,1,100.0,1
+geologia,chile,trabajo en equipo,1,50.0,2
+geologia,chile,liderazgo,1,50.0,2
+geologia,mexico,gestion,1,100.0,1
+geologia,mexico,aprendizaje autonomo,1,100.0,1
+geologia,puerto rico,gestion,10,47.62,21
+geologia,puerto rico,etica profesional,9,42.86,21
+geologia,puerto rico,trabajo en equipo,4,19.05,21
+geologia,puerto rico,liderazgo,2,9.52,21
+geologia,puerto rico,aprendizaje autonomo,1,4.76,21
+geologia,puerto rico,comunicacion efectiva,1,4.76,21
+geologia,brazil,gestion,17,100.0,17
+geologia,brazil,trabajo en equipo,15,88.24,17
+geologia,brazil,etica profesional,13,76.47,17
+geologia,brazil,responsabilidad social,13,76.47,17
+geologia,brazil,aprendizaje autonomo,12,70.59,17
+geologia,brazil,liderazgo,9,52.94,17
+geologia,brazil,comunicacion efectiva,6,35.29,17
+geologia,united states,trabajo en equipo,96,37.21,258
+geologia,united states,gestion,83,32.17,258
+geologia,united states,etica profesional,69,26.74,258
+geologia,united states,liderazgo,45,17.44,258
+geologia,united states,comunicacion efectiva,17,6.59,258
+geologia,united states,responsabilidad social,10,3.88,258
+geologia,united states,aprendizaje autonomo,5,1.94,258
+geologia,canada,gestion,1,33.33,3
+geologia,canada,comunicacion efectiva,1,33.33,3
+geologia,canada,trabajo en equipo,1,33.33,3
+geologia,italy,gestion,1,100.0,1
+geologia,italy,comunicacion efectiva,1,100.0,1
+geologia,italy,liderazgo,1,100.0,1
+geologia,italy,trabajo en equipo,1,100.0,1
+geologia,italy,aprendizaje autonomo,1,100.0,1
+geologia,latin america,liderazgo,1,100.0,1
+ingenieria_ambiental,peru,gestion,3,100.0,3
+ingenieria_ambiental,peru,etica profesional,2,66.67,3
+ingenieria_ambiental,peru,responsabilidad social,1,33.33,3
+ingenieria_ambiental,peru,aprendizaje autonomo,1,33.33,3
+ingenieria_ambiental,colombia,gestion,2,100.0,2
+ingenieria_ambiental,colombia,etica profesional,2,100.0,2
+ingenieria_ambiental,colombia,trabajo en equipo,1,50.0,2
+ingenieria_ambiental,spain,gestion,22,95.65,23
+ingenieria_ambiental,spain,trabajo en equipo,17,73.91,23
+ingenieria_ambiental,spain,etica profesional,17,73.91,23
+ingenieria_ambiental,spain,responsabilidad social,15,65.22,23
+ingenieria_ambiental,spain,comunicacion efectiva,11,47.83,23
+ingenieria_ambiental,spain,aprendizaje autonomo,11,47.83,23
+ingenieria_ambiental,spain,liderazgo,7,30.43,23
+ingenieria_ambiental,chile,gestion,22,95.65,23
+ingenieria_ambiental,chile,etica profesional,21,91.3,23
+ingenieria_ambiental,chile,responsabilidad social,12,52.17,23
+ingenieria_ambiental,chile,trabajo en equipo,10,43.48,23
+ingenieria_ambiental,chile,comunicacion efectiva,7,30.43,23
+ingenieria_ambiental,chile,liderazgo,6,26.09,23
+ingenieria_ambiental,chile,aprendizaje autonomo,3,13.04,23
+ingenieria_ambiental,mexico,gestion,13,100.0,13
+ingenieria_ambiental,mexico,etica profesional,12,92.31,13
+ingenieria_ambiental,mexico,trabajo en equipo,10,76.92,13
+ingenieria_ambiental,mexico,comunicacion efectiva,7,53.85,13
+ingenieria_ambiental,mexico,liderazgo,5,38.46,13
+ingenieria_ambiental,mexico,responsabilidad social,4,30.77,13
+ingenieria_ambiental,mexico,aprendizaje autonomo,2,15.38,13
+ingenieria_ambiental,argentina,gestion,2,100.0,2
+ingenieria_ambiental,argentina,liderazgo,2,100.0,2
+ingenieria_ambiental,argentina,trabajo en equipo,2,100.0,2
+ingenieria_ambiental,argentina,etica profesional,2,100.0,2
+ingenieria_ambiental,argentina,responsabilidad social,2,100.0,2
+ingenieria_ambiental,puerto rico,gestion,20,42.55,47
+ingenieria_ambiental,puerto rico,trabajo en equipo,19,40.43,47
+ingenieria_ambiental,puerto rico,etica profesional,12,25.53,47
+ingenieria_ambiental,puerto rico,comunicacion efectiva,9,19.15,47
+ingenieria_ambiental,puerto rico,aprendizaje autonomo,4,8.51,47
+ingenieria_ambiental,guatemala,gestion,1,100.0,1
+ingenieria_ambiental,guatemala,etica profesional,1,100.0,1
+ingenieria_ambiental,france,gestion,5,100.0,5
+ingenieria_ambiental,france,etica profesional,1,20.0,5
+ingenieria_ambiental,france,aprendizaje autonomo,1,20.0,5
+ingenieria_ambiental,france,trabajo en equipo,1,20.0,5
+ingenieria_ambiental,dominican republic,gestion,1,100.0,1
+ingenieria_ambiental,dominican republic,comunicacion efectiva,1,100.0,1
+ingenieria_ambiental,dominican republic,etica profesional,1,100.0,1
+ingenieria_ambiental,united states,gestion,628,58.69,1070
+ingenieria_ambiental,united states,trabajo en equipo,309,28.88,1070
+ingenieria_ambiental,united states,etica profesional,235,21.96,1070
+ingenieria_ambiental,united states,comunicacion efectiva,120,11.21,1070
+ingenieria_ambiental,united states,liderazgo,82,7.66,1070
+ingenieria_ambiental,united states,responsabilidad social,66,6.17,1070
+ingenieria_ambiental,united states,aprendizaje autonomo,50,4.67,1070
+ingenieria_ambiental,canada,gestion,28,100.0,28
+ingenieria_ambiental,canada,liderazgo,4,14.29,28
+ingenieria_ambiental,canada,etica profesional,4,14.29,28
+ingenieria_ambiental,canada,comunicacion efectiva,3,10.71,28
+ingenieria_ambiental,canada,trabajo en equipo,2,7.14,28
+ingenieria_ambiental,remote,gestion,4,80.0,5
+ingenieria_ambiental,remote,etica profesional,1,20.0,5
+ingenieria_ambiental,remote,liderazgo,1,20.0,5
+ingenieria_ambiental,china,gestion,1,100.0,1
+ingenieria_ambiental,uruguay,gestion,1,100.0,1
+ingenieria_ambiental,uruguay,liderazgo,1,100.0,1
+ingenieria_ambiental,uruguay,etica profesional,1,100.0,1
+ingenieria_ambiental,uruguay,responsabilidad social,1,100.0,1
+ingenieria_ambiental,italy,gestion,2,100.0,2
+ingenieria_ambiental,italy,etica profesional,2,100.0,2
+ingenieria_civil,peru,gestion,5,100.0,5
+ingenieria_civil,peru,etica profesional,4,80.0,5
+ingenieria_civil,peru,comunicacion efectiva,3,60.0,5
+ingenieria_civil,peru,trabajo en equipo,2,40.0,5
+ingenieria_civil,peru,liderazgo,1,20.0,5
+ingenieria_civil,peru,responsabilidad social,1,20.0,5
+ingenieria_civil,colombia,gestion,7,100.0,7
+ingenieria_civil,colombia,comunicacion efectiva,6,85.71,7
+ingenieria_civil,colombia,trabajo en equipo,5,71.43,7
+ingenieria_civil,colombia,etica profesional,4,57.14,7
+ingenieria_civil,colombia,liderazgo,3,42.86,7
+ingenieria_civil,colombia,aprendizaje autonomo,1,14.29,7
+ingenieria_civil,colombia,responsabilidad social,1,14.29,7
+ingenieria_civil,spain,trabajo en equipo,13,81.25,16
+ingenieria_civil,spain,gestion,12,75.0,16
+ingenieria_civil,spain,comunicacion efectiva,7,43.75,16
+ingenieria_civil,spain,responsabilidad social,4,25.0,16
+ingenieria_civil,spain,etica profesional,3,18.75,16
+ingenieria_civil,spain,aprendizaje autonomo,2,12.5,16
+ingenieria_civil,spain,liderazgo,1,6.25,16
+ingenieria_civil,chile,gestion,31,79.49,39
+ingenieria_civil,chile,etica profesional,23,58.97,39
+ingenieria_civil,chile,trabajo en equipo,18,46.15,39
+ingenieria_civil,chile,responsabilidad social,11,28.21,39
+ingenieria_civil,chile,comunicacion efectiva,11,28.21,39
+ingenieria_civil,chile,aprendizaje autonomo,5,12.82,39
+ingenieria_civil,chile,liderazgo,5,12.82,39
+ingenieria_civil,mexico,gestion,16,100.0,16
+ingenieria_civil,mexico,etica profesional,7,43.75,16
+ingenieria_civil,mexico,comunicacion efectiva,6,37.5,16
+ingenieria_civil,mexico,trabajo en equipo,6,37.5,16
+ingenieria_civil,mexico,liderazgo,4,25.0,16
+ingenieria_civil,mexico,aprendizaje autonomo,2,12.5,16
+ingenieria_civil,mexico,responsabilidad social,2,12.5,16
+ingenieria_civil,venezuela,gestion,1,100.0,1
+ingenieria_civil,venezuela,trabajo en equipo,1,100.0,1
+ingenieria_civil,venezuela,etica profesional,1,100.0,1
+ingenieria_civil,argentina,gestion,4,80.0,5
+ingenieria_civil,argentina,comunicacion efectiva,2,40.0,5
+ingenieria_civil,argentina,trabajo en equipo,2,40.0,5
+ingenieria_civil,argentina,etica profesional,2,40.0,5
+ingenieria_civil,argentina,aprendizaje autonomo,1,20.0,5
+ingenieria_civil,argentina,liderazgo,1,20.0,5
+ingenieria_civil,puerto rico,gestion,13,59.09,22
+ingenieria_civil,puerto rico,etica profesional,8,36.36,22
+ingenieria_civil,puerto rico,trabajo en equipo,5,22.73,22
+ingenieria_civil,puerto rico,aprendizaje autonomo,4,18.18,22
+ingenieria_civil,puerto rico,comunicacion efectiva,2,9.09,22
+ingenieria_civil,puerto rico,responsabilidad social,1,4.55,22
+ingenieria_civil,puerto rico,liderazgo,1,4.55,22
+ingenieria_civil,guatemala,gestion,6,85.71,7
+ingenieria_civil,guatemala,comunicacion efectiva,5,71.43,7
+ingenieria_civil,guatemala,liderazgo,5,71.43,7
+ingenieria_civil,guatemala,trabajo en equipo,4,57.14,7
+ingenieria_civil,guatemala,etica profesional,3,42.86,7
+ingenieria_civil,guatemala,aprendizaje autonomo,1,14.29,7
+ingenieria_civil,costa rica,gestion,2,100.0,2
+ingenieria_civil,costa rica,etica profesional,2,100.0,2
+ingenieria_civil,dominican republic,gestion,3,100.0,3
+ingenieria_civil,dominican republic,comunicacion efectiva,2,66.67,3
+ingenieria_civil,dominican republic,etica profesional,1,33.33,3
+ingenieria_civil,dominican republic,trabajo en equipo,1,33.33,3
+ingenieria_civil,united states,gestion,549,46.33,1185
+ingenieria_civil,united states,trabajo en equipo,523,44.14,1185
+ingenieria_civil,united states,liderazgo,172,14.51,1185
+ingenieria_civil,united states,etica profesional,171,14.43,1185
+ingenieria_civil,united states,comunicacion efectiva,104,8.78,1185
+ingenieria_civil,united states,responsabilidad social,46,3.88,1185
+ingenieria_civil,united states,aprendizaje autonomo,25,2.11,1185
+ingenieria_civil,canada,gestion,1,100.0,1
+ingenieria_civil,remote,trabajo en equipo,2,66.67,3
+ingenieria_civil,remote,etica profesional,2,66.67,3
+ingenieria_civil,singapore,gestion,1,100.0,1
+ingenieria_civil,uruguay,gestion,1,100.0,1
+ingenieria_civil,uruguay,comunicacion efectiva,1,100.0,1
+ingenieria_quimica,peru,gestion,1,100.0,1
+ingenieria_quimica,peru,comunicacion efectiva,1,100.0,1
+ingenieria_quimica,peru,liderazgo,1,100.0,1
+ingenieria_quimica,peru,trabajo en equipo,1,100.0,1
+ingenieria_quimica,peru,responsabilidad social,1,100.0,1
+ingenieria_quimica,peru,aprendizaje autonomo,1,100.0,1
+ingenieria_quimica,colombia,gestion,1,100.0,1
+ingenieria_quimica,colombia,trabajo en equipo,1,100.0,1
+ingenieria_quimica,colombia,etica profesional,1,100.0,1
+ingenieria_quimica,colombia,responsabilidad social,1,100.0,1
+ingenieria_quimica,colombia,aprendizaje autonomo,1,100.0,1
+ingenieria_quimica,spain,gestion,2,100.0,2
+ingenieria_quimica,spain,trabajo en equipo,1,50.0,2
+ingenieria_quimica,spain,responsabilidad social,1,50.0,2
+ingenieria_quimica,spain,aprendizaje autonomo,1,50.0,2
+ingenieria_quimica,mexico,gestion,2,50.0,4
+ingenieria_quimica,mexico,liderazgo,2,50.0,4
+ingenieria_quimica,mexico,aprendizaje autonomo,1,25.0,4
+ingenieria_quimica,mexico,responsabilidad social,1,25.0,4
+ingenieria_quimica,puerto rico,gestion,24,43.64,55
+ingenieria_quimica,puerto rico,etica profesional,23,41.82,55
+ingenieria_quimica,puerto rico,trabajo en equipo,8,14.55,55
+ingenieria_quimica,puerto rico,liderazgo,5,9.09,55
+ingenieria_quimica,puerto rico,comunicacion efectiva,5,9.09,55
+ingenieria_quimica,puerto rico,aprendizaje autonomo,2,3.64,55
+ingenieria_quimica,united states,gestion,163,58.63,278
+ingenieria_quimica,united states,etica profesional,60,21.58,278
+ingenieria_quimica,united states,liderazgo,56,20.14,278
+ingenieria_quimica,united states,trabajo en equipo,52,18.71,278
+ingenieria_quimica,united states,comunicacion efectiva,44,15.83,278
+ingenieria_quimica,united states,aprendizaje autonomo,31,11.15,278
+ingenieria_quimica,united states,responsabilidad social,18,6.47,278
+ingenieria_quimica,remote,gestion,3,75.0,4
+ingenieria_quimica,remote,etica profesional,1,25.0,4
+ingenieria_quimica,remote,liderazgo,1,25.0,4
+ingenieria_quimica,china,gestion,1,100.0,1
+ingenieria_de_la_produccion,colombia,gestion,2,100.0,2
+ingenieria_de_la_produccion,colombia,etica profesional,2,100.0,2
+ingenieria_de_la_produccion,spain,trabajo en equipo,4,100.0,4
+ingenieria_de_la_produccion,spain,gestion,3,75.0,4
+ingenieria_de_la_produccion,spain,liderazgo,2,50.0,4
+ingenieria_de_la_produccion,spain,aprendizaje autonomo,1,25.0,4
+ingenieria_de_la_produccion,spain,comunicacion efectiva,1,25.0,4
+ingenieria_de_la_produccion,spain,etica profesional,1,25.0,4
+ingenieria_de_la_produccion,mexico,gestion,1,33.33,3
+ingenieria_de_la_produccion,mexico,aprendizaje autonomo,1,33.33,3
+ingenieria_de_la_produccion,mexico,liderazgo,1,33.33,3
+ingenieria_de_la_produccion,mexico,responsabilidad social,1,33.33,3
+ingenieria_de_la_produccion,puerto rico,gestion,30,43.48,69
+ingenieria_de_la_produccion,puerto rico,etica profesional,27,39.13,69
+ingenieria_de_la_produccion,puerto rico,trabajo en equipo,13,18.84,69
+ingenieria_de_la_produccion,puerto rico,liderazgo,7,10.14,69
+ingenieria_de_la_produccion,puerto rico,comunicacion efectiva,6,8.7,69
+ingenieria_de_la_produccion,puerto rico,responsabilidad social,2,2.9,69
+ingenieria_de_la_produccion,puerto rico,aprendizaje autonomo,2,2.9,69
+ingenieria_de_la_produccion,france,gestion,2,100.0,2
+ingenieria_de_la_produccion,france,trabajo en equipo,1,50.0,2
+ingenieria_de_la_produccion,united states,gestion,424,44.49,953
+ingenieria_de_la_produccion,united states,trabajo en equipo,339,35.57,953
+ingenieria_de_la_produccion,united states,etica profesional,208,21.83,953
+ingenieria_de_la_produccion,united states,liderazgo,168,17.63,953
+ingenieria_de_la_produccion,united states,comunicacion efectiva,96,10.07,953
+ingenieria_de_la_produccion,united states,aprendizaje autonomo,77,8.08,953
+ingenieria_de_la_produccion,united states,responsabilidad social,54,5.67,953
+ingenieria_de_la_produccion,canada,gestion,17,85.0,20
+ingenieria_de_la_produccion,canada,etica profesional,4,20.0,20
+ingenieria_de_la_produccion,canada,liderazgo,2,10.0,20
+ingenieria_de_la_produccion,canada,comunicacion efectiva,2,10.0,20
+ingenieria_de_la_produccion,canada,trabajo en equipo,1,5.0,20
+ingenieria_de_la_produccion,canada,aprendizaje autonomo,1,5.0,20
+ingenieria_de_la_produccion,remote,gestion,2,66.67,3
+ingenieria_de_la_produccion,remote,etica profesional,1,33.33,3
+ingenieria_de_la_produccion,china,gestion,4,80.0,5
+ingenieria_de_la_produccion,china,trabajo en equipo,1,20.0,5
+ingenieria_de_la_produccion,china,liderazgo,1,20.0,5
+ingenieria_de_la_produccion,singapore,gestion,1,100.0,1
+ingenieria_de_la_produccion,india,gestion,1,50.0,2
+ingenieria_de_la_produccion,india,trabajo en equipo,1,50.0,2
+inteligencia_artificial,peru,gestion,2,100.0,2
+inteligencia_artificial,peru,liderazgo,1,50.0,2
+inteligencia_artificial,peru,etica profesional,1,50.0,2
+inteligencia_artificial,peru,comunicacion efectiva,1,50.0,2
+inteligencia_artificial,peru,aprendizaje autonomo,1,50.0,2
+inteligencia_artificial,colombia,gestion,12,66.67,18
+inteligencia_artificial,colombia,trabajo en equipo,9,50.0,18
+inteligencia_artificial,colombia,aprendizaje autonomo,9,50.0,18
+inteligencia_artificial,colombia,etica profesional,7,38.89,18
+inteligencia_artificial,colombia,comunicacion efectiva,4,22.22,18
+inteligencia_artificial,colombia,liderazgo,4,22.22,18
+inteligencia_artificial,colombia,responsabilidad social,2,11.11,18
+inteligencia_artificial,spain,trabajo en equipo,31,64.58,48
+inteligencia_artificial,spain,gestion,29,60.42,48
+inteligencia_artificial,spain,aprendizaje autonomo,22,45.83,48
+inteligencia_artificial,spain,liderazgo,19,39.58,48
+inteligencia_artificial,spain,comunicacion efectiva,16,33.33,48
+inteligencia_artificial,spain,responsabilidad social,15,31.25,48
+inteligencia_artificial,spain,etica profesional,9,18.75,48
+inteligencia_artificial,chile,trabajo en equipo,4,80.0,5
+inteligencia_artificial,chile,gestion,3,60.0,5
+inteligencia_artificial,chile,responsabilidad social,2,40.0,5
+inteligencia_artificial,chile,aprendizaje autonomo,1,20.0,5
+inteligencia_artificial,chile,comunicacion efectiva,1,20.0,5
+inteligencia_artificial,chile,etica profesional,1,20.0,5
+inteligencia_artificial,mexico,gestion,22,84.62,26
+inteligencia_artificial,mexico,trabajo en equipo,9,34.62,26
+inteligencia_artificial,mexico,etica profesional,8,30.77,26
+inteligencia_artificial,mexico,liderazgo,7,26.92,26
+inteligencia_artificial,mexico,comunicacion efectiva,7,26.92,26
+inteligencia_artificial,mexico,aprendizaje autonomo,6,23.08,26
+inteligencia_artificial,mexico,responsabilidad social,2,7.69,26
+inteligencia_artificial,argentina,trabajo en equipo,4,100.0,4
+inteligencia_artificial,argentina,liderazgo,2,50.0,4
+inteligencia_artificial,argentina,gestion,1,25.0,4
+inteligencia_artificial,argentina,responsabilidad social,1,25.0,4
+inteligencia_artificial,argentina,aprendizaje autonomo,1,25.0,4
+inteligencia_artificial,ecuador,comunicacion efectiva,4,100.0,4
+inteligencia_artificial,ecuador,gestion,3,75.0,4
+inteligencia_artificial,ecuador,trabajo en equipo,2,50.0,4
+inteligencia_artificial,ecuador,liderazgo,1,25.0,4
+inteligencia_artificial,ecuador,responsabilidad social,1,25.0,4
+inteligencia_artificial,ecuador,etica profesional,1,25.0,4
+inteligencia_artificial,ecuador,aprendizaje autonomo,1,25.0,4
+inteligencia_artificial,puerto rico,gestion,10,40.0,25
+inteligencia_artificial,puerto rico,trabajo en equipo,9,36.0,25
+inteligencia_artificial,puerto rico,etica profesional,6,24.0,25
+inteligencia_artificial,puerto rico,aprendizaje autonomo,4,16.0,25
+inteligencia_artificial,puerto rico,responsabilidad social,1,4.0,25
+inteligencia_artificial,puerto rico,liderazgo,1,4.0,25
+inteligencia_artificial,brazil,trabajo en equipo,38,69.09,55
+inteligencia_artificial,brazil,etica profesional,34,61.82,55
+inteligencia_artificial,brazil,gestion,32,58.18,55
+inteligencia_artificial,brazil,comunicacion efectiva,28,50.91,55
+inteligencia_artificial,brazil,aprendizaje autonomo,27,49.09,55
+inteligencia_artificial,brazil,responsabilidad social,16,29.09,55
+inteligencia_artificial,brazil,liderazgo,15,27.27,55
+inteligencia_artificial,france,trabajo en equipo,46,75.41,61
+inteligencia_artificial,france,gestion,41,67.21,61
+inteligencia_artificial,france,aprendizaje autonomo,25,40.98,61
+inteligencia_artificial,france,comunicacion efectiva,25,40.98,61
+inteligencia_artificial,france,etica profesional,24,39.34,61
+inteligencia_artificial,france,liderazgo,18,29.51,61
+inteligencia_artificial,france,responsabilidad social,14,22.95,61
+inteligencia_artificial,united states,gestion,772,48.04,1607
+inteligencia_artificial,united states,trabajo en equipo,560,34.85,1607
+inteligencia_artificial,united states,liderazgo,307,19.1,1607
+inteligencia_artificial,united states,etica profesional,297,18.48,1607
+inteligencia_artificial,united states,comunicacion efectiva,200,12.45,1607
+inteligencia_artificial,united states,aprendizaje autonomo,149,9.27,1607
+inteligencia_artificial,united states,responsabilidad social,65,4.04,1607
+inteligencia_artificial,canada,etica profesional,17,94.44,18
+inteligencia_artificial,canada,gestion,15,83.33,18
+inteligencia_artificial,canada,trabajo en equipo,15,83.33,18
+inteligencia_artificial,canada,liderazgo,14,77.78,18
+inteligencia_artificial,canada,comunicacion efectiva,11,61.11,18
+inteligencia_artificial,canada,responsabilidad social,10,55.56,18
+inteligencia_artificial,canada,aprendizaje autonomo,10,55.56,18
+inteligencia_artificial,remote,gestion,7,28.0,25
+inteligencia_artificial,remote,liderazgo,5,20.0,25
+inteligencia_artificial,remote,trabajo en equipo,5,20.0,25
+inteligencia_artificial,remote,aprendizaje autonomo,5,20.0,25
+inteligencia_artificial,remote,etica profesional,3,12.0,25
+inteligencia_artificial,remote,comunicacion efectiva,1,4.0,25
+inteligencia_artificial,china,gestion,2,100.0,2
+inteligencia_artificial,singapore,gestion,1,100.0,1
+inteligencia_artificial,united kingdom,gestion,1,100.0,1
+inteligencia_artificial,india,liderazgo,3,75.0,4
+inteligencia_artificial,india,gestion,3,75.0,4
+inteligencia_artificial,india,comunicacion efectiva,3,75.0,4
+inteligencia_artificial,india,etica profesional,3,75.0,4
+inteligencia_artificial,india,trabajo en equipo,2,50.0,4
+inteligencia_artificial,india,aprendizaje autonomo,2,50.0,4
+inteligencia_artificial,netherlands,gestion,3,100.0,3
+inteligencia_artificial,netherlands,comunicacion efectiva,1,33.33,3
+inteligencia_artificial,netherlands,liderazgo,1,33.33,3
+inteligencia_artificial,netherlands,trabajo en equipo,1,33.33,3
+inteligencia_artificial,netherlands,aprendizaje autonomo,1,33.33,3
+inteligencia_artificial,sweden,trabajo en equipo,1,100.0,1
+inteligencia_artificial,belgium,gestion,2,100.0,2
+inteligencia_artificial,belgium,comunicacion efectiva,2,100.0,2
+inteligencia_artificial,belgium,trabajo en equipo,2,100.0,2
+inteligencia_artificial,belgium,etica profesional,2,100.0,2
+inteligencia_artificial,belgium,responsabilidad social,2,100.0,2
+inteligencia_artificial,italy,comunicacion efectiva,1,100.0,1
+inteligencia_artificial,italy,trabajo en equipo,1,100.0,1
+inteligencia_artificial,switzerland,gestion,1,100.0,1
+matematica,chile,comunicacion efectiva,1,100.0,1
+matematica,ecuador,gestion,1,100.0,1
+matematica,ecuador,trabajo en equipo,1,100.0,1
+matematica,ecuador,responsabilidad social,1,100.0,1
+matematica,puerto rico,comunicacion efectiva,5,83.33,6
+matematica,puerto rico,gestion,2,33.33,6
+matematica,puerto rico,trabajo en equipo,1,16.67,6
+matematica,brazil,trabajo en equipo,1,100.0,1
+matematica,brazil,etica profesional,1,100.0,1
+matematica,united states,comunicacion efectiva,190,81.9,232
+matematica,united states,trabajo en equipo,152,65.52,232
+matematica,united states,gestion,133,57.33,232
+matematica,united states,aprendizaje autonomo,112,48.28,232
+matematica,united states,liderazgo,47,20.26,232
+matematica,united states,etica profesional,46,19.83,232
+matematica,united states,responsabilidad social,1,0.43,232
+matematica,italy,etica profesional,3,60.0,5
+matematica,italy,trabajo en equipo,2,40.0,5
+matematica,italy,liderazgo,1,20.0,5
+matematica,latin america,liderazgo,1,100.0,1
+matematica_aplicada,mexico,gestion,3,100.0,3
+matematica_aplicada,mexico,comunicacion efectiva,2,66.67,3
+matematica_aplicada,mexico,trabajo en equipo,2,66.67,3
+matematica_aplicada,mexico,etica profesional,2,66.67,3
+matematica_aplicada,mexico,liderazgo,1,33.33,3
+matematica_aplicada,mexico,aprendizaje autonomo,1,33.33,3
+matematica_aplicada,puerto rico,comunicacion efectiva,5,55.56,9
+matematica_aplicada,puerto rico,gestion,4,44.44,9
+matematica_aplicada,puerto rico,etica profesional,2,22.22,9
+matematica_aplicada,puerto rico,trabajo en equipo,1,11.11,9
+matematica_aplicada,puerto rico,liderazgo,1,11.11,9
+matematica_aplicada,puerto rico,aprendizaje autonomo,1,11.11,9
+matematica_aplicada,dominican republic,gestion,1,100.0,1
+matematica_aplicada,dominican republic,trabajo en equipo,1,100.0,1
+matematica_aplicada,dominican republic,etica profesional,1,100.0,1
+matematica_aplicada,dominican republic,responsabilidad social,1,100.0,1
+matematica_aplicada,united states,gestion,48,38.1,126
+matematica_aplicada,united states,comunicacion efectiva,42,33.33,126
+matematica_aplicada,united states,etica profesional,39,30.95,126
+matematica_aplicada,united states,liderazgo,25,19.84,126
+matematica_aplicada,united states,trabajo en equipo,13,10.32,126
+matematica_aplicada,united states,aprendizaje autonomo,7,5.56,126
+matematica_aplicada,remote,liderazgo,2,100.0,2
+matematica_aplicada,remote,gestion,1,50.0,2
+materiales,peru,gestion,5,83.33,6
+materiales,peru,etica profesional,2,33.33,6
+materiales,peru,responsabilidad social,2,33.33,6
+materiales,peru,trabajo en equipo,2,33.33,6
+materiales,peru,liderazgo,1,16.67,6
+materiales,peru,comunicacion efectiva,1,16.67,6
+materiales,colombia,gestion,1,100.0,1
+materiales,colombia,comunicacion efectiva,1,100.0,1
+materiales,colombia,aprendizaje autonomo,1,100.0,1
+materiales,spain,gestion,5,71.43,7
+materiales,spain,comunicacion efectiva,4,57.14,7
+materiales,spain,trabajo en equipo,4,57.14,7
+materiales,spain,etica profesional,3,42.86,7
+materiales,spain,aprendizaje autonomo,3,42.86,7
+materiales,spain,responsabilidad social,1,14.29,7
+materiales,chile,gestion,13,100.0,13
+materiales,chile,etica profesional,8,61.54,13
+materiales,chile,trabajo en equipo,7,53.85,13
+materiales,chile,aprendizaje autonomo,4,30.77,13
+materiales,chile,liderazgo,4,30.77,13
+materiales,chile,comunicacion efectiva,3,23.08,13
+materiales,chile,responsabilidad social,2,15.38,13
+materiales,mexico,gestion,20,100.0,20
+materiales,mexico,trabajo en equipo,12,60.0,20
+materiales,mexico,comunicacion efectiva,12,60.0,20
+materiales,mexico,liderazgo,8,40.0,20
+materiales,mexico,etica profesional,8,40.0,20
+materiales,mexico,aprendizaje autonomo,6,30.0,20
+materiales,mexico,responsabilidad social,2,10.0,20
+materiales,argentina,gestion,5,100.0,5
+materiales,argentina,trabajo en equipo,3,60.0,5
+materiales,argentina,etica profesional,3,60.0,5
+materiales,argentina,comunicacion efectiva,2,40.0,5
+materiales,argentina,liderazgo,2,40.0,5
+materiales,argentina,aprendizaje autonomo,1,20.0,5
+materiales,argentina,responsabilidad social,1,20.0,5
+materiales,puerto rico,gestion,25,46.3,54
+materiales,puerto rico,etica profesional,17,31.48,54
+materiales,puerto rico,trabajo en equipo,10,18.52,54
+materiales,puerto rico,comunicacion efectiva,9,16.67,54
+materiales,puerto rico,aprendizaje autonomo,3,5.56,54
+materiales,puerto rico,responsabilidad social,1,1.85,54
+materiales,puerto rico,liderazgo,1,1.85,54
+materiales,costa rica,gestion,1,100.0,1
+materiales,costa rica,comunicacion efectiva,1,100.0,1
+materiales,costa rica,trabajo en equipo,1,100.0,1
+materiales,costa rica,aprendizaje autonomo,1,100.0,1
+materiales,united states,trabajo en equipo,217,42.89,506
+materiales,united states,gestion,201,39.72,506
+materiales,united states,etica profesional,146,28.85,506
+materiales,united states,liderazgo,86,17.0,506
+materiales,united states,comunicacion efectiva,74,14.62,506
+materiales,united states,responsabilidad social,33,6.52,506
+materiales,united states,aprendizaje autonomo,25,4.94,506
+materiales,canada,gestion,1,50.0,2
+materiales,canada,trabajo en equipo,1,50.0,2
+materiales,remote,etica profesional,1,100.0,1
+materiales,singapore,gestion,1,100.0,1
+mecatronica,peru,gestion,1,100.0,1
+mecatronica,peru,comunicacion efectiva,1,100.0,1
+mecatronica,colombia,gestion,3,100.0,3
+mecatronica,colombia,comunicacion efectiva,2,66.67,3
+mecatronica,colombia,liderazgo,2,66.67,3
+mecatronica,colombia,aprendizaje autonomo,2,66.67,3
+mecatronica,colombia,trabajo en equipo,2,66.67,3
+mecatronica,colombia,etica profesional,1,33.33,3
+mecatronica,colombia,responsabilidad social,1,33.33,3
+mecatronica,spain,gestion,1,100.0,1
+mecatronica,chile,gestion,2,100.0,2
+mecatronica,chile,comunicacion efectiva,2,100.0,2
+mecatronica,chile,trabajo en equipo,1,50.0,2
+mecatronica,mexico,gestion,3,100.0,3
+mecatronica,mexico,comunicacion efectiva,2,66.67,3
+mecatronica,mexico,trabajo en equipo,1,33.33,3
+mecatronica,brazil,gestion,1,50.0,2
+mecatronica,brazil,etica profesional,1,50.0,2
+mecatronica,brazil,trabajo en equipo,1,50.0,2
+mecatronica,united states,gestion,282,50.81,555
+mecatronica,united states,trabajo en equipo,210,37.84,555
+mecatronica,united states,etica profesional,146,26.31,555
+mecatronica,united states,liderazgo,115,20.72,555
+mecatronica,united states,comunicacion efectiva,49,8.83,555
+mecatronica,united states,aprendizaje autonomo,27,4.86,555
+mecatronica,united states,responsabilidad social,17,3.06,555
+mecatronica,remote,liderazgo,1,100.0,1
+mecatronica,china,gestion,1,100.0,1
+mecatronica,italy,gestion,3,60.0,5
+mecatronica,italy,trabajo en equipo,3,60.0,5
+mecatronica,italy,etica profesional,2,40.0,5
+mecatronica,italy,comunicacion efectiva,2,40.0,5
+mecatronica,italy,aprendizaje autonomo,2,40.0,5
+mecanica,peru,trabajo en equipo,1,50.0,2
+mecanica,peru,gestion,1,50.0,2
+mecanica,colombia,comunicacion efectiva,3,75.0,4
+mecanica,colombia,trabajo en equipo,3,75.0,4
+mecanica,colombia,etica profesional,2,50.0,4
+mecanica,colombia,gestion,1,25.0,4
+mecanica,spain,gestion,18,78.26,23
+mecanica,spain,trabajo en equipo,17,73.91,23
+mecanica,spain,etica profesional,13,56.52,23
+mecanica,spain,aprendizaje autonomo,12,52.17,23
+mecanica,spain,comunicacion efectiva,8,34.78,23
+mecanica,spain,liderazgo,8,34.78,23
+mecanica,spain,responsabilidad social,4,17.39,23
+mecanica,chile,etica profesional,1,100.0,1
+mecanica,mexico,trabajo en equipo,4,80.0,5
+mecanica,mexico,gestion,3,60.0,5
+mecanica,mexico,comunicacion efectiva,3,60.0,5
+mecanica,mexico,liderazgo,2,40.0,5
+mecanica,mexico,responsabilidad social,2,40.0,5
+mecanica,mexico,etica profesional,1,20.0,5
+mecanica,argentina,etica profesional,2,100.0,2
+mecanica,argentina,gestion,1,50.0,2
+mecanica,argentina,trabajo en equipo,1,50.0,2
+mecanica,argentina,aprendizaje autonomo,1,50.0,2
+mecanica,honduras,etica profesional,1,100.0,1
+mecanica,puerto rico,gestion,4,57.14,7
+mecanica,puerto rico,comunicacion efectiva,2,28.57,7
+mecanica,puerto rico,etica profesional,1,14.29,7
+mecanica,puerto rico,trabajo en equipo,1,14.29,7
+mecanica,brazil,gestion,31,75.61,41
+mecanica,brazil,etica profesional,16,39.02,41
+mecanica,brazil,trabajo en equipo,15,36.59,41
+mecanica,brazil,responsabilidad social,14,34.15,41
+mecanica,brazil,comunicacion efectiva,13,31.71,41
+mecanica,brazil,aprendizaje autonomo,11,26.83,41
+mecanica,brazil,liderazgo,3,7.32,41
+mecanica,united states,trabajo en equipo,168,50.45,333
+mecanica,united states,gestion,129,38.74,333
+mecanica,united states,etica profesional,92,27.63,333
+mecanica,united states,comunicacion efectiva,70,21.02,333
+mecanica,united states,liderazgo,59,17.72,333
+mecanica,united states,aprendizaje autonomo,42,12.61,333
+mecanica,united states,responsabilidad social,21,6.31,333
+mecanica,china,gestion,1,100.0,1
+petroleos,mexico,gestion,1,100.0,1
+petroleos,argentina,gestion,1,50.0,2
+petroleos,argentina,trabajo en equipo,1,50.0,2
+petroleos,argentina,etica profesional,1,50.0,2
+petroleos,argentina,comunicacion efectiva,1,50.0,2
+petroleos,puerto rico,comunicacion efectiva,5,50.0,10
+petroleos,puerto rico,etica profesional,4,40.0,10
+petroleos,puerto rico,gestion,2,20.0,10
+petroleos,puerto rico,aprendizaje autonomo,2,20.0,10
+petroleos,puerto rico,trabajo en equipo,1,10.0,10
+petroleos,puerto rico,liderazgo,1,10.0,10
+petroleos,united states,gestion,96,36.64,262
+petroleos,united states,trabajo en equipo,65,24.81,262
+petroleos,united states,etica profesional,53,20.23,262
+petroleos,united states,liderazgo,44,16.79,262
+petroleos,united states,comunicacion efectiva,29,11.07,262
+petroleos,united states,responsabilidad social,15,5.73,262
+petroleos,united states,aprendizaje autonomo,11,4.2,262
+petroleos,remote,gestion,5,83.33,6
+petroleos,remote,etica profesional,2,33.33,6
+petroleos,china,gestion,1,100.0,1
+petroleos,romania,comunicacion efectiva,1,100.0,1
+sistemas_de_informacion,peru,gestion,1,100.0,1
+sistemas_de_informacion,peru,comunicacion efectiva,1,100.0,1
+sistemas_de_informacion,peru,trabajo en equipo,1,100.0,1
+sistemas_de_informacion,peru,etica profesional,1,100.0,1
+sistemas_de_informacion,colombia,comunicacion efectiva,3,75.0,4
+sistemas_de_informacion,colombia,trabajo en equipo,3,75.0,4
+sistemas_de_informacion,colombia,gestion,3,75.0,4
+sistemas_de_informacion,colombia,aprendizaje autonomo,1,25.0,4
+sistemas_de_informacion,spain,gestion,34,100.0,34
+sistemas_de_informacion,spain,trabajo en equipo,30,88.24,34
+sistemas_de_informacion,spain,comunicacion efectiva,25,73.53,34
+sistemas_de_informacion,spain,liderazgo,21,61.76,34
+sistemas_de_informacion,spain,aprendizaje autonomo,16,47.06,34
+sistemas_de_informacion,spain,responsabilidad social,13,38.24,34
+sistemas_de_informacion,spain,etica profesional,11,32.35,34
+sistemas_de_informacion,chile,gestion,4,80.0,5
+sistemas_de_informacion,chile,etica profesional,4,80.0,5
+sistemas_de_informacion,chile,comunicacion efectiva,3,60.0,5
+sistemas_de_informacion,chile,trabajo en equipo,2,40.0,5
+sistemas_de_informacion,chile,aprendizaje autonomo,2,40.0,5
+sistemas_de_informacion,chile,liderazgo,1,20.0,5
+sistemas_de_informacion,mexico,gestion,13,86.67,15
+sistemas_de_informacion,mexico,liderazgo,12,80.0,15
+sistemas_de_informacion,mexico,comunicacion efectiva,10,66.67,15
+sistemas_de_informacion,mexico,trabajo en equipo,6,40.0,15
+sistemas_de_informacion,mexico,etica profesional,5,33.33,15
+sistemas_de_informacion,mexico,aprendizaje autonomo,4,26.67,15
+sistemas_de_informacion,argentina,gestion,8,100.0,8
+sistemas_de_informacion,argentina,comunicacion efectiva,7,87.5,8
+sistemas_de_informacion,argentina,trabajo en equipo,7,87.5,8
+sistemas_de_informacion,argentina,responsabilidad social,6,75.0,8
+sistemas_de_informacion,argentina,aprendizaje autonomo,3,37.5,8
+sistemas_de_informacion,argentina,etica profesional,1,12.5,8
+sistemas_de_informacion,puerto rico,gestion,23,42.59,54
+sistemas_de_informacion,puerto rico,etica profesional,18,33.33,54
+sistemas_de_informacion,puerto rico,liderazgo,8,14.81,54
+sistemas_de_informacion,puerto rico,comunicacion efectiva,6,11.11,54
+sistemas_de_informacion,puerto rico,trabajo en equipo,5,9.26,54
+sistemas_de_informacion,puerto rico,responsabilidad social,3,5.56,54
+sistemas_de_informacion,puerto rico,aprendizaje autonomo,1,1.85,54
+sistemas_de_informacion,brazil,gestion,50,75.76,66
+sistemas_de_informacion,brazil,comunicacion efectiva,40,60.61,66
+sistemas_de_informacion,brazil,etica profesional,38,57.58,66
+sistemas_de_informacion,brazil,trabajo en equipo,32,48.48,66
+sistemas_de_informacion,brazil,aprendizaje autonomo,25,37.88,66
+sistemas_de_informacion,brazil,liderazgo,11,16.67,66
+sistemas_de_informacion,brazil,responsabilidad social,8,12.12,66
+sistemas_de_informacion,guatemala,gestion,1,100.0,1
+sistemas_de_informacion,guatemala,comunicacion efectiva,1,100.0,1
+sistemas_de_informacion,guatemala,trabajo en equipo,1,100.0,1
+sistemas_de_informacion,guatemala,etica profesional,1,100.0,1
+sistemas_de_informacion,costa rica,etica profesional,1,100.0,1
+sistemas_de_informacion,france,gestion,100,97.09,103
+sistemas_de_informacion,france,trabajo en equipo,85,82.52,103
+sistemas_de_informacion,france,comunicacion efectiva,52,50.49,103
+sistemas_de_informacion,france,responsabilidad social,51,49.51,103
+sistemas_de_informacion,france,liderazgo,29,28.16,103
+sistemas_de_informacion,france,etica profesional,25,24.27,103
+sistemas_de_informacion,france,aprendizaje autonomo,19,18.45,103
+sistemas_de_informacion,dominican republic,gestion,4,100.0,4
+sistemas_de_informacion,dominican republic,trabajo en equipo,2,50.0,4
+sistemas_de_informacion,dominican republic,aprendizaje autonomo,2,50.0,4
+sistemas_de_informacion,dominican republic,comunicacion efectiva,2,50.0,4
+sistemas_de_informacion,dominican republic,liderazgo,1,25.0,4
+sistemas_de_informacion,dominican republic,etica profesional,1,25.0,4
+sistemas_de_informacion,united states,gestion,1156,65.57,1763
+sistemas_de_informacion,united states,trabajo en equipo,713,40.44,1763
+sistemas_de_informacion,united states,etica profesional,478,27.11,1763
+sistemas_de_informacion,united states,comunicacion efectiva,453,25.69,1763
+sistemas_de_informacion,united states,liderazgo,432,24.5,1763
+sistemas_de_informacion,united states,aprendizaje autonomo,186,10.55,1763
+sistemas_de_informacion,united states,responsabilidad social,151,8.56,1763
+sistemas_de_informacion,canada,gestion,36,94.74,38
+sistemas_de_informacion,canada,trabajo en equipo,27,71.05,38
+sistemas_de_informacion,canada,comunicacion efectiva,24,63.16,38
+sistemas_de_informacion,canada,etica profesional,17,44.74,38
+sistemas_de_informacion,canada,liderazgo,13,34.21,38
+sistemas_de_informacion,canada,aprendizaje autonomo,11,28.95,38
+sistemas_de_informacion,canada,responsabilidad social,10,26.32,38
+sistemas_de_informacion,remote,gestion,10,50.0,20
+sistemas_de_informacion,remote,etica profesional,4,20.0,20
+sistemas_de_informacion,remote,trabajo en equipo,4,20.0,20
+sistemas_de_informacion,remote,comunicacion efectiva,2,10.0,20
+sistemas_de_informacion,remote,liderazgo,1,5.0,20
+sistemas_de_informacion,remote,responsabilidad social,1,5.0,20
+sistemas_de_informacion,remote,aprendizaje autonomo,1,5.0,20
+sistemas_de_informacion,china,gestion,4,100.0,4
+sistemas_de_informacion,china,trabajo en equipo,3,75.0,4
+sistemas_de_informacion,china,liderazgo,2,50.0,4
+sistemas_de_informacion,china,comunicacion efectiva,2,50.0,4
+sistemas_de_informacion,singapore,gestion,10,100.0,10
+sistemas_de_informacion,singapore,comunicacion efectiva,9,90.0,10
+sistemas_de_informacion,singapore,trabajo en equipo,5,50.0,10
+sistemas_de_informacion,singapore,aprendizaje autonomo,3,30.0,10
+sistemas_de_informacion,singapore,liderazgo,3,30.0,10
+sistemas_de_informacion,singapore,etica profesional,2,20.0,10
+sistemas_de_informacion,uruguay,comunicacion efectiva,1,100.0,1
+sistemas_de_informacion,united kingdom,gestion,46,95.83,48
+sistemas_de_informacion,united kingdom,trabajo en equipo,39,81.25,48
+sistemas_de_informacion,united kingdom,comunicacion efectiva,35,72.92,48
+sistemas_de_informacion,united kingdom,liderazgo,27,56.25,48
+sistemas_de_informacion,united kingdom,etica profesional,26,54.17,48
+sistemas_de_informacion,united kingdom,responsabilidad social,17,35.42,48
+sistemas_de_informacion,united kingdom,aprendizaje autonomo,12,25.0,48
+sistemas_de_informacion,india,gestion,112,94.92,118
+sistemas_de_informacion,india,comunicacion efectiva,93,78.81,118
+sistemas_de_informacion,india,trabajo en equipo,88,74.58,118
+sistemas_de_informacion,india,liderazgo,56,47.46,118
+sistemas_de_informacion,india,etica profesional,51,43.22,118
+sistemas_de_informacion,india,aprendizaje autonomo,27,22.88,118
+sistemas_de_informacion,india,responsabilidad social,12,10.17,118
+sistemas_de_informacion,finland,gestion,6,100.0,6
+sistemas_de_informacion,finland,trabajo en equipo,6,100.0,6
+sistemas_de_informacion,finland,comunicacion efectiva,1,16.67,6
+sistemas_de_informacion,finland,liderazgo,1,16.67,6
+sistemas_de_informacion,finland,etica profesional,1,16.67,6
+sistemas_de_informacion,finland,responsabilidad social,1,16.67,6
+sistemas_de_informacion,finland,aprendizaje autonomo,1,16.67,6
+sistemas_de_informacion,netherlands,gestion,33,100.0,33
+sistemas_de_informacion,netherlands,trabajo en equipo,21,63.64,33
+sistemas_de_informacion,netherlands,liderazgo,17,51.52,33
+sistemas_de_informacion,netherlands,comunicacion efectiva,15,45.45,33
+sistemas_de_informacion,netherlands,etica profesional,9,27.27,33
+sistemas_de_informacion,netherlands,responsabilidad social,7,21.21,33
+sistemas_de_informacion,netherlands,aprendizaje autonomo,5,15.15,33
+sistemas_de_informacion,greece,gestion,4,80.0,5
+sistemas_de_informacion,greece,comunicacion efectiva,2,40.0,5
+sistemas_de_informacion,greece,trabajo en equipo,2,40.0,5
+sistemas_de_informacion,greece,liderazgo,2,40.0,5
+sistemas_de_informacion,greece,aprendizaje autonomo,1,20.0,5
+sistemas_de_informacion,greece,etica profesional,1,20.0,5
+sistemas_de_informacion,germany,trabajo en equipo,181,88.73,204
+sistemas_de_informacion,germany,gestion,175,85.78,204
+sistemas_de_informacion,germany,comunicacion efectiva,134,65.69,204
+sistemas_de_informacion,germany,etica profesional,108,52.94,204
+sistemas_de_informacion,germany,liderazgo,45,22.06,204
+sistemas_de_informacion,germany,responsabilidad social,35,17.16,204
+sistemas_de_informacion,germany,aprendizaje autonomo,31,15.2,204
+sistemas_de_informacion,turkey,gestion,20,95.24,21
+sistemas_de_informacion,turkey,comunicacion efectiva,19,90.48,21
+sistemas_de_informacion,turkey,trabajo en equipo,14,66.67,21
+sistemas_de_informacion,turkey,liderazgo,9,42.86,21
+sistemas_de_informacion,turkey,etica profesional,9,42.86,21
+sistemas_de_informacion,turkey,aprendizaje autonomo,7,33.33,21
+sistemas_de_informacion,turkey,responsabilidad social,7,33.33,21
+sistemas_de_informacion,hungary,gestion,6,100.0,6
+sistemas_de_informacion,hungary,trabajo en equipo,6,100.0,6
+sistemas_de_informacion,hungary,comunicacion efectiva,5,83.33,6
+sistemas_de_informacion,hungary,etica profesional,5,83.33,6
+sistemas_de_informacion,hungary,responsabilidad social,4,66.67,6
+sistemas_de_informacion,hungary,liderazgo,3,50.0,6
+sistemas_de_informacion,hungary,aprendizaje autonomo,3,50.0,6
+sistemas_de_informacion,sweden,gestion,3,100.0,3
+sistemas_de_informacion,sweden,comunicacion efectiva,2,66.67,3
+sistemas_de_informacion,sweden,liderazgo,2,66.67,3
+sistemas_de_informacion,sweden,trabajo en equipo,2,66.67,3
+sistemas_de_informacion,sweden,etica profesional,1,33.33,3
+sistemas_de_informacion,belgium,gestion,14,93.33,15
+sistemas_de_informacion,belgium,trabajo en equipo,13,86.67,15
+sistemas_de_informacion,belgium,comunicacion efectiva,10,66.67,15
+sistemas_de_informacion,belgium,liderazgo,8,53.33,15
+sistemas_de_informacion,belgium,etica profesional,6,40.0,15
+sistemas_de_informacion,belgium,responsabilidad social,4,26.67,15
+sistemas_de_informacion,belgium,aprendizaje autonomo,4,26.67,15
+sistemas_de_informacion,romania,gestion,5,100.0,5
+sistemas_de_informacion,romania,trabajo en equipo,5,100.0,5
+sistemas_de_informacion,romania,comunicacion efectiva,3,60.0,5
+sistemas_de_informacion,romania,etica profesional,3,60.0,5
+sistemas_de_informacion,romania,aprendizaje autonomo,3,60.0,5
+sistemas_de_informacion,romania,liderazgo,1,20.0,5
+sistemas_de_informacion,romania,responsabilidad social,1,20.0,5
+sistemas_de_informacion,italy,gestion,24,88.89,27
+sistemas_de_informacion,italy,trabajo en equipo,22,81.48,27
+sistemas_de_informacion,italy,comunicacion efectiva,14,51.85,27
+sistemas_de_informacion,italy,etica profesional,10,37.04,27
+sistemas_de_informacion,italy,aprendizaje autonomo,8,29.63,27
+sistemas_de_informacion,italy,responsabilidad social,5,18.52,27
+sistemas_de_informacion,italy,liderazgo,3,11.11,27
+sistemas_de_informacion,poland,trabajo en equipo,39,92.86,42
+sistemas_de_informacion,poland,gestion,32,76.19,42
+sistemas_de_informacion,poland,comunicacion efectiva,26,61.9,42
+sistemas_de_informacion,poland,etica profesional,20,47.62,42
+sistemas_de_informacion,poland,liderazgo,11,26.19,42
+sistemas_de_informacion,poland,aprendizaje autonomo,8,19.05,42
+sistemas_de_informacion,poland,responsabilidad social,3,7.14,42
+sistemas_de_informacion,australia,gestion,21,95.45,22
+sistemas_de_informacion,australia,trabajo en equipo,20,90.91,22
+sistemas_de_informacion,australia,liderazgo,17,77.27,22
+sistemas_de_informacion,australia,comunicacion efectiva,15,68.18,22
+sistemas_de_informacion,australia,etica profesional,9,40.91,22
+sistemas_de_informacion,australia,aprendizaje autonomo,7,31.82,22
+sistemas_de_informacion,australia,responsabilidad social,3,13.64,22
+sistemas_de_informacion,ukraine,gestion,3,100.0,3
+sistemas_de_informacion,ukraine,comunicacion efectiva,2,66.67,3
+sistemas_de_informacion,ukraine,trabajo en equipo,2,66.67,3
+sistemas_de_informacion,ukraine,liderazgo,1,33.33,3
+sistemas_de_informacion,israel,comunicacion efectiva,3,75.0,4
+sistemas_de_informacion,israel,gestion,3,75.0,4
+sistemas_de_informacion,israel,liderazgo,3,75.0,4
+sistemas_de_informacion,israel,trabajo en equipo,2,50.0,4
+sistemas_de_informacion,switzerland,trabajo en equipo,27,87.1,31
+sistemas_de_informacion,switzerland,etica profesional,23,74.19,31
+sistemas_de_informacion,switzerland,gestion,21,67.74,31
+sistemas_de_informacion,switzerland,comunicacion efectiva,10,32.26,31
+sistemas_de_informacion,switzerland,aprendizaje autonomo,9,29.03,31
+sistemas_de_informacion,switzerland,liderazgo,2,6.45,31
+sistemas_de_informacion,latin america,liderazgo,1,100.0,1
+sistemas_de_informacion,norway,gestion,3,100.0,3
+sistemas_de_informacion,norway,trabajo en equipo,3,100.0,3
+sistemas_de_informacion,norway,aprendizaje autonomo,3,100.0,3
+sistemas_de_informacion,norway,comunicacion efectiva,2,66.67,3
+sistemas_de_informacion,norway,etica profesional,2,66.67,3
+sistemas_de_informacion,norway,responsabilidad social,2,66.67,3
+sistemas_de_informacion,norway,liderazgo,1,33.33,3
+sistemas_de_informacion,south africa,gestion,7,77.78,9
+sistemas_de_informacion,south africa,etica profesional,5,55.56,9
+sistemas_de_informacion,south africa,liderazgo,4,44.44,9
+sistemas_de_informacion,south africa,comunicacion efectiva,3,33.33,9
+sistemas_de_informacion,south africa,trabajo en equipo,3,33.33,9
+sistemas_de_informacion,south africa,aprendizaje autonomo,2,22.22,9
+sistemas_de_informacion,south africa,responsabilidad social,1,11.11,9
+sistemas_de_informacion,austria,trabajo en equipo,18,94.74,19
+sistemas_de_informacion,austria,gestion,16,84.21,19
+sistemas_de_informacion,austria,etica profesional,13,68.42,19
+sistemas_de_informacion,austria,comunicacion efectiva,11,57.89,19
+sistemas_de_informacion,austria,liderazgo,6,31.58,19
+sistemas_de_informacion,austria,responsabilidad social,4,21.05,19
+sistemas_de_informacion,austria,aprendizaje autonomo,2,10.53,19
+sistemas_de_informacion,czech republic,gestion,9,100.0,9
+sistemas_de_informacion,czech republic,comunicacion efectiva,8,88.89,9
+sistemas_de_informacion,czech republic,trabajo en equipo,8,88.89,9
+sistemas_de_informacion,czech republic,liderazgo,5,55.56,9
+sistemas_de_informacion,czech republic,etica profesional,5,55.56,9
+sistemas_de_informacion,czech republic,aprendizaje autonomo,4,44.44,9
+sistemas_de_informacion,czech republic,responsabilidad social,2,22.22,9
+sistemas_de_informacion,denmark,gestion,13,100.0,13
+sistemas_de_informacion,denmark,trabajo en equipo,13,100.0,13
+sistemas_de_informacion,denmark,comunicacion efectiva,11,84.62,13
+sistemas_de_informacion,denmark,etica profesional,9,69.23,13
+sistemas_de_informacion,denmark,liderazgo,6,46.15,13
+sistemas_de_informacion,denmark,aprendizaje autonomo,3,23.08,13
+sistemas_de_informacion,denmark,responsabilidad social,3,23.08,13
+sistemas_de_informacion,japan,trabajo en equipo,6,85.71,7
+sistemas_de_informacion,japan,gestion,5,71.43,7
+sistemas_de_informacion,japan,comunicacion efectiva,4,57.14,7
+sistemas_de_informacion,japan,liderazgo,1,14.29,7
+sistemas_de_informacion,japan,responsabilidad social,1,14.29,7
+sistemas_de_informacion,japan,aprendizaje autonomo,1,14.29,7
+sistemas_de_informacion,slovakia,gestion,1,100.0,1
+sistemas_de_informacion,slovakia,comunicacion efectiva,1,100.0,1
+sistemas_de_informacion,slovakia,liderazgo,1,100.0,1
+sistemas_de_informacion,slovakia,trabajo en equipo,1,100.0,1
+sistemas_de_informacion,slovakia,etica profesional,1,100.0,1
+sistemas_de_informacion,south korea,gestion,1,100.0,1
+sistemas_de_informacion,south korea,comunicacion efectiva,1,100.0,1
+sistemas_de_informacion,south korea,trabajo en equipo,1,100.0,1
+sistemas_de_informacion,south korea,etica profesional,1,100.0,1
+software,colombia,trabajo en equipo,48,96.0,50
+software,colombia,gestion,45,90.0,50
+software,colombia,comunicacion efectiva,43,86.0,50
+software,colombia,etica profesional,37,74.0,50
+software,colombia,responsabilidad social,35,70.0,50
+software,colombia,liderazgo,8,16.0,50
+software,colombia,aprendizaje autonomo,5,10.0,50
+software,spain,trabajo en equipo,46,90.2,51
+software,spain,gestion,34,66.67,51
+software,spain,comunicacion efectiva,34,66.67,51
+software,spain,liderazgo,31,60.78,51
+software,spain,etica profesional,29,56.86,51
+software,spain,aprendizaje autonomo,24,47.06,51
+software,spain,responsabilidad social,18,35.29,51
+software,chile,trabajo en equipo,21,100.0,21
+software,chile,etica profesional,18,85.71,21
+software,chile,responsabilidad social,18,85.71,21
+software,chile,gestion,18,85.71,21
+software,chile,comunicacion efectiva,17,80.95,21
+software,chile,liderazgo,1,4.76,21
+software,chile,aprendizaje autonomo,1,4.76,21
+software,mexico,trabajo en equipo,70,94.59,74
+software,mexico,liderazgo,42,56.76,74
+software,mexico,etica profesional,40,54.05,74
+software,mexico,gestion,37,50.0,74
+software,mexico,comunicacion efectiva,34,45.95,74
+software,mexico,aprendizaje autonomo,31,41.89,74
+software,mexico,responsabilidad social,16,21.62,74
+software,venezuela,gestion,1,100.0,1
+software,venezuela,comunicacion efectiva,1,100.0,1
+software,venezuela,liderazgo,1,100.0,1
+software,venezuela,trabajo en equipo,1,100.0,1
+software,venezuela,etica profesional,1,100.0,1
+software,venezuela,responsabilidad social,1,100.0,1
+software,venezuela,aprendizaje autonomo,1,100.0,1
+software,argentina,gestion,5,71.43,7
+software,argentina,trabajo en equipo,4,57.14,7
+software,argentina,liderazgo,3,42.86,7
+software,argentina,etica profesional,3,42.86,7
+software,argentina,comunicacion efectiva,2,28.57,7
+software,argentina,aprendizaje autonomo,1,14.29,7
+software,brazil,trabajo en equipo,43,74.14,58
+software,brazil,gestion,36,62.07,58
+software,brazil,comunicacion efectiva,35,60.34,58
+software,brazil,etica profesional,33,56.9,58
+software,brazil,liderazgo,22,37.93,58
+software,brazil,aprendizaje autonomo,20,34.48,58
+software,brazil,responsabilidad social,14,24.14,58
+software,costa rica,gestion,5,100.0,5
+software,costa rica,comunicacion efectiva,5,100.0,5
+software,costa rica,liderazgo,5,100.0,5
+software,costa rica,trabajo en equipo,5,100.0,5
+software,costa rica,etica profesional,5,100.0,5
+software,costa rica,aprendizaje autonomo,5,100.0,5
+software,costa rica,responsabilidad social,4,80.0,5
+software,france,trabajo en equipo,27,87.1,31
+software,france,etica profesional,23,74.19,31
+software,france,gestion,18,58.06,31
+software,france,aprendizaje autonomo,17,54.84,31
+software,france,liderazgo,17,54.84,31
+software,france,responsabilidad social,17,54.84,31
+software,france,comunicacion efectiva,10,32.26,31
+software,united states,gestion,1665,72.64,2292
+software,united states,trabajo en equipo,1549,67.58,2292
+software,united states,comunicacion efectiva,854,37.26,2292
+software,united states,liderazgo,841,36.69,2292
+software,united states,etica profesional,758,33.07,2292
+software,united states,responsabilidad social,489,21.34,2292
+software,united states,aprendizaje autonomo,477,20.81,2292
+software,canada,trabajo en equipo,101,90.99,111
+software,canada,gestion,90,81.08,111
+software,canada,liderazgo,76,68.47,111
+software,canada,comunicacion efectiva,69,62.16,111
+software,canada,responsabilidad social,65,58.56,111
+software,canada,etica profesional,49,44.14,111
+software,canada,aprendizaje autonomo,46,41.44,111
+software,remote,gestion,13,43.33,30
+software,remote,trabajo en equipo,7,23.33,30
+software,remote,comunicacion efectiva,6,20.0,30
+software,remote,etica profesional,4,13.33,30
+software,remote,liderazgo,3,10.0,30
+software,china,trabajo en equipo,12,70.59,17
+software,china,gestion,11,64.71,17
+software,china,comunicacion efectiva,9,52.94,17
+software,china,liderazgo,9,52.94,17
+software,china,etica profesional,4,23.53,17
+software,china,responsabilidad social,3,17.65,17
+software,china,aprendizaje autonomo,3,17.65,17
+software,singapore,trabajo en equipo,17,80.95,21
+software,singapore,gestion,13,61.9,21
+software,singapore,comunicacion efectiva,12,57.14,21
+software,singapore,liderazgo,10,47.62,21
+software,singapore,etica profesional,9,42.86,21
+software,singapore,aprendizaje autonomo,6,28.57,21
+software,singapore,responsabilidad social,5,23.81,21
+software,panama,gestion,1,100.0,1
+software,panama,comunicacion efectiva,1,100.0,1
+software,panama,trabajo en equipo,1,100.0,1
+software,panama,etica profesional,1,100.0,1
+software,uruguay,gestion,1,100.0,1
+software,uruguay,comunicacion efectiva,1,100.0,1
+software,uruguay,liderazgo,1,100.0,1
+software,uruguay,trabajo en equipo,1,100.0,1
+software,uruguay,etica profesional,1,100.0,1
+software,uruguay,responsabilidad social,1,100.0,1
+software,uruguay,aprendizaje autonomo,1,100.0,1
+software,united kingdom,trabajo en equipo,139,80.81,172
+software,united kingdom,gestion,119,69.19,172
+software,united kingdom,comunicacion efectiva,89,51.74,172
+software,united kingdom,aprendizaje autonomo,67,38.95,172
+software,united kingdom,liderazgo,66,38.37,172
+software,united kingdom,etica profesional,64,37.21,172
+software,united kingdom,responsabilidad social,51,29.65,172
+software,india,trabajo en equipo,237,81.72,290
+software,india,gestion,200,68.97,290
+software,india,comunicacion efectiva,170,58.62,290
+software,india,etica profesional,146,50.34,290
+software,india,liderazgo,113,38.97,290
+software,india,responsabilidad social,92,31.72,290
+software,india,aprendizaje autonomo,69,23.79,290
+software,finland,gestion,3,100.0,3
+software,finland,trabajo en equipo,3,100.0,3
+software,finland,aprendizaje autonomo,3,100.0,3
+software,finland,etica profesional,1,33.33,3
+software,finland,responsabilidad social,1,33.33,3
+software,finland,liderazgo,1,33.33,3
+software,netherlands,trabajo en equipo,42,93.33,45
+software,netherlands,gestion,33,73.33,45
+software,netherlands,comunicacion efectiva,24,53.33,45
+software,netherlands,etica profesional,21,46.67,45
+software,netherlands,liderazgo,21,46.67,45
+software,netherlands,responsabilidad social,10,22.22,45
+software,netherlands,aprendizaje autonomo,9,20.0,45
+software,greece,gestion,5,83.33,6
+software,greece,comunicacion efectiva,4,66.67,6
+software,greece,trabajo en equipo,4,66.67,6
+software,greece,responsabilidad social,4,66.67,6
+software,greece,aprendizaje autonomo,3,50.0,6
+software,greece,liderazgo,3,50.0,6
+software,greece,etica profesional,2,33.33,6
+software,germany,trabajo en equipo,107,89.92,119
+software,germany,gestion,88,73.95,119
+software,germany,comunicacion efectiva,61,51.26,119
+software,germany,etica profesional,57,47.9,119
+software,germany,liderazgo,46,38.66,119
+software,germany,responsabilidad social,42,35.29,119
+software,germany,aprendizaje autonomo,31,26.05,119
+software,turkey,gestion,6,85.71,7
+software,turkey,trabajo en equipo,5,71.43,7
+software,turkey,comunicacion efectiva,4,57.14,7
+software,turkey,etica profesional,4,57.14,7
+software,turkey,responsabilidad social,4,57.14,7
+software,turkey,liderazgo,2,28.57,7
+software,turkey,aprendizaje autonomo,2,28.57,7
+software,hungary,trabajo en equipo,4,100.0,4
+software,hungary,gestion,3,75.0,4
+software,hungary,comunicacion efectiva,3,75.0,4
+software,hungary,liderazgo,3,75.0,4
+software,hungary,etica profesional,2,50.0,4
+software,hungary,aprendizaje autonomo,2,50.0,4
+software,hungary,responsabilidad social,1,25.0,4
+software,sweden,trabajo en equipo,13,100.0,13
+software,sweden,gestion,10,76.92,13
+software,sweden,liderazgo,9,69.23,13
+software,sweden,aprendizaje autonomo,8,61.54,13
+software,sweden,comunicacion efectiva,6,46.15,13
+software,sweden,etica profesional,5,38.46,13
+software,sweden,responsabilidad social,5,38.46,13
+software,belgium,trabajo en equipo,13,92.86,14
+software,belgium,gestion,11,78.57,14
+software,belgium,etica profesional,10,71.43,14
+software,belgium,comunicacion efectiva,7,50.0,14
+software,belgium,responsabilidad social,6,42.86,14
+software,belgium,aprendizaje autonomo,6,42.86,14
+software,belgium,liderazgo,6,42.86,14
+software,romania,trabajo en equipo,25,92.59,27
+software,romania,gestion,19,70.37,27
+software,romania,liderazgo,17,62.96,27
+software,romania,comunicacion efectiva,16,59.26,27
+software,romania,aprendizaje autonomo,13,48.15,27
+software,romania,etica profesional,12,44.44,27
+software,romania,responsabilidad social,10,37.04,27
+software,italy,trabajo en equipo,33,91.67,36
+software,italy,gestion,21,58.33,36
+software,italy,etica profesional,18,50.0,36
+software,italy,comunicacion efectiva,17,47.22,36
+software,italy,responsabilidad social,15,41.67,36
+software,italy,aprendizaje autonomo,15,41.67,36
+software,italy,liderazgo,14,38.89,36
+software,poland,trabajo en equipo,43,89.58,48
+software,poland,gestion,32,66.67,48
+software,poland,comunicacion efectiva,28,58.33,48
+software,poland,liderazgo,24,50.0,48
+software,poland,aprendizaje autonomo,24,50.0,48
+software,poland,etica profesional,22,45.83,48
+software,poland,responsabilidad social,16,33.33,48
+software,australia,trabajo en equipo,29,80.56,36
+software,australia,gestion,23,63.89,36
+software,australia,comunicacion efectiva,17,47.22,36
+software,australia,responsabilidad social,17,47.22,36
+software,australia,etica profesional,16,44.44,36
+software,australia,liderazgo,15,41.67,36
+software,australia,aprendizaje autonomo,14,38.89,36
+software,ukraine,gestion,3,100.0,3
+software,ukraine,trabajo en equipo,3,100.0,3
+software,ukraine,aprendizaje autonomo,2,66.67,3
+software,ukraine,comunicacion efectiva,2,66.67,3
+software,israel,trabajo en equipo,11,91.67,12
+software,israel,gestion,7,58.33,12
+software,israel,comunicacion efectiva,6,50.0,12
+software,israel,responsabilidad social,6,50.0,12
+software,israel,liderazgo,6,50.0,12
+software,israel,aprendizaje autonomo,6,50.0,12
+software,israel,etica profesional,5,41.67,12
+software,switzerland,trabajo en equipo,25,78.12,32
+software,switzerland,comunicacion efectiva,19,59.38,32
+software,switzerland,etica profesional,15,46.88,32
+software,switzerland,gestion,14,43.75,32
+software,switzerland,responsabilidad social,9,28.12,32
+software,switzerland,liderazgo,8,25.0,32
+software,switzerland,aprendizaje autonomo,3,9.38,32
+software,norway,liderazgo,1,100.0,1
+software,norway,trabajo en equipo,1,100.0,1
+software,norway,responsabilidad social,1,100.0,1
+software,south africa,gestion,6,85.71,7
+software,south africa,trabajo en equipo,4,57.14,7
+software,south africa,comunicacion efectiva,3,42.86,7
+software,south africa,aprendizaje autonomo,3,42.86,7
+software,south africa,liderazgo,3,42.86,7
+software,south africa,responsabilidad social,2,28.57,7
+software,south africa,etica profesional,2,28.57,7
+software,austria,trabajo en equipo,16,94.12,17
+software,austria,gestion,13,76.47,17
+software,austria,comunicacion efectiva,11,64.71,17
+software,austria,etica profesional,7,41.18,17
+software,austria,responsabilidad social,7,41.18,17
+software,austria,aprendizaje autonomo,6,35.29,17
+software,austria,liderazgo,1,5.88,17
+software,czech republic,trabajo en equipo,13,86.67,15
+software,czech republic,gestion,11,73.33,15
+software,czech republic,comunicacion efectiva,11,73.33,15
+software,czech republic,liderazgo,9,60.0,15
+software,czech republic,etica profesional,8,53.33,15
+software,czech republic,responsabilidad social,8,53.33,15
+software,czech republic,aprendizaje autonomo,4,26.67,15
+software,denmark,gestion,4,80.0,5
+software,denmark,comunicacion efectiva,4,80.0,5
+software,denmark,etica profesional,4,80.0,5
+software,denmark,aprendizaje autonomo,4,80.0,5
+software,denmark,trabajo en equipo,4,80.0,5
+software,denmark,liderazgo,3,60.0,5
+software,denmark,responsabilidad social,3,60.0,5
+software,japan,trabajo en equipo,7,100.0,7
+software,japan,liderazgo,4,57.14,7
+software,japan,gestion,3,42.86,7
+software,japan,comunicacion efectiva,2,28.57,7
+software,slovakia,comunicacion efectiva,4,100.0,4
+software,slovakia,gestion,3,75.0,4
+software,slovakia,etica profesional,3,75.0,4
+software,slovakia,trabajo en equipo,2,50.0,4
+software,slovakia,liderazgo,1,25.0,4
+software,slovakia,aprendizaje autonomo,1,25.0,4
+software,new zealand,gestion,3,100.0,3
+software,new zealand,liderazgo,3,100.0,3
+software,new zealand,trabajo en equipo,3,100.0,3
+software,new zealand,comunicacion efectiva,2,66.67,3
+software,new zealand,etica profesional,2,66.67,3
+software,new zealand,responsabilidad social,2,66.67,3
+software,new zealand,aprendizaje autonomo,1,33.33,3
+software,russia,gestion,1,100.0,1
+software,russia,comunicacion efectiva,1,100.0,1
+software,russia,liderazgo,1,100.0,1
+software,russia,trabajo en equipo,1,100.0,1
+software,russia,aprendizaje autonomo,1,100.0,1
+tecnologias_de_la_informacion,peru,gestion,12,92.31,13
+tecnologias_de_la_informacion,peru,trabajo en equipo,11,84.62,13
+tecnologias_de_la_informacion,peru,comunicacion efectiva,6,46.15,13
+tecnologias_de_la_informacion,peru,etica profesional,4,30.77,13
+tecnologias_de_la_informacion,peru,liderazgo,4,30.77,13
+tecnologias_de_la_informacion,peru,aprendizaje autonomo,4,30.77,13
+tecnologias_de_la_informacion,peru,responsabilidad social,1,7.69,13
+tecnologias_de_la_informacion,colombia,gestion,20,90.91,22
+tecnologias_de_la_informacion,colombia,etica profesional,14,63.64,22
+tecnologias_de_la_informacion,colombia,comunicacion efectiva,13,59.09,22
+tecnologias_de_la_informacion,colombia,aprendizaje autonomo,12,54.55,22
+tecnologias_de_la_informacion,colombia,liderazgo,11,50.0,22
+tecnologias_de_la_informacion,colombia,trabajo en equipo,9,40.91,22
+tecnologias_de_la_informacion,spain,gestion,7,100.0,7
+tecnologias_de_la_informacion,spain,trabajo en equipo,6,85.71,7
+tecnologias_de_la_informacion,spain,comunicacion efectiva,5,71.43,7
+tecnologias_de_la_informacion,spain,etica profesional,5,71.43,7
+tecnologias_de_la_informacion,spain,liderazgo,4,57.14,7
+tecnologias_de_la_informacion,spain,aprendizaje autonomo,4,57.14,7
+tecnologias_de_la_informacion,spain,responsabilidad social,1,14.29,7
+tecnologias_de_la_informacion,chile,gestion,19,100.0,19
+tecnologias_de_la_informacion,chile,etica profesional,13,68.42,19
+tecnologias_de_la_informacion,chile,responsabilidad social,8,42.11,19
+tecnologias_de_la_informacion,chile,trabajo en equipo,8,42.11,19
+tecnologias_de_la_informacion,chile,aprendizaje autonomo,5,26.32,19
+tecnologias_de_la_informacion,chile,comunicacion efectiva,3,15.79,19
+tecnologias_de_la_informacion,chile,liderazgo,1,5.26,19
+tecnologias_de_la_informacion,mexico,gestion,27,84.38,32
+tecnologias_de_la_informacion,mexico,trabajo en equipo,21,65.62,32
+tecnologias_de_la_informacion,mexico,aprendizaje autonomo,14,43.75,32
+tecnologias_de_la_informacion,mexico,etica profesional,14,43.75,32
+tecnologias_de_la_informacion,mexico,comunicacion efectiva,13,40.62,32
+tecnologias_de_la_informacion,mexico,liderazgo,8,25.0,32
+tecnologias_de_la_informacion,mexico,responsabilidad social,6,18.75,32
+tecnologias_de_la_informacion,venezuela,gestion,1,100.0,1
+tecnologias_de_la_informacion,venezuela,comunicacion efectiva,1,100.0,1
+tecnologias_de_la_informacion,venezuela,trabajo en equipo,1,100.0,1
+tecnologias_de_la_informacion,venezuela,etica profesional,1,100.0,1
+tecnologias_de_la_informacion,argentina,gestion,3,75.0,4
+tecnologias_de_la_informacion,argentina,comunicacion efectiva,3,75.0,4
+tecnologias_de_la_informacion,argentina,trabajo en equipo,3,75.0,4
+tecnologias_de_la_informacion,argentina,liderazgo,1,25.0,4
+tecnologias_de_la_informacion,argentina,etica profesional,1,25.0,4
+tecnologias_de_la_informacion,argentina,aprendizaje autonomo,1,25.0,4
+tecnologias_de_la_informacion,puerto rico,etica profesional,24,40.68,59
+tecnologias_de_la_informacion,puerto rico,gestion,24,40.68,59
+tecnologias_de_la_informacion,puerto rico,trabajo en equipo,7,11.86,59
+tecnologias_de_la_informacion,puerto rico,liderazgo,7,11.86,59
+tecnologias_de_la_informacion,puerto rico,comunicacion efectiva,5,8.47,59
+tecnologias_de_la_informacion,puerto rico,aprendizaje autonomo,2,3.39,59
+tecnologias_de_la_informacion,brazil,gestion,247,77.92,317
+tecnologias_de_la_informacion,brazil,comunicacion efectiva,171,53.94,317
+tecnologias_de_la_informacion,brazil,trabajo en equipo,157,49.53,317
+tecnologias_de_la_informacion,brazil,etica profesional,142,44.79,317
+tecnologias_de_la_informacion,brazil,aprendizaje autonomo,112,35.33,317
+tecnologias_de_la_informacion,brazil,liderazgo,83,26.18,317
+tecnologias_de_la_informacion,brazil,responsabilidad social,43,13.56,317
+tecnologias_de_la_informacion,guatemala,gestion,1,100.0,1
+tecnologias_de_la_informacion,guatemala,comunicacion efectiva,1,100.0,1
+tecnologias_de_la_informacion,guatemala,liderazgo,1,100.0,1
+tecnologias_de_la_informacion,guatemala,trabajo en equipo,1,100.0,1
+tecnologias_de_la_informacion,france,gestion,4,100.0,4
+tecnologias_de_la_informacion,france,comunicacion efectiva,4,100.0,4
+tecnologias_de_la_informacion,france,trabajo en equipo,4,100.0,4
+tecnologias_de_la_informacion,france,etica profesional,4,100.0,4
+tecnologias_de_la_informacion,united states,gestion,476,45.25,1052
+tecnologias_de_la_informacion,united states,trabajo en equipo,356,33.84,1052
+tecnologias_de_la_informacion,united states,etica profesional,248,23.57,1052
+tecnologias_de_la_informacion,united states,comunicacion efectiva,165,15.68,1052
+tecnologias_de_la_informacion,united states,liderazgo,158,15.02,1052
+tecnologias_de_la_informacion,united states,responsabilidad social,77,7.32,1052
+tecnologias_de_la_informacion,united states,aprendizaje autonomo,65,6.18,1052
+tecnologias_de_la_informacion,canada,gestion,45,84.91,53
+tecnologias_de_la_informacion,canada,trabajo en equipo,42,79.25,53
+tecnologias_de_la_informacion,canada,etica profesional,34,64.15,53
+tecnologias_de_la_informacion,canada,comunicacion efectiva,27,50.94,53
+tecnologias_de_la_informacion,canada,responsabilidad social,21,39.62,53
+tecnologias_de_la_informacion,canada,liderazgo,18,33.96,53
+tecnologias_de_la_informacion,canada,aprendizaje autonomo,14,26.42,53
+tecnologias_de_la_informacion,remote,gestion,9,56.25,16
+tecnologias_de_la_informacion,remote,comunicacion efectiva,5,31.25,16
+tecnologias_de_la_informacion,remote,liderazgo,3,18.75,16
+tecnologias_de_la_informacion,china,gestion,1,100.0,1
+tecnologias_de_la_informacion,germany,trabajo en equipo,3,100.0,3
+tecnologias_de_la_informacion,germany,responsabilidad social,3,100.0,3
+tecnologias_de_la_informacion,germany,gestion,2,66.67,3
+tecnologias_de_la_informacion,germany,comunicacion efectiva,2,66.67,3
+tecnologias_de_la_informacion,germany,etica profesional,2,66.67,3
+tecnologias_de_la_informacion,germany,aprendizaje autonomo,1,33.33,3
+tecnologias_de_la_informacion,nicaragua,gestion,2,100.0,2
+tecnologias_de_la_informacion,nicaragua,etica profesional,2,100.0,2
+tecnologias_de_la_informacion,cuba,comunicacion efectiva,1,100.0,1
+tecnologias_de_la_informacion,cuba,trabajo en equipo,1,100.0,1
+tecnologias_de_la_informacion,cuba,etica profesional,1,100.0,1
+telecomunicaciones,peru,gestion,26,92.86,28
+telecomunicaciones,peru,trabajo en equipo,15,53.57,28
+telecomunicaciones,peru,etica profesional,13,46.43,28
+telecomunicaciones,peru,comunicacion efectiva,11,39.29,28
+telecomunicaciones,peru,responsabilidad social,9,32.14,28
+telecomunicaciones,peru,aprendizaje autonomo,5,17.86,28
+telecomunicaciones,peru,liderazgo,3,10.71,28
+telecomunicaciones,colombia,gestion,25,86.21,29
+telecomunicaciones,colombia,trabajo en equipo,15,51.72,29
+telecomunicaciones,colombia,etica profesional,14,48.28,29
+telecomunicaciones,colombia,comunicacion efectiva,14,48.28,29
+telecomunicaciones,colombia,aprendizaje autonomo,9,31.03,29
+telecomunicaciones,colombia,liderazgo,7,24.14,29
+telecomunicaciones,colombia,responsabilidad social,2,6.9,29
+telecomunicaciones,spain,gestion,78,82.11,95
+telecomunicaciones,spain,trabajo en equipo,63,66.32,95
+telecomunicaciones,spain,etica profesional,53,55.79,95
+telecomunicaciones,spain,comunicacion efectiva,44,46.32,95
+telecomunicaciones,spain,responsabilidad social,33,34.74,95
+telecomunicaciones,spain,aprendizaje autonomo,26,27.37,95
+telecomunicaciones,spain,liderazgo,20,21.05,95
+telecomunicaciones,chile,etica profesional,11,61.11,18
+telecomunicaciones,chile,gestion,11,61.11,18
+telecomunicaciones,chile,trabajo en equipo,9,50.0,18
+telecomunicaciones,chile,responsabilidad social,7,38.89,18
+telecomunicaciones,chile,comunicacion efectiva,6,33.33,18
+telecomunicaciones,chile,liderazgo,3,16.67,18
+telecomunicaciones,chile,aprendizaje autonomo,2,11.11,18
+telecomunicaciones,mexico,gestion,24,82.76,29
+telecomunicaciones,mexico,trabajo en equipo,13,44.83,29
+telecomunicaciones,mexico,aprendizaje autonomo,12,41.38,29
+telecomunicaciones,mexico,comunicacion efectiva,12,41.38,29
+telecomunicaciones,mexico,etica profesional,8,27.59,29
+telecomunicaciones,mexico,liderazgo,7,24.14,29
+telecomunicaciones,mexico,responsabilidad social,2,6.9,29
+telecomunicaciones,venezuela,gestion,1,100.0,1
+telecomunicaciones,venezuela,comunicacion efectiva,1,100.0,1
+telecomunicaciones,venezuela,trabajo en equipo,1,100.0,1
+telecomunicaciones,venezuela,etica profesional,1,100.0,1
+telecomunicaciones,argentina,gestion,13,92.86,14
+telecomunicaciones,argentina,trabajo en equipo,8,57.14,14
+telecomunicaciones,argentina,etica profesional,7,50.0,14
+telecomunicaciones,argentina,comunicacion efectiva,3,21.43,14
+telecomunicaciones,argentina,aprendizaje autonomo,2,14.29,14
+telecomunicaciones,argentina,responsabilidad social,1,7.14,14
+telecomunicaciones,ecuador,gestion,3,60.0,5
+telecomunicaciones,ecuador,trabajo en equipo,2,40.0,5
+telecomunicaciones,ecuador,aprendizaje autonomo,2,40.0,5
+telecomunicaciones,ecuador,etica profesional,2,40.0,5
+telecomunicaciones,ecuador,liderazgo,1,20.0,5
+telecomunicaciones,ecuador,comunicacion efectiva,1,20.0,5
+telecomunicaciones,ecuador,responsabilidad social,1,20.0,5
+telecomunicaciones,puerto rico,gestion,14,51.85,27
+telecomunicaciones,puerto rico,etica profesional,12,44.44,27
+telecomunicaciones,puerto rico,trabajo en equipo,5,18.52,27
+telecomunicaciones,puerto rico,comunicacion efectiva,2,7.41,27
+telecomunicaciones,puerto rico,aprendizaje autonomo,1,3.7,27
+telecomunicaciones,puerto rico,responsabilidad social,1,3.7,27
+telecomunicaciones,puerto rico,liderazgo,1,3.7,27
+telecomunicaciones,brazil,comunicacion efectiva,226,77.93,290
+telecomunicaciones,brazil,liderazgo,134,46.21,290
+telecomunicaciones,brazil,gestion,128,44.14,290
+telecomunicaciones,brazil,etica profesional,91,31.38,290
+telecomunicaciones,brazil,trabajo en equipo,89,30.69,290
+telecomunicaciones,brazil,aprendizaje autonomo,62,21.38,290
+telecomunicaciones,brazil,responsabilidad social,25,8.62,290
+telecomunicaciones,guatemala,gestion,2,66.67,3
+telecomunicaciones,guatemala,comunicacion efectiva,2,66.67,3
+telecomunicaciones,guatemala,trabajo en equipo,1,33.33,3
+telecomunicaciones,guatemala,liderazgo,1,33.33,3
+telecomunicaciones,bolivia,trabajo en equipo,3,75.0,4
+telecomunicaciones,bolivia,etica profesional,3,75.0,4
+telecomunicaciones,bolivia,liderazgo,2,50.0,4
+telecomunicaciones,bolivia,comunicacion efectiva,2,50.0,4
+telecomunicaciones,bolivia,gestion,1,25.0,4
+telecomunicaciones,bolivia,responsabilidad social,1,25.0,4
+telecomunicaciones,bolivia,aprendizaje autonomo,1,25.0,4
+telecomunicaciones,costa rica,gestion,3,100.0,3
+telecomunicaciones,costa rica,comunicacion efectiva,3,100.0,3
+telecomunicaciones,costa rica,liderazgo,1,33.33,3
+telecomunicaciones,costa rica,etica profesional,1,33.33,3
+telecomunicaciones,costa rica,trabajo en equipo,1,33.33,3
+telecomunicaciones,dominican republic,comunicacion efectiva,3,100.0,3
+telecomunicaciones,dominican republic,gestion,2,66.67,3
+telecomunicaciones,dominican republic,trabajo en equipo,2,66.67,3
+telecomunicaciones,dominican republic,responsabilidad social,1,33.33,3
+telecomunicaciones,dominican republic,aprendizaje autonomo,1,33.33,3
+telecomunicaciones,dominican republic,liderazgo,1,33.33,3
+telecomunicaciones,dominican republic,etica profesional,1,33.33,3
+telecomunicaciones,united states,gestion,238,42.05,566
+telecomunicaciones,united states,trabajo en equipo,206,36.4,566
+telecomunicaciones,united states,etica profesional,102,18.02,566
+telecomunicaciones,united states,liderazgo,101,17.84,566
+telecomunicaciones,united states,comunicacion efectiva,91,16.08,566
+telecomunicaciones,united states,responsabilidad social,28,4.95,566
+telecomunicaciones,united states,aprendizaje autonomo,25,4.42,566
+telecomunicaciones,canada,gestion,1,100.0,1
+telecomunicaciones,remote,gestion,2,66.67,3
+telecomunicaciones,remote,comunicacion efectiva,2,66.67,3
+telecomunicaciones,remote,etica profesional,1,33.33,3
+telecomunicaciones,remote,aprendizaje autonomo,1,33.33,3
+telecomunicaciones,china,comunicacion efectiva,1,50.0,2
+telecomunicaciones,china,gestion,1,50.0,2
+telecomunicaciones,singapore,gestion,1,100.0,1
+telecomunicaciones,uruguay,trabajo en equipo,1,100.0,1
+telecomunicaciones,germany,etica profesional,1,100.0,1

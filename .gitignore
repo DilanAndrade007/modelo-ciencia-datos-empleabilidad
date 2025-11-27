@@ -1,0 +1,46 @@
+# Entornos virtuales de Python
+env_tic/
+env_dtic/
+venv/
+ENV/
+env/
+.venv
+
+# Carpeta de pruebas
+pruebas/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs (opcional, descomenta si no quieres subir logs)
+# logs/
+# *.log
+
+# Datos grandes (opcional, descomenta si no quieres subir datos)
+# data/outputs/
+# *.csv
+# *.json
+
+# Variables de entorno
+.env
+.env.local

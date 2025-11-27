@@ -1,0 +1,452 @@
+carrera,pais,numero_de_ofertas
+Administracion De Empresas,United States,4271
+Administracion De Empresas,Puerto Rico,229
+Administracion De Empresas,Colombia,142
+Administracion De Empresas,Brazil,110
+Administracion De Empresas,Mexico,72
+Administracion De Empresas,Peru,67
+Administracion De Empresas,Chile,59
+Administracion De Empresas,Spain,41
+Administracion De Empresas,Argentina,33
+Administracion De Empresas,Canada,20
+Administracion De Empresas,China,20
+Administracion De Empresas,Guatemala,10
+Administracion De Empresas,Ecuador,7
+Administracion De Empresas,Venezuela,7
+Administracion De Empresas,Costa Rica,6
+Administracion De Empresas,El Salvador,6
+Administracion De Empresas,Honduras,6
+Administracion De Empresas,Bolivia,5
+Administracion De Empresas,Dominican Republic,5
+Administracion De Empresas,France,4
+Administracion De Empresas,India,4
+Administracion De Empresas,Panama,4
+Administracion De Empresas,Italy,1
+Administracion De Empresas,Singapore,1
+Agroindustria,United States,1464
+Agroindustria,Puerto Rico,145
+Agroindustria,Peru,24
+Agroindustria,Chile,14
+Agroindustria,Canada,6
+Agroindustria,Brazil,3
+Agroindustria,Mexico,3
+Agroindustria,Argentina,2
+Agroindustria,Colombia,2
+Agroindustria,Guatemala,2
+Agroindustria,China,1
+Agroindustria,Dominican Republic,1
+Agroindustria,France,1
+Agroindustria,Singapore,1
+Ciencia De Datos,United States,3972
+Ciencia De Datos,Puerto Rico,314
+Ciencia De Datos,Mexico,47
+Ciencia De Datos,Canada,45
+Ciencia De Datos,India,41
+Ciencia De Datos,Spain,40
+Ciencia De Datos,United Kingdom,35
+Ciencia De Datos,Colombia,34
+Ciencia De Datos,Argentina,18
+Ciencia De Datos,Peru,15
+Ciencia De Datos,Chile,13
+Ciencia De Datos,Germany,12
+Ciencia De Datos,France,10
+Ciencia De Datos,Guatemala,10
+Ciencia De Datos,Brazil,8
+Ciencia De Datos,Singapore,6
+Ciencia De Datos,Netherlands,5
+Ciencia De Datos,Uruguay,5
+Ciencia De Datos,Belgium,4
+Ciencia De Datos,Italy,4
+Ciencia De Datos,Poland,4
+Ciencia De Datos,Bolivia,3
+Ciencia De Datos,China,3
+Ciencia De Datos,El Salvador,3
+Ciencia De Datos,Panama,3
+Ciencia De Datos,Sweden,3
+Ciencia De Datos,Australia,2
+Ciencia De Datos,Costa Rica,2
+Ciencia De Datos,Ecuador,2
+Ciencia De Datos,Greece,2
+Ciencia De Datos,Israel,2
+Ciencia De Datos,South Africa,2
+Ciencia De Datos,Ukraine,2
+Ciencia De Datos,Czech Republic,1
+Ciencia De Datos,Denmark,1
+Ciencia De Datos,Dominican Republic,1
+Ciencia De Datos,Finland,1
+Ciencia De Datos,Haiti,1
+Ciencia De Datos,Hungary,1
+Ciencia De Datos,Japan,1
+Ciencia De Datos,Romania,1
+Ciencia De Datos,Switzerland,1
+Ciencia De Datos,Turkey,1
+Computacion,United States,3536
+Computacion,Puerto Rico,212
+Computacion,Mexico,32
+Computacion,Canada,30
+Computacion,China,25
+Computacion,India,25
+Computacion,Brazil,20
+Computacion,Italy,18
+Computacion,Australia,8
+Computacion,Peru,7
+Computacion,Poland,7
+Computacion,Chile,4
+Computacion,Ecuador,4
+Computacion,Spain,4
+Computacion,Argentina,3
+Computacion,El Salvador,3
+Computacion,Netherlands,3
+Computacion,United Kingdom,3
+Computacion,France,2
+Computacion,Guatemala,2
+Computacion,Honduras,2
+Computacion,Israel,2
+Computacion,Japan,2
+Computacion,Singapore,2
+Computacion,Colombia,1
+Computacion,Costa Rica,1
+Computacion,Denmark,1
+Computacion,Switzerland,1
+Computacion,Uruguay,1
+Computacion,Venezuela,1
+Economia,United States,2125
+Economia,Puerto Rico,128
+Economia,Brazil,54
+Economia,Italy,47
+Economia,China,14
+Economia,Canada,9
+Economia,Spain,9
+Economia,Mexico,4
+Economia,Argentina,2
+Economia,Colombia,2
+Economia,Switzerland,2
+Economia,United Kingdom,2
+Economia,Denmark,1
+Economia,France,1
+Economia,Germany,1
+Economia,Singapore,1
+Electricidad,United States,1712
+Electricidad,Spain,90
+Electricidad,Puerto Rico,83
+Electricidad,Peru,49
+Electricidad,Chile,47
+Electricidad,Colombia,26
+Electricidad,Argentina,13
+Electricidad,Mexico,11
+Electricidad,Ecuador,4
+Electricidad,India,4
+Electricidad,Dominican Republic,3
+Electricidad,Venezuela,3
+Electricidad,Canada,2
+Electricidad,Guatemala,2
+Electricidad,Belgium,1
+Electricidad,China,1
+Electricidad,Costa Rica,1
+Electricidad,Panama,1
+Electricidad,Uruguay,1
+Electronica Y Automatizacion,United States,5966
+Electronica Y Automatizacion,Puerto Rico,259
+Electronica Y Automatizacion,China,37
+Electronica Y Automatizacion,Canada,26
+Electronica Y Automatizacion,Mexico,9
+Electronica Y Automatizacion,Ecuador,3
+Electronica Y Automatizacion,Netherlands,3
+Electronica Y Automatizacion,India,2
+Electronica Y Automatizacion,Singapore,2
+Electronica Y Automatizacion,Argentina,1
+Electronica Y Automatizacion,Chile,1
+Electronica Y Automatizacion,Costa Rica,1
+Electronica Y Automatizacion,Denmark,1
+Electronica Y Automatizacion,Finland,1
+Electronica Y Automatizacion,France,1
+Electronica Y Automatizacion,United Kingdom,1
+Fisica,United States,1388
+Fisica,Puerto Rico,141
+Fisica,Italy,26
+Fisica,Brazil,21
+Fisica,Canada,5
+Fisica,Chile,4
+Fisica,Colombia,3
+Fisica,Mexico,2
+Fisica,Nicaragua,2
+Fisica,Argentina,1
+Fisica,El Salvador,1
+Fisica,France,1
+Fisica,Peru,1
+Fisica,Singapore,1
+Geologia,United States,916
+Geologia,Puerto Rico,115
+Geologia,Brazil,18
+Geologia,Canada,10
+Geologia,Chile,3
+Geologia,Mexico,2
+Geologia,France,1
+Geologia,Italy,1
+Ingenieria Ambiental,United States,3042
+Ingenieria Ambiental,Puerto Rico,124
+Ingenieria Ambiental,Canada,29
+Ingenieria Ambiental,Chile,23
+Ingenieria Ambiental,Spain,23
+Ingenieria Ambiental,Mexico,14
+Ingenieria Ambiental,France,6
+Ingenieria Ambiental,Colombia,4
+Ingenieria Ambiental,Peru,3
+Ingenieria Ambiental,Argentina,2
+Ingenieria Ambiental,Italy,2
+Ingenieria Ambiental,Brazil,1
+Ingenieria Ambiental,China,1
+Ingenieria Ambiental,Dominican Republic,1
+Ingenieria Ambiental,Guatemala,1
+Ingenieria Ambiental,Uruguay,1
+Ingenieria Civil,United States,3613
+Ingenieria Civil,Puerto Rico,104
+Ingenieria Civil,Chile,47
+Ingenieria Civil,Mexico,18
+Ingenieria Civil,Spain,18
+Ingenieria Civil,Colombia,8
+Ingenieria Civil,Guatemala,7
+Ingenieria Civil,Canada,6
+Ingenieria Civil,Argentina,5
+Ingenieria Civil,Peru,5
+Ingenieria Civil,Dominican Republic,4
+Ingenieria Civil,Brazil,2
+Ingenieria Civil,Costa Rica,2
+Ingenieria Civil,India,2
+Ingenieria Civil,France,1
+Ingenieria Civil,Singapore,1
+Ingenieria Civil,Uruguay,1
+Ingenieria Civil,Venezuela,1
+Ingenieria De La Produccion,United States,4132
+Ingenieria De La Produccion,Puerto Rico,242
+Ingenieria De La Produccion,Canada,36
+Ingenieria De La Produccion,China,27
+Ingenieria De La Produccion,Spain,5
+Ingenieria De La Produccion,France,4
+Ingenieria De La Produccion,Mexico,4
+Ingenieria De La Produccion,India,3
+Ingenieria De La Produccion,Brazil,2
+Ingenieria De La Produccion,Colombia,2
+Ingenieria De La Produccion,Finland,1
+Ingenieria De La Produccion,Italy,1
+Ingenieria De La Produccion,Singapore,1
+Ingenieria Quimica,United States,948
+Ingenieria Quimica,Puerto Rico,161
+Ingenieria Quimica,Mexico,6
+Ingenieria Quimica,Spain,4
+Ingenieria Quimica,Austria,1
+Ingenieria Quimica,China,1
+Ingenieria Quimica,Colombia,1
+Ingenieria Quimica,Italy,1
+Ingenieria Quimica,Peru,1
+Inteligencia Artificial,United States,6262
+Inteligencia Artificial,Puerto Rico,113
+Inteligencia Artificial,France,66
+Inteligencia Artificial,Brazil,63
+Inteligencia Artificial,Spain,51
+Inteligencia Artificial,Mexico,29
+Inteligencia Artificial,Canada,23
+Inteligencia Artificial,Colombia,19
+Inteligencia Artificial,India,10
+Inteligencia Artificial,Chile,9
+Inteligencia Artificial,China,6
+Inteligencia Artificial,Argentina,5
+Inteligencia Artificial,Ecuador,4
+Inteligencia Artificial,Netherlands,3
+Inteligencia Artificial,Belgium,2
+Inteligencia Artificial,Peru,2
+Inteligencia Artificial,Switzerland,2
+Inteligencia Artificial,United Kingdom,2
+Inteligencia Artificial,Australia,1
+Inteligencia Artificial,Italy,1
+Inteligencia Artificial,Singapore,1
+Inteligencia Artificial,Sweden,1
+Matematica,United States,366
+Matematica,Puerto Rico,16
+Matematica,Italy,5
+Matematica,Brazil,1
+Matematica,Chile,1
+Matematica,Dominican Republic,1
+Matematica,Ecuador,1
+Matematica,Peru,1
+Matematica Aplicada,United States,340
+Matematica Aplicada,Puerto Rico,27
+Matematica Aplicada,Mexico,3
+Matematica Aplicada,Dominican Republic,1
+Matematica Aplicada,Italy,1
+Materiales,United States,1806
+Materiales,Puerto Rico,235
+Materiales,Mexico,21
+Materiales,Chile,13
+Materiales,Peru,9
+Materiales,Canada,8
+Materiales,Spain,7
+Materiales,Argentina,5
+Materiales,Brazil,2
+Materiales,Romania,2
+Materiales,Colombia,1
+Materiales,Costa Rica,1
+Materiales,Dominican Republic,1
+Materiales,France,1
+Materiales,Panama,1
+Materiales,Singapore,1
+Mecanica,United States,1486
+Mecanica,Brazil,45
+Mecanica,Puerto Rico,42
+Mecanica,Spain,24
+Mecanica,Colombia,8
+Mecanica,Mexico,6
+Mecanica,Chile,4
+Mecanica,Argentina,2
+Mecanica,India,2
+Mecanica,Peru,2
+Mecanica,China,1
+Mecanica,Dominican Republic,1
+Mecanica,Honduras,1
+Mecatronica,United States,1294
+Mecatronica,Puerto Rico,13
+Mecatronica,Brazil,5
+Mecatronica,Italy,5
+Mecatronica,Mexico,5
+Mecatronica,Chile,3
+Mecatronica,Colombia,3
+Mecatronica,Belgium,1
+Mecatronica,China,1
+Mecatronica,Peru,1
+Mecatronica,Spain,1
+Petroleos,United States,1448
+Petroleos,Puerto Rico,59
+Petroleos,Canada,9
+Petroleos,China,8
+Petroleos,India,6
+Petroleos,Argentina,2
+Petroleos,Romania,2
+Petroleos,Italy,1
+Petroleos,Mexico,1
+Petroleos,Spain,1
+Sistemas De Informacion,United States,4626
+Sistemas De Informacion,Puerto Rico,261
+Sistemas De Informacion,Germany,206
+Sistemas De Informacion,India,123
+Sistemas De Informacion,France,104
+Sistemas De Informacion,Brazil,72
+Sistemas De Informacion,United Kingdom,50
+Sistemas De Informacion,Canada,46
+Sistemas De Informacion,Poland,42
+Sistemas De Informacion,Spain,34
+Sistemas De Informacion,Netherlands,33
+Sistemas De Informacion,Switzerland,33
+Sistemas De Informacion,Italy,27
+Sistemas De Informacion,Mexico,24
+Sistemas De Informacion,Australia,23
+Sistemas De Informacion,Turkey,21
+Sistemas De Informacion,Austria,19
+Sistemas De Informacion,Belgium,15
+Sistemas De Informacion,Denmark,13
+Sistemas De Informacion,China,10
+Sistemas De Informacion,Singapore,10
+Sistemas De Informacion,South Africa,10
+Sistemas De Informacion,Czech Republic,9
+Sistemas De Informacion,Argentina,8
+Sistemas De Informacion,Japan,8
+Sistemas De Informacion,Finland,6
+Sistemas De Informacion,Hungary,6
+Sistemas De Informacion,Romania,6
+Sistemas De Informacion,Chile,5
+Sistemas De Informacion,Greece,5
+Sistemas De Informacion,Israel,5
+Sistemas De Informacion,Colombia,4
+Sistemas De Informacion,Dominican Republic,4
+Sistemas De Informacion,Norway,3
+Sistemas De Informacion,Sweden,3
+Sistemas De Informacion,Ukraine,3
+Sistemas De Informacion,Costa Rica,1
+Sistemas De Informacion,Guatemala,1
+Sistemas De Informacion,Panama,1
+Sistemas De Informacion,Peru,1
+Sistemas De Informacion,Slovakia,1
+Sistemas De Informacion,South Korea,1
+Sistemas De Informacion,Uruguay,1
+Software,United States,4075
+Software,India,302
+Software,United Kingdom,190
+Software,Canada,125
+Software,Germany,120
+Software,Mexico,80
+Software,Brazil,72
+Software,Spain,52
+Software,Colombia,50
+Software,Poland,50
+Software,Netherlands,47
+Software,Italy,38
+Software,Switzerland,37
+Software,Australia,36
+Software,France,33
+Software,Romania,27
+Software,Singapore,24
+Software,Chile,22
+Software,China,19
+Software,Austria,18
+Software,Belgium,18
+Software,Czech Republic,16
+Software,Sweden,14
+Software,Israel,13
+Software,Japan,9
+Software,Turkey,8
+Software,Argentina,7
+Software,South Africa,7
+Software,Greece,6
+Software,Costa Rica,5
+Software,Denmark,5
+Software,Hungary,4
+Software,Puerto Rico,4
+Software,Slovakia,4
+Software,Finland,3
+Software,New Zealand,3
+Software,Ukraine,3
+Software,Norway,1
+Software,Panama,1
+Software,Russia,1
+Software,South Korea,1
+Software,Uruguay,1
+Software,Venezuela,1
+Tecnologias De La Informacion,United States,3328
+Tecnologias De La Informacion,Brazil,381
+Tecnologias De La Informacion,Puerto Rico,275
+Tecnologias De La Informacion,Canada,68
+Tecnologias De La Informacion,Mexico,43
+Tecnologias De La Informacion,Colombia,27
+Tecnologias De La Informacion,Chile,19
+Tecnologias De La Informacion,Peru,14
+Tecnologias De La Informacion,Spain,7
+Tecnologias De La Informacion,France,6
+Tecnologias De La Informacion,Argentina,4
+Tecnologias De La Informacion,Germany,3
+Tecnologias De La Informacion,Italy,2
+Tecnologias De La Informacion,Nicaragua,2
+Tecnologias De La Informacion,China,1
+Tecnologias De La Informacion,Cuba,1
+Tecnologias De La Informacion,Guatemala,1
+Tecnologias De La Informacion,Uruguay,1
+Tecnologias De La Informacion,Venezuela,1
+Telecomunicaciones,United States,2137
+Telecomunicaciones,Brazil,328
+Telecomunicaciones,Puerto Rico,154
+Telecomunicaciones,Spain,104
+Telecomunicaciones,Colombia,35
+Telecomunicaciones,Mexico,35
+Telecomunicaciones,Peru,29
+Telecomunicaciones,Chile,19
+Telecomunicaciones,Argentina,15
+Telecomunicaciones,Canada,8
+Telecomunicaciones,Costa Rica,6
+Telecomunicaciones,Dominican Republic,5
+Telecomunicaciones,Ecuador,5
+Telecomunicaciones,Bolivia,4
+Telecomunicaciones,Guatemala,4
+Telecomunicaciones,Germany,3
+Telecomunicaciones,China,2
+Telecomunicaciones,France,2
+Telecomunicaciones,Singapore,1
+Telecomunicaciones,Uruguay,1
+Telecomunicaciones,Venezuela,1

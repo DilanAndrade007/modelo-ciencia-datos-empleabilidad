@@ -1,0 +1,169 @@
+﻿carrera,habilidad,frecuencia,porcentaje_en_carrera,empleos_totales_carrera
+administracion_de_empresas,gestion,809,51.96,1557
+administracion_de_empresas,trabajo en equipo,447,28.71,1557
+administracion_de_empresas,etica profesional,382,24.53,1557
+administracion_de_empresas,liderazgo,335,21.52,1557
+administracion_de_empresas,comunicacion efectiva,256,16.44,1557
+administracion_de_empresas,aprendizaje autonomo,92,5.91,1557
+administracion_de_empresas,responsabilidad social,85,5.46,1557
+agroindustria,trabajo en equipo,177,40.14,441
+agroindustria,gestion,167,37.87,441
+agroindustria,etica profesional,124,28.12,441
+agroindustria,liderazgo,93,21.09,441
+agroindustria,comunicacion efectiva,38,8.62,441
+agroindustria,responsabilidad social,15,3.4,441
+agroindustria,aprendizaje autonomo,14,3.17,441
+ciencia_de_datos,trabajo en equipo,523,42.45,1232
+ciencia_de_datos,gestion,433,35.15,1232
+ciencia_de_datos,comunicacion efectiva,284,23.05,1232
+ciencia_de_datos,liderazgo,277,22.48,1232
+ciencia_de_datos,etica profesional,224,18.18,1232
+ciencia_de_datos,aprendizaje autonomo,111,9.01,1232
+ciencia_de_datos,responsabilidad social,42,3.41,1232
+computacion,gestion,609,49.71,1225
+computacion,trabajo en equipo,494,40.33,1225
+computacion,etica profesional,310,25.31,1225
+computacion,comunicacion efectiva,201,16.41,1225
+computacion,liderazgo,201,16.41,1225
+computacion,aprendizaje autonomo,88,7.18,1225
+computacion,responsabilidad social,50,4.08,1225
+economia,gestion,368,48.48,759
+economia,trabajo en equipo,270,35.57,759
+economia,etica profesional,149,19.63,759
+economia,liderazgo,111,14.62,759
+economia,comunicacion efectiva,104,13.7,759
+economia,responsabilidad social,43,5.67,759
+economia,aprendizaje autonomo,36,4.74,759
+electricidad,trabajo en equipo,334,53.7,622
+electricidad,gestion,267,42.93,622
+electricidad,etica profesional,206,33.12,622
+electricidad,comunicacion efectiva,109,17.52,622
+electricidad,liderazgo,79,12.7,622
+electricidad,aprendizaje autonomo,71,11.41,622
+electricidad,responsabilidad social,66,10.61,622
+electronica_y_automatizacion,gestion,665,40.87,1627
+electronica_y_automatizacion,trabajo en equipo,454,27.9,1627
+electronica_y_automatizacion,etica profesional,450,27.66,1627
+electronica_y_automatizacion,liderazgo,268,16.47,1627
+electronica_y_automatizacion,comunicacion efectiva,118,7.25,1627
+electronica_y_automatizacion,responsabilidad social,98,6.02,1627
+electronica_y_automatizacion,aprendizaje autonomo,71,4.36,1627
+fisica,trabajo en equipo,161,40.25,400
+fisica,gestion,151,37.75,400
+fisica,etica profesional,112,28.0,400
+fisica,liderazgo,87,21.75,400
+fisica,comunicacion efectiva,76,19.0,400
+fisica,aprendizaje autonomo,23,5.75,400
+fisica,responsabilidad social,7,1.75,400
+geologia,trabajo en equipo,118,38.56,306
+geologia,gestion,115,37.58,306
+geologia,etica profesional,93,30.39,306
+geologia,liderazgo,59,19.28,306
+geologia,comunicacion efectiva,27,8.82,306
+geologia,responsabilidad social,23,7.52,306
+geologia,aprendizaje autonomo,20,6.54,306
+ingenieria_ambiental,gestion,758,61.53,1232
+ingenieria_ambiental,trabajo en equipo,372,30.19,1232
+ingenieria_ambiental,etica profesional,316,25.65,1232
+ingenieria_ambiental,comunicacion efectiva,160,12.99,1232
+ingenieria_ambiental,liderazgo,108,8.77,1232
+ingenieria_ambiental,responsabilidad social,103,8.36,1232
+ingenieria_ambiental,aprendizaje autonomo,72,5.84,1232
+ingenieria_civil,gestion,656,49.7,1320
+ingenieria_civil,trabajo en equipo,586,44.39,1320
+ingenieria_civil,etica profesional,232,17.58,1320
+ingenieria_civil,liderazgo,195,14.77,1320
+ingenieria_civil,comunicacion efectiva,151,11.44,1320
+ingenieria_civil,responsabilidad social,67,5.08,1320
+ingenieria_civil,aprendizaje autonomo,41,3.11,1320
+ingenieria_quimica,gestion,198,56.9,348
+ingenieria_quimica,etica profesional,87,25.0,348
+ingenieria_quimica,liderazgo,65,18.68,348
+ingenieria_quimica,trabajo en equipo,65,18.68,348
+ingenieria_quimica,comunicacion efectiva,50,14.37,348
+ingenieria_quimica,aprendizaje autonomo,37,10.63,348
+ingenieria_quimica,responsabilidad social,23,6.61,348
+ingenieria_de_la_produccion,gestion,490,45.88,1068
+ingenieria_de_la_produccion,trabajo en equipo,362,33.9,1068
+ingenieria_de_la_produccion,etica profesional,246,23.03,1068
+ingenieria_de_la_produccion,liderazgo,181,16.95,1068
+ingenieria_de_la_produccion,comunicacion efectiva,106,9.93,1068
+ingenieria_de_la_produccion,aprendizaje autonomo,82,7.68,1068
+ingenieria_de_la_produccion,responsabilidad social,57,5.34,1068
+inteligencia_artificial,gestion,976,50.39,1937
+inteligencia_artificial,trabajo en equipo,751,38.77,1937
+inteligencia_artificial,etica profesional,422,21.79,1937
+inteligencia_artificial,liderazgo,402,20.75,1937
+inteligencia_artificial,comunicacion efectiva,313,16.16,1937
+inteligencia_artificial,aprendizaje autonomo,273,14.09,1937
+inteligencia_artificial,responsabilidad social,137,7.07,1937
+matematica,comunicacion efectiva,197,79.12,249
+matematica,trabajo en equipo,158,63.45,249
+matematica,gestion,136,54.62,249
+matematica,aprendizaje autonomo,112,44.98,249
+matematica,etica profesional,50,20.08,249
+matematica,liderazgo,49,19.68,249
+matematica,responsabilidad social,2,0.8,249
+matematica_aplicada,gestion,57,40.43,141
+matematica_aplicada,comunicacion efectiva,49,34.75,141
+matematica_aplicada,etica profesional,44,31.21,141
+matematica_aplicada,liderazgo,29,20.57,141
+matematica_aplicada,trabajo en equipo,17,12.06,141
+matematica_aplicada,aprendizaje autonomo,9,6.38,141
+matematica_aplicada,responsabilidad social,1,0.71,141
+materiales,gestion,278,44.98,618
+materiales,trabajo en equipo,257,41.59,618
+materiales,etica profesional,189,30.58,618
+materiales,comunicacion efectiva,107,17.31,618
+materiales,liderazgo,102,16.5,618
+materiales,aprendizaje autonomo,44,7.12,618
+materiales,responsabilidad social,42,6.8,618
+mecatronica,gestion,297,51.74,574
+mecatronica,trabajo en equipo,218,37.98,574
+mecatronica,etica profesional,150,26.13,574
+mecatronica,liderazgo,118,20.56,574
+mecatronica,comunicacion efectiva,58,10.1,574
+mecatronica,aprendizaje autonomo,31,5.4,574
+mecatronica,responsabilidad social,18,3.14,574
+mecanica,trabajo en equipo,212,50.12,423
+mecanica,gestion,190,44.92,423
+mecanica,etica profesional,129,30.5,423
+mecanica,comunicacion efectiva,99,23.4,423
+mecanica,liderazgo,72,17.02,423
+mecanica,aprendizaje autonomo,67,15.84,423
+mecanica,responsabilidad social,41,9.69,423
+petroleos,gestion,106,37.46,283
+petroleos,trabajo en equipo,67,23.67,283
+petroleos,etica profesional,60,21.2,283
+petroleos,liderazgo,45,15.9,283
+petroleos,comunicacion efectiva,36,12.72,283
+petroleos,responsabilidad social,15,5.3,283
+petroleos,aprendizaje autonomo,13,4.59,283
+sistemas_de_informacion,gestion,2192,73.95,2964
+sistemas_de_informacion,trabajo en equipo,1590,53.64,2964
+sistemas_de_informacion,comunicacion efectiva,1201,40.52,2964
+sistemas_de_informacion,etica profesional,1001,33.77,2964
+sistemas_de_informacion,liderazgo,827,27.9,2964
+sistemas_de_informacion,aprendizaje autonomo,451,15.22,2964
+sistemas_de_informacion,responsabilidad social,367,12.38,2964
+software,trabajo en equipo,2880,74.5,3866
+software,gestion,2751,71.16,3866
+software,comunicacion efectiva,1753,45.34,3866
+software,liderazgo,1529,39.55,3866
+software,etica profesional,1510,39.06,3866
+software,responsabilidad social,1031,26.67,3866
+software,aprendizaje autonomo,988,25.56,3866
+tecnologias_de_la_informacion,gestion,905,56.14,1612
+tecnologias_de_la_informacion,trabajo en equipo,633,39.27,1612
+tecnologias_de_la_informacion,etica profesional,512,31.76,1612
+tecnologias_de_la_informacion,comunicacion efectiva,427,26.49,1612
+tecnologias_de_la_informacion,liderazgo,300,18.61,1612
+tecnologias_de_la_informacion,aprendizaje autonomo,235,14.58,1612
+tecnologias_de_la_informacion,responsabilidad social,162,10.05,1612
+telecomunicaciones,gestion,588,51.53,1141
+telecomunicaciones,trabajo en equipo,442,38.74,1141
+telecomunicaciones,comunicacion efectiva,432,37.86,1141
+telecomunicaciones,etica profesional,327,28.66,1141
+telecomunicaciones,liderazgo,282,24.72,1141
+telecomunicaciones,aprendizaje autonomo,151,13.23,1141
+telecomunicaciones,responsabilidad social,116,10.17,1141

@@ -1,0 +1,293 @@
+job_id,source,job_title,company,location,description,skills,careers_required,date_posted,url,career_tag,soft_skills_detected,extraction_date
+92fa9d955e5594b6ee790a3095e96cc7,rapidapi1,INGENIERO/A EN INTELIGENCIA ARTIFICIAL,Smartmind,"Avila, US","Buscamos un/a Ingeniero/a en Inteligencia Artificial con experiencia en el desarrollo e integración de soluciones basadas en machine learning, procesamiento del lenguaje natural (NLP) y agentes inteligentes. El perfil ideal combina habilidades técnicas con visión aplicada, capaz de diseñar asistentes virtuales, sistemas autónomos y modelos adaptativos que mejoren la experiencia del usuario en entornos digitales.
+Tareas
+
+Funciones principales:
+• Diseñar e implementar modelos de aprendizaje automático para tareas de clasificación, recomendación o personalización.
+• Desarrollar agentes de IA capaces de interactuar de forma autónoma con usuarios, procesar lenguaje natural y tomar decisiones en función del contexto.
+• Aplicar técnicas de NLP para construir asistentes conversacionales o educativos.
+• Evaluar, ajustar y mantener modelos de IA.
+• Integrar soluciones inteligentes en plataformas web o móviles.
+
+Requisitos
+
+Requisitos valorados:
+• Dominio de Python y librerías como scikit-learn, spaCy, TensorFlow, PyTorch o LangChain.
+• Experiencia práctica en el diseño de agentes inteligentes: rule-based, reflexivos, deliberativos o basados en aprendizaje.
+• Experiencia en el desarrollo e integración de asistentes virtuales.
+• Familiaridad con arquitecturas de agentes y sistemas multiagente (MAS).
+#J-18808-Ljbffr",[],Inteligencia Artificial,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/ingeniero-en-inteligencia-artificial-jobs/7CE8D22106DCB06B?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+7ad858fbfabf0e93a991e188fc3cc934,rapidapi1,Machine Learning Engineer,QUANT AI Lab,"Seville, US","En
+QUANT AI LAB , seguimos creciendo para desarrollar las más avanzadas soluciones de inteligencia artificial y analíticas del mercado, siempre desde la vanguardia y con conocimientos técnicos profundamente asentados. Unirse a
+QUANT AI LAB
+significa formar parte de una aventura donde cada miembro es esencial para el éxito de los proyectos y el impacto global que generamos. Somos una empresa tecnológica líder en el sector IT, reconocida por nuestra especialización en soluciones de inteligencia artificial. Nuestra excelencia y el impacto de nuestras innovaciones nos han convertido en una referencia en la industria de la IA.
+OBJETIVO PRINCIPAL Y RESPONSABILIDADES: Buscamos reforzar nuestro equipo con un
+Ingeniero de MLOps
+con experiencia en la implementación y gestión de pipelines de aprendizaje automático en plataformas en la nube como
+AWS
+y
+Azure .
+Las principales responsabilidades del puesto incluyen: Desarrollar y gestionar pipelines de MLOps
+en entornos escalables, automatizando todo el ciclo de vida de modelos de aprendizaje automático, desde el procesamiento de datos hasta el monitoreo de los modelos. Desplegar modelos de ML
+utilizando servicios como
+AWS SageMaker
+y
+Azure Machine Learning , asegurando un rendimiento óptimo y escalable. Automatizar la infraestructura
+utilizando herramientas como
+Terraform
+o
+CloudFormation , optimizando los recursos en la nube para garantizar eficiencia y costos reducidos. Monitorear el rendimiento de los modelos , implementando alertas y procedimientos de reentrenamiento en caso de desvíos o caídas en el rendimiento. Colaborar con un equipo multidisciplinario
+de ingenieros y científicos de datos para garantizar la integración fluida de los modelos en producción.
+¿QUÉ BUSCAMOS EN TI? Disponibilidad de trabajo
+100% remoto . Experiencia demostrable en
+AWS
+y
+Azure , especialmente en servicios relevantes para MLOps como
+AWS SageMaker ,
+Azure Machine Learning , y herramientas de contenerización como
+Docker
+y
+Kubernetes . Conocimiento avanzado de
+Python
+y bibliotecas de machine learning como
+TensorFlow ,
+PyTorch
+o
+scikit-learn. Dominio de prácticas de
+CI/CD
+y herramientas como
+Jenkins ,
+GitLab
+o
+Azure DevOps . Conocimientos sólidos en
+Infraestructura como Código (IaC) , con experiencia en
+Terraform
+o
+CloudFormation . Familiaridad con
+monitorización
+de modelos mediante herramientas como
+AWS CloudWatch
+o
+Azure Monitor . Experiencia con lenguajes de scripting como
+Bash
+o
+PowerShell .
+Todos los candidatos podrán ser sometidos a una prueba y entrevista técnica.
+¿QUÉ OFRECEMOS? Contrato indefinido
+con un salario competitivo, porque valoramos y confiamos en tu talento. Impacto significativo : la oportunidad de trabajar con clientes de nivel internacional y compañías de referencia en el sector. Desarrollo profesional
+en un entorno de élite, donde siempre tendrás oportunidades de aprender y crecer. Ambiente de trabajo
+dinámico y colaborativo, con eventos sociales y seminarios que te permitirán disfrutar mientras creces profesionalmente.
+Si te apasiona trabajar con tecnologías de vanguardia y crees que puedes aportar a nuestra unidad de MLOps, ¡nos encantaría conocerte!",[],Inteligencia Artificial,2025-07-17T23:00:00.000Z,https://www.recruit.net/job/machine-learning-engineer-jobs/15275DA87E5803AC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+b2c5f74fd3bbd9d6f9932fe30c5f34c8,rapidapi1,Analista en Inteligencia Artificial,5411 Hub,"None, US","Descripción del Puesto:
+Estamos buscando un Analista en Inteligencia Artificial para integrarse a nuestro equipo de Desarrollo e Innovación. En este rol, serás responsable de diseñar, desarrollar y entrenar modelos de aprendizaje automático y profundo; realizar análisis de datos; desplegar y mantener soluciones de IA; y llevar a cabo investigaciones para mejorar nuestros modelos. Trabajarás en colaboración con distintos departamentos para identificar problemas y oportunidades que puedan ser resueltos mediante IA, y presentarás tus resultados de manera clara y concisa a los stakeholders.
+
+Responsabilidades Principales:
+
+Desarrollo de Modelos de IA:
+• Diseñar, desarrollar y entrenar modelos de aprendizaje automático y aprendizaje profundo.
+• Implementar y optimizar algoritmos de IA para tareas específicas.
+
+Análisis de Datos:
+• Realizar análisis exploratorios de datos para identificar patrones y tendencias.
+• Preprocesar y limpiar datos para su uso en modelos de IA.
+
+Implementación y Mantenimiento:
+• Desplegar modelos de IA en entornos de producción.
+• Monitorear y mantener los modelos para asegurar su rendimiento y precisión continua.
+
+Investigación y Mejora Continua:
+• Mantenerse actualizado con los avances en el campo de la IA.
+• Proponer y probar nuevas técnicas y enfoques para mejorar los modelos existentes.
+
+Colaboración y Comunicación:
+• Trabajar en estrecha colaboración con otros departamentos para identificar problemas y oportunidades que puedan resolverse mediante IA.
+• Presentar resultados e insights a los stakeholders de forma clara y concisa.
+
+Principales Desafíos y Proyectos:
+• Identificar oportunidades y beneficios de aplicar IA a procesos productivos.
+• Colaborar con equipos de I+D para desarrollar nuevos productos y procesos innovadores.
+• Asegurar que las soluciones de IA puedan escalarse a otras plantas.
+• Mantener el rendimiento y la precisión de los modelos a medida que se amplían.
+• Superar la resistencia al cambio y garantizar la adopción de nuevas tecnologías.
+• Fomentar una cultura de innovación para mantener a la empresa a la vanguardia en una industria altamente competitiva y en constante evolución.
+
+Requisitos Mínimos:
+• Formación Académica: Ingeniería Electrónica, Ingeniería de Sistemas, Licenciatura en Matemática, Licenciatura en Física o carreras afines.
+• Otros Estudios: Posgrado en IA, Ciencia de Datos o un campo relacionado.
+• Inglés: Avanzado.
+• Área de Experiencia: Procesos industriales y manufactura.
+
+Requisitos Deseables:
+• Conocimientos de programación en Python (prioritario), R, Matlab o C++.
+• Conocimientos de Docker, Kubernetes, SQL y Apache Kafka.
+• Capacidad para aprender rápidamente y adaptarse a los cambios.
+• Pensamiento analítico y capacidad para resolver problemas complejos.
+• Comunicación efectiva para trabajar en equipo y presentar resultados.",[],Inteligencia Artificial,,https://www.5411hub.com/jobs/analista-en-inteligencia-artificial-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+407be7569ba44003d7193a9d5a9f162b,rapidapi1,Senior Machine Learning Engineer,Nunegal Consulting,"None, None","¿Quieres impulsar tu carrera profesional como Machine Learning Engineer?¡Desde Nunegal Consulting tenemos una interesante oportunidad de empleo para ti!
+¿Cómo es trabajar con nosotros?
+- Tenemos una cultura de mejora continua: apostamos por la formación colectiva y te integrarás en un proyecto retador que impulsará tus conocimientos y experiência.
+- Crecimiento profesional: Nuestro cliente es una de las mayores compañías en España.
+- Cercanía: Nunegal forma personas, no números. Nos conocemos por el nombre. Buen rollo: somos un equipo, nos ayudamos y compartimos conocimientos. Además, somos conocidos por nuestro #Nunefest
+- ¿Cómo será tu día a día?
+- Te encargarás de desarrollar el ecosistema que los científicos de datos utilizan para capacitar e implementar
+- Diseñarás y construirás una infraestructura robusta y escalable en la nube para más de 50 máquinas
+- Implementarás y administrarás infraestructura en plataformas cloud como Azure, GCP y AWS
+- Trabajarás en estrecha colaboración con científicos de datos para poner en producción el aprendizaje automático, garantizando la integración perfecta y rendimiento óptimo
+- Investigarás y evaluarás activamente tecnologías que puedan potenciar y mejorar las soluciones de machine learning
+Sobre ti
+- Experiência en desarrollo de soluciones en entornos cloud (Azure, GCP, AWS)
+- Competencia en programación con Python
+- Experiência trabajando con herramientas CI/CD, como Azure DevOps, CircleCI o GitHub
+- Experiência en la implementación, mantenimiento y monitoreo de canales de aprendizaje automático y puntos finales
+- Familiaridad con marcos de procesamiento de big data como Apache Spark
+- Apasionado por investigar y aprender sobre nuevas tecnologías
+- Fuertes habilidades de comunicación para colaborar eficazmente con las partes interesadas y desarrollar soluciones que satisfacen las necesidades de todos
+- Valorable experiência con tecnologías como Docker y orquestación
+- Familiaridad con el trabajo con bases de datos y la optimización de consultas
+- Conocimiento de marcos de aprendizaje automático como TensorFlow o PyTorch
+- Comprensión de los principios de ingeniería de datos y experiência con canalizaciones de datos
+Otros datos :
+- Incorporación a una empresa en constante crecimiento
+- Modalidad de contratación indefinida y teletrabajo
+- Formación continua y ticket restaurante
+- ¡Y muchas sorpresas más!
+Si crees que tu perfil puede encajar, ¡no dudes en inscribirte! ¿Cuáles serán los siguientes pasos?
+- Leeremos tu currículum y lo analizaremos
+- En el caso de encajar en esta o en otra de nuestras posiciones, nos pondremos en contacto desde el área de Selección para saber un poco más sobre tus intereses, motivaciones
+- Organizaremos un Teams donde podrás conocer todavía más detalles sobre la vacante y te presentaremos a una persona de tu equipo o al cliente",[],Inteligencia Artificial,2025-07-15T00:00:00.000Z,https://www.recruit.net/job/machine-learning-engineer-jobs/19D3534968995415?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+14e784dc7a79b06488c34874c35f4c62,rapidapi1,Buen Salario Analista De Inteligencia Artificial Senior,Whatjobs,"None, US","Buscamos un Data Scientist senior para formar parte de nuestro equipo de Data y Advanced Analytics. Este equipo está compuesto por más de 50 profesionales con perfiles como ML Engineers, Data Scientists, Big Data Engineers y Software Engineers.Nuestro objetivo es desarrollar plataformas de vanguardia que permitan a nuestros squads analíticos crear soluciones innovadoras basadas en Inteligencia Artificial.El equipo de Advanced Analytics está compuesto por el squad de IA generativa centrado en iniciativas con algoritmos generativos y en el desarrollo de una plataforma interna basada en LLM. El squad de Pricing optimiza promociones y descuentos para mejorar el margen de la compañía. El squad de Producto se focaliza en mejorar las decisiones en los primeros pasos de la creación de la colección. Y finalmente, el squad de personalización crea algoritmos para ofrecer experiencias personalizadas, recomendaciones de productos en tiempo real y el buscador de productos basado en IA en mango.Com.Para este último squad, estamos buscando un/a Data Scientist senior, para trabajar en el desarrollo y refinamiento del nuevo buscador de mango.Com. Este rol implica desarrollar mejoras en los modelos léxicos y semánticos utilizados en la búsqueda híbrida para optimizar el rendimiento en todos los idiomas mediante técnicas de visión por computadora y de procesamiento de lenguaje natural (NLP), y aplicar modelos de personalización en los resultados de búsqueda para ofrecer una experiencia única para cada usuario.Todos los proyectos se desarrollan en la nube de AWS utilizando una variedad de herramientas y servicios avanzados. Entre ellos se incluyen Amazon S3 para almacenamiento, AWS Lambda para computación sin servidor, y diversas APIs para la integración de servicios. Además, empleamos Apache Airflow para la orquestación y programación de flujos de trabajo, y Amazon Elastic Container Registry (ECR) para la gestión de contenedores y Jenkins para su despliegue. Utilizamos MongoDB como nuestra base de datos NoSQL y Databricks para nuestro Datalake.Descripción del puesto:
+Como Data Scientist senior, tendrás la responsabilidad de desarrollar algoritmos avanzados de aprendizaje automático e Inteligencia Artificial para mejorar nuestros procesos y decisiones comerciales principales. Trabajará con un sólido enfoque de ingeniería (por ejemplo, integración continua, automatización de pruebas, etc.) en un sólido equipo de ingenieros de datos y científicos de datos.- Desarrollarás algoritmos avanzados de aprendizaje automático e Inteligencia Artificial para mejorar nuestros procesos y decisiones comerciales principales.- Trabajarás con un sólido enfoque de ingeniería (por ejemplo, integración continua, automatización de pruebas, etc.) en un sólido equipo de ingenieros de datos y científicos de datos.- Utilizarás Spark para escalar tus modelos y aprovecharás las herramientas de MLOps para desplegarlos en producción.- Interactuarás con las partes interesadas del negocio para asegurar la alineación y la adopción adecuadas;
+y participarás en la entrega del proyecto de principio a fin.- Trabajarás con un enfoque rápido e iterativo en nuevas ideas y pruebas de conceptos.- Estarás conectado a los últimos desarrollos en Data Science y MLOps e invertirás tiempo en traer nuevas tecnologías y mejores prácticas a Mango.Requisitos:
+- Al menos 4 años de experiencia como Data Scientist.- Grado o Máster en Ciencias de Datos, Inteligencia artificial, Informática, Matemáticas, u otros campos cuantitativos.- Al menos 4 años de experiencia desarrollando en Python, u otro lenguaje orientado a objetos.- Experiencia desarrollando en PySpark para procesar grandes volúmenes de información de manera eficiente.- Experiencia desarrollando técnicas de Procesamiento de Lenguaje Natural (NLP), incluyendo el uso de modelos de lenguaje, análisis semántico y clasificación de texto.- Experiencia desarrollando soluciones de machine learning end-to-end, desde la fase de prototipo hasta la puesta en producción y mantenimiento.- Experiencia trabajando con servicios Cloud (por ejemplo, AWS, Google Cloud, Azure) y en entornos con computación distribuida.- Experiencia desarrollando con un sólido enfoque de programación y desarrollo de software, incluyendo tests, automatizaciones, construcción de pipelines de CI/CD, utilizando herramientas como Docker, Jenkins y Git.- Se valora positivamente tener experiencia en el desarrollo e implementación de motores de búsqueda (por ejemplo, Elasticsearch, OpenSearch, Typesense, etc).- Se valora positivamente tener experiencia en el desarrollo e implementación de soluciones con modelos de IA generativa como GPT-4 o similares, incluyendo técnicas como Prompt Engineering y Retrieval-Augmented Generation (RAG).Beneficios:
+- Incorporación inmediata con contrato indefinido.- Ofrecemos horario flexible con jornada intensiva todos los viernes y la mayoría de las vigilias de festivos.- Nuestras oficinas se encuentran en Palau- Solita i Plegamans.- Posibilidad de teletrabajo en un 50%.- 35% de descuento en todas nuestras líneas.- Te podrás formar a nivel técnico en plataformas como O'Reilly, entre otras, así como en idiomas, y en habilidades para tu desarrollo personal.- Política de referrals, podrás participar en la incorporación de talento a nuestros equipos, y te recompensaremos por ello.- Transporte gratuito de empresa desde Barcelona y el Vallès para llegar a nuestras oficinas centrales.- Servicio de fisioterapia en las oficinas centrales, así como sala de fitness y vestuarios por si te gusta hacer deporte en tu tiempo libre.- Workshops, meetups, comunidades de prácticas, team buildings y company meetings.- Paquete de retribución flexible con ventajas fiscales:
+seguro médico, formación, descuento comedor, guarderías etc.- Servicio de comedor y cocina en las instalaciones de la central. La empresa subvenciona parte del menú diario, así como los artículos de cafetería.- Servicio médico propio en las instalaciones de la central.Otras oportunidades:
+- Ambiente de trabajo cercano, inspirador y ambicioso, trabajarás con un gran equipo que va en la misma dirección para conseguir los mejores resultados.- Oportunidades constantes de desarrollo con retos muy variados que generan aprendizaje en el puesto de trabajo.",[],Inteligencia Artificial,2025-07-15T00:00:00.000Z,https://www.recruit.net/job/buen-salario-analista-de-inteligencia-jobs/ACCAFA71D7A3A442?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+6c4c6a0410af083fd1092acded864576,rapidapi1,Data Engineer / Machine Learning Specialist - Remoto,Vermont Solutions,"None, None","Join to apply for the Data Engineer / Machine Learning Specialist - Remoto role at Vermont Solutions
+
+1 week ago Be among the first 25 applicants
+
+Join to apply for the Data Engineer / Machine Learning Specialist - Remoto role at Vermont Solutions
+
+Get AI-powered advice on this job and more exclusive features.
+
+Data Engineer / Machine Learning Specialist
+¡Hola! En Vermont Solutions estamos buscando a un Data Engineer / Machine Learning Specialist para unirse a nuestro equipo en cliente del sector bancario. Si te apasiona el mundo de los datos y la inteligencia artificial, ¡sigue leyendo!
+¿Qué buscamos?
+Buscamos a alguien con mínimo 2 años de experiencia en el ámbito de la ingeniería de datos y el aprendizaje automático. Si dominas herramientas como Python , Spark , PySpark , SQL y NoSQL , además de tener experiencia en plataformas de nube como Azure Databricks , te estamos buscando a ti.
+Tus Responsibilities:
+• Procesamiento de datos: Transforma y estructura datos en grandes volúmenes usando técnicas de Big Data.
+• Análisis y visualización: Crea visualizaciones impactantes usando Tableau y Power BI, y explora los datos con herramientas como Matplotlib.
+• Modelado y optimización: Entrena modelos de Machine Learning, incluyendo técnicas de regresión, clasificación, clustering y reducción de dimensionalidad.
+• Estadística: Aplica técnicas de estadística inferencial y probabilidad para analizar datos y obtener información valiosa.
+• Colaboración: Trabaja con un equipo multidisciplinario y contribuye a un ambiente innovador e inclusivo.
+
+Skills que necesitamos:
+• Experiencia con Python, Spark, PySpark, SQL y NoSQL.
+• Conocimiento en Azure Databricks y herramientas de visualización como Tableau y Power BI.
+• Familiaridad con técnicas avanzadas de Machine Learning y estadística.
+• Capacidad de trabajar con datos en Big Data y de realizar análisis complejos.
+
+Lo que te ofrecemos:
+• Modalidad 100% remoto
+• Retribución flexible: Beneficios adaptados a tus necesidades, incluyendo un seguro médico y opciones para transporte y guardería.
+• Plan de carrera: Crece profesionalmente con nuestras oportunidades de formación y certificaciones.
+
+¿Listo para unirte a nosotros?
+Si te apasiona el análisis de datos, la optimización de modelos y quieres ser parte de un equipo innovador, ¡no esperes más! Únete a nosotros y forma parte de una empresa que realmente valora a sus empleados y sus aportes.
+Estamos emocionados por conocerte y descubrir cómo puedes contribuir a nuestras metas mientras creces en tu carrera. ¡Aplica ya y sé parte de Vermont Solutions!
+Seniority level
+• Seniority level Not Applicable
+
+Employment type
+• Employment type Full-time
+
+Job function
+• Job function Information Technology
+• Industries Technology, Information and Internet
+
+Referrals increase your chances of interviewing at Vermont Solutions by 2x
+
+Get notified about new Data Engineer jobs in Madrid, Community of Madrid, Spain .
+
+Madrid, Community of Madrid, Spain 1 month ago
+
+Madrid, Community of Madrid, Spain 2 months ago
+
+Madrid, Community of Madrid, Spain 3 weeks ago
+
+Madrid, Community of Madrid, Spain 3 weeks ago
+
+Madrid, Community of Madrid, Spain 3 weeks ago
+
+Madrid, Community of Madrid, Spain 3 months ago
+
+Madrid, Community of Madrid, Spain 1 month ago
+
+Madrid, Community of Madrid, Spain 5 months ago
+
+Madrid, Community of Madrid, Spain 2 weeks ago
+
+Madrid, Community of Madrid, Spain 3 weeks ago
+
+Madrid, Community of Madrid, Spain 2 years ago
+Python Backend Junior Software Engineer - Remote 4 days a week (Europe)
+
+Madrid, Community of Madrid, Spain $30,000.00-$40,000.00 3 weeks ago
+
+Sevilla La Nueva, Community of Madrid, Spain 3 months ago
+
+Madrid, Community of Madrid, Spain 2 weeks ago
+
+Madrid, Community of Madrid, Spain 1 month ago
+Business Intelligence Engineer (Power BI)
+
+Madrid, Community of Madrid, Spain 1 month ago
+
+Madrid, Community of Madrid, Spain 1 month ago
+Software Engineer (Python) - Data Platform
+
+Greater Madrid Metropolitan Area 4 months ago
+
+We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+#J-18808-Ljbffr",[],Inteligencia Artificial,2025-07-17T23:00:00.000Z,https://www.recruit.net/job/data-engineer-machine-learning-specialist-jobs/C6F60F7514748F18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+1bdfd66bf95a7803945947fb22d73819,rapidapi1,Artificial Intelligence Engineer,Whatjobs,"Sax, US","Desde Paul Marlex nos encontramos en la búsqueda de un/a Ingeniero/a de Inteligencia Artificial con al menos 2 años de experiencia para unirse a una empresa de la industrias farmacéutica a las afueras de Donostia.La persona seleccionada participará en el diseño, desarrollo e implementación de soluciones basadas en IA para optimizar procesos, analizar datos complejos y apoyar la innovación en el desarrollo de fármacos y la producción.Responsabilidades:
+- Desarrollo e implementación de modelos de IA y aprendizaje automático aplicados a datos clínicos, genómicos y de producción farmacéutica.- Colaborar con equipos multidisciplinares para integrar soluciones inteligentes en diferentes áreas (I+D, calidad, producción).- Optimización y automatización de procesos mediante técnicas de inteligencia artificial.- Mantenimiento y mejora continua de modelos predictivos.- Documentación técnica y presentación de resultados a stakeholders.Requisitos:
+- Titulación en Ingeniería (Informática, Telecomunicaciones, Matemáticas) o similar, con especialización en Inteligencia Artificial o Machine Learning.- Mínimo 2 años de experiencia demostrable en proyectos de IA, preferentemente en sectores relacionados con salud o farmacéutica.- Conocimiento avanzado en Python, TensorFlow, PyTorch, NumPy, Jupyter, etc.- Experiencia en análisis de datos, Big Data y procesamiento de señales o imágenes será valorada.- Nivel alto de inglés (lectura técnica y comunicación).- Proactividad, capacidad de trabajo en equipo y orientación a resultados.Qué ofrecen:
+- Incorporación a una empresa que acaba de realizar una importante inversión en su producto y crecimiento.- Proyecto retador con impacto real en salud y bienestar.- Desarrollo profesional y formación continua, con un plan de carrera individualizado.- Salario:
+36.000 a 39.000 euros b.A.",[],Inteligencia Artificial,2025-07-16T00:00:00.000Z,https://www.recruit.net/job/artificial-intelligence-engineer-jobs/81C3E689D17114E5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+a13c7ab6f98d8bd71e3fd458922b04ca,rapidapi1,"Data Scientist, Multimodal Data & Analytics in Clinical Development",U014 (FCRS = US014) Novartis Pharmaceuticals Corporation,"None, US","Job Description Summary The Multimodal Data and Analytics group in Advanced Quantitative Sciences, Novartis Development is searching for a Data Scientist to support the design and hands-on execution of modeling strategies using patient-level -omics, imaging and clinical outcomes data. As part of interdisciplinary drug development teams, your work will influence development decisions and inform late phase trials and regulatory submissions. Your focus will be on combining your domain knowledge of drug development, trials and disease biology with cutting-edge methodologies (from survival models to machine learning/AI) and technologies (imaging and multi-omics) to create tangible impact on clinical trials and patients. Job Description Your Key Responsibilities: Perform hands-on modeling of integrated clinical, outcomes and high-dimensional, patient-level biomarker data from clinical trials (genomics, transcriptomics, proteomics, flow cytometry, medical imaging, etc.) to generate fit-for-purpose evidence that is applied for decision making in drug development programs. Contribute to planning, execution, interpretation, validation and communication of innovative exploratory biomarker and AI analyses, to facilitate internal decision making, and support submissions of candidate drug and associated companion diagnostics packages. In collaboration with cross-functional partners, provide quantitative, scientific and strategic input to as well as hands-on execution of the integrated data science and AI strategies for one or more clinical programs in drug development. Collaborate with other line functions. Explain statistical concepts in an easily understandable way to non-statisticians and provide adequate statistical justifications and interpretation of analysis results for actions/decisions/statements, when required. Contribute to departmental initiatives (e.g., infrastructure/ process-related or scientific activities) Contribute to the scientific content of materials for internal decision boards/regulatory/submission documents: Briefing Books, decision criteria, trial design(s), responses to Health Authority questions Video Link https://www.youtube.com/watch?v=vUAhCMIZbys This position will be located at Cambridge, MA site and will not have the ability to be located remotely. Role Requirements: Essential Requirements: Advanced degree in computational biology, statistics, data science or other quantitative discipline with extensive exposure to clinical trials and drug development. MS with 5+ years relevant work experience or PhD with 2+ years of relevant work experience in the pharma/biotech industry; level will commensurate with experience. Strong knowledge and understanding of (multivariate implementations of) statistical methods such as time to event analysis, machine learning, meta-analysis, mixed effect modeling, longitudinal modeling, Bayesian methods, variable selection methods (e.g., lasso, elastic net, random forest), design of clinical trials. Experience applying machine learning or deep learning in a clinical trial context is useful. Hands-on familiarity with statistical and analytical methods for genetics and -omics data analysis and working knowledge of high dimensional biomarker platforms (e.g., next generation sequencing, transcriptomics, proteomics, flow cytometry, etc.). Good understanding of clinical study design principles and familiarity working with patient-level clinical data in a clinical trial (GxP) setting Strong programming skills in R and Python. Demonstrated knowledge of data visualization, data engineering, exploratory analysis and predictive modeling. Good interpersonal and communication skills (verbal and writing) Ability to leverage technical and scientific information from a variety of sources in order to effectively enable data analysis and the scientific interpretation of analysis results. Ability to develop and deliver clear and concise presentations for both internal and external meetings in key decision-making situations. Desired Requirements: Experience with modern data science methods and designing machine learning or other AI architectures for applications in healthcare Additional expertise in big data, web-based applications, good coding practice, source code management (Git, bitbucket) Exposure to and hands-on experience with various forms of RWE is a plus. Experience analyzing and using models built based on PET-CT/MRI scans, H&E digital pathology, IHC, OCR, physiological sequence data (ECGs) or other non-canonical data formats a plus. Novartis Compensation and Benefit Summary: The pay range for this position at commencement of employment is expected to be between: $119,700-$222,300/year or $132,300-$245,700/year; however, while salary ranges are effective from 1/1/25 through 12/31/25, fluctuations in the job market may necessitate adjustments to pay ranges during this period. Further, final pay determinations will depend on various factors, including, but not limited to geographical location, experience level, knowledge, skills, and abilities. The total compensation package for this position may also include other elements, including a sign-on bonus, restricted stock units, and discretionary awards in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment. If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors. Why Novartis: Our purpose is to reimagine medicine to improve and extend people’s lives and our vision is to become the most valued and trusted medicines company in the world. How can we achieve this? With our people. It is our associates that drive us each day to reach our ambitions. Be a part of this mission and join us! Learn more here: https://www.novartis.com/about/strategy/people-and-culture You’ll receive: You can find everything you need to know about our benefits and rewards in the Novartis Life Handbook. https://www.novartis.com/careers/benefits-rewards Commitment to Diversity & Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. Accessibility and Reasonable Accommodations: The Novartis Group of Companies are committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please send an e-mail to tas.nacomms@novartis.com call +1(877)395-2339 and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to learn more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network Novartis is unable to offer relocation support for this role: please only apply if this location is accessible for you. EEO Statement: The Novartis Group of Companies are Equal Opportunity Employers. We do not discriminate in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, sex, national origin, age, sexual orientation, gender identity or expression, marital or veteran status, disability, or any other legally protected status. Accessibility and reasonable accommodations The Novartis Group of Companies are committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or to perform the essential functions of a position, please send an e-mail to us.reasonableaccommodations@novartis.com or call +1(877)395-2339 and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Salary Range $119,700.00 - $222,300.00 Skills Desired Alfabetización en datos, Algoritmos de aprendizaje automático, Apache Hadoop, Aprendizaje automático (ML), Aprendizaje profundo, Big Data, Calidad de los datos, Ciencia de datos, Curiosidad, Data Strategy, Gestión de datos, Gobernanza de datos, Master Data Management, Matemática aplicada, Proteómica, Python (lenguaje de programación), R (Programming Language), Statistical Modeling, Visualización de datos Improving the lives of people living with disease takes more than innovative science. It takes a focus on the needs of people and a community committed to meeting them. It takes a team of people like you. Working together. Learning together. Thriving together. Discover how you can join us in changing people’s lives. In the context of China Cross-Border Data Transfer (CBDT) policy, if you need to apply for a position in China, please go to the local Recruiting System TaleNov .",[],Inteligencia Artificial,,https://novartis.wd3.myworkdayjobs.com/es/Novartis_Careers/job/Data-Scientist--Multimodal-Data---Analytics-in-Clinical-Development_REQ-10052855-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18
+33e9241c49da89e41bd466cf018c1d9b,rapidapi1,Científico​/a de datos en Ciberseguridad,AIR Institute,"Iowa, US","Location: Iowa
+
+El Científico de Datos en Ciberseguridad es un profesional clave en la protección de sistemas y redes mediante el análisis avanzado de datos y el desarrollo de algoritmos de detección de amenazas. Su objetivo principal es identificar patrones de ciberataques emergentes y desarrollar soluciones innovadoras basadas en inteligencia artificial (IA) y aprendizaje automático (ML). Además, es responsable de la integración de modelos de lenguaje grande (LLM) en estrategias de ciberseguridad para mejorar la automatización de la detección y respuesta ante incidentes.
+Responsabilidades
+
+y funciones
+• Análisis de datos y detección de amenazas: Analizar grandes volúmenes de datos de ciberinteligencia para identificar patrones de amenazas emergentes y tendencias en ciberataques. Evaluar y mejorar continuamente los modelos de detección mediante el análisis de falsos positivos y negativos. Detectar anomalías en sistemas y redes para identificar posibles amenazas. Analizar patrones de comportamiento malicioso y desarrollar estrategias de mitigación.
+• Desarrollo e implementación de algoritmos: Diseñar, desarrollar e implementar algoritmos avanzados de detección de amenazas basados en IA y ML. Implementar modelos de lenguaje grande (LLM) en procesos de ciberseguridad para mejorar la detección y respuesta a incidentes. Procesar y visualizar datos para facilitar la interpretación de resultados y la toma de decisiones.
+• Colaboración e integración de soluciones: Colaborar con equipos de ciberseguridad y TI para integrar soluciones analíticas en herramientas de seguridad existentes. Documentar métodos, algoritmos y resultados para compartir con otros equipos técnicos y de gestión.
+• Investigación y mejora continua: Investigar nuevas tendencias y tecnologías en ciberseguridad y análisis de datos. Mantenerse actualizado en avances de IA, ML y ciberseguridad para mejorar las estrategias de protección.Características personales
+
+Esencial
+• Título universitario en ramas científico-técnicas (ingeniería informática, matemáticas, estadística o similares).
+• Máster Universitario y/o Doctorado en seguridad informática, inteligencia artificial o análisis de datos.
+
+Experiencia
+
+Esencial
+• Trabajo con grandes volúmenes de datos y sistemas de procesamiento en tiempo real.
+• Implementación de soluciones de detección de amenazas en redes y sistemas informáticos.
+• Experiencia en ciencia de datos aplicada a la ciberseguridad.
+• Participación en proyectos relacionados con ciberseguridad.
+• Publicación de artículos científicos o presentaciones en conferencias especializadas (deseable).
+Conocimientos
+• Dominio de lenguajes de programación como Python, R, Scala o Java.
+• Conocimiento de frameworks y bibliotecas de aprendizaje automático como Tensor Flow, PyTorch y Scikit-learn.
+• Conocimientos en ciberseguridad, detección de intrusos y análisis de malware.
+• Ganas de aprender: curiosidad y disposición para mantenerse actualizado en avances tecnológicos.
+• Trabajo en equipo: buena comunicación y apertura a la retroalimentación.
+• Proactividad: iniciativa en la optimización de código, procesos y tecnologías.
+• Adaptabilidad: disposición para aprender y trabajar con diversas herramientas y tecnologías.
+• Atención al detalle: enfoque en calidad y precisión en tareas operativas.
+
+Si estás interesado en trabajar con nosotros y te apasionan áreas como mantenimiento predictivo, Industria 4.0, Internet de las Cosas, Bioinformática, Smart Cities, Social Computing y Blockchain, rellena los campos y envía tu Curriculum Vitae a ¡Esperamos tu aplicación!
+#J-18808-Ljbffr",[],Inteligencia Artificial,2025-07-17T23:00:00.000Z,https://www.learn4good.com/jobs/louisiana/info_technology/4380047758/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,,[],2025-07-18

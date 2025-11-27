@@ -1,0 +1,596 @@
+---
+title: "Análisis de Empleabilidad"
+subtitle: "Reporte de Ofertas Laborales y Habilidades Blandas Extraídas de Múltiples Plataformas"
+description: "Análisis y extracción exhaustivo de ofertas de trabajo para carreras ingenieria y ciencias"
+date: last-modified
+author:
+  name: "Dilan Andrade"
+  affiliation: "Proyecto Habilidades blandas en la Empleabilidad"
+title-block-banner: "#2E8B57"
+format:
+  html:
+    toc: true
+    toc-title: "Contenido"
+    toc-depth: 3
+    code-tools: true
+    code-fold: true
+    theme: cosmo
+    css: "custom.css"
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+    fig-width: 10
+    fig-height: 6
+jupyter: env_dtic
+lang: Es-es
+---
+
+# Resumen Ejecutivo
+
+Este documento presenta un análisis comprehensivo de ofertas de trabajo para carreras del área Ingenieria y Ciencias, basado en datos extraídos de múltiples plataformas de empleo.
+
+## Objetivos del Análisis
+
+- Analizar la distribución de ofertas laborales por plataforma
+- Identificar las carreras con mayor demanda
+- Examinar la distribución geográfica de oportunidades
+- Proporcionar insights para la toma de decisiones académicas y profesionales
+
+---
+
+# Configuración del Entorno
+
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+import numpy as np
+import warnings
+warnings.filterwarnings('ignore')
+
+# Configuración de estilo
+try:
+    plt.style.use('seaborn-v0_8')
+except:
+    plt.style.use('default')
+sns.set_palette("husl")
+pd.set_option('display.max_columns', None)
+pd.set_option('display.width', None)
+
+# Configuración de colores
+colors = ['#2E8B57', '#4682B4', '#DC143C', '#FF8C00', '#9370DB']
+```
+
+---
+
+# Carga y Preparación de Datos
+
+```{python}
+# Rutas de los archivos (desde el directorio actual)
+base_path = "./Data/"
+
+# Cargar datos principales
+resumen_plataformas = pd.read_csv(f"{base_path}resumen_plataformas.csv")
+top_countries = pd.read_csv(f"{base_path}top_countries_full.csv")
+tabla_carreras = pd.read_csv(f"{base_path}tabla_carrera_por_plataforma.csv")
+region_share = pd.read_csv(f"{base_path}region_share_table.csv")
+carrera_pais = pd.read_csv(f"{base_path}carrera_pais_numero_de_ofertas.csv")
+
+# Cargar datos de habilidades blandas
+habilidades_demandadas = pd.read_csv(f"{base_path}habilidades_mas_demandadas.csv")
+habilidades_carrera = pd.read_csv(f"{base_path}habilidades_por_carrera.csv")
+habilidades_pais = pd.read_csv(f"{base_path}habilidades_por_pais.csv")
+habilidades_carrera_pais = pd.read_csv(f"{base_path}habilidades_por_carrera_y_pais.csv")
+
+print(" Datos cargados exitosamente")
+print(f" Resumen de datasets:")
+print(f"   • Plataformas: {len(resumen_plataformas)} plataformas")
+print(f"   • Países: {len(top_countries)} países")
+print(f"   • Carreras: {len(tabla_carreras)} carreras")
+print(f"   • Habilidades únicas: {len(habilidades_demandadas)} habilidades")
+```
+
+---
+
+# Análisis por Plataformas
+
+## Distribución de Ofertas por Plataforma
+
+```{python}
+# Agrupar plataformas LinkedIn (RapidAPI 1, RapidAPI 2, CoreSignal)
+resumen_agrupado = resumen_plataformas.copy()
+
+# Identificar filas de LinkedIn
+linkedin_mask = resumen_agrupado['plataforma'].isin(['rapidapi1', 'rapidapi2', 'coresignal'])
+linkedin_total = resumen_agrupado[linkedin_mask]['total_ofertas'].sum()
+
+# Crear nuevo dataframe agrupado
+resumen_final = resumen_agrupado[~linkedin_mask].copy()
+linkedin_row = pd.DataFrame({
+    'plataforma': ['LinkedIn'],
+    'total_ofertas': [linkedin_total],
+    'porcentaje': [(linkedin_total / resumen_plataformas['total_ofertas'].sum()) * 100]
+})
+
+resumen_final = pd.concat([resumen_final, linkedin_row], ignore_index=True)
+resumen_final = resumen_final.sort_values('total_ofertas', ascending=False)
+
+print(" Resumen de ofertas por plataforma:")
+display(resumen_final.round(2))
+```
+
+```{python}
+#| fig-cap: "Participación porcentual por plataforma"
+#| label: fig-pie-plataformas
+
+# Gráfico de torta con plataformas agrupadas
+fig = px.pie(
+    resumen_final, 
+    values='total_ofertas', 
+    names='plataforma',
+    title=' Participación Porcentual por Plataforma',
+    color_discrete_sequence=colors
+)
+
+fig.update_traces(textposition='inside', textinfo='percent+label')
+fig.update_layout(height=500)
+fig.show()
+```
+
+## Insights de Plataformas
+
+```{python}
+total_ofertas = resumen_final['total_ofertas'].sum()
+plataforma_dominante = resumen_final.loc[resumen_final['total_ofertas'].idxmax(), 'plataforma']
+porcentaje_dominante = resumen_final.loc[resumen_final['total_ofertas'].idxmax(), 'porcentaje']
+
+print(f" Hallazgos Clave:")
+print(f"   • Total de ofertas analizadas: {total_ofertas:,}")
+print(f"   • Plataforma dominante: {plataforma_dominante} ({porcentaje_dominante:.1f}%)")
+print(f"   • Plataformas consolidadas: {len(resumen_final)}")
+```
+
+---
+
+# Análisis Geográfico
+
+## Top 15 Países con Más Ofertas
+
+**Nota metodológica**: Estados Unidos ha sido excluido de este análisis ya que su dominancia abrumadora en el mercado global (representando más del 60% de todas las ofertas) genera ruido estadístico que impide una evaluación clara de oportunidades en mercados alternativos y emergentes.
+
+```{python}
+# Excluir Estados Unidos y preparar top 15 con Ecuador incluido
+top_countries_sin_usa = top_countries[top_countries['pais'] != 'United States'].copy()
+
+# Asegurarse de que Ecuador esté incluido si no está en el top 15
+ecuador_data = top_countries[top_countries['pais'] == 'Ecuador']
+if not ecuador_data.empty and 'Ecuador' not in top_countries_sin_usa.head(15)['pais'].values:
+    # Incluir Ecuador en la posición que le corresponde
+    top_14 = top_countries_sin_usa.head(15)
+    top_15_con_ecuador = pd.concat([top_14, ecuador_data], ignore_index=True)
+else:
+    top_15_con_ecuador = top_countries_sin_usa.head(15)
+```
+
+```{python}
+#| fig-cap: "Top 15 países con mayor número de ofertas (excluyendo Estados Unidos)"
+#| label: fig-top-countries
+
+# Gráfico horizontal de países con colores
+fig = px.bar(
+    top_15_con_ecuador.sort_values('count'), 
+    x='count', 
+    y='pais',
+    orientation='h',
+    title=' Top 15 Países con Mayor Número de Ofertas',
+    color='count',
+    color_continuous_scale='Viridis',
+    text='count'
+)
+
+fig.update_traces(texttemplate='%{text:,.0f}', textposition='outside')
+fig.update_layout(
+    xaxis_title="Número de Ofertas",
+    yaxis_title="País",
+    height=600,
+    showlegend=False
+)
+
+fig.show()
+```
+
+## Concentración Geográfica por Regiones
+
+```{python}
+# Mostrar datos de concentración regional
+print(" Concentración Geográfica por Regiones:")
+display(region_share.round(2))
+
+# Análisis de concentración sin Estados Unidos
+total_ofertas_sin_usa = top_countries_sin_usa['count'].sum()
+top_5_sin_usa = top_countries_sin_usa.head(5)['count'].sum()
+concentracion_top5_sin_usa = (top_5_sin_usa / total_ofertas_sin_usa) * 100
+
+print(f" Análisis de Concentración (sin Estados Unidos):")
+print(f"   • Top 5 países concentran: {concentracion_top5_sin_usa:.1f}% de las ofertas")
+print(f"   • Ecuador presente con oportunidades locales importantes")
+```
+
+---
+
+# Análisis por Carreras
+
+## Demanda por Carrera Académica
+
+```{python}
+# Preparar datos de carreras (top 10) - Solo para el gráfico, excluyendo TOTAL_GENERAL
+tabla_carreras_filtrada = tabla_carreras[
+    ~tabla_carreras['carrera'].str.contains('TOTAL_GENERAL|Total_General|total_general', case=False, na=False)
+]
+top_carreras = tabla_carreras_filtrada.nlargest(10, 'TOTAL_CARRERA')[['carrera', 'TOTAL_CARRERA']]
+```
+
+```{python}
+#| fig-cap: "Top 10 carreras con mayor número de ofertas"
+#| label: fig-top-carreras
+
+# Gráfico de barras para carreras con colores
+fig = px.bar(
+    top_carreras.sort_values('TOTAL_CARRERA'),
+    x='TOTAL_CARRERA',
+    y='carrera',
+    orientation='h',
+    title=' Top 10 Carreras con Mayor Demanda Laboral',
+    color='TOTAL_CARRERA',
+    color_continuous_scale='plasma',
+    text='TOTAL_CARRERA'
+)
+
+fig.update_traces(texttemplate='%{text:,.0f}', textposition='outside')
+fig.update_layout(
+    xaxis_title="Número de Ofertas",
+    yaxis_title="Carrera",
+    height=600,
+    showlegend=False
+)
+
+fig.show()
+```
+
+## Distribución de Carreras por Países
+
+```{python}
+# Obtener top 3 carreras más demandadas (excluyendo totales generales)
+tabla_carreras_filtrada = tabla_carreras[
+    ~tabla_carreras['carrera'].str.contains('TOTAL|Total|total', case=False, na=False)
+]
+top_3_carreras = tabla_carreras_filtrada.nlargest(3, 'TOTAL_CARRERA')['carrera'].tolist()
+
+# Filtrar datos de carrera-país excluyendo Estados Unidos y totales
+carreras_principales = carrera_pais[
+    (carrera_pais['carrera'].isin(top_3_carreras)) & 
+    (carrera_pais['pais'] != 'United States') &
+    (~carrera_pais['carrera'].str.contains('TOTAL|Total|total', case=False, na=False))
+]
+
+print(f" Las 3 carreras más demandadas son:")
+for i, carrera in enumerate(top_3_carreras, 1):
+    print(f"   {i}. {carrera}")
+```
+
+```{python}
+#| fig-cap: "Distribución geográfica por carrera individual"
+#| label: fig-carrera-1
+
+# Gráfico individual para la primera carrera más demandada
+carrera_1 = top_3_carreras[0]
+carrera_1_data = carreras_principales[carreras_principales['carrera'] == carrera_1]
+carrera_1_data = carrera_1_data.nlargest(10, 'numero_de_ofertas')
+
+fig1 = px.bar(
+    carrera_1_data.sort_values('numero_de_ofertas'),
+    x='numero_de_ofertas',
+    y='pais',
+    orientation='h',
+    title=f' {carrera_1} - Distribución por Países',
+    color='numero_de_ofertas',
+    color_continuous_scale='Viridis',
+    text='numero_de_ofertas'
+)
+
+fig1.update_traces(texttemplate='%{text:,.0f}', textposition='outside')
+fig1.update_layout(
+    xaxis_title="Número de Ofertas",
+    yaxis_title="País",
+    height=500,
+    showlegend=False
+)
+
+fig1.show()
+```
+
+```{python}
+#| fig-cap: "Segunda carrera más demandada por países"
+#| label: fig-carrera-2
+
+# Gráfico individual para la segunda carrera más demandada
+carrera_2 = top_3_carreras[1]
+carrera_2_data = carreras_principales[carreras_principales['carrera'] == carrera_2]
+carrera_2_data = carrera_2_data.nlargest(10, 'numero_de_ofertas')
+
+fig2 = px.bar(
+    carrera_2_data.sort_values('numero_de_ofertas'),
+    x='numero_de_ofertas',
+    y='pais',
+    orientation='h',
+    title=f' {carrera_2} - Distribución por Países',
+    color='numero_de_ofertas',
+    color_continuous_scale='plasma',
+    text='numero_de_ofertas'
+)
+
+fig2.update_traces(texttemplate='%{text:,.0f}', textposition='outside')
+fig2.update_layout(
+    xaxis_title="Número de Ofertas",
+    yaxis_title="País",
+    height=500,
+    showlegend=False
+)
+
+fig2.show()
+```
+
+```{python}
+#| fig-cap: "Tercera carrera más demandada por países"
+#| label: fig-carrera-3
+
+# Gráfico individual para la tercera carrera más demandada
+carrera_3 = top_3_carreras[2]
+carrera_3_data = carreras_principales[carreras_principales['carrera'] == carrera_3]
+carrera_3_data = carrera_3_data.nlargest(10, 'numero_de_ofertas')
+
+fig3 = px.bar(
+    carrera_3_data.sort_values('numero_de_ofertas'),
+    x='numero_de_ofertas',
+    y='pais',
+    orientation='h',
+    title=f' {carrera_3} - Distribución por Países',
+    color='numero_de_ofertas',
+    color_continuous_scale='cividis',
+    text='numero_de_ofertas'
+)
+
+fig3.update_traces(texttemplate='%{text:,.0f}', textposition='outside')
+fig3.update_layout(
+    xaxis_title="Número de Ofertas",
+    yaxis_title="País",
+    height=500,
+    showlegend=False
+)
+
+fig3.show()
+```
+
+---
+
+# Análisis de Habilidades Blandas
+
+## Habilidades Más Demandadas en el Mercado
+
+```{python}
+#| fig-cap: "Top 6 habilidades blandas más demandadas"
+#| label: fig-habilidades-demandadas
+
+# Gráfico de barras horizontal para top de habilidades con frecuencia
+top_6_habilidades = habilidades_demandadas.head(7)
+
+fig = px.bar(
+    top_6_habilidades.sort_values('frecuencia_total'),
+    x='frecuencia_total',
+    y='habilidad',
+    orientation='h',
+    title='🎯 Top 6 Habilidades Blandas Más Demandadas',
+    color='frecuencia_total',
+    color_continuous_scale='viridis',
+    text='frecuencia_total'
+)
+
+fig.update_traces(texttemplate='%{text:,.0f}', textposition='outside')
+fig.update_layout(
+    xaxis_title="Frecuencia en Ofertas de Empleo",
+    yaxis_title="Habilidad",
+    height=400,
+    showlegend=False
+)
+
+fig.show()
+```
+
+## Mapa de Calor: Habilidades Blandas por Carrera
+
+```{python}
+#| fig-cap: "Distribución porcentual de habilidades blandas por carrera"
+#| label: fig-heatmap-habilidades-carrera
+
+# Crear mapa de calor usando los datos de habilidades por carrera
+# Necesitamos calcular el porcentaje correcto: frecuencia_habilidad / total_frecuencias_carrera
+
+# Primero crear tabla pivot con las frecuencias
+pivot_frecuencias = habilidades_carrera.pivot_table(
+    index='carrera', 
+    columns='habilidad', 
+    values='frecuencia', 
+    fill_value=0
+)
+
+# Calcular porcentajes correctos: cada habilidad / total habilidades por carrera
+# Para que la suma de cada fila sea 100%
+pivot_habilidades = pivot_frecuencias.div(pivot_frecuencias.sum(axis=1), axis=0) * 100
+
+# Obtener las top 10 carreras más demandadas (sin TOTAL_GENERAL)
+top_10_carreras_nombres = tabla_carreras_filtrada.nlargest(10, 'TOTAL_CARRERA')['carrera'].tolist()
+
+# Normalizar nombres de carreras para el matching (reemplazar espacios y mayúsculas)
+carreras_normalizadas = {}
+for carrera in pivot_habilidades.index:
+    carrera_limpia = carrera.replace('_', ' ').title()
+    carreras_normalizadas[carrera] = carrera_limpia
+
+# Encontrar carreras que coincidan (más flexible)
+carreras_disponibles = []
+for carrera_top in top_10_carreras_nombres:
+    for carrera_pivot, carrera_display in carreras_normalizadas.items():
+        # Buscar coincidencias flexibles
+        if (carrera_top.lower().replace(' ', '_') in carrera_pivot.lower() or 
+            carrera_pivot.lower().replace('_', ' ') in carrera_top.lower()):
+            carreras_disponibles.append(carrera_pivot)
+            break
+
+# Si no hay coincidencias, usar las carreras con más datos
+if not carreras_disponibles:
+    carreras_disponibles = pivot_habilidades.sum(axis=1).nlargest(8).index.tolist()
+
+# Tomar las top 7 habilidades más frecuentes
+top_7_habilidades = pivot_habilidades.sum().nlargest(7).index.tolist()
+
+# Preparar datos para el heatmap (máximo 8 carreras)
+heatmap_data = pivot_habilidades.loc[carreras_disponibles[:8], top_7_habilidades]
+
+# Limpiar nombres de carreras para mostrar
+carreras_display = [carrera.replace('_', ' ').title() for carrera in heatmap_data.index]
+habilidades_display = [hab.title() for hab in heatmap_data.columns]
+
+# Obtener ranking global de habilidades (de más a menos frecuente)
+ranking_habilidades = pivot_frecuencias.sum().sort_values(ascending=False)
+
+# Crear mapa de calor usando directamente los valores de porcentaje
+# pero con colores ordenados por ranking de frecuencia global
+fig = px.imshow(
+    heatmap_data.values,
+    x=habilidades_display,
+    y=carreras_display,
+    color_continuous_scale='YlOrRd',
+    aspect='auto',
+    title=' Mapa de Calor: Distribución de Habilidades por Carrera',
+    labels={'color': 'Porcentaje (%)'},
+    zmin=0,
+    zmax=heatmap_data.values.max()
+)
+
+# Agregar valores como texto en cada celda
+max_valor = heatmap_data.values.max()
+for i, carrera in enumerate(carreras_display):
+    for j, habilidad in enumerate(habilidades_display):
+        valor = heatmap_data.iloc[i, j]
+        # Ajustar color del texto basado en el valor relativo
+        color_texto = 'white' if valor > (max_valor * 0.5) else 'black'
+        fig.add_annotation(
+            x=j, y=i,
+            text=f'{valor:.1f}%',
+            showarrow=False,
+            font=dict(color=color_texto, size=9, family='Arial Black')
+        )
+
+fig.update_layout(
+    height=600,
+    xaxis_title="Habilidades Blandas",
+    yaxis_title="Carreras",
+    xaxis={'tickangle': 45},
+    font=dict(size=10)
+)
+
+fig.show()
+
+# Mostrar insights del mapa de calor
+print("📊 INSIGHTS DEL MAPA DE CALOR:")
+print(f"   • Carreras analizadas: {len(carreras_disponibles)}")
+print(f"   • Habilidades evaluadas: {len(top_7_habilidades)}")
+print("   • Interpretación: % = distribución de habilidades dentro de cada carrera")
+```
+
+---
+
+# Conclusiones y Recomendaciones
+
+## Hallazgos Principales
+
+```{python}
+# Calcular estadísticas finales
+total_global = resumen_plataformas['total_ofertas'].sum()
+carrera_top = tabla_carreras.loc[tabla_carreras['TOTAL_CARRERA'].idxmax(), 'carrera']
+ofertas_top_carrera = tabla_carreras['TOTAL_CARRERA'].max()
+pais_top_sin_usa = top_countries_sin_usa.iloc[0]['pais']
+ofertas_top_pais_sin_usa = top_countries_sin_usa.iloc[0]['count']
+habilidad_top = habilidades_demandadas.iloc[0]['habilidad']
+frecuencia_habilidad_top = habilidades_demandadas.iloc[0]['frecuencia_total']
+
+print("🎯 RESUMEN EJECUTIVO - HALLAZGOS PRINCIPALES")
+print("=" * 50)
+print(f"📊 Total de ofertas analizadas: {total_global:,}")
+print(f"🌍 País líder: {pais_top_sin_usa} ({ofertas_top_pais_sin_usa:,} ofertas)")
+print(f"🎯 Habilidad más demandada: {habilidad_top} ({frecuencia_habilidad_top:,} menciones)")
+print(f"🎓 Carreras analizadas: {len(tabla_carreras)}")
+print(f"🧠 Habilidades blandas identificadas: {len(habilidades_demandadas)}")
+```
+
+## Recomendaciones Estratégicas
+
+### 🎯 Para Estudiantes y Profesionales:
+
+**Acción Inmediata:**
+- **Enfocar estudios** en las 3 carreras con mayor demanda: Inteligencia Artificial, Ciencia de Datos, y Sistemas de Información
+- **Desarrollar las 6 habilidades blandas críticas** identificadas en el análisis, priorizando comunicación efectiva y trabajo en equipo
+- **Preparar portafolio** en inglés para acceder a mercados internacionales
+
+**Estrategia Geográfica:**
+- **Considerar oportunidades** en España, Reino Unido y Canadá como mercados primarios alternativos
+- **Evaluar el mercado ecuatoriano** como base de desarrollo profesional antes de internacionalización
+- **Mantener flexibilidad** para trabajo remoto que permita acceso al mercado estadounidense sin residencia
+
+### 🏛️ Para Instituciones Educativas:
+
+**Decisiones Curriculares:**
+- **Invertir recursos** en programas de IA, Ciencia de Datos y Sistemas (77% de la demanda total)
+- **Integrar obligatoriamente** las 6 habilidades blandas más demandadas en todos los programas
+- **Establecer partnerships** con empresas en España y Reino Unido para prácticas profesionales
+
+**Inversión en Infraestructura:**
+- **Crear centros de desarrollo** de habilidades blandas con certificación internacional
+- **Implementar programas** de intercambio académico con universidades en mercados objetivo
+- **Desarrollar plataformas** de empleabilidad conectadas con mercados internacionales
+
+### 🏢 Para Tomadores de Decisiones Gubernamentales:
+
+**Políticas de Desarrollo:**
+- **Fomentar especialización** en las 3 carreras de mayor demanda global mediante incentivos fiscales
+- **Crear programas** de certificación en habilidades blandas reconocidos internacionalmente  
+- **Establecer acuerdos** de reconocimiento de títulos con España, Reino Unido y Canadá
+
+**Estrategia de Inserción Internacional:**
+- **Aprovechar la oportunidad** del mercado estadounidense (60% del mercado global) mediante programas de trabajo remoto
+- **Diversificar riesgos** desarrollando conexiones con los 15 mercados alternativos identificados
+- **Posicionar a Ecuador** como hub tecnológico regional para empresas internacionales
+
+---
+
+# Metodología y Limitaciones
+
+## Metodología de Extracción
+
+- **Fuentes de Datos**: 4 plataformas principales de empleo
+- **Tecnologías Utilizadas**: Python, APIs especializadas, procesamiento automatizado
+
+## Limitaciones del Estudio
+
+- Los datos reflejan ofertas publicadas, no necesariamente posiciones ocupadas
+- Posibles duplicados entre plataformas no fueron completamente eliminados
+- Sesgos inherentes de cada plataforma pueden afectar la representatividad
+
+---
+
+*Documento generado automáticamente por el sistema Jobs Scalper V2*  
+*Para más información o actualizaciones, contactar al equipo de desarrollo*

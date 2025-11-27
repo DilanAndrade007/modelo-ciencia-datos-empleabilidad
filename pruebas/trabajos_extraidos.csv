@@ -1,0 +1,247 @@
+job_id,source,job_title,company,location,description,skills,careers_required,date_posted,url,career_tag,soft_skills_detected,extraction_date
+5471311644e0f3decbfa00ac8783d14b,coresignal,"Developer (Python, CI/CD, API tools) ( f / m / d )",Deutsche Börse,"Prague, Prague, Czechia","Your career at Deutsche Börse Group
+
+Your area of work:
+
+The Chief Technology Officer (CTO) area is at the heart of the Information Technology division of Deutsche Börse Group. The CTO area develops and operates the group-wide IT infrastructure (network, data centers and Cloud), the Group Data & Advanced Analytics and the Enterprise Architecture which significantly contribute to Deutsche Börse Group overall strategy. The CTO area drives digital transformation and leverages innovation while keeping production operations stable are the core pillars of the shared services.
+
+Within the CTO Area, Cloud / Core Infrastructure department enables the usage of public cloud services from Microsoft and Google and provides core infrastructure services such as data center management and non-trading network operations.
+
+You will drive the transformation of modern technologies and infrastructure in a highly regulated capital markets environment; advance innovation and contribute to Deutsche Börse Group’s overall strategy.
+
+Your Responsibilities
+
+
+• Design, develop and operate automated micro segmentation tooling and workflow across hybrid networks on-prem as well as in Google Cloud and Azure
+• Focus on Infrastructure as Code (IaC) and automation, achieving a compliant and efficient workflow
+• Collect, analyse and translate requirements to tech deliverables and projects. Coordinate with all teams contributing to the project to ensure successful delivery Agile best practices.
+
+
+
+Your Profile
+
+
+• A university degree in engineering, information technology, natural science or comparable
+• At least 4 years of: Bash/shell scripting and either Python or Golang, IaC tools (Terraform), CI/CD tools (Built pipelines with GitHub Actions, unit/end-to-end testing, API design and integration (RESTful API, API tools Swagger/OpenAPI, Postman, authentication/authorisation protocols), Docker/Kubernetes and Serverless, agile tools and methodologies 
+• Good to have relevant professional experience in the field network engineering, and relevant hyperscaler Google Cloud and Microsoft Azure
+• Additional knowledge in micro-segmentation tools (Illumio, Guardicore), automation and orchestration, networking (IP addressing, subnets, VLANs) and cloud and network automation platforms (CISCO ACI, Firepower, Checkpoint, Azure, GCP will be an asset
+• Strong and demonstrated interest in modern technologies and the innovation potential they carry for the financial service industry
+• Project management skills, an excellent time management and clear and concise communication style Additionally, analytical skills, intercultural competence, and a hands-on mentality are not merely words for you but something you fill with life
+• Full proficiency in English is a must.
+
+
+
+You can look forward to our benefit package:
+
+
+• Hybrid Work and Flexible working hours 
+• Work from abroad - 12 days of remote work from EU countries per year 
+• Group Share Plan - discount on company shares 
+• Pension fund contribution - 3% of your gross salary (5% after 5 years with us) 
+• Health & Wellbeing - fully covered Multisport card, life & accident insurance, sick days and 100% salary contribution during sick leave (up to 56 days) 
+• 25 vacation days 
+• Mobility - fully covered public transport in Prague & free parking 
+• Flexible Benefit Account (Pluxee) - 1200 per month 
+• Personal Development - annual budget of €690 ... and way more!","python, azure, gcp, docker, kubernetes, git, github, ci/cd, golang, agile, project management",,2025-03-27 22:19:17,https://www.linkedin.com/jobs/view/developer-python-ci-cd-api-tools-f-m-d-at-deutsche-b%C3%B6rse-4191845550,,,2025-07-02 16:19:40
+698959002b5a30df107a306ddb56a653,coresignal,Xpetize - Python Developer - Django,Xpetize,"Pune, Maharashtra, India","Job Title :  Python Django Developer (3 Years Experience)
+
+Location :  [Your Location / Remote / Hybrid]
+
+Job Type :  [Full-time / Contract / Part-time]
+
+Experience :  3+ Years
+
+About The Role
+
+We are looking for a skilled and motivated Python Django Developer with 3 years of professional experience in building robust web applications. You will work closely with our cross-functional team of designers, developers, and product managers to build scalable, maintainable, and high-performance backend systems using Django and other Python frameworks.
+
+Key Responsibilities
+
+• Develop and maintain web applications using Python and Django.
+• Design and implement RESTful APIs.
+• Write clean, efficient, and reusable code.
+• Integrate user-facing elements developed by front-end developers with server-side logic.
+• Optimize applications for speed and scalability.
+• Work with databases (PostgreSQL/MySQL), write queries, and design schema.
+• Collaborate with the team to define, design, and ship new features.
+• Troubleshoot and debug issues across the stack.
+• Maintain code integrity and organization with proper documentation and version control.
+
+
+Required Skills & Qualifications
+
+• Bachelors degree in Computer Science, Engineering, or a related field.
+• 3+ years of hands-on experience with Python and Django framework.
+• Proficiency in building and consuming RESTful APIs.
+• Strong understanding of relational databases (PostgreSQL, MySQL).
+• Experience with version control systems (e.g., Git).
+• Familiarity with front-end technologies such as HTML, CSS, JavaScript is a plus.
+• Good understanding of software development principles and best practices.
+• Experience with testing frameworks (e.g., PyTest, UnitTest).
+• Ability to work independently and in a team environment.
+• Strong problem-solving and debugging skills.
+
+
+(ref:hirist.tech)","python, java, javascript, sql, mysql, postgresql, git, html, css",,2025-05-31 01:08:12,https://www.linkedin.com/jobs/view/xpetize-python-developer-django-at-xpetize-4241078708,,,2025-07-02 16:19:40
+4e7928ba6dbff3853e0414680f28c2fd,coresignal,Interesting Job Opportunity: Dainik Bhaskar - Senior Python Developer,Pirouline - DeBeukelaer Cookie Company,"Ahmedabad, Gujarat, India","About The Role
+
+We are looking for an experienced Senior Python Developer to join our digital transformation team in the print media sector. In this role, you will be instrumental in modernizing legacy systems, automating editorial workflows, integrating content management platforms, and building scalable tools that bridge the gap between print and digital publishing. This is an exciting opportunity to help a traditional media organization innovate through technology.
+
+Key Responsibilities
+
+• Design and build backend services and tools to support editorial, layout, and publishing workflows.
+• Develop and maintain Python-based applications that handle content ingestion, formatting, and scheduling for both print and digital outputs.
+• Integrate third-party APIs and internal systems such as CMS, DAM, and advertising platforms.
+• Automate PDF generation, print layouts, pagination tools, and archive systems.
+• Optimize systems for performance, reliability, and scalability under daily publishing deadlines.
+• Collaborate with editors, designers, and product teams to ensure technology aligns with newsroom needs.
+• Mentor junior developers and contribute to code quality and best practices across the team.
+
+
+Required Skills & Qualifications
+
+• 5+ years of experience with Python, including Django or similar framework.
+• Strong experience in Developing and managing CMS-based platforms using Django-CMS or Wagtail.
+• Familiarity with print production tools and formats (PDF generation, InDesign scripting, XML/HTML to print workflows).
+• Proficiency with RESTful APIs and integration of third-party services (e.g., syndication feeds, ad networks).
+• Solid understanding of relational databases (PostgreSQL, MySQL) and basic DevOps (Docker, Git, CI/CD).
+• Design and implement RESTful APIs and backend services for web/mobile applications.
+• Build and integrate AI and ML components, especially in image classification, face/object detection, or recommendation systems.
+• Work with image and video processing tools to support media-rich applications.
+• Experience building internal tools for editorial, Ad-Sales, Circulation, Finance etc.
+• Excellent problem-solving skills, attention to detail, and the ability to work under tight deadlines.
+
+
+Technical Skills
+
+• Backend Development : Python, Django, Django Rest Framework (DRF), Flask
+• API Development : RESTful APIs, GraphQL,
+• AI/ML Integration : OpenCV, TensorFlow, PyTorch, scikit-learn
+• Image & Video Processing : OpenCV, PIL, FFmpeg, MediaPipe
+• Databases : PostgreSQL, MySQL, SQLite, MongoDB
+• Cloud & DevOps : GCP, Docker, Git
+• Frontend Collaboration : HTML, CSS, JavaScript, React (basic)
+• Tools : Postman, Swagger, GitHub
+• Project Management : Agile/Scrum, Jira
+
+
+Preferred Qualifications
+
+• Prior experience in the newspaper, magazine, or publishing industry.
+• Degree in Computer Science, Information Systems, or related field.
+
+
+(ref:hirist.tech)","python, java, javascript, react, sql, mysql, postgresql, mongodb, gcp, docker, git, github, ci/cd, html, css, tensorflow, pytorch, scrum, agile, project management",,2025-05-31 01:08:01,https://www.linkedin.com/jobs/view/interesting-job-opportunity-dainik-bhaskar-senior-python-developer-at-pirouline-debeukelaer-cookie-company-4241077752,,,2025-07-02 16:19:40
+23ce5fa1face23a55aeea18fe8b52f14,coresignal,Customer Operations Manager,Elation Health,"Remote, OR","Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we’ve been focused on building a world-class technology solution that creates an experience of delight and ease for physicians, and that our users love.
+
+We’ve enjoyed considerable growth and are now looking for an exceptional individual to join our team as a Customer Operations Manager. This role specifically is intended to understand our customer’s adoption and performance of our product lines and serve as an important liaison to our product and growth organizations to better understand their experience and needs. This leader will report to our VP of RCM Operations and will be instrumental in leading a critical function for our customer experience organization.
+
+Responsibilities
+
+Customer Financial Success & Elation Billing Adoption:
+
+• Drive customer adoption of Elation Billing across the Elation network. This includes both Small and Medium groups.
+• Present findings from these sources through data to the Product organization. This includes key product ceremonies and standing meetings in which we inform the product teams of customer pain points and requests.
+• Suggest process improvement opportunities for Product and Operational teams related to Elation Billing, calling out where we can improve both our customer and our internal team workflows.
+• Analyze Elation Billing performance for the user base, both as a community and individually. Understand how customer performance is a lagging indicator of product improvements and advocate for product enhancements as a result.
+• Partner with Customer Marketing and Customer Retention to communicate feedback loop and impact of this work back to our customers.
+
+
+Customer EHR Success And Optimization
+
+• Work with Support and Onboarding teams to identify areas in which customer performance is not meeting expected standards. Advocate for product improvements where there are opportunities and create customer-facing feedback loops for suboptimal areas.
+• Work with Support and Onboarding teams to identify areas in which our internal workflow can be improved for better EHR adoption and usage. Advocate for product and process improvements where there are opportunities and create customer-facing feedback loops for suboptimal areas.
+• Identify benchmark EHR performance and focus on customer cohorts that are missing these benchmarks. Work with Customer Marketing to create campaigns to improve these areas for customers and engage them in their usage and performance within our EHR.
+• Partner with Customer Marketing and Customer Retention to communicate feedback loop and impact of this work back to our customers.
+
+
+NPS Analysis And Publication
+
+• Analyze NPS results and publish results in a format our internal stakeholders can consume and act on.
+• Analyze Elation Billing & EHR NPS survey results and support cases to frame existing products gaps for both segments. 
+• Publish quarterly Product performance report that highlights customer experience and outcomes using Elation Billing and EHR products.
+
+
+Qualifications
+
+• 3+ years of Revenue Cycle Management experience, preferably as a RCM analyst or within a billing function 
+• Demonstrated experience in a customer-facing role where it was required to analyze customer feedback and pain points and advocate for the improvements with other internal teams.
+• Consulting experience is a plus, as much of this role will require quick adaptations of content and results for the myriad of audiences that are interested in the information (Product, Growth, Analytics and customers themselves)
+• Working knowledge of RCM industry benchmarks and best practices, including KPIs and metrics
+• Demonstrated success in executing cross-functional process improvement projects
+• Proven expertise in a complicated, matrixed, customer-facing operating environment
+
+
+Salary range: $120,000-135,000
+
+Elation welcomes individuals from all backgrounds and walks of life. Elation is proud to be an Equal Opportunity Employer and is dedicated to creating and maintaining a diverse and inclusive work environment.
+
+We are committed to equal opportunity for all employees and applicants, and value individuals with diverse perspectives including, but not limited to: race, color, religion, sex, sexual orientation, socioeconomic status, age, gender identity or gender expression, national origin, disability or veteran status.
+
+Elation also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the Immigration and Nationality Act and IRCA. We firmly believe a strong culture that supports a diverse and inclusive workforce allows us to achieve Elation’s mission of helping independent primary care thrive.
+
+As a healthcare technology company whose mission is to support IPCPs and frontline healthcare workers, and as a tight-knit company where we have the utmost concern and care for our team members, Elation Health has adopted a Mandatory COVID-19 Vaccination Policy.
+
+This policy will comply with all applicable laws and is based on guidance from the Centers for Disease Control and Prevention and local health authorities.
+
+We will not require any candidates to be vaccinated in order to interview for our open positions, but all new hires at Elation will be required to share a copy of their vaccination certification or present documentation to request an exemption.
+
+In compliance with the EEOC, any team member in need of an exemption from this policy due to a medical reason, or because of a sincerely held religious belief must provide People Ops (hr@elationhealth.com) with appropriate documentation. For a medical exemption, we require a doctor’s note, and for a religious exemption, we require a note from the team member outlining the request.",aws,,2024-03-13 11:11:37,https://www.linkedin.com/jobs/view/customer-operations-manager-at-elation-health-3851148614,,,2025-07-02 16:19:41
+1c47789244ec11cce1ffa799f090487a,coresignal,Senior Customer Marketing Manager,Elation Health,"Remote, OR","Our team is dedicated to improving physician and patient quality of life through Elation, a SaaS cloud-based platform revolutionizing healthcare. Since inception, we’ve been focused on building a delightful world-class experience that empowers physicians to deliver phenomenal care to patients.
+
+Reporting to the Sr. Director of Product Marketing, the Senior Customer Marketing Manager will play a pivotal role in scoping and building the Customer Marketing function. This leader will help the business determine how and when to reach customers to drive adoption and advocacy, creating a strategy that propels expansion revenue.
+
+You Will
+
+• Lead the customer marketing strategy in alignment with overall company goals to improve customer retention, expansion revenue, customer loyalty, and brand advocacy via multi-channel programs.
+• Be responsible for measuring customer success: Define metrics to measure, establish key reporting, and monitor KPIs. Analyze the performance of engagement activities, mine insights from surveys and report key findings to Marketing Leadership and share recommendations on areas for optimization. 
+• Define the customer journey and buyer personas for ideal customer profiles and priority segments to support communications and overall strategy.
+
+
+Communications
+
+• Guide the development of newsletters, customer onboarding materials, case studies, etc. to ensure our customers are set up for success and we are scaling their positive experience across marketing campaigns.
+• Lead the development of targeted multi-channel customer communication plans across product roadmap cycles, upsell/expansion programs, customer events, and transactional communications.
+• Identify data needs required for accurate customer segmentation. Create and maintain segmented customers lists within Salesforce.
+• Assess the effectiveness of platforms and tools, making recommendations to optimize impact.
+• Collaborate with cross-functional teams to ensure consistent messaging across all customer touchpoints. 
+• Collaborate with the Product team to gather customer feedback and insights to drive product improvements and customer satisfaction.
+
+
+Growth & Advocacy
+
+• Collaborate with leadership to define expansion revenue goals, strategies, and success metrics, aligning them with the company's overall growth objectives.
+• Be a trusted partner to the Product, Sales, and Customer Success teams by understanding and supporting their needs through careful planning of marketing tactics and programs.
+• Identify and cultivate customer advocates who can provide testimonials, referrals, and case studies to demonstrate product value to potential buyers.
+• Build and scale Elation’s customer advocacy program and reference accounts to drive referrals, case studies, and testimonials.
+• Foster relationships with key customers to turn them into advocates for the brand.
+• Develop and lead the execution of strategic customer engagement campaigns aimed at promoting additional solutions, use-cases, upgrades, and complementary products/services.
+
+
+Qualifications
+
+• Demonstrated success owning the strategy, framework, development, and execution for multichannel customer marketing programs across customer segments with 6+ years of experience.
+• Big picture thinking and attention to detail – ability to quickly understand overall business objectives, create a well-aligned marketing strategy, and execute plans with clearly defined metrics.
+• Proven self-starter with strong project management skills, ability to prioritize and manage workload in fast-paced dynamic environments.
+• Exceptional ability to lead, influence, and work across organizational boundaries with a strong track record of cross-functional collaboration.
+• Familiarity with developing programs focused on customer adoption, engagement, and upsell.
+• Results-oriented with a keen understanding of aligning strategy and execution with objectives and goals.
+• Excellent communicator with strong written and verbal communication skills.
+• Experience with Pardot (or similar platforms), Google Analytics, Canva, HTML and Salesforce.
+
+
+Salary Range: $145,000 - $160,000
+
+Elation welcomes individuals from all backgrounds and walks of life. Elation is proud to be an Equal Opportunity Employer and is dedicated to creating and maintaining a diverse and inclusive work environment.
+
+We are committed to equal opportunity for all employees and applicants, and value individuals with diverse perspectives including, but not limited to: race, color, religion, sex, sexual orientation, socioeconomic status, age, gender identity or gender expression, national origin, disability or veteran status.
+
+Elation also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the Immigration and Nationality Act and IRCA. We firmly believe a strong culture that supports a diverse and inclusive workforce allows us to achieve Elation’s mission of helping independent primary care thrive.
+
+As a healthcare technology company whose mission is to support primary care providers and frontline healthcare workers, and as a tight-knit company where we have the utmost concern and care for our team members, Elation Health has adopted a Mandatory COVID-19 Vaccination Policy.
+
+This policy will comply with all applicable laws and is based on guidance from the Centers for Disease Control and Prevention and local health authorities.
+
+We will not require any candidates to be vaccinated in order to interview for our open positions, but all new hires at Elation will be required to share a copy of their vaccination certification or present documentation to request an exemption.
+
+In compliance with the EEOC, any team member in need of an exemption from this policy due to a medical reason, or because of a sincerely held religious belief must provide People Ops (hr@elationhealth.com) with appropriate documentation. For a medical exemption, we require a doctor’s note, and for a religious exemption, we require a note from the team member outlining the request.","aws, html, project management",,2024-03-13 11:31:14,https://www.linkedin.com/jobs/view/senior-customer-marketing-manager-at-elation-health-3851150245,,,2025-07-02 16:19:41

@@ -1,0 +1,325 @@
+job_id,source,job_title,company,location,description,skills,careers_required,date_posted,url,career_tag,soft_skills_detected,extraction_date
+3f4a4ff35b9bf55c88d440b824ba1c06,rapidapi2,Consultor de sistemas protheus generalista,Netvagas,"São Paulo, São Paulo, Brazil","Proporcionar ao projeto de suporte e implantação na qualidade necessária para atender o escopo contratado pelo cliente;
+suporte ao usuário;
+Ter pleno conhecimento e seguir a metodologia de implantação TOTVS na sua totalidade;
+Elaborar a documentação do projeto sob sua responsabilidade prevista na MIT;
+Efetuar as configurações necessárias no sistema através de configurações, parametrizações, customizações, etc;
+Trabalhar na busca de resultados unindo o conhecimento técnico e negócios;
+Analisar e levantar as necessidades dos usuários, buscando atender as suas expectativas para o escopo previsto para o projeto;
+Ministrar treinamentos para clientes quando necessário.
+
+Requisitos
+
+Nível de conhecimento: Pleno
+
+Grau de Instrução: Superior cursando ou completo
+
+Curso de Formação (desejável): Ciência da Computação ou áreas relacionadas.
+
+Experiência mínima desejada: 3 anos
+
+Conhecimentos Técnicos Desejados
+
+Programador ADVPL;
+
+Conhecimentos ERP gerais 
+Show more Show less",,Sistemas de Información,2025-08-27T17:45:35,https://br.linkedin.com/jobs/view/consultor-de-sistemas-protheus-generalista-at-netvagas-4292010572,,[],2025-08-28
+676960e0cec5c4d584981d0215447cab,rapidapi2,Consultor de sistemas,Vivo (Telefônica Brasil),Brazil,"Descrição da vaga
+Vice-Presidência: Chief Information Officer
+Diretoria: Dir. Tecnologia Finanças e Corporativo
+Local de Trabalho: Remoto
+
+Missão:
+Garantir que as Squads de pagamentos entreguem soluções escaláveis, seguras, economicamente sustentáveis e alinhadas às normas do Banco Central, PCI DSS e LGPD, fazendo a ponte entre requisitos de negócio e implementação end-to-end.
+
+Responsabilidades e atribuições:
+
+Implementar e disseminar clean code, testes automatizados, revisão de código e DevSecOps, sempre com visão cross-squad;
+Avaliar impactos de novos requisitos sobre esquemas atuais, projetar evoluções sem downtime e otimizar consultas de alta volumetria;
+Definir arquitetura de referência, estimar esforço, gerir riscos e conduzir entregas até produção;
+Desenvolver soluções em React no front e Spring Boot/Java ou equivalente no back, expondo APIs RESTful e eventos Kafka;
+Conduzir PoCs hands-on em Camunda (BPMN), IA/Low-Code, containers e serviços Cloud Native para validar valor de negócio[1];
+Coordenar desenho de soluções em conjunto com Devs, QA, Sec e FinOps, buscando consenso técnico;
+Ser ponto de consulta para dúvidas técnicas, compartilhando conhecimento por guildas e brown-bags;
+Monitorar tendências em Open Finance, A2A, PIX e publicar insights para o time;
+Propor automação com IA para conciliações, detecção de fraude ou otimização de custos em nuvem (FinOps)[1];
+Orquestrar dependências e minimizar impactos cruzados em programas de receita;
+Mapear fluxos E2E, desafiar requisitos e traduzi-los em histórias técnicas claras.
+
+Requisitos e qualificações:
+
+Diferencial ter graduação em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas afins;
+Experiência em arquitetura de software;
+Desejável ter experiência no segmento financeiro, especificamente aos meios de pagamento (Ex: cartão de crédito, PIX, Pix Automático, Código de Barras, entre outros);
+Certificação em Cloud (AWS Certified Solutions Architect, Microsoft Azure Solutions Architect, Google Professional Cloud Architect);
+Desejável ter inglês e espanhol intermediário.
+
+Informações adicionais:
+
+Na Vivo não medimos esforços em apoiar e valorizar nossos colaboradores. Não são apenas excelentes benefícios, mas também flexíveis.
+
+Veja o que ofereceremos* para você:
+• Escolher o benefício ideal para você e seus dependentes, numa plataforma digital com diversas categorias de Academia, VR, VA, Auxílio Farmácia, Assistência Médica, Odontológica e Seguro de Vida;
+• Celular corporativo. Sim, um smartphone novinho para você!
+• Plano de voz e Dados ilimitado! Sim ilimitado! Com a melhor rede móvel, ainda mais rápida com o 5G da Vivo!
+• Uma oferta exclusiva da Vivo, com desconto especial em linha fixa, banda larga, TV e apps;
+• Terá direito a receber Bônus ou PPR anual;
+• Planejará seu futuro através do plano de Previdência Privada;
+• Tem filhos? Terá direito a um subsídio para ajudar nas despesas com escola, creche ou babá;
+• Viver em um ambiente que respeitará sua personalidade, seu estilo de se vestir, seu jeito de ser e poderá ser autêntico. #VemdeVocê
+• Trabalhar remotamente. #FullMobility
+• Ter flexibilidade de horário;
+• Aproveitar um dia de folga (Day off) para comemorar seu aniversário;
+• Participar de um dos maiores programas de voluntariado corporativo para você transformar o mundo;
+• Usufruir do nosso Programa de Desenvolvimento Educacional que oferece parcerias em instituições de ensino com desconto; certificações e cursos online.
+• Potencializar sua carreira por meio do nosso Programa de Recrutamento Interno, no Brasil ou fora, afinal estamos presentes em mais de 17 países! #VivoMinhaCarreira
+• Contar com uma série de iniciativas para melhorar a sua saúde física, emocional e social! Por aqui, temos o #VivoBemEstar, que estimula o nosso time a ter hábitos saudáveis e mais qualidade de vida! Disponibilizados aos nossos colaboradores consultas com nutricionista, psicólogos, serviço social, telemedicina, e muito mais!
+• Todas as nossas vagas são elegíveis a pessoas com deficiência e/ou reabilitados. Temos uma cultura que valoriza a diversidade, as diferenças e o potencial das pessoas!
+
+#VivoDiversidade
+Show more Show less","['Clean Code', 'Automated Testing', 'Code Review', 'DevSecOps', 'Software Architecture', 'React', 'Spring Boot', 'RESTful APIs', 'Kafka', 'BPMN', 'Cloud Services', 'Technical Consultation', 'Open Finance', 'AI Automation', 'E2E Mapping', 'Cross-Squad Collaboration']",Sistemas de Información,2025-08-25T21:15:37.693,https://br.linkedin.com/jobs/view/consultor-de-sistemas-at-vivo-telef%C3%B4nica-brasil-4266416146,,[],2025-08-28
+a1074043841f60957c1925b6c5afd048,rapidapi2,Consultor de Sistemas – Domínio de Pagamentos e Recebíveis,Vivo (Telefônica Brasil),Brazil,"Descrição da vaga
+
+Vice-Presidência: Chief Information Officer
+
+Diretoria: Dir. Tecnologia Finanças e Corporativo
+
+Local de Trabalho: Remoto
+
+Missão:
+
+Garantir que as Squads de pagamentos entreguem soluções escaláveis, seguras, economicamente sustentáveis e alinhadas às normas do Banco Central, PCI DSS e LGPD, fazendo a ponte entre requisitos de negócio e implementação end-to-end.
+
+Responsabilidades e atribuições
+
+Implementar e disseminar clean code, testes automatizados, revisão de código e DevSecOps, sempre com visão cross-squad;
+Avaliar impactos de novos requisitos sobre esquemas atuais, projetar evoluções sem downtime e otimizar consultas de alta volumetria;
+Definir arquitetura de referência, estimar esforço, gerir riscos e conduzir entregas até produção;
+Desenvolver soluções em React no front e Spring Boot/Java ou equivalente no back, expondo APIs RESTful e eventos Kafka;
+Conduzir PoCs hands-on em Camunda (BPMN), IA/Low-Code, containers e serviços Cloud Native para validar valor de negócio[1];
+Coordenar desenho de soluções em conjunto com Devs, QA, Sec e FinOps, buscando consenso técnico;
+Ser ponto de consulta para dúvidas técnicas, compartilhando conhecimento por guildas e brown-bags;
+Monitorar tendências em Open Finance, A2A, PIX e publicar insights para o time;
+Propor automação com IA para conciliações, detecção de fraude ou otimização de custos em nuvem (FinOps)[1];
+Orquestrar dependências e minimizar impactos cruzados em programas de receita;
+Mapear fluxos E2E, desafiar requisitos e traduzi-los em histórias técnicas claras.
+
+Requisitos e qualificações
+
+Diferencial ter graduação em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas afins;
+Experiência em arquitetura de software;
+Desejável ter experiência no segmento financeiro, especificamente aos meios de pagamento (Ex: cartão de crédito, PIX, Pix Automático, Código de Barras, entre outros);
+Certificação em Cloud (AWS Certified Solutions Architect, Microsoft Azure Solutions Architect, Google Professional Cloud Architect);
+Desejável ter inglês e espanhol intermediário.
+
+Informações adicionais
+
+Na Vivo não medimos esforços em apoiar e valorizar nossos colaboradores. Não são apenas excelentes benefícios, mas também flexíveis.
+
+Veja o que ofereceremos* para você:
+
+Escolher o benefício ideal para você e seus dependentes, numa plataforma digital com diversas categorias de Academia, VR, VA, Auxílio Farmácia, Assistência Médica, Odontológica e Seguro de Vida;
+Celular corporativo. Sim, um smartphone novinho para você!
+Plano de voz e Dados ilimitado! Sim ilimitado! Com a melhor rede móvel, ainda mais rápida com o 5G da Vivo!
+Uma oferta exclusiva da Vivo, com desconto especial em linha fixa, banda larga, TV e apps;
+Terá direito a receber Bônus ou PPR anual;
+Planejará seu futuro através do plano de Previdência Privada;
+Tem filhos? Terá direito a um subsídio para ajudar nas despesas com escola, creche ou babá;
+Viver em um ambiente que respeitará sua personalidade, seu estilo de se vestir, seu jeito de ser e poderá ser autêntico. #VemdeVocê
+Trabalhar remotamente. #FullMobility
+Ter flexibilidade de horário;
+Aproveitar um dia de folga (Day off) para comemorar seu aniversário;
+Participar de um dos maiores programas de voluntariado corporativo para você transformar o mundo;
+Usufruir do nosso Programa de Desenvolvimento Educacional que oferece parcerias em instituições de ensino com desconto; certificações e cursos online.
+Potencializar sua carreira por meio do nosso Programa de Recrutamento Interno, no Brasil ou fora, afinal estamos presentes em mais de 17 países! #VivoMinhaCarreira
+Contar com uma série de iniciativas para melhorar a sua saúde física, emocional e social! Por aqui, temos o #VivoBemEstar, que estimula o nosso time a ter hábitos saudáveis e mais qualidade de vida! Disponibilizados aos nossos colaboradores consultas com nutricionista, psicólogos, serviço social, telemedicina, e muito mais!
+Todas as nossas vagas são elegíveis a pessoas com deficiência e/ou reabilitados. Temos uma cultura que valoriza a diversidade, as diferenças e o potencial das pessoas!
+
+#VivoDiversidade
+
+Etapas do processo
+
+Cadastro
+Pré Seleção
+Triagem
+Avaliação Comportamental | MAPA
+Entrevista com Atração e Gestão
+AVALIAÇÃO COMPORTAMENTAL | PPA (DISC)
+Etapa Final
+Validação Interna
+Contratação
+
+Sobre nós
+
+Somos uma empresa do Grupo Telefônica, líder em telecomunicações no Brasil. Trabalhamos com o propósito de Digitalizar para Aproximar pessoas, negócios e toda sociedade, construindo uma nação mais conectada e transformando a vida dos brasileiros. Buscamos ampliar a autonomia, a personalização e as escolhas em tempo real dos nossos clientes, colocando-os no comando da sua vida digital, com segurança e confiabilidade – tudo isso com a qualidade que só a Vivo tem.
+
+Para que isso seja possível, lideramos um processo de transformação digital e estamos revolucionando nossa companhia de dentro para fora. Implementamos metodologias ágeis por toda a empresa, buscando nos conectar com as formas mais inovadoras e colaborativas de trabalho. Atuamos para fomentar um ambiente diverso e inclusivo, que estimula a criatividade, gerando inovação e aumentando o engajamento.
+
+Acreditamos que a diversidade de pessoas, vivência, culturas, comportamentos, habilidades e atitudes é um diferencial, que reflete a sociedade em que vivemos. Temos um sólido programa interno, pautados nos pilares de Gênero, LGBTI+, Raça, PcD e 50+ para assegurar uma cultura mais inclusiva e um ambiente mais diverso e representativo. Somos uma empresa de tecnologia, inspirada na diversidade e na inovação, que oferece espaço para todos, apoia e acolhe as diferenças.
+
+Acreditamos que o caminho para oferecer a melhor experiência ao nosso cliente começa pela boa experiência do nosso colaborador.
+
+#VemPraVivo 
+Show more Show less","['Clean Code', 'Automated Testing', 'Code Review', 'DevSecOps', 'Software Architecture', 'React', 'Spring Boot', 'Java', 'RESTful APIs', 'Kafka', 'Camunda', 'AI', 'Low-Code', 'Cloud Services', 'FinOps', 'Open Finance', 'Fraud Detection']",Sistemas de Información,2025-08-25T21:15:37.678,https://br.linkedin.com/jobs/view/consultor-de-sistemas-%E2%80%93-dom%C3%ADnio-de-pagamentos-e-receb%C3%ADveis-at-vivo-telef%C3%B4nica-brasil-4288804648,,[],2025-08-28
+ebed0d52d30304cbc695845c186a129f,rapidapi2,Consultor de Sistemas - DF | Financeiro,Noxtec,"Brasília, Federal District, Brazil","Requisitos:
+
+Ensino superior completo ou em andamento em Ciência da Computação, Sistemas de Informação, Análise de Sistemas ou Administração;
+
+Experiência em tratamento de dados;
+
+Conhecimentos em SQL e Power BI;
+
+Experiência com metodologias ágeis;
+
+Habilidade em armazenamento de dados (SQL Server, Oracle, NoSQL);
+
+Proficiência em SQL (incluindo PL-SQL para criação de procedures, funções e triggers);
+
+Experiência com bancos de dados (Oracle, SQL Server ou similares);
+
+Capacidade analítica para interpretação de dados e apoio na tomada de decisões.
+
+Principais Atividades:
+
+Extrair, organizar e padronizar bases de dados;
+
+Realizar levantamento de requisitos e mapeamento de processos;
+
+Executar pesquisas de satisfação, mineração e documentação de dados;
+
+Propor e implementar ferramentas que aumentem a maturidade e agilidade do time de dados;
+
+Apoiar projetos internos do time de análise de dados;
+
+Oferecer suporte em demandas de extração e visualização de dados.
+
+O que oferecemos:
+
+Ambiente inovador e colaborativo;
+
+Oportunidade de crescimento em uma empresa referência em tecnologia para a saúde;
+
+Participação em projetos estratégicos de transformação digital no setor hospitalar. 
+Show more Show less","['Data Treatment', 'SQL', 'Power BI', 'Agile Methodologies', 'Data Storage', 'SQL Server', 'Oracle', 'NoSQL', 'Analytical Skills']",Sistemas de Información,2025-08-23T01:12:21,https://br.linkedin.com/jobs/view/consultor-de-sistemas-df-financeiro-at-noxtec-4290214633,,[],2025-08-28
+3dee3c457fbdf7783021e010ce052ee2,rapidapi2,Consultor de sistemas protheus generalista,Netvagas,"São Paulo, São Paulo, Brazil","Proporcionar ao projeto de suporte e implantação na qualidade necessária para atender o escopo contratado pelo cliente;
+suporte ao usuário;
+Ter pleno conhecimento e seguir a metodologia de implantação TOTVS na sua totalidade;
+Elaborar a documentação do projeto sob sua responsabilidade prevista na MIT;
+Efetuar as configurações necessárias no sistema através de configurações, parametrizações, customizações, etc;
+Trabalhar na busca de resultados unindo o conhecimento técnico e negócios;
+Analisar e levantar as necessidades dos usuários, buscando atender as suas expectativas para o escopo previsto para o projeto;
+Ministrar treinamentos para clientes quando necessário.
+
+Requisitos
+
+Nível de conhecimento: Pleno
+
+Grau de Instrução: Superior cursando ou completo
+
+Curso de Formação (desejável): Ciência da Computação ou áreas relacionadas.
+
+Experiência mínima desejada: 3 anos
+
+Conhecimentos Técnicos Desejados
+
+Programador ADVPL;
+
+Conhecimentos ERP gerais 
+Show more Show less",,Sistemas de Información,2025-08-21T11:38:45,https://br.linkedin.com/jobs/view/consultor-de-sistemas-protheus-generalista-at-netvagas-4289248912,,[],2025-08-28
+42dfd097ea4778d760676febba3e5c57,rapidapi2,Consultor de sistemas de gestión,Tempo Consultores,"A Coruña, Galicia, Spain","¿Qué estamos buscando?
+Con el fin de reforzar nuestra área de sistemas de gestión, buscamos incorporar a una persona con perfil JUNIOR para implantación y mantenimiento de sistemas de gestión de calidad, ambiental, seguridad y salud en el trabajo, responsabilidad social, sostenibilidad, compliance .... (ISO 9001, ISO 14001, ISO 45001, RS10, SA8000, IOS14064, UNE 19601, ISO37301,......) en clientes a nivel nacional.
+
+¿Qué formación y experiencia necesitas tener?
+Ciclo superior o medio en Biología, Física, Química o similar.
+Conocimiento básicos de normas de sistemas de gestión de calidad, ambiental, seguridad y salud en el trabajo, responsabilidad social, .... (ISO 9001, ISO 14001, ISO 45001, RS10, SA8000,.....) .
+Experiencia en consultoria
+
+¿Cómo será tu día a día?
+Implantación y mantenimiento de sistemas de gestión de calidad, ambiental, seguridad y salud en el trabajo, responsabilidad social, , sostenibilidad, compliance .... (ISO 9001, ISO 14001, ISO 45001, RS10, SA8000, IOS14064, UNE 19601, ISO37301,......) en clientes a nivel nacional.
+Integración en los proyectos de mejora de nuestros clientes, bajo la supervisión del equipo de consultoría.
+Analizar con sus colaboradores las desviaciones que puedan existir y establecer acciones correctivas de operación, en las diferentes áreas de nuestros clientes.
+Labores de mejora continua de las operaciones de los procesos de nuestros clientes en lo que hace referencia a sus sistemas de gestión.
+
+¿Qué valoramos?
+Vehículo propio
+Capacidad de análisis
+Adaptación y flexibilidad
+Creatividad
+Comunicación
+
+¿Qué te ofrecemos?
+Integración en consultoría nacional con más de 20 años en el mercado y servicios integrados de alto valor para nuestros clientes.
+Incorporación inmediata.
+Formación interna y externa continua.
+Crecimiento personal y profesional.
+Ubicación: Oficina en A Coruña y desplazamientos en Comunidad Autónoma de Galicia principalmente
+Show more Show less","['Quality Management Systems', 'Environmental Management', 'Health and Safety', 'Social Responsibility', 'Sustainability', 'Compliance', 'Analytical Skills', 'Adaptability', 'Flexibility', 'Creativity', 'Communication']",Sistemas de Información,2025-08-21T10:41:14,https://es.linkedin.com/jobs/view/consultor-de-sistemas-de-gesti%C3%B3n-at-tempo-consultores-4286387282,,[],2025-08-28
+a0218c9ed142cea7784abbd36230fc6a,rapidapi2,Consultor de Sistemas I,Libbs Farmacêutica,Brazil,"Somos uma empresa farmacêutica brasileira que há mais de 65 anos trata da vida. Com o propósito de ""transformar conhecimento em saúde pra sua vida"", construímos nossa história com ousadia, inovação e espírito visionário.
+
+Nossa razão de existir é promover saúde de alta qualidade para que as pessoas possam aproveitar cada momento. Temos um amplo portfólio de medicamentos de diversas especialidades, como ginecologia, oncologia e cardiologia, para atender os pacientes em sua integralidade e individualidade, com formulações eficientes e inovadoras. São mais de 100 marcas em mais de 200 apresentações.
+
+Queremos que aqui você encontre o seu lugar! Somos considerados um excelente lugar pra se trabalhar, segundo o GPTW. Estabelecemos relações de transparência e confiança com nossos mais de 3 mil colaboradores e estimulamos a mobilidade como ferramenta de desenvolvimento profissional. A saúde e bem-estar norteiam nossas decisões.
+
+#PorqueSeTratadaVida
+
+Responsabilidades e atribuições
+
+🎯No dia a dia você irá:
+
+Atuar como ponto de contato técnico para demandas relacionadas às áreas Regulatórias da Indústria Farmacêutica (Salesforce Service Cloud, Veeva Vault, LifeSphere).
+Levantar requisitos junto às áreas de negócio e traduzi-los em soluções sistêmicas viáveis.
+Apoiar na configuração, personalização e testes em ambientes Salesforce.
+Participar de projetos de evolução, rollout e sustentação dos sistemas relacionados às áreas de negócio.
+Documentar processos, especificações técnicas e manuais de sistemas.
+Trabalhar em conjunto com times internos de TI, parceiros externos e fornecedores.
+Monitorar a performance e propor melhorias contínuas nos sistemas sob sua responsabilidade.
+Garantir aderência às boas práticas de governança, segurança da informação e compliance regulatório (GxP, LGPD, etc.).
+Gerir o backlog de melhorias e projetos do time, garantindo alinhamento com as áreas de negócio e relacionamento entre TI e stakeholders.
+
+
+Requisitos e qualificações
+
+📝 Para participar do nosso processo:
+
+Formação superior completa em TI, Engenharia, Sistemas da Informação ou áreas relacionadas.
+Experiência comprovada com Salesforce Service Cloud (administração, suporte ou implementação).
+Conhecimento e experiência prática em metodologias ágeis (Scrum/Kanban).
+Boa comunicação e capacidade de articulação com múltiplas áreas.
+Conhecimento em integração de sistemas via API ou middleware.
+Inglês fluente/avançado para conversação, leitura técnica e colaboração com fornecedores globais.
+
+
+⭐ Você se destacará se tiver:
+
+Certificação Salesforce (Admin, Service Cloud Consultant ou equivalente).
+Certificação como Product Owner (ex.: CSPO, SAFe PO/PM).
+Experiência no setor farmacêutico ou em ambientes regulados (ex.: GxP, validação de sistemas).
+
+
+Informações adicionais
+
+Informações
+
+
+📍 Local de trabalho (Base): Teletrabalho
+
+🕑 Horário: Segunda à Sexta – Horário Móvel (Entrada entre 7h – 9h e saída entre 16h – 18h)
+
+🔖 Para colaboradores Libbs 
+
+As inscrições serão até 27/08/2025;
+Os requisitos diferenciais poderão ser priorizados para a seleção dos candidatos para a próxima etapa;
+Não é permitida a participação em processos seletivos internos diferentes simultaneamente.
+
+
+📌 Benefícios pra você!
+
+Vale Refeição; 
+Vale Alimentação;
+Medicamentos Libbs - 100%;
+Convênio Farmácia – Vidalink;
+PPR - Programa de Participação dos Lucros e Resultados da companhia;
+Estacionamento, vale transporte ou fretado (aplicável somente para atuação em turnos);
+Programa USE: subsídio para compra do equipamento que será utilizado para o trabalho, podendo utilizá-lo para fins pessoais;
+Benefícios flexíveis (TotalPass, seguro de vida, previdência privada, assistência médica, odontológica e auxílio alimentação).
+Show more Show less","['Salesforce Service Cloud', 'Agile Methodologies', 'Communication', 'System Integration', 'Technical Documentation', 'Project Management', 'Governance', 'Compliance']",Sistemas de Información,2025-08-21T01:06:23.926,https://br.linkedin.com/jobs/view/consultor-de-sistemas-i-at-libbs-farmac%C3%AAutica-ltda-4286324864,,[],2025-08-28
