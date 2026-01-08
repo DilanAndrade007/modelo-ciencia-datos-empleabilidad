@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Status](https://img.shields.io/badge/Status-Activo-green.svg)]()
-[![Plataformas](https://img.shields.io/badge/Plataformas-4-orange.svg)]()
+[![Plataformas](https://img.shields.io/badge/Plataformas-2-orange.svg)]()
 
 ## 📋 Descripción General
 
@@ -10,7 +10,7 @@ Sistema **automatizado, escalable y trazable** para la extracción masiva de ofe
 
 ### ✨ Características Principales
 
-- 🔄 **Extracción automatizada** desde 4 plataformas principales
+- 🔄 **Extracción automatizada** desde 2 plataformas principales (Jooble y LinkedIn)
 - 📊 **Esquema unificado** de datos para análisis consistente  
 - 🎯 **Clasificación por carreras** universitarias
 - 🔍 **Detección de habilidades blandas** basada en EURACE
@@ -193,7 +193,10 @@ reportes/
 - Contiene visualizaciones (PNG) y mapas interactivos (HTML)
 - Tablas de análisis estadístico en formato CSV
 - Contenido para generación de reportes con Quarto
-- **Nota**: Los reportes Quarto excluyen datos de Estados Unidos para enfocarse en contextos regionales más relevantes
+- **Notas importantes**:
+  - **Plataformas agrupadas**: LinkedIn consolida RapidAPI1, RapidAPI2 y CoreSignal
+  - **Exclusión geográfica**: Estados Unidos se excluye del TOP países para enfoque regional
+  - Los reportes Quarto aplican estos mismos filtros para consistencia en análisis
 
 #### 📋 **logs/** - Registro de Extracciones
 Mantiene el historial de extracciones por plataforma:
@@ -234,12 +237,12 @@ Lista completa de dependencias del proyecto:
 ### **Fase 1: Configuración y Extracción**
 
 #### 🎯 **Plataformas Soportadas**
-| Plataforma | API | Descripción | Estado |
-|------------|-----|-------------|--------|
+| Plataforma | APIs Utilizadas | Descripción | Estado |
+|------------|----------------|-------------|--------|
 | **Jooble** | Jooble API | Portal global de empleos | ✅ Activo |
-| **JSSearch** | RapidAPI | Búsqueda agregada de empleos | ✅ Activo |
-| **LinkedIn** | RapidAPI | Red profesional LinkedIn | ✅ Activo |
-| **Coresignal** | Coresignal API | Datos profesionales especializados | ✅ Activo |
+| **LinkedIn** | RapidAPI 1, RapidAPI 2, CoreSignal | Datos profesionales de LinkedIn (agrupados) | ✅ Activo |
+
+**Nota sobre LinkedIn**: Los datos de LinkedIn provienen de 3 fuentes diferentes (RapidAPI JSSearch, RapidAPI LinkedIn, CoreSignal) que se **agrupan como una sola plataforma** en los análisis y reportes finales para representar el ecosistema completo de LinkedIn.
 
 #### 📋 **Carreras Configuradas** (24 carreras)
 - Administración de Empresas, Agroindustria, Ciencia de Datos
@@ -298,9 +301,11 @@ flowchart TD
 
 Los **datos crudos** provienen de los módulos de extracción (`extractors/`) que consultan las APIs:
 - `jooble_api.py` → `data/outputs/jooble/[Carrera]/`
-- `rapidapi_api_1.py` → `data/outputs/rapidapi1/[Carrera]/`
-- `rapidapi_api_2.py` → `data/outputs/rapidapi2/[Carrera]/`
-- `coresignal_api.py` → `data/outputs/coresignal/[Carrera]/`
+- `rapidapi_api_1.py` → `data/outputs/rapidapi1/[Carrera]/` (LinkedIn - JSSearch)
+- `rapidapi_api_2.py` → `data/outputs/rapidapi2/[Carrera]/` (LinkedIn - RapidAPI)
+- `coresignal_api.py` → `data/outputs/coresignal/[Carrera]/` (LinkedIn - CoreSignal)
+
+**📊 Agrupación en Análisis**: Las tres fuentes de LinkedIn (rapidapi1, rapidapi2, coresignal) se **consolidan como una sola plataforma "LinkedIn"** en los reportes y visualizaciones finales.
 
 Estos archivos CSV contienen datos sin procesar con:
 - Descripciones en idioma original (mayormente inglés)
@@ -384,8 +389,9 @@ Antes del pipeline de procesamiento, `file_manager.py` consolida los datos:
 - **Función**: Crea visualizaciones y estadísticas finales
 - **Outputs generados**:
   - 📊 Distribución por carreras (TOP 10)
-  - 🌍 Análisis geográfico por países (TOP 15)  
+  - 🌍 Análisis geográfico por países (TOP 15, **excluye Estados Unidos**)  
   - 💼 Habilidades más demandadas
+  - 📊 Comparativa de plataformas (LinkedIn agrupa rapidapi1, rapidapi2, coresignal)
   - 📈 Tendencias temporales
   - 📋 Estadísticas descriptivas
 - **Formatos**: PNG (gráficos) + CSV (datos tabulares)
@@ -560,7 +566,10 @@ python utils/representations.py
   - 📋 Estadísticas descriptivas
 - **Formatos**: PNG (gráficos) + CSV (datos tabulares)
 - **Ubicación**: `data/outputs/reportes/`
-- **⚠️ Nota importante**: Para reportes Quarto se excluyen datos de Estados Unidos del análisis para enfocarse en mercados más relevantes para el contexto del estudio
+- **⚠️ Notas importantes**: 
+  - Las plataformas RapidAPI1, RapidAPI2 y CoreSignal se agrupan como **LinkedIn** en visualizaciones y reportes
+  - **Estados Unidos se excluye** del análisis de TOP países para enfocarse en mercados regionales más relevantes
+  - Los reportes Quarto aplican estos mismos filtros para consistencia
 
 ---
 
@@ -655,7 +664,8 @@ quarto preview data\outputs\reportes\Quarto_View\ReporteQuarto.qmd --no-browser 
 
 #### **Características del Reporte Quarto**
 
-- ✅ **Datos filtrados**: Excluye Estados Unidos para enfoque regional
+- ✅ **Datos filtrados**: Excluye Estados Unidos del TOP países para enfoque en mercados regionales
+- 🔗 **Plataformas agrupadas**: LinkedIn consolida datos de RapidAPI1, RapidAPI2 y CoreSignal
 - 📊 **Tablas interactivas**: Datos ordenables y filtrables
 - 📈 **Gráficos dinámicos**: Visualizaciones con ggplot2 o plotly
 - 🗺️ **Mapas embebidos**: Integración de visualizaciones geográficas

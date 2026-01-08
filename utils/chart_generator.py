@@ -17,12 +17,18 @@ except ImportError:
 def plot_platform_vs_career(df: pd.DataFrame, outdir: str, top_n_careers: int = 10):
     """
     Genera gráfico de barras apiladas: plataformas vs carreras.
+    Agrupa RapidAPI1, RapidAPI2 y CoreSignal como LinkedIn.
     
     Args:
         df: DataFrame con columnas 'career' y 'source'
         outdir: Directorio de salida
         top_n_careers: Número de carreras top a mostrar
     """
+    # Agrupar plataformas LinkedIn
+    df = df.copy()
+    linkedin_platforms = ['rapidapi1', 'rapidapi2', 'coresignal']
+    df.loc[df['source'].isin(linkedin_platforms), 'source'] = 'LinkedIn'
+    
     # Obtener top carreras por volumen
     top_c = (df.groupby("career").size().sort_values(ascending=False)
                .head(top_n_careers).index.tolist())
@@ -57,12 +63,18 @@ def plot_platform_vs_career(df: pd.DataFrame, outdir: str, top_n_careers: int = 
 def plot_top_countries(df: pd.DataFrame, outdir: str, top_n: int = 15):
     """
     Genera gráfico de barras horizontales con top países.
+    Excluye Estados Unidos del análisis.
     
     Args:
         df: DataFrame con columna 'country'
         outdir: Directorio de salida
         top_n: Número de países top a mostrar
     """
+    # Excluir Estados Unidos
+    df = df.copy()
+    usa_variants = ['united states', 'usa', 'estados unidos', 'eeuu', 'us']
+    df = df[~df['country'].str.lower().isin(usa_variants)]
+    
     # Filtrar países válidos
     mask = (~df["country"].isin(["", "remote", "latin america"]))
     vc = df.loc[mask, "country"].value_counts().head(top_n)
@@ -566,11 +578,11 @@ def generate_all_charts(df: pd.DataFrame, outdir: str,
     # Crear directorio si no existe
     os.makedirs(outdir, exist_ok=True)
     
-    # Gráficos principales (comentados para generar solo CSV)
-    # plot_platform_vs_career(df, outdir, top_n_careers)
-    # plot_top_countries(df, outdir, top_n_countries)
-    # plot_region_share(df, outdir)
-    # plot_career_distribution(df, outdir, top_n_careers)
+    # Gráficos principales PNG
+    plot_platform_vs_career(df, outdir, top_n_careers)
+    plot_top_countries(df, outdir, top_n_countries)
+    plot_region_share(df, outdir)
+    plot_career_distribution(df, outdir, top_n_careers)
     
     # Exportar CSVs geográficos y de plataformas
     export_top_countries_csv(df, outdir)
