@@ -587,7 +587,6 @@ print(f"🧠 Habilidades blandas identificadas: {len(habilidades_demandadas)}")
 ## Limitaciones del Estudio
 
 - Los datos reflejan ofertas publicadas, no necesariamente posiciones ocupadas
-- Posibles duplicados entre plataformas no fueron completamente eliminados
 - Sesgos inherentes de cada plataforma pueden afectar la representatividad
 
 ---

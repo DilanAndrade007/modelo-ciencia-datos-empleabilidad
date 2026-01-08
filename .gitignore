@@ -32,11 +32,10 @@ desktop.ini
 *.swo
 *~
 
-# Logs (opcional, descomenta si no quieres subir logs)
+
 # logs/
 # *.log
 
-# Datos grandes (opcional, descomenta si no quieres subir datos)
 # data/outputs/
 # *.csv
 # *.json

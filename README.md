@@ -49,8 +49,7 @@ modelo-ciencia-datos-empleabilidad/
 │   ├── Normalizador_Independiente.py   # Limpieza y normalización de texto
 │   ├── Eliminar_Filas_Vacias.py        # Eliminación de registros sin contenido
 │   ├── representations.py              # Generación de reportes y visualizaciones
-│   ├── chart_generator.py              # Generador de gráficos estadísticos
-│   ├── skills_analyzer.py              # Analizador de habilidades
+│   ├── chart_generator.py              # Generador de gráficos y tablas (usado por representations.py)
 │   └── location_extractor.py           # Extractor de ubicaciones geográficas
 │
 ├── 📊 data/                             # Almacenamiento de datos
@@ -71,10 +70,16 @@ modelo-ciencia-datos-empleabilidad/
 │       │       ├── habilidades_blandas_[Carrera].csv
 │       │       └── análisis_[Carrera].csv
 │       └── reportes/                   # Análisis y visualizaciones
-│           ├── imagenes/               # Gráficos PNG generados
+│           ├── career_distribution.png # Gráfico de distribución por carreras
+│           ├── platform_vs_career_stacked.png # Gráfico de plataformas vs carreras
+│           ├── region_share.png        # Gráfico de distribución regional
+│           ├── top_countries.png       # Gráfico de top países
 │           ├── mapa.html               # Mapa interactivo de ubicaciones
-│           ├── data/                   # Tablas CSV generadas
-│           └── [Proyecto_Quarto]/      # Contenido para reportes Quarto
+│           └── Quarto_View/            # Reportes Quarto
+│               ├── ReporteQuarto.qmd   # Documento Quarto
+│               ├── ReporteQuarto.html  # Reporte renderizado
+│               ├── custom.css          # Estilos personalizados
+│               └── Data/               # Datos para el reporte
 │
 ├── 📋 logs/                             # Registro de extracciones
 │   ├── jooble_log.json                 # Log de extracción Jooble
@@ -118,10 +123,18 @@ Contiene la lógica de extracción de trabajos desde cada API:
 #### 🛠️ **utils/** - Scripts de Procesamiento
 Scripts y herramientas necesarias para el tratamiento y análisis de datos:
 
-- **Procesamiento de texto**: Traducción, normalización, limpieza
-- **Análisis de habilidades**: Detección de soft skills y análisis EURACE
-- **Gestión de archivos**: Unificación de corpus y manejo de logs
-- **Visualizaciones**: Generación de gráficos y reportes estadísticos
+**Scripts del Pipeline Principal** (ejecución secuencial requerida):
+1. **file_manager.py** - Gestión de archivos, logs y unificación de corpus
+2. **Traductor_Descripcion.py** - Traducción de descripciones de trabajos
+3. **Normalizador_Independiente.py** - Limpieza y normalización de texto
+4. **Traductor_Skills.py** - Traducción de habilidades técnicas
+5. **Extract_Habilidades.py** - Extracción de habilidades blandas (EURACE)
+6. **Eliminar_Filas_Vacias.py** - Eliminación de registros sin contenido
+7. **representations.py** - Generación de reportes y visualizaciones principales
+
+**Scripts Complementarios** (opcionales, ejecutables independientemente):
+- **chart_generator.py** - Generador de gráficos y tablas de análisis (usado por representations.py)
+- **location_extractor.py** - Extracción y análisis avanzado de ubicaciones geográficas
 - **Análisis geográfico**: Extracción y análisis de ubicaciones
 
 #### 📊 **data/outputs/** - Almacenamiento de Datos
@@ -159,22 +172,22 @@ todas_las_plataformas/
 ##### **reportes/** - Análisis y Visualizaciones
 ```
 reportes/
-├── imagenes/                              # Gráficos PNG
-│   ├── distribucion_carreras.png
-│   ├── skills_mas_demandadas.png
-│   ├── distribucion_geografica.png
-│   └── tendencias_temporales.png
-├── mapa.html                              # Mapa interactivo de ubicaciones
-├── data/                                  # Tablas CSV generadas
-│   ├── estadisticas_globales.csv
-│   ├── top_carreras.csv
-│   ├── top_paises.csv
-│   └── skills_por_carrera.csv
-└── [Proyecto_Quarto]/                     # Contenido para reportes Quarto
-    ├── index.qmd
-    ├── _quarto.yml
-    └── data/                              # Datos para Quarto
-        └── [tablas_generadas].csv
+├── career_distribution.png              # Distribución de ofertas por carrera
+├── platform_vs_career_stacked.png       # Distribución de plataformas vs carreras
+├── region_share.png                     # Participación por región
+├── top_countries.png                    # Top países con más ofertas
+├── mapa.html                            # Mapa interactivo de ubicaciones geográficas
+└── Quarto_View/                         # Reportes Quarto
+    ├── ReporteQuarto.qmd                # Documento fuente Quarto
+    ├── ReporteQuarto.html               # Reporte renderizado en HTML
+    ├── ReporteQuarto.pdf                # Reporte renderizado en PDF (si se genera)
+    ├── custom.css                       # Estilos CSS personalizados
+    ├── ReporteQuarto_files/             # Recursos generados automáticamente
+    └── Data/                            # Datos para el reporte
+        ├── career_stats.csv
+        ├── platform_stats.csv
+        ├── region_stats.csv
+        └── top_countries.csv
 ```
 - Generado por `representations.py` y otros scripts de análisis
 - Contiene visualizaciones (PNG) y mapas interactivos (HTML)
@@ -255,22 +268,55 @@ Todas las plataformas se normalizan al siguiente esquema estándar:
 
 ### **Fase 3: Pipeline de Procesamiento Secuencial**
 
-El sistema incluye un **pipeline automatizado de 6 etapas** para procesar los datos extraídos:
+El sistema implementa un **pipeline automatizado y secuencial** que transforma los datos crudos extraídos de las APIs en análisis estructurados y reportes visuales.
+
+#### **📊 Flujo Completo del Pipeline**
 
 ```mermaid
 flowchart TD
-    A[📊 Datos crudos] --> B[🌐 Traductor_Descripcion.py]
-    B --> C[🧹 Normalizador_Independiente.py]
-    C --> D[🔧 Traductor_Skills.py]
-    D --> E[🧠 Extract_Habilidades.py]
-    E --> F[🗑️ Eliminar_Filas_Vacias.py]
-    F --> G[📈 representations.py]
+    A[🔌 Extractors APIs] --> B[📄 CSVs Crudos por Plataforma]
+    B --> C[🔗 file_manager.py: Unificación]
+    C --> D[📊 Corpus Consolidado todas_las_plataformas/]
     
-    I[⚙️ config/skills.yml] --> E
-    J[📁 file_manager.py] --> B
-    J --> C
-    J --> D
+    D --> E[🌐 Traductor_Descripcion.py]
+    E --> F[🧹 Normalizador_Independiente.py]
+    F --> G[🔧 Traductor_Skills.py]
+    G --> H[🧠 Extract_Habilidades.py]
+    H --> I[🗑️ Eliminar_Filas_Vacias.py]
+    I --> J[📈 representations.py]
+    
+    K[⚙️ config/skills.yml] --> H
+    L[⚙️ config/platforms.yml] --> A
+    
+    J --> M[📊 Gráficos PNG]
+    J --> N[📋 Tablas CSV]
+    J --> O[🗺️ Mapas HTML]
+    J --> P[📄 Datos Quarto]
 ```
+
+#### **Origen de los Datos: Extractors**
+
+Los **datos crudos** provienen de los módulos de extracción (`extractors/`) que consultan las APIs:
+- `jooble_api.py` → `data/outputs/jooble/[Carrera]/`
+- `rapidapi_api_1.py` → `data/outputs/rapidapi1/[Carrera]/`
+- `rapidapi_api_2.py` → `data/outputs/rapidapi2/[Carrera]/`
+- `coresignal_api.py` → `data/outputs/coresignal/[Carrera]/`
+
+Estos archivos CSV contienen datos sin procesar con:
+- Descripciones en idioma original (mayormente inglés)
+- Habilidades técnicas sin normalizar
+- Sin detección de habilidades blandas
+- Ubicaciones sin procesar
+
+#### **Consolidación Inicial (file_manager.py)**
+
+Antes del pipeline de procesamiento, `file_manager.py` consolida los datos:
+1. Lee archivos CSV de cada plataforma por carrera
+2. Une múltiples fechas de extracción en un solo archivo
+3. Genera `job_id` únicos para deduplicación
+4. Crea corpus consolidado en `todas_las_plataformas/[Carrera]_Merged.csv`
+
+#### **Pipeline de Transformación (6 Etapas)**
 
 #### **Etapa 1: 🌐 Traducción de Descripciones**
 **Archivo**: `Traductor_Descripcion.py`
@@ -515,7 +561,6 @@ python utils/representations.py
 - **Formatos**: PNG (gráficos) + CSV (datos tabulares)
 - **Ubicación**: `data/outputs/reportes/`
 - **⚠️ Nota importante**: Para reportes Quarto se excluyen datos de Estados Unidos del análisis para enfocarse en mercados más relevantes para el contexto del estudio
-- **Nota importante**: Para reportes Quarto se excluyen datos de Estados Unidos del análisis para enfocarse en mercados más relevantes para el contexto del estudio
 
 ---
 
@@ -552,7 +597,91 @@ Al finalizar el pipeline completo tendrás:
 
 ---
 
-## �️ Archivos de Soporte y Configuración
+### **📄 Generación de Reportes con Quarto**
+
+[Quarto](https://quarto.org/) es un sistema de publicación científica y técnica de código abierto que permite crear documentos dinámicos, reportes, presentaciones y sitios web combinando código, narrativa y visualizaciones.
+
+#### **¿Qué es Quarto en este Proyecto?**
+
+Quarto se utiliza para generar **reportes interactivos y profesionales** del análisis de empleabilidad, combinando:
+- 📊 Análisis estadísticos del mercado laboral
+- 📈 Visualizaciones dinámicas de habilidades demandadas
+- 🌍 Mapas geográficos de distribución de empleos
+- 📝 Narrativa académica y conclusiones
+
+#### **Estructura de Quarto en el Proyecto**
+
+Los archivos Quarto se encuentran en: `data/outputs/reportes/Quarto_View/`
+
+```
+Quarto_View/
+├── ReporteQuarto.qmd            # Documento principal del reporte
+├── custom.css                   # Estilos CSS personalizados
+├── Data/                        # Datos procesados para el reporte
+│   ├── career_stats.csv
+│   ├── platform_stats.csv
+│   ├── region_stats.csv
+│   └── top_countries.csv
+├── ReporteQuarto.html           # Reporte renderizado en HTML
+└── ReporteQuarto_files/         # Recursos generados (imágenes, scripts)
+```
+
+#### **Instalación de Quarto**
+
+1. **Descargar e instalar Quarto**:
+   - Visitar [https://quarto.org/docs/get-started/](https://quarto.org/docs/get-started/)
+   - Descargar el instalador para tu sistema operativo
+   - Seguir instrucciones de instalación
+
+2. **Verificar instalación**:
+   ```powershell
+   quarto --version
+   ```
+
+#### **Renderizar Reportes Quarto**
+
+```powershell
+
+# Renderizar a PDF (requiere tinytex o LaTeX instalado)
+quarto render data\outputs\reportes\Quarto_View\ReporteQuarto.qmd --to pdf
+
+# Previsualizar en el navegador 
+quarto preview data\outputs\reportes\Quarto_View\ReporteQuarto.qmd --no-browser --no-watch-inputs
+```
+
+**Requisitos para PDF**:
+- Instalar TinyTeX: `quarto install tinytex`
+- O tener una distribución LaTeX completa (TeX Live, MiKTeX)
+
+#### **Características del Reporte Quarto**
+
+- ✅ **Datos filtrados**: Excluye Estados Unidos para enfoque regional
+- 📊 **Tablas interactivas**: Datos ordenables y filtrables
+- 📈 **Gráficos dinámicos**: Visualizaciones con ggplot2 o plotly
+- 🗺️ **Mapas embebidos**: Integración de visualizaciones geográficas
+- 📄 **Formato profesional**: CSS personalizado para publicación académica
+- 🔄 **Reproducible**: Regenerable con datos actualizados
+
+#### **Personalización del Reporte**
+
+Editar `ReporteQuarto.qmd` para:
+- Agregar nuevas secciones de análisis
+- Modificar visualizaciones existentes
+- Incluir narrativa y conclusiones
+- Integrar nuevas métricas
+
+Editar `custom.css` para:
+- Cambiar colores y tipografía
+- Ajustar diseño y espaciado
+- Personalizar estilos de tablas y gráficos
+
+#### **Integración con el Pipeline**
+
+El script `representations.py` genera automáticamente los datos necesarios para Quarto en formato CSV, listos para ser consumidos por los documentos `.qmd`.
+
+---
+
+## 🛠️ Archivos de Soporte y Configuración
 
 ### **📁 file_manager.py** - Gestor Central de Archivos
 Utilidad transversal utilizada por múltiples componentes del pipeline:
@@ -748,7 +877,7 @@ categories:
 
 ---
 
-## �️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 | Categoría | Tecnologías |
 |-----------|-------------|
@@ -757,6 +886,7 @@ categories:
 | **Procesamiento** | pandas, numpy, requests |
 | **NLP** | deep-translator, rapidfuzz, regex |
 | **Visualización** | matplotlib, seaborn |
+| **Reportes** | Quarto (publicación científica y técnica) |
 | **Formato** | CSV, JSON, YAML |
 
 ---
@@ -900,6 +1030,7 @@ Agradecimientos especiales a:
 - [Pandas](https://pandas.pydata.org/)
 - [Deep Translator](https://deep-translator.readthedocs.io/)
 - [RapidFuzz](https://maxbachmann.github.io/RapidFuzz/)
+- [Quarto](https://quarto.org) - Sistema de publicación científica y técnica
 
 ---
 
