@@ -158,36 +158,45 @@ Estructura por plataforma:
 ##### **todas_las_plataformas/** - Corpus Consolidado Final
 ```
 todas_las_plataformas/
+├── DICCIONARIO_COLUMNAS.md                # Documentación de campos del esquema
+├── DICCIONARIO_COLUMNAS.txt               # Versión texto del diccionario
 └── [Nombre_Carrera]/
-    ├── [Carrera]_Merged.csv                    # Trabajos de todas las plataformas
-    ├── habilidades_blandas_[Carrera].csv       # Análisis de soft skills
-    ├── habilidades_tecnicas_[Carrera].csv      # Análisis de hard skills
-    └── analisis_locaciones_[Carrera].csv       # Distribución geográfica
+    ├── [Carrera]_Merged.csv               # Corpus unificado de todas las plataformas
+    ├── jooble__[Carrera]__[fecha]__merged.csv       # Trabajos de Jooble
+    ├── rapidapi1__[Carrera]__[fecha]__merged.csv    # Trabajos de RapidAPI 1
+    ├── rapidapi2__[Carrera]__[fecha]__merged.csv    # Trabajos de RapidAPI 2
+    └── coresignal__[Carrera]__[fecha]__merged.csv   # Trabajos de Coresignal
 ```
 - **Propósito**: Corpus final unificado de todas las fuentes
-- Consolidación de trabajos de múltiples plataformas
-- Datos ya procesados y listos para análisis
+- Consolidación de trabajos de múltiples plataformas por fecha
+- `[Carrera]_Merged.csv`: Archivo consolidado con todas las extracciones
+- Archivos individuales por plataforma y fecha de extracción
+- Datos procesados por el pipeline (traducidos, normalizados, con habilidades extraídas)
 - Organizado por carrera universitaria
 
 ##### **reportes/** - Análisis y Visualizaciones
 ```
 reportes/
-├── career_distribution.png              # Distribución de ofertas por carrera
+├── career_distribution.png              # Distribución de ofertas por carrera (TOP 10)
 ├── platform_vs_career_stacked.png       # Distribución de plataformas vs carreras
-├── region_share.png                     # Participación por región
-├── top_countries.png                    # Top países con más ofertas
+├── region_share.png                     # Participación por región geográfica
+├── top_countries.png                    # Top 15 países con más ofertas (excluye USA)
 ├── mapa.html                            # Mapa interactivo de ubicaciones geográficas
 └── Quarto_View/                         # Reportes Quarto
     ├── ReporteQuarto.qmd                # Documento fuente Quarto
     ├── ReporteQuarto.html               # Reporte renderizado en HTML
-    ├── ReporteQuarto.pdf                # Reporte renderizado en PDF (si se genera)
     ├── custom.css                       # Estilos CSS personalizados
     ├── ReporteQuarto_files/             # Recursos generados automáticamente
-    └── Data/                            # Datos para el reporte
-        ├── career_stats.csv
-        ├── platform_stats.csv
-        ├── region_stats.csv
-        └── top_countries.csv
+    └── Data/                            # Datos procesados para el reporte
+        ├── carrera_pais_numero_de_ofertas.csv       # Ofertas por carrera y país
+        ├── habilidades_mas_demandadas.csv           # Top habilidades globales
+        ├── habilidades_por_carrera.csv              # Habilidades por carrera
+        ├── habilidades_por_carrera_y_pais.csv       # Habilidades por carrera/país
+        ├── habilidades_por_pais.csv                 # Habilidades por país
+        ├── region_share_table.csv                   # Distribución regional
+        ├── resumen_plataformas.csv                  # Estadísticas por plataforma
+        ├── tabla_carrera_por_plataforma.csv         # Matriz carrera×plataforma
+        └── top_countries_full.csv                   # Ranking completo de países
 ```
 - Generado por `representations.py` y otros scripts de análisis
 - Contiene visualizaciones (PNG) y mapas interactivos (HTML)
