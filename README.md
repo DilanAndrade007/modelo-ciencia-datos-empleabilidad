@@ -65,10 +65,13 @@ modelo-ciencia-datos-empleabilidad/
 │       ├── coresignal/                 # Trabajos desde Coresignal
 │       │   └── [Carrera]/
 │       ├── todas_las_plataformas/      # Corpus unificado de todas las fuentes
-│       │   └── [Carrera]/              # Por carrera, incluye:
-│       │       └── [Carrera]_Merged.csv # Trabajos consolidados
-│       │       ├── habilidades_blandas_[Carrera].csv
-│       │       └── análisis_[Carrera].csv
+│       │   ├── DICCIONARIO_COLUMNAS.md # Documentación de campos del esquema
+│       │   └── [Carrera]/              # Datos por carrera
+│       │       ├── [Carrera]_Merged.csv           # Corpus consolidado todas las plataformas
+│       │       ├── jooble__[Carrera]__[fecha]__merged.csv      # Datos Jooble
+│       │       ├── rapidapi1__[Carrera]__[fecha]__merged.csv   # Datos RapidAPI 1
+│       │       ├── rapidapi2__[Carrera]__[fecha]__merged.csv   # Datos RapidAPI 2
+│       │       └── coresignal__[Carrera]__[fecha]__merged.csv  # Datos Coresignal
 │       └── reportes/                   # Análisis y visualizaciones
 │           ├── career_distribution.png # Gráfico de distribución por carreras
 │           ├── platform_vs_career_stacked.png # Gráfico de plataformas vs carreras
