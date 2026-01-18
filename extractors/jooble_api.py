@@ -8,7 +8,7 @@ from utils.file_manager import guardar_log, crear_directorios, cargar_log_existe
 
 def generar_job_id(titulo, empresa, ubicacion, fecha):
     cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
-    return hashlib.md5(cadena.encode('utf-8')).hexdigest()
+    return hashlib.sha256(cadena.encode('utf-8')).hexdigest()
 
 def buscar_jooble(query, api_key, start_page=1, delay=1.0):
     url = f"https://jooble.org/api/{api_key}"
@@ -41,7 +41,7 @@ def normalizar(oferta, fuente, carrera, fecha):
     oferta.get('updated', '')
     )
     return {
-        "job_id": hashlib.md5(uid.encode()).hexdigest(),
+        "job_id": hashlib.sha256(uid.encode()).hexdigest(),
         "source": fuente,
         "job_title": oferta.get("title", ""),
         "company": oferta.get("company", ""),

@@ -9,7 +9,7 @@ from utils.file_manager import crear_directorios, guardar_log, cargar_log_existe
 
 def generar_job_id(titulo, empresa, ubicacion, fecha):
     cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
-    return hashlib.md5(cadena.encode('utf-8')).hexdigest()
+    return hashlib.sha256(cadena.encode('utf-8')).hexdigest()
 
 def normalizar(trabajo_raw, fuente, carrera, fecha):
     """Mapea datos raw al esquema estándar."""

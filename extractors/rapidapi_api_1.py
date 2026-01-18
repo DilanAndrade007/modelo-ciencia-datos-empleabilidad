@@ -12,7 +12,7 @@ from utils.file_manager import (
 
 def generar_job_id(titulo, empresa, ubicacion, fecha):
     cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
-    return hashlib.md5(cadena.encode('utf-8')).hexdigest()
+    return hashlib.sha256(cadena.encode('utf-8')).hexdigest()
 
 def buscar_en_rapidapi(query, api_key):
     resultados = []
@@ -53,7 +53,7 @@ def normalizar_oferta(job, fuente, carrera, fecha):
         job.get('job_posted_at_datetime_utc', '')
     )
     return {
-        "job_id": hashlib.md5(uid.encode()).hexdigest(),
+        "job_id": hashlib.sha256(uid.encode()).hexdigest(),
         "source": fuente,
         "job_title": job.get("job_title", ""),
         "company": job.get("employer_name", ""),

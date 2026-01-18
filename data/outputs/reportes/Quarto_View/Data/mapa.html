@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Mapa de ofertas — Global y por Carrera</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#f7f8fa; --card:#ffffff; --ink:#1f2937; --muted:#6b7280; --brand:#7c3aed; }
+    html, body { height: 100%; margin: 0; background: var(--bg); color: var(--ink); font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif; }
+    .wrap { display: grid; grid-template-columns: 340px 1fr; gap: 18px; height: 100vh; padding: 16px; box-sizing: border-box; }
+    .panel { background: var(--card); border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,.06); padding: 16px; }
+    .title { font-weight: 600; font-size: 18px; margin: 0 0 10px; }
+    .controls label { display:block; font-size:12px; color:var(--muted); margin-top:10px; }
+    .controls select, .controls input[type="range"] { width: 100%; padding: 6px 8px; border-radius:8px; border:1px solid #e5e7eb; background:#fff; }
+    .row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+    .radio { display:flex; gap:10px; align-items:center; }
+    .range-row { display:flex; align-items:center; gap:8px; }
+    .range-value { font-variant-numeric: tabular-nums; min-width: 52px; text-align:right; color:var(--muted); }
+    .stat { font-size:12px; color:var(--muted); margin-top:6px; }
+    .rank { margin-top:12px; border-top:1px solid #eef2f7; padding-top:10px; }
+    .rank table { width:100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+    .rank th, .rank td { padding:6px 2px; font-size:13px; border-bottom:1px dashed #eef2f7; }
+    .rank th { text-align:left; color:var(--muted); font-weight:600; }
+    .badge { display:inline-block; min-width:22px; text-align:center; background:#f3f4f6; border-radius:8px; color:#4b5563; font-size:12px; padding:2px 6px; }
+    .map-card { padding: 10px 10px 0; }
+    #mapa { width: 100%; height: calc(100vh - 36px - 16px); }
+    .hint { font-size:12px; color:var(--muted); margin-top:6px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <!-- Lateral -->
+    <aside class="panel">
+      <h2 class="title">Visor de distribución</h2>
+      <div class="controls">
+        <!-- Modo -->
+        <label>Modo</label>
+        <div class="row">
+          <label class="radio"><input type="radio" name="mode" id="modeCareer" checked> Carrera</label>
+          <label class="radio"><input type="radio" name="mode" id="modeGlobal"> Global</label>
+        </div>
+        <div class="hint" id="modeHint">Selecciona una carrera para ver el mapa por país.</div>
+
+        <!-- Carrera -->
+        <label id="careerLbl">Carrera</label>
+        <select id="careerSel"></select>
+
+        <!-- Escala -->
+        <label style="margin-top:12px">Escala del color</label>
+        <select id="scaleSel">
+          <option value="log">Logarítmica</option>
+          <option value="linear">Lineal</option>
+        </select>
+
+        <!-- Paleta -->
+        <label style="margin-top:12px">Paleta</label>
+        <select id="paletteSel">
+          <option value="YlOrRd">Calor</option>
+          <option value="Turbo">Calor Invertido</option>
+          <option value="Viridis">Viridis</option>
+          <option value="Plasma">Plasma</option>
+          <option value="Cividis">Cividis</option>
+          <option value="Blues">Blues</option>
+        </select>
+
+        <!-- Recorte -->
+        <label style="margin-top:12px">Recorte superior por percentil (reduce saturación)</label>
+        <div class="range-row">
+          <input id="capRange" type="range" min="80" max="100" value="99" step="1">
+          <div class="range-value"><span id="capVal">99</span>%</div>
+        </div>
+
+        <div class="stat" id="totals"></div>
+      </div>
+
+      <div class="rank">
+        <div class="title" style="font-size:16px">Top 15 países</div>
+        <table id="rankTable">
+          <thead><tr><th>#</th><th>País</th><th style="text-align:right">Ofertas</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </aside>
+
+    <!-- Mapa -->
+    <main class="panel map-card">
+      <div id="mapa"></div>
+    </main>
+  </div>
+
+  <script>
+    // ====== Rutas de CSV ======
+    const CSV_CARRERA = "./carrera_pais_numero_de_ofertas.csv"; // carrera,pais,numero_de_ofertas
+    const CSV_GLOBAL  = "./top_countries_full.csv";             // country_show,count,country
+
+    // ====== Fixes para nombres esperados por Plotly ======
+    const NAME_FIXES = {
+      "Ivory Coast": "Côte d'Ivoire",
+      "Czech Republic": "Czechia",
+      "South Korea": "Republic of Korea",
+      "Laos": "Lao People's Democratic Republic",
+      "Russia": "Russian Federation"
+    };
+
+    // ====== Utilidades ======
+    const fmt = n => Number(n||0).toLocaleString("es-EC");
+    function quantile(arr, q) {
+      const a = [...arr].sort((x,y)=>x-y); if (!a.length) return 0;
+      const pos = (a.length - 1) * q, base = Math.floor(pos), rest = pos - base;
+      return a[base] + (a[base+1] - a[base] || 0) * rest;
+    }
+    function parseCSV(text) {
+      // Parser simple para CSV sin comillas escapadas (nuestros archivos no traen comas internas)
+      const lines = text.trim().split(/\r?\n/);
+      const headers = lines.shift().split(",").map(h => h.trim().toLowerCase());
+      return lines.map(line => {
+        const cols = line.split(",").map(c => c.trim());
+        const row = Object.fromEntries(headers.map((h,i) => [h, cols[i]]));
+        return row;
+      });
+    }
+
+    // ====== Elementos UI ======
+    const modeCareer = document.getElementById("modeCareer");
+    const modeGlobal = document.getElementById("modeGlobal");
+    const careerSel  = document.getElementById("careerSel");
+    const careerLbl  = document.getElementById("careerLbl");
+    const modeHint   = document.getElementById("modeHint");
+    const scaleSel   = document.getElementById("scaleSel");
+    const paletteSel = document.getElementById("paletteSel");
+    const capRange   = document.getElementById("capRange");
+    const capVal     = document.getElementById("capVal");
+    const totalsEl   = document.getElementById("totals");
+
+    // ====== Estado ======
+    let DATA_CARRERA = [];  // [{carrera,pais,numero_de_ofertas}]
+    let DATA_GLOBAL  = [];  // [{country_show,count,country}]
+    let hasCareer = false, hasGlobal = false;
+    let currentRows = [];   // [{country_show, count, country?}] para el plot/ranking
+
+    function setModeUI() {
+      const useCareer = modeCareer.checked && hasCareer;
+      careerSel.disabled = !useCareer;
+      careerLbl.style.opacity = useCareer ? 1 : 0.5;
+      modeHint.textContent = useCareer
+        ? "Selecciona una carrera para ver el mapa por país."
+        : "Mostrando el conteo global de ofertas por país.";
+    }
+
+    function buildCareerOptions(data) {
+      const careers = Array.from(new Set(data.map(d => d.carrera))).sort((a,b)=>a.localeCompare(b));
+      careerSel.innerHTML = careers.map(c => `<option value="${c}">${c}</option>`).join("");
+      if (!careerSel.value && careers.length) careerSel.value = careers[0];
+    }
+
+    function rowsForCareer(c) {
+      return DATA_CARRERA
+        .filter(d => d.carrera === c)
+        .map(d => ({
+          pais: d.pais,
+          count: Number(d.numero_de_ofertas || 0),
+          country: (d.pais || "").toLowerCase()
+        }))
+        .sort((a,b)=>b.count-a.count);
+    }
+
+    function rowsForGlobal() {
+      return DATA_GLOBAL
+        .map(r => ({
+          pais: r.pais,
+          count: Number(r.count || 0),
+          country: r.country
+        }))
+        .sort((a,b)=>b.count-a.count);
+    }
+
+    function renderRanking(rows) {
+      const tbody = document.querySelector("#rankTable tbody");
+      const top = rows.slice(0, 15);
+      tbody.innerHTML = top.map((r,i)=>`
+        <tr>
+          <td><span class="badge">${i+1}</span></td>
+          <td>${r.pais}</td>
+          <td style="text-align:right">${fmt(r.count)}</td>
+        </tr>
+      `).join("");
+    }
+
+    function updateStats(rows, titleSuffix) {
+      const total = rows.reduce((acc,r)=>acc+(r.count||0),0);
+      totalsEl.textContent = `Total ofertas: ${fmt(total)} · Países: ${rows.length} · ${titleSuffix}`;
+    }
+
+    function updatePlot() {
+      capVal.textContent = capRange.value;
+      const useCareer = modeCareer.checked && hasCareer;
+
+      currentRows = useCareer ? rowsForCareer(careerSel.value) : rowsForGlobal();
+
+      // Percentil cap
+      const counts = currentRows.map(r => r.count);
+      const capQ = Number(capRange.value)/100;
+      const cap = quantile(counts, capQ);
+      const capped = currentRows.map(r => Math.min(r.count, cap));
+
+      // Escala
+      const scale = scaleSel.value;
+      const z = (scale === "log") ? capped.map(v => Math.log10(v + 1)) : capped;
+
+      // Ticks
+      const rawTicks = [1,5,10,50,100,500,1e3,5e3,1e4,5e4,1e5,2e5].filter(t => t <= cap);
+      const tickvals = (scale === "log") ? rawTicks.map(t => Math.log10(t+1)) : rawTicks;
+      const ticktext = rawTicks.map(fmt);
+
+      const locations = currentRows.map(r => NAME_FIXES[r.pais] || r.pais);
+
+      const trace = {
+        type: "choropleth",
+        locationmode: "country names",
+        locations,
+        z,
+        colorscale: paletteSel.value,
+        marker: { line: { color: "rgba(255,255,255,0.7)", width: 0.5 } },
+        colorbar: { title: "Ofertas", tickmode: "array", tickvals, ticktext },
+        hovertemplate: "<b>%{customdata[0]}</b><br>Ofertas: %{customdata[1]}<extra></extra>",
+        customdata: currentRows.map(r => [r.pais, fmt(r.count)])
+      };
+
+      const suffix = useCareer ? `Carrera: ${careerSel.value}` : "Global";
+      const layout = {
+        title: { text: `Distribución por país — ${suffix}`, x: 0.5 },
+        geo: {
+          scope: "world",
+          projection: { type: "natural earth" },
+          showframe: false,
+          showcoastlines: true,
+          coastlinecolor: "rgba(0,0,0,0.25)",
+          bgcolor: "rgba(0,0,0,0)"
+        },
+        paper_bgcolor: "rgba(0,0,0,0)",
+        plot_bgcolor: "rgba(0,0,0,0)",
+        margin: { l: 10, r: 10, t: 50, b: 10 }
+      };
+
+      Plotly.react("mapa", [trace], layout, {responsive:true, displaylogo:false});
+      renderRanking(currentRows);
+      updateStats(currentRows, suffix);
+    }
+
+    // Eventos
+    [scaleSel, paletteSel, capRange].forEach(el => el.addEventListener("input", updatePlot));
+    careerSel.addEventListener("change", updatePlot);
+    modeCareer.addEventListener("change", () => { setModeUI(); updatePlot(); });
+    modeGlobal.addEventListener("change", () => { setModeUI(); updatePlot(); });
+
+    // Boot
+    async function boot() {
+      // Carga carrera
+      try {
+        const r1 = await fetch(CSV_CARRERA, { cache: "no-store" });
+        if (!r1.ok) throw new Error("No carrera CSV");
+        const t1 = await r1.text();
+        const rows1 = parseCSV(t1);
+        DATA_CARRERA = rows1.map(o => ({
+          carrera: (o.carrera ?? o.Carrera ?? "").toString(),
+          pais: (o.pais ?? o.Pais ?? o.pais ?? "").toString(),
+          numero_de_ofertas: Number(o.numero_de_ofertas ?? o.count ?? 0)
+        }));
+        if (DATA_CARRERA.length) {
+          hasCareer = true;
+          buildCareerOptions(DATA_CARRERA);
+        }
+      } catch (e) {
+        hasCareer = false;
+      }
+
+      // Carga global
+      try {
+        const r2 = await fetch(CSV_GLOBAL, { cache: "no-store" });
+        if (!r2.ok) throw new Error("No global CSV");
+        const t2 = await r2.text();
+        const rows2 = parseCSV(t2);
+        DATA_GLOBAL = rows2.map(o => ({
+          pais: (o.pais ?? o.Pais ?? "").toString(),
+          count: Number(o.count ?? o.numero_de_ofertas ?? 0),
+          country: (o.country ?? "").toString()
+        }));
+        hasGlobal = DATA_GLOBAL.length > 0;
+      } catch (e) {
+        hasGlobal = false;
+      }
+
+      // Ajustes de modo disponibles
+      if (!hasCareer && hasGlobal) {
+        // solo global
+        modeGlobal.checked = true;
+        modeCareer.disabled = true;
+      } else if (hasCareer && !hasGlobal) {
+        // solo carrera
+        modeCareer.checked = true;
+        modeGlobal.disabled = true;
+      } else if (!hasCareer && !hasGlobal) {
+        totalsEl.textContent = "No se pudo cargar ningún CSV. Verifica las rutas.";
+        return;
+      }
+
+      setModeUI();
+      updatePlot();
+    }
+
+    boot();
+  </script>
+</body>
+</html>

@@ -48,7 +48,7 @@ def _save_quota(fuente: str, data: dict) -> None:
 
 def generar_job_id(titulo, empresa, ubicacion, fecha):
     cadena = f"{titulo}_{empresa}_{ubicacion}_{fecha}"
-    return hashlib.md5(cadena.encode('utf-8')).hexdigest()
+    return hashlib.sha256(cadena.encode('utf-8')).hexdigest()
 
 def _safe_request_get(url, headers, params, timeout=30, max_retries=3):
     """
@@ -129,13 +129,7 @@ def buscar_linkedin_rapidapi(query, api_key, limit=100, offset=0, include_ai=Fal
     return jobs
 
 def normalizar(oferta, fuente, fecha, carrera_tag):
-    uid = generar_job_id(
-        oferta.get('title', ''),
-        oferta.get('organization', ''),
-        location_str,
-        oferta.get("date_posted", "")
-    )
-
+    # Primero construir location_str
     locations_raw = oferta.get("locations_derived") or []
     locations = []
     for loc in locations_raw:
@@ -152,8 +146,16 @@ def normalizar(oferta, fuente, fecha, carrera_tag):
             locations.append("")
     location_str = "; ".join(locations)
 
+    # Luego generar uid usando location_str
+    uid = generar_job_id(
+        oferta.get('title', ''),
+        oferta.get('organization', ''),
+        location_str,
+        oferta.get("date_posted", "")
+    )
+
     return {
-        "job_id": hashlib.md5(uid.encode()).hexdigest(),
+        "job_id": hashlib.sha256(uid.encode()).hexdigest(),
         "source": fuente,
         "job_title": oferta.get("title", ""),
         "company": oferta.get("organization", ""),

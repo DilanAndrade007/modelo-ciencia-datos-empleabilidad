@@ -253,7 +253,7 @@ def bucket_from_country(country: str) -> str:
     if c in LATAM_SET:
         return "América Latina"
     if c in SPANISH_OUTSIDE_LATAM_SET:
-        return "Habla hispana"
+        return "Habla hispana (fuera de LATAM)"
     return "Otros países"
 
 # ---------------- Función de procesamiento completo ----------------
@@ -313,7 +313,7 @@ def get_region_stats(df: pd.DataFrame) -> pd.DataFrame:
     Returns:
         pd.DataFrame: Estadísticas por región
     """
-    order = ["América Latina", "Habla hispana", "Remoto", "Otros países"]
+    order = ["América Latina", "Habla hispana (fuera de LATAM)", "Remoto", "Otros países"]
     counts = df["region_bucket"].value_counts().reindex(order, fill_value=0)
     total = int(counts.sum()) if int(counts.sum()) > 0 else 1
     perc = (counts / total * 100).round(2)

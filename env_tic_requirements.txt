@@ -1,3 +1,9 @@
+# ============================================
+# Requirements para modelo-ciencia-datos-empleabilidad
+# Sistema de Extracción y Análisis de Ofertas Laborales
+# Generado desde: env_dtic (pip freeze)
+# ============================================
+
 altgraph==0.17.4
 anyio==4.11.0
 argon2-cffi==25.1.0
